@@ -31,8 +31,24 @@ create table if not exists public.profile (
 
 create index if not exists profile_email_idx on public.profile (email);
 
-alter table public.profile
-add constraint profile_image_fk foreign key (profile_image_asset_id) references public.media_assets (id) on delete set null;
+-- Add profile image foreign key only if it does not already exist
+
+DO $$
+BEGIN
+    IF NOT EXISTS (
+        SELECT 1
+        FROM pg_constraint
+        WHERE conrelid = 'public.profile'::regclass
+          AND conname = 'profile_image_fk'
+    ) THEN
+        ALTER TABLE public.profile
+        ADD CONSTRAINT profile_image_fk
+        FOREIGN KEY (profile_image_asset_id)
+        REFERENCES public.media_assets (id)
+        ON DELETE SET NULL;
+    END IF;
+END
+$$;
 
 create table if not exists public.social_links (
     id uuid primary key default gen_random_uuid (),
