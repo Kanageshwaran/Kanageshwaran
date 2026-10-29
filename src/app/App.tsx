@@ -19,6 +19,8 @@ import { Cisp310 } from "./courses/cisp310/Cisp310";
 import { Cisp360 } from "./courses/cisp360/Cisp360";
 import { Cisp401 } from "./courses/cisp401/Cisp401";
 
+import { Cisp430 } from "./courses/cisp430/Cisp430";
+
 function AppShell() {
   const location = useLocation();
 
@@ -46,6 +48,8 @@ function AppShell() {
           <Route path="/course/cisp360/assignment/:assignmentSlug" element={<Cisp360 />} />
           <Route path="/course/cisp401" element={<Cisp401 />} />
           <Route path="/course/cisp401/assignment/:assignmentSlug" element={<Cisp401 />} />
+          <Route path="/course/cisp430" element={<Cisp430 />} />
+          <Route path="/course/cisp430/assignment/:assignmentSlug" element={<Cisp430 />} />
           <Route path="/course/:courseId" element={<CoursePage />} />
           <Route path="/activities" element={<ActivitiesPage />} />
           <Route path="/activities/:activityId" element={<ActivityPage />} />
