@@ -1,0 +1,99 @@
+nop
+
+X_i: 0
+X_p: X_i 1 +
+X_size: X_p 1 +
+
+  jmpi  main
+printer:
+  byte 0
+c:
+  byte 7
+  byte 0
+b:
+  byte 1
+  byte c
+a:
+  byte 5
+  byte b
+
+traverse:
+
+  traverse_lvs: 0
+  traverse_p: traverse_lvs 1 +
+
+  ldi b, traverse_lvs
+  sub d,b
+  jmpi while_loop
+
+while_loop:
+
+    ldi a,traverse_p
+    add a,d
+    ld a,(a)
+    ldi b,X_p
+    add a,b
+    st (a),d
+    jmpi cond
+    jzi traverse_whileloop_else
+
+    ldi b,X_i
+    add b,d
+    ldi c,printer
+    add c,d
+    st (c),b
+
+    ldi a,X_p
+    add a,d
+    ld a,(a)
+    ld a,(a)
+    ldi b,traverse_p
+    add b,d
+    ld b,(b)
+    ldi c,X_p
+    add b,c
+    st (b),a
+
+    jmpi while_loop
+    
+traverse_whileloop_else:
+    ldi b, traverse_lvs
+    add d,b
+    ld b,(d)
+    inc d
+    jmp b
+
+cond:
+  cond_localvarsize: 0
+  cond_p: cond_localvarsize 1 +
+  ldi  b,cond_localvarsize
+  sub  d,b
+
+  ldi  a,cond_p
+  add  a,d
+  ld   a,(a)
+
+  ldi  b,cond_localvarsize
+  add  d,b
+  ld   b,(d)
+  inc  d
+  jmp  b
+
+main:
+  sub  d,d
+  main_localvarsize: 0
+  ldi  a,main_localvarsize
+  sub  d,a
+
+  ldi  a,a
+  dec  d
+  st   (d),a
+  ldi  a,. 6 +
+  dec  d
+  st   (d),a
+  jmpi traverse
+  inc  d
+
+  ldi  a,main_localvarsize
+  add  d,a
+  halt
