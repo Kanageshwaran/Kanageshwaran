@@ -1,0 +1,669 @@
+[
+  {
+    "name": "a-star trace.xlsx",
+    "summary": "A* worksheet with O/c/n/t and g/f/prev columns for a,b,c,x. Records c improved from g=5 to g=4 after b and x improved from 10 to 8 to 7. Values are hand-entered; no formulas.",
+    "cells": [
+      {
+        "cell": "A1",
+        "value": "O",
+        "formula": null
+      },
+      {
+        "cell": "B1",
+        "value": "c",
+        "formula": null
+      },
+      {
+        "cell": "C1",
+        "value": "n",
+        "formula": null
+      },
+      {
+        "cell": "D1",
+        "value": "t",
+        "formula": null
+      },
+      {
+        "cell": "E1",
+        "value": "g",
+        "formula": null
+      },
+      {
+        "cell": "I1",
+        "value": "f",
+        "formula": null
+      },
+      {
+        "cell": "M1",
+        "value": "prev",
+        "formula": null
+      },
+      {
+        "cell": "A2",
+        "value": "{a}",
+        "formula": null
+      },
+      {
+        "cell": "E2",
+        "value": "a",
+        "formula": null
+      },
+      {
+        "cell": "F2",
+        "value": "b",
+        "formula": null
+      },
+      {
+        "cell": "G2",
+        "value": "c",
+        "formula": null
+      },
+      {
+        "cell": "H2",
+        "value": "x",
+        "formula": null
+      },
+      {
+        "cell": "I2",
+        "value": "a",
+        "formula": null
+      },
+      {
+        "cell": "J2",
+        "value": "b",
+        "formula": null
+      },
+      {
+        "cell": "K2",
+        "value": "c",
+        "formula": null
+      },
+      {
+        "cell": "L2",
+        "value": "x",
+        "formula": null
+      },
+      {
+        "cell": "M2",
+        "value": "a",
+        "formula": null
+      },
+      {
+        "cell": "N2",
+        "value": "b",
+        "formula": null
+      },
+      {
+        "cell": "O2",
+        "value": "c",
+        "formula": null
+      },
+      {
+        "cell": "P2",
+        "value": "x",
+        "formula": null
+      },
+      {
+        "cell": "E3",
+        "value": "0.0",
+        "formula": null
+      },
+      {
+        "cell": "F3",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "G3",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "H3",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "I3",
+        "value": "10.0",
+        "formula": null
+      },
+      {
+        "cell": "J3",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "K3",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "L3",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "M3",
+        "value": "und",
+        "formula": null
+      },
+      {
+        "cell": "N3",
+        "value": "und",
+        "formula": null
+      },
+      {
+        "cell": "O3",
+        "value": "und",
+        "formula": null
+      },
+      {
+        "cell": "P3",
+        "value": "und",
+        "formula": null
+      },
+      {
+        "cell": "A4",
+        "value": "{}",
+        "formula": null
+      },
+      {
+        "cell": "B4",
+        "value": "a",
+        "formula": null
+      },
+      {
+        "cell": "A5",
+        "value": "{x}",
+        "formula": null
+      },
+      {
+        "cell": "C5",
+        "value": "x",
+        "formula": null
+      },
+      {
+        "cell": "D5",
+        "value": "10.0",
+        "formula": null
+      },
+      {
+        "cell": "H5",
+        "value": "10.0",
+        "formula": null
+      },
+      {
+        "cell": "L5",
+        "value": "10.0",
+        "formula": null
+      },
+      {
+        "cell": "P5",
+        "value": "a",
+        "formula": null
+      },
+      {
+        "cell": "A6",
+        "value": "{x,b}",
+        "formula": null
+      },
+      {
+        "cell": "C6",
+        "value": "b",
+        "formula": null
+      },
+      {
+        "cell": "D6",
+        "value": "3.0",
+        "formula": null
+      },
+      {
+        "cell": "F6",
+        "value": "3.0",
+        "formula": null
+      },
+      {
+        "cell": "J6",
+        "value": "7.0",
+        "formula": null
+      },
+      {
+        "cell": "N6",
+        "value": "a",
+        "formula": null
+      },
+      {
+        "cell": "A7",
+        "value": "{x,b,c}",
+        "formula": null
+      },
+      {
+        "cell": "C7",
+        "value": "c",
+        "formula": null
+      },
+      {
+        "cell": "D7",
+        "value": "5.0",
+        "formula": null
+      },
+      {
+        "cell": "G7",
+        "value": "5.0",
+        "formula": null
+      },
+      {
+        "cell": "K7",
+        "value": "5.0",
+        "formula": null
+      },
+      {
+        "cell": "O7",
+        "value": "a",
+        "formula": null
+      },
+      {
+        "cell": "A8",
+        "value": "{x,b}",
+        "formula": null
+      },
+      {
+        "cell": "B8",
+        "value": "c",
+        "formula": null
+      },
+      {
+        "cell": "C9",
+        "value": "x",
+        "formula": null
+      },
+      {
+        "cell": "D9",
+        "value": "8.0",
+        "formula": null
+      },
+      {
+        "cell": "H9",
+        "value": "8.0",
+        "formula": null
+      },
+      {
+        "cell": "L9",
+        "value": "8.0",
+        "formula": null
+      },
+      {
+        "cell": "P9",
+        "value": "c",
+        "formula": null
+      },
+      {
+        "cell": "A10",
+        "value": "{x}",
+        "formula": null
+      },
+      {
+        "cell": "B10",
+        "value": "b",
+        "formula": null
+      },
+      {
+        "cell": "A11",
+        "value": "{x,c}",
+        "formula": null
+      },
+      {
+        "cell": "C11",
+        "value": "c",
+        "formula": null
+      },
+      {
+        "cell": "D11",
+        "value": "4.0",
+        "formula": null
+      },
+      {
+        "cell": "G11",
+        "value": "4.0",
+        "formula": null
+      },
+      {
+        "cell": "K11",
+        "value": "4.0",
+        "formula": null
+      },
+      {
+        "cell": "O11",
+        "value": "b",
+        "formula": null
+      },
+      {
+        "cell": "A12",
+        "value": "{x}",
+        "formula": null
+      },
+      {
+        "cell": "B12",
+        "value": "c",
+        "formula": null
+      },
+      {
+        "cell": "C13",
+        "value": "x",
+        "formula": null
+      },
+      {
+        "cell": "D13",
+        "value": "7.0",
+        "formula": null
+      },
+      {
+        "cell": "H13",
+        "value": "7.0",
+        "formula": null
+      },
+      {
+        "cell": "L13",
+        "value": "7.0",
+        "formula": null
+      },
+      {
+        "cell": "P13",
+        "value": "c",
+        "formula": null
+      },
+      {
+        "cell": "A14",
+        "value": "{x}",
+        "formula": null
+      }
+    ]
+  },
+  {
+    "name": "Copy of 20230503 A-star.xlsx",
+    "summary": "Partial A* worksheet with rearranged prev/g/f columns. A3 contains custom last(...) formula with cached {}. Several predecessor cells contain numbers; not a validated completed trace.",
+    "cells": [
+      {
+        "cell": "A1",
+        "value": "O",
+        "formula": null
+      },
+      {
+        "cell": "B1",
+        "value": "c",
+        "formula": null
+      },
+      {
+        "cell": "C1",
+        "value": "n",
+        "formula": null
+      },
+      {
+        "cell": "D1",
+        "value": "t",
+        "formula": null
+      },
+      {
+        "cell": "E1",
+        "value": "prev",
+        "formula": null
+      },
+      {
+        "cell": "K1",
+        "value": "g",
+        "formula": null
+      },
+      {
+        "cell": "Q1",
+        "value": "f",
+        "formula": null
+      },
+      {
+        "cell": "E2",
+        "value": "a",
+        "formula": null
+      },
+      {
+        "cell": "F2",
+        "value": "b",
+        "formula": null
+      },
+      {
+        "cell": "G2",
+        "value": "c",
+        "formula": null
+      },
+      {
+        "cell": "H2",
+        "value": "x",
+        "formula": null
+      },
+      {
+        "cell": "K2",
+        "value": "a",
+        "formula": null
+      },
+      {
+        "cell": "L2",
+        "value": "b",
+        "formula": null
+      },
+      {
+        "cell": "M2",
+        "value": "c",
+        "formula": null
+      },
+      {
+        "cell": "N2",
+        "value": "x",
+        "formula": null
+      },
+      {
+        "cell": "Q2",
+        "value": "a",
+        "formula": null
+      },
+      {
+        "cell": "R2",
+        "value": "b",
+        "formula": null
+      },
+      {
+        "cell": "S2",
+        "value": "c",
+        "formula": null
+      },
+      {
+        "cell": "T2",
+        "value": "x",
+        "formula": null
+      },
+      {
+        "cell": "A3",
+        "value": "{}",
+        "formula": "last(A4:V1000,0,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21)"
+      },
+      {
+        "cell": "E3",
+        "value": "und",
+        "formula": null
+      },
+      {
+        "cell": "F3",
+        "value": "3.0",
+        "formula": null
+      },
+      {
+        "cell": "G3",
+        "value": "5.0",
+        "formula": null
+      },
+      {
+        "cell": "H3",
+        "value": "10.0",
+        "formula": null
+      },
+      {
+        "cell": "K3",
+        "value": "0.0",
+        "formula": null
+      },
+      {
+        "cell": "L3",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "M3",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "N3",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "Q3",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "R3",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "S3",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "T3",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "A4",
+        "value": "{a}",
+        "formula": null
+      },
+      {
+        "cell": "E4",
+        "value": "und",
+        "formula": null
+      },
+      {
+        "cell": "F4",
+        "value": "und",
+        "formula": null
+      },
+      {
+        "cell": "G4",
+        "value": "und",
+        "formula": null
+      },
+      {
+        "cell": "H4",
+        "value": "und",
+        "formula": null
+      },
+      {
+        "cell": "K4",
+        "value": "0.0",
+        "formula": null
+      },
+      {
+        "cell": "L4",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "M4",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "N4",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "Q4",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "R4",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "S4",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "T4",
+        "value": "inf",
+        "formula": null
+      },
+      {
+        "cell": "A6",
+        "value": "{}",
+        "formula": null
+      },
+      {
+        "cell": "B6",
+        "value": "a",
+        "formula": null
+      },
+      {
+        "cell": "C7",
+        "value": "x",
+        "formula": null
+      },
+      {
+        "cell": "D7",
+        "value": "10.0",
+        "formula": null
+      },
+      {
+        "cell": "H7",
+        "value": "10.0",
+        "formula": null
+      },
+      {
+        "cell": "C8",
+        "value": "b",
+        "formula": null
+      },
+      {
+        "cell": "D8",
+        "value": "3.0",
+        "formula": null
+      },
+      {
+        "cell": "F8",
+        "value": "3.0",
+        "formula": null
+      },
+      {
+        "cell": "C9",
+        "value": "c",
+        "formula": null
+      },
+      {
+        "cell": "D9",
+        "value": "5.0",
+        "formula": null
+      },
+      {
+        "cell": "G9",
+        "value": "5.0",
+        "formula": null
+      }
+    ]
+  }
+]
