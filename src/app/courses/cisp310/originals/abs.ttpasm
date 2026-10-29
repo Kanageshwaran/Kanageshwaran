@@ -1,0 +1,10 @@
+nop
+k1: -3
+ldi a, k1
+and a,a
+jsi L1
+halt
+L1:
+not a
+inc a
+halt

@@ -1,0 +1,254 @@
+// The C code is supplied as follows:
+// --begin C code
+// #include <stdint.h>
+// 
+// struct Node 
+// {
+//   struct Node * pNext;
+//   uint8_t value;
+// };
+// 
+// struct Node n3 = { 0, 4 };
+// struct Node n2 = { 0, 2 };
+// struct Node n1 = { 0, 5 };
+// 
+// struct Node **f(struct Node **ppn, struct Node *pn)
+// {
+//   struct Node **result;
+//   if ((!*ppn) || ((*ppn)->value > pn->value))
+//   {
+//     pn->pNext = *ppn;
+//     *ppn = pn;
+//     result = ppn;
+//   }
+//   else
+//   {
+//     result = f(&((*ppn)->pNext), pn);
+//   }
+//   return result;
+// }
+// 
+// int main()
+// {
+//   struct Node *pFirst;
+//   pFirst = 0;
+//   f(&pFirst, &n1);
+//   f(&pFirst, &n2);
+//   f(&pFirst, &n3);
+//   return 0;
+// }
+// 
+// --end C code
+//
+// the following is an erroneous implementation of the C code
+
+  nop
+  ldi a,. 8 +
+  ldi d,0
+  dec d
+  st  (d),a
+  jmpi main
+  halt
+
+// #include <stdint.h>
+// 
+// struct Node 
+// {
+//   struct Node * pNext;
+Node_pNext: 0
+//   uint8_t value;
+Node_value: Node_pNext 1 +
+Node_size: Node_value 1 +
+// };
+// 
+// struct Node n3 = { 0, 4 };
+n3:
+  byte 0
+  byte 4
+// struct Node n2 = { 0, 2 };
+n2:
+  byte 0
+  byte 2
+// struct Node n1 = { 0, 5 };
+n1:
+  byte 0
+  byte 5
+// 
+f:
+// struct Node **f(struct Node **ppn, struct Node *pn)
+// {
+//   struct Node **result;
+  f_result: 0
+  f_lvs: f_result 1 +
+  f_ppn: f_lvs 1 +
+  f_pn: f_ppn 1 +
+  ldi a,f_lvs
+  sub d,a
+//   if ((!*ppn) || ((*ppn)->value > pn->value))
+  ldi a,f_ppn
+  add a,d
+  ld a,(a)
+  // a == ppn
+  // add the following line:
+  ld  a,(a)
+  and a,a
+  // change this to the following line jzi f_else
+  jzi f_then
+  ldi b,Node_value
+  add a,b
+  ld  a,(a) // a == (*ppn)->value
+  ldi b,f_pn
+  add b,d
+  ld b,(b)
+  ldi c,Node_value
+  add b,c
+  ld b,(b) // b == pn->value
+  cmp b,a // b-a == pn->value - (*ppn)->value
+  // fix this: jli f_then
+  jci f_then
+  jmpi f_else
+f_then:
+//   {
+//     pn->pNext = *ppn;
+       ldi a,f_ppn
+       add a,d
+       ld a,(a)
+       // add the following:
+       ld a,(a)
+       ldi b,f_pn
+       add b,d
+       ld b,(b)
+       ldi c,Node_pNext
+       add b,c
+       st (b),a
+//     *ppn = pn;
+       ldi a,f_pn
+       add a,d
+       ld a,(a)
+       ldi b,f_ppn
+       add b,d
+       // add the following line
+       ld  b,(b)
+       st (b),a
+//     result = ppn;
+       ldi a,f_ppn
+       add a,d
+       ld a,(a)
+       ldi b,f_result
+       add b,d
+       st  (b),a
+       // insert the following
+       jmpi f_endif
+//   }
+//   else
+f_else:
+//   {
+//     result = f(&((*ppn)->pNext), pn);
+       ldi a,f_pn
+       add a,d
+       ld a,(a)
+       dec d
+       st  (d),a
+       ldi a,f_ppn 1 +
+       add a,d
+       ld a,(a)
+       // add the following line
+       ld a,(a)
+       ldi b,Node_pNext
+       add a,b
+       // delete the following
+       // ld   a,(a)
+       dec d
+       st (d),a
+       ldi a,. 6 +
+       dec d
+       st (d),a
+       jmpi f
+       inc d
+       inc d
+       ldi b,f_result
+       add b,d
+       st (b),a
+//   }
+f_endif:
+//   return result;
+     ldi b,f_result
+     add b,d
+     ld a,(b)
+// }
+  ldi b,f_lvs
+  add d,b
+  ld b,(d)
+  inc d
+  jmp b
+// 
+main:
+// int main()
+// {
+//   struct Node *pFirst;
+  main_pFirst: 0
+  main_lvs: main_pFirst 1 +
+  ldi a,main_lvs
+  sub d,a
+//   pFirst = 0;
+  ldi a,main_pFirst
+  add a,d
+  ldi b,0
+  st (a),b
+//   f(&pFirst, &n1);
+  ldi a,n1
+//  ld   a,(a)
+  dec d
+  st  (d),a
+  ldi a,main_pfirst 1 + // a == &pFirst - D
+  // add the following line:
+  add a,d
+  // delete this: ld   a,(a)
+  dec d
+  st  (d),a
+  ldi a,. 6 +
+  dec d
+  st  (d),a
+  jmpi f
+  inc d
+  inc d
+//   f(&pFirst, &n2);
+  cpr c,d
+  ldi a,n2
+  dec d
+  st  (d),a
+  ldi a,main_pfirst
+  add a,c
+  dec d
+  st  (d),a
+  ldi a,. 6 +
+  dec d
+  st  (d),a
+  jmpi f
+  inc d
+  inc d
+//   f(&pFirst, &n3);
+  ldi c,main_pFirst
+  add c,d
+  ldi a,n3
+  dec d
+  st  (d),a
+  dec d
+  st  (d),c
+  ldi a,. 6 +
+  dec d
+  st  (d),a
+  jmpi f
+  inc d
+  inc d
+//   return 0;
+  ldi a,0
+
+// add all the following lines of code
+  ldi b,main_lvs
+  add d,b
+
+  ld  b,(d)
+  inc d
+  jmp b
+// }

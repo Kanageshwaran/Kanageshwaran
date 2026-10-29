@@ -13,6 +13,7 @@ import { ActivitiesPage } from "./pages/ActivitiesPage";
 import { ActivityPage } from "./pages/ActivityPage";
 import { ContactPage } from "./pages/ContactPage";
 
+import { Cisp310 } from "./courses/cisp310/Cisp310";
 import { Cisp300 } from "./courses/cisp300/Cisp300";
 
 function AppShell() {
@@ -34,6 +35,8 @@ function AppShell() {
           <Route path="/about" element={<AboutPage />} />
           <Route path="/academic-work" element={<AcademicWorkPage />} />
           <Route path="/subject/:subjectId" element={<SubjectPage />} />
+          <Route path="/course/cisp310" element={<Cisp310 />} />
+          <Route path="/course/cisp310/assignment/:assignmentSlug" element={<Cisp310 />} />
           <Route path="/course/cisp300" element={<Cisp300 />} />
           <Route path="/course/cisp300/assignment/:assignmentSlug" element={<Cisp300 />} />
           <Route path="/course/:courseId" element={<CoursePage />} />
