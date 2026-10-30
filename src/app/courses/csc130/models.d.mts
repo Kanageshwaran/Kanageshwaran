@@ -1,0 +1,12 @@
+export const expressionSample:string;export const arraySample:string;
+export function parseNumbers(text:string,max?:number):number[];
+export type ListFrame={nodes:{id:number;value:string;prev:number|null;next:number|null}[];message:string;focus:number|null;allocated:number;freed:number};
+export function listTrace(text:string):{frames:ListFrame[];output:string};
+export type ExprFrame={phase:string;token:string;message:string;ops:string[];queue:string[];values:number[];vars:Record<string,number>};
+export function expressionTrace(text:string):{frames:ExprFrame[];postfix:string;result:number};
+export type SortFrame={array:number[];message:string;active:number[];vars:Record<string,any>;comparisons:number;writes:number};
+export function sortTrace(a:number[],algorithm:string):{algorithm:string;frames:SortFrame[];result:number[];comparisons:number;writes:number};
+export type TreeNode={id:number;value:number;left:TreeNode|null;right:TreeNode|null};
+export function traversals(root:TreeNode|null):{pre:number[];inorder:number[];post:number[]};
+export function treeHeapTrace(values:number[],removeValue:number|null,removeRoot?:boolean):{bst:({root:TreeNode|null;message:string;focus:number|null}&ReturnType<typeof traversals>)[];heap:{heap:number[];message:string;active:number[]}[];root:TreeNode|null;result:number[]};
+export function complexity(n:number):{trueBranch:number;falseBranch:number;searchBest:number;searchWorst:number;outer:number;doubling:number;nested:number;quadratic:number;bound:number};
