@@ -1,0 +1,8 @@
+BEGIN;
+DO $$ BEGIN
+ IF NOT EXISTS (SELECT 1 FROM public.courses WHERE id='csc60' AND subject_id='computer_science') THEN RAISE EXCEPTION 'CSC 60 course missing or wrong subject'; END IF;
+ IF NOT EXISTS (SELECT 1 FROM public.assignments WHERE id='7c04a42c-f9aa-421c-9b7d-b96bd7664d1a' AND course_id='csc60') THEN RAISE EXCEPTION 'CSC 60 featured assignment ID missing'; END IF;
+END $$;
+UPDATE public.courses SET description='California State University, Sacramento, Spring 2024. UNIX systems programming: remote access, Linux commands and vi, inodes/permissions, Git, C functions, libraries, pointers, arrays, strings, structures and dynamic allocation. Featured final source combines POSIX threads with child processes, name input, ps execution and returned exit status. New browser simulations present 17 numbered assignments and the final project beside original code; they are not an archived custom shell implementation.' WHERE id='csc60';
+UPDATE public.assignments SET title='POSIX Threads and Child Process Workflow', description='Final C source fassign.c creates and joins a first thread whose child combines name input, then creates a second thread whose child attempts to exec ps and returns the child status to main. The submitted university screenshot records the combined name, a ps listing and child status 0. A bounded local retest produced the combined name and ps status 1, exposing portability limitations. The browser trace explains the intended process/thread lifecycle and observed limitations; its terminal is a new bounded teaching simulation.', assignment_type='C / POSIX threads and processes', demo_url='/course/csc60/assignment/processes' WHERE id='7c04a42c-f9aa-421c-9b7d-b96bd7664d1a' AND course_id='csc60';
+COMMIT;
