@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "analysis",
+    "number": "01",
+    "title": "Algorithm complexity",
+    "description": "Count work, then distinguish growth from input cases.",
+    "file": null,
+    "evidence": "HW1 prompt and analysis reference slides. This is a new explanatory model; a completed HW1 answer is not supplied."
+  },
+  {
+    "slug": "linked-list",
+    "number": "02",
+    "title": "Sorted doubly linked list",
+    "description": "Replay command input and watch both pointer directions.",
+    "file": "assignment2/assignment2.cpp",
+    "evidence": "Doubly linked list using struct/free functions, lowercase normalization, sorted insertion, first-match deletion and cleanup. Compiled/run; stdout and output.txt match the supplied fixture. Struct/free-function organization differs from the class design requested in the brief."
+  },
+  {
+    "slug": "expressions",
+    "number": "03",
+    "title": "Infix to postfix",
+    "description": "Inspect the operator stack, output queue and evaluation stack.",
+    "file": "assignment3/intopost.cpp",
+    "evidence": "Hardcoded infix converter/evaluator. Native output postfix3421-*+52-/86-42+*2/+ and answer8.33333. Stack/Queue classes wrap STL containers; conversion declares Queue but appends directly to a string. Supports single-digit evaluation, lacks malformed-input/zero-divisor guards."
+  },
+  {
+    "slug": "sorting",
+    "number": "04",
+    "title": "Sorting studio",
+    "description": "Compare merge, quick and LSD radix through recorded events.",
+    "file": "assignment 4/sorting.cpp",
+    "evidence": "Sorting draft fails compilation: scalar used as array, undefined radix/n/arr and incorrect signatures. Merge/partition code also has bound/index defects. The browser sorting implementations are new corrected teaching models."
+  },
+  {
+    "slug": "trees-heaps",
+    "number": "05",
+    "title": "Binary search tree and max-heap",
+    "description": "Build the same input two ways, then inspect deletion.",
+    "file": "assignment 5/BT_and_Heap.cpp",
+    "evidence": "Native-tested recursive binary search tree insertion/deletion/traversals and array max-heap insertion. Fixed seven-value sample; asks for a tree deletion. Heap has private heapify but no public remove-root method, and the tree has no cleanup destructor."
+  }
+]

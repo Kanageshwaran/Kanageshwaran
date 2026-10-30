@@ -1,0 +1,8 @@
+BEGIN;
+DO $$ BEGIN
+ IF NOT EXISTS (SELECT 1 FROM public.courses WHERE id='csc130' AND subject_id='computer_science') THEN RAISE EXCEPTION 'CSC 130 course missing or wrong subject'; END IF;
+ IF NOT EXISTS (SELECT 1 FROM public.assignments WHERE id='10cea3f6-8318-41be-b1a5-37377b551f40' AND course_id='csc130') THEN RAISE EXCEPTION 'CSC 130 featured assignment missing'; END IF;
+END $$;
+UPDATE public.courses SET description='California State University, Sacramento, Spring 2024. Data structures and algorithm analysis coursework: complexity, sorted doubly linked lists, infix/postfix conversion and evaluation, sorting, binary search trees and array max-heaps. Supplied C++ list/expression/tree programs were compiled and tested on bounded fixtures. The sorting and helper drafts have compilation errors. New browser teaching models visualize the algorithms beside original code; no completed pathfinding system is claimed.' WHERE id='csc130';
+UPDATE public.assignments SET title='Binary Search Tree and Max-Heap Implementation', description='Implemented recursive binary search tree insertion/deletion and inorder, preorder and postorder traversals, alongside array max-heap insertion. Both archived tree variants were compiled and tested on the seven-value sample with several deletion targets. The original heap lacks a public root-removal method; optional heap removal and corrected sorting are clearly labeled new browser teaching models.', assignment_type='C++ / Trees and heaps', demo_url='/course/csc130/assignment/trees-heaps' WHERE id='10cea3f6-8318-41be-b1a5-37377b551f40' AND course_id='csc130';
+COMMIT;
