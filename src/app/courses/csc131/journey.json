@@ -1,0 +1,56 @@
+[
+  {
+    "id": "initialize",
+    "label": "01 / Initialization",
+    "title": "A real coordination problem",
+    "body": "Our team proposed Hornet Helpers for Sacramento State Career Center volunteer management. The goal was to make opportunities easier to find and give coordinators a central place for scheduling and communication.",
+    "detail": "The proposal and SRS defined registration, events, volunteer participation, feedback and filtering. Early sprint work focused on requirements, task boards and interface design.",
+    "evidence": "sprint 01/Hornet Volunteer Management System-1.pdf; sprint 1/SRS Template Fall 2023 .docx.pdf",
+    "lesson": "Define a small, testable workflow before building every proposed feature."
+  },
+  {
+    "id": "build",
+    "label": "02 / Working",
+    "title": "Models became screens and requests",
+    "body": "I explored Java classes for people, events, addresses and time, then worked on connecting a web interface to a backend. The archive contains JavaScript translations, MySQL experiments and several website versions.",
+    "detail": "Design discussions and old/new Figma screenshots show interface revision. The first sprint retrospective records smaller SRS tasks and progress updates through a task board, alongside difficulty establishing a regular meeting schedule.",
+    "evidence": "project codesx/Main.java; after math/initation of code.png; after math/figma old.png; after math/figma new.png; sprint 1/Sprint Retrospective-1.docx.pdf",
+    "lesson": "A useful domain model helps, but the browser and server still need an agreed contract."
+  },
+  {
+    "id": "failure",
+    "label": "03 / Failure",
+    "title": "The pieces did not connect reliably",
+    "body": "The first approach did not work as intended. Database handling was difficult, and our understanding came late. The team also recorded problems using project tools and coordinating work.",
+    "detail": "Archived code shows concrete integration faults: one login client posts to the server root with userId/password while the auth handler expects /auth with stuid/pwd. Event category names differ across the request, controller and schema. These are observed code issues, not a claim that they were the only historical causes.",
+    "evidence": "Sprint_Retrospective 3.pdf; The-Dream-Team-1/scripts/login.js; The-Dream-Team-1/controllers/authController.js; The-Dream-Team-1/controllers/eventsController.js; The-Dream-Team-1/models/Event.js",
+    "lesson": "Check one complete request from form to database early. A page that renders is only one part of a working feature."
+  },
+  {
+    "id": "learn",
+    "label": "04 / Learning",
+    "title": "Understanding the connections",
+    "body": "Later snapshots use Node.js, Express and MongoDB/Mongoose. Registration code sends fields that match the backend handler, and the server organizes registration, authentication and event routes.",
+    "detail": "The earlier plan and parts of the final slides still mention MySQL, while the stack slide names MongoDB and later code uses Mongoose. This supports a change in implementation direction, but it does not establish an exact migration date or prove every route was fixed.",
+    "evidence": "project codesx/The-Dream-Team/scripts/sign_up_event.js; project codesx/The-Dream-Team/server.js; sprint 3/Hornet Helpers Final PPT.pptx",
+    "lesson": "Document a stack change and keep route names, payloads, schemas and setup instructions aligned."
+  },
+  {
+    "id": "finish",
+    "label": "05 / Finished",
+    "title": "A final coursework prototype",
+    "body": "We brought the work together for the final Hornet Helpers presentation and course submission. It demonstrates the intended volunteer and coordinator experience and records what the team built, changed and still needed to improve.",
+    "detail": "This was a team project. My contribution note identifies planning and retrospective documentation, registration/login backend work, the main page and the volunteer dashboard. The final presentation lists no Sac State API, data security, scaling and future deployment as limitations. The archive does not establish a production launch or complete acceptance testing.",
+    "evidence": "feedbacks.docx (self-reported contributions); sprint 3/Hornet Helpers Final PPT.pptx; Sprint_Retrospective 3.pdf",
+    "lesson": "Finish with an honest scope statement: what is implemented, what was demonstrated and what remains unverified."
+  },
+  {
+    "id": "lessons",
+    "label": "06 / Lessons learned",
+    "title": "Integration and teamwork are part of the product",
+    "body": "The project taught me to connect requirements to implementation, test integration earlier and communicate ownership clearly. Waiting until the end to understand the database left too little time to bring the whole system together.",
+    "detail": "The retrospectives call for earlier task assignment, better work division and stronger communication. In a future project, I would first complete registration \u2192 event list \u2192 join/leave as a small end-to-end slice, then add the remaining features.",
+    "evidence": "sprint 01/Sprint_Retrospective.pdf; sprint 1/Sprint Retrospective-1.docx.pdf; Sprint_Retrospective 3.pdf",
+    "lesson": "Agree on interfaces, assign owners and review a working slice every sprint."
+  }
+]
