@@ -1,0 +1,92 @@
+[
+  {
+    "number": "01",
+    "slug": "opengl",
+    "title": "OpenGL foundations",
+    "folder": "Assignment1/CSC133KD",
+    "description": "Window, shaders and an indexed square.",
+    "goal": "Trace four vertices and six indices, then inspect how two triangles form a square.",
+    "topics": "LWJGL / GLFW / JOML",
+    "note": "Original sets a blue clear color and uses legacy shader inputs; graphics execution has not been verified here. Fragment color components exceed 1 and renderColorLocation is never looked up. The browser visual is a new teaching reconstruction."
+  },
+  {
+    "number": "02",
+    "slug": "board",
+    "title": "Board input and validation",
+    "folder": "CSC133KDAssignment_2",
+    "description": "A 3 \u00d7 3 board with guarded input.",
+    "goal": "Place P markers, reject occupied cells and fill the board. This stage does not yet implement a two-player game.",
+    "topics": "Arrays / bounds / console input",
+    "note": "Original recognizes q, parses row/column strings, rejects invalid and occupied cells, and prints a board. The mock uses clickable cells instead of Scanner input."
+  },
+  {
+    "number": "03",
+    "slug": "io-tests",
+    "title": "Separating input and board logic",
+    "folder": "CSC133KDAssignment_3",
+    "description": "Reusable I/O and scripted board tests.",
+    "goal": "Replay the original testPlay sequence, including a repeated occupied cell, then reset.",
+    "topics": "Encapsulation / separation / test drivers",
+    "note": "The current folder, old folder and nested ZIP contain variants. getBoard() clones only the outer array. The mock uses independent state copies and labels that safety difference."
+  },
+  {
+    "number": "04",
+    "slug": "machine",
+    "title": "A machine opponent",
+    "folder": "CSC133KDAssignment_4",
+    "description": "Threat detection, wins and random fallback.",
+    "goal": "Play against the source-inspired block-first machine and inspect its decision after every move.",
+    "topics": "Rule-based strategy / game state",
+    "note": "The archived machine blocks P before checking its own X win, then chooses randomly. The browser follows that priority with a repeatable seeded fallback and stops safely at terminal states; it is not minimax or Java Random replay."
+  },
+  {
+    "number": "05",
+    "slug": "window",
+    "title": "Singleton window manager",
+    "folder": "CSC133Assignment_5",
+    "description": "One shared window across repeated get calls.",
+    "goal": "Call get() and get(width,height,x,y), compare object identity and change a modeled window.",
+    "topics": "Singleton / callbacks / context",
+    "note": "The original A5 setter changes stored dimensions but does not call glfwSetWindowSize, so reported and actual window size may differ. The mock displays both rather than silently claiming native resizing."
+  },
+  {
+    "number": "06",
+    "slug": "tiles",
+    "title": "Reusable tile renderer",
+    "folder": "CSC133KDAssignment_6",
+    "description": "A grid becomes vertex and index buffers.",
+    "goal": "Adjust rows, columns, size, padding and offset; inspect one tile and its triangles.",
+    "topics": "Renderer / geometry / buffers",
+    "note": "Original derives row/column counts from the window rather than using the render arguments. It allocates GPU buffers every frame despite a comment saying only once. The mock is a corrected bounded geometry explorer with top-left SVG coordinates, not OpenGL."
+  },
+  {
+    "number": "07",
+    "slug": "ping-pong",
+    "title": "Ping-pong arrays",
+    "folder": "CSC133Assignment7",
+    "description": "Read live, write next, then swap.",
+    "goal": "Write a cell, shuffle, calculate toroidal neighbor sums and explicitly promote the next buffer.",
+    "topics": "Double buffering / Fisher\u2013Yates / files",
+    "note": "Source loadFile reads file dimensions but uses constructor dimensions; randomizeInRange fills next then calls a shuffle that copies live over it. The mock parser honors file dimensions and its labeled range operation is corrected."
+  },
+  {
+    "number": "08",
+    "slug": "live-tests",
+    "title": "Binary arrays and unit-level tests",
+    "folder": "CSC133Assignment_8",
+    "description": "Exact populations, degree-two neighbors and fixtures.",
+    "goal": "Explore a binary board, compare both neighborhood definitions and run new deterministic checks.",
+    "topics": "Inheritance / fixtures / regression checks",
+    "note": "Archived test driver has four ult methods; ult_a constructs 5\u00d75 arrays for 7\u00d77 files. Degree-two offsets are distance-two axial plus diagonal cells. New tests below are portfolio tests, not claimed archived Java test results."
+  },
+  {
+    "number": "09",
+    "slug": "game-of-life",
+    "title": "Conway\u2019s Game of Life",
+    "folder": "CSC133KDAssignment_9",
+    "description": "The final project combines data and rendering.",
+    "goal": "Run a toroidal simulation, edit cells, load the archived 16\u00d716 pattern, and inspect live/next generations.",
+    "topics": "Inheritance / geometry manager / cellular automata",
+    "note": "Final source separates GoLArray, WindowManager, Renderer and GeometryManager. Java driver defaults to 100\u00d7100 with 20% live cells; the browser opens a smaller editable blinker and offers 100\u00d7100 mode. The 12-method archived test driver includes graphics boot and partly randomized setups, so it is not proof of a deterministic passing suite."
+  }
+]

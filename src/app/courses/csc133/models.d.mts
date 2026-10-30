@@ -1,0 +1,16 @@
+export type Grid=number[][];
+export function copy(g:Grid):Grid;
+export function grid(rows:number,cols:number,value?:number):Grid;
+export function neighbors(g:Grid,r:number,c:number,degree?:number):number[][];
+export function sums(g:Grid):Grid;
+export function life(g:Grid):Grid;
+export function seeded(seed:number):()=>number;
+export function shuffle(g:Grid,seed?:number):Grid;
+export function binary(rows:number,cols:number,count:number,seed?:number):Grid;
+export function parseFile(text:string,binaryOnly?:boolean):Grid;
+export function saveFile(g:Grid):string;
+export function winner(b:string[]):string;
+export function machine(b:string[],seed?:number):{board:string[];reason:string};
+export function move(b:string[],index:number,assignment?:number,seed?:number):{board:string[];reason:string};
+export function geometry(rows:number,cols:number,size:number,padding:number,offset:number):{vertices:number[][];indices:number[];width:number;height:number};
+export function runChecks():{name:string;pass:boolean}[];
