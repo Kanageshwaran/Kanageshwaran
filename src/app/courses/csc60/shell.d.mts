@@ -1,0 +1,12 @@
+export type Node={id:number;type:string;text:string;mode:number;mtime:number;ctime:number};
+export type Shell={cwd:string;local:string;session:string;env:Record<string,string>;entries:Record<string,number>;nodes:Record<number,Node>;next:number;tick:number;git:any;artifacts:Record<string,string>;editor?:string};
+export const home:string;
+export function createShell(seed?:Record<string,string>):Shell;
+export function normalize(path:string,cwd?:string):string;
+export function fileRows(s:Shell,dir?:string):Array<Node&{path:string;name:string;permissions:string;links:number}>;
+export function runShell(s:Shell,line:string):{state:Shell;output:string;code:number;clear?:boolean};
+export function saveEditor(s:Shell,path:string,text:string):Shell;
+export function tokenize(text:string,env?:Record<string,string>):any[];
+export function vending(price:string|number):{price:number;change:number;quarters:number;dimes:number;nickels:number};
+export function loan(amount:string|number,annual:string|number,months:string|number):{payment:number;total:number;interest:number};
+export function minima(values:Array<string|number>):{even:number;odd:number};

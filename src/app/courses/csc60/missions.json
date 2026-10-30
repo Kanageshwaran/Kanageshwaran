@@ -1,0 +1,321 @@
+[
+  {
+    "id": 1,
+    "title": "Remote connections",
+    "goal": "Connect with SSH and move files using SFTP.",
+    "kind": "connections",
+    "refs": [
+      "assignment 1/0_Connect Assignment.docx",
+      "assignment 1/local1.txt",
+      "assignment 1/remote1.txt"
+    ],
+    "commands": [
+      "ssh student@study.demo",
+      "sftp student@study.demo",
+      "ls",
+      "lls",
+      "put local1.txt",
+      "get remote1.txt",
+      "bye"
+    ],
+    "note": "The report contains five embedded connection/transfer screenshots. Screenshots may identify accounts and are kept out of the public package."
+  },
+  {
+    "id": 2,
+    "title": "Linux commands and vi",
+    "goal": "Compose commands, redirect output, filter a stream, and edit a text file.",
+    "kind": "shell",
+    "refs": [
+      "assignment 2/1_LinuxHomework.docx",
+      "assignment 2/2_VI homework.docx"
+    ],
+    "commands": [
+      "pwd",
+      "cat /etc/shells",
+      "echo date > today && chmod +x today && ./today",
+      "ls -a | grep bash",
+      "echo \"hello Linux\" > notes.txt",
+      "vi notes.txt"
+    ],
+    "note": "The documents combine command tasks, screenshot answers and typed vi answers. The mock editor is a small teaching interface, not a complete vi implementation."
+  },
+  {
+    "id": 3,
+    "title": "Inodes and permissions",
+    "goal": "Watch two names share an inode while a symbolic link stores a path.",
+    "kind": "inodes",
+    "refs": [
+      "assignment 3/homework for INodes and Permissions.docx"
+    ],
+    "commands": [
+      "echo \"shared data\" > file.txt",
+      "ln file.txt fileHard.txt",
+      "ln -s file.txt fileSoft.txt",
+      "ls -li",
+      "chmod 640 fileHard.txt",
+      "stat file.txt",
+      "rm file.txt",
+      "cat fileHard.txt",
+      "cat fileSoft.txt"
+    ],
+    "note": "The submitted document contains ten embedded images. The model uses invented inode IDs and logical timestamps to explain link counts and access checks."
+  },
+  {
+    "id": 4,
+    "title": "Git basics",
+    "goal": "Follow a file through working tree, index, and commit.",
+    "kind": "git",
+    "refs": [
+      "assignment 4/HW_1_basics.docx"
+    ],
+    "commands": [
+      "git init",
+      "echo first > file1.txt",
+      "git status",
+      "git add file1.txt",
+      "git diff --cached",
+      "git commit -m \"First snapshot\"",
+      "git log --oneline"
+    ],
+    "note": "Screenshot-based Git exercises are reconstructed in memory. No real repository is changed."
+  },
+  {
+    "id": 5,
+    "title": "Branches and merging",
+    "goal": "Create a feature branch and inspect a simulated merge.",
+    "kind": "git",
+    "refs": [
+      "assignment 5/HW_2_branches.docx"
+    ],
+    "commands": [
+      "git init",
+      "echo base > file1.txt",
+      "git add file1.txt",
+      "git commit -m \"Base\"",
+      "git switch -c feature/login",
+      "echo login >> file1.txt",
+      "git add file1.txt",
+      "git commit -m \"Login\"",
+      "git switch main",
+      "git merge feature/login",
+      "git log --oneline"
+    ],
+    "note": "The brief also asks for conflicting blue/green edits and accepting both changes. The mock supports conflict markers and explicit re-staging; its merge model is bounded to small text snapshots."
+  },
+  {
+    "id": 6,
+    "title": "Remote Git workflow",
+    "goal": "Inspect local commits and a simulated remote snapshot.",
+    "kind": "git",
+    "refs": [
+      "assignment 6/GitHub.docx",
+      "Notes_GIT.docx"
+    ],
+    "commands": [
+      "git init",
+      "echo coursework > README.md",
+      "git add README.md",
+      "git commit -m \"Coursework\"",
+      "git remote add origin mock://course",
+      "git remote -v",
+      "git push origin main",
+      "git fetch origin"
+    ],
+    "note": "The original task includes account setup and SSH keys. This showcase uses fictional remote state; it never requests credentials or creates keys."
+  },
+  {
+    "id": 7,
+    "title": "C decisions and parity",
+    "goal": "Find the smallest even and odd values in four inputs.",
+    "kind": "minima",
+    "refs": [
+      "assignment 7/help.c",
+      "assignment 7/1)IfSmallerBigger.doc"
+    ],
+    "commands": [
+      "cat coursework/a07/help.c",
+      "demo minima 5 2 4 7"
+    ],
+    "note": "The source uses nested decisions. The brief incorrectly calls zero neither odd nor even; mathematically zero is even, while this exercise explicitly excludes it. New validation follows the brief\u2019s two-even/two-odd, nonzero input assumptions."
+  },
+  {
+    "id": 8,
+    "title": "Functions and menu programs",
+    "goal": "Break a vending and loan menu into separate functions.",
+    "kind": "vending",
+    "refs": [
+      "assignment 8/VendingLoan_1.c",
+      "assignment 8/assign8.docx"
+    ],
+    "commands": [
+      "cat coursework/a08/VendingLoan_1.c",
+      "demo vending 45",
+      "demo loan 10000 12 36"
+    ],
+    "note": "Original change logic uses fractional quarters, accepts prices outside five-cent increments, and selection does not return a value on every path. The browser model implements the intended exercise with added validation."
+  },
+  {
+    "id": 9,
+    "title": "Shared and static libraries",
+    "goal": "Compile two units, build a library, and inspect the linking route.",
+    "kind": "build",
+    "refs": [
+      "assignment 9/Sshomework.c",
+      "assignment 9/area.c",
+      "assignment 9/SharedStatic Homework.docx"
+    ],
+    "commands": [
+      "cd coursework/a09",
+      "gcc -fPIC -c area.c -o area.o",
+      "ar rcs libarea.a area.o",
+      "gcc -shared area.o -o libarea.so",
+      "gcc Sshomework.c ./libarea.a -lm -o tri_static",
+      "./tri_static 3 4"
+    ],
+    "note": "Original source was actually built into both static and shared executables during review. Both produce hypotenuse 5 and area 6 for sides 3/4. Browser build steps and executable output are simulations of that tested fixture."
+  },
+  {
+    "id": 10,
+    "title": "Pointers and indirection",
+    "goal": "Follow c \u2192 b \u2192 a and change a through a double pointer.",
+    "kind": "pointers",
+    "refs": [
+      "assignment 10/helper.c",
+      "assignment 10/Pointer.docx"
+    ],
+    "commands": [
+      "cat coursework/a10/helper.c",
+      "demo pointers"
+    ],
+    "note": "The original helper does not compile and mixes incompatible types, invalid text and unsafe pointer movement. The model demonstrates valid indirection and symbolic locations; it does not reproduce invalid pointer expressions."
+  },
+  {
+    "id": 11,
+    "title": "Passing pointer levels",
+    "goal": "Pass a value, its address, and increasingly indirect references.",
+    "kind": "pointers",
+    "refs": [
+      "assignment 11/assign11.c",
+      "assignment 11/PointerPass-1.docx"
+    ],
+    "commands": [
+      "cat coursework/a11/assign11.c",
+      "demo pointers"
+    ],
+    "note": "The compiler accepts this source with incompatible-pointer diagnostics around void *** d and the final function call. Compilation is not proof of portable correctness."
+  },
+  {
+    "id": 12,
+    "title": "Void pointers and casts",
+    "goal": "Recover a typed object through a void pointer.",
+    "kind": "pointers",
+    "refs": [
+      "assignment 12/assign12.c",
+      "assignment 12/4c)GroupVoid.doc"
+    ],
+    "commands": [
+      "cat coursework/a12/assign12.c",
+      "demo pointers"
+    ],
+    "note": "The original uses void *** where the brief asks for void *, then performs incompatible assignments and pointer/integer formatting. The browser shows a valid conceptual void-pointer access only."
+  },
+  {
+    "id": 13,
+    "title": "Arrays and pointer arithmetic",
+    "goal": "Distinguish an array element from its address.",
+    "kind": "pointers",
+    "refs": [
+      "assignment 13/assign_13.c",
+      "assignment 13/SingleArray.docx"
+    ],
+    "commands": [
+      "cat coursework/a13/assign_13.c",
+      "demo pointers"
+    ],
+    "note": "The original has pointer/integer conversion and return-type warnings. The model illustrates valid array[i] and *(array+i), with no fabricated real addresses."
+  },
+  {
+    "id": 14,
+    "title": "Arrays and makefiles",
+    "goal": "Store up to five menu operations and separate compilation units.",
+    "kind": "ledger",
+    "refs": [
+      "assignment 14/main.c",
+      "assignment 14/main.h",
+      "assignment 14/selection.c",
+      "assignment 14/display.c",
+      "assignment 14/makefile.txt",
+      "assignment 14/ArraysMakefile.docx"
+    ],
+    "commands": [
+      "cat coursework/a14/makefile.txt",
+      "make",
+      "demo vending 45",
+      "demo loan 10000 12 36"
+    ],
+    "note": "The split program increments the count before indexing, can write row 5, stores a running vending total, and display.c is a placeholder. The updated variant also passes incompatible pointers. The new ledger follows the intended five-row brief, not verified original runtime behavior."
+  },
+  {
+    "id": 15,
+    "title": "Swapping strings and pointers",
+    "goal": "Swap references, then swap the contents of original buffers.",
+    "kind": "swaps",
+    "refs": [
+      "assignment 15/assign 15.c",
+      "assignment 15/arrayPointers.doc"
+    ],
+    "commands": [
+      "demo swaps",
+      "cat \"coursework/a15/assign 15.c\""
+    ],
+    "note": "Original source compiles without diagnostics in this check; unbounded scanf/strcpy require short inputs. The browser bounds strings to nine ASCII letters and labels buffer IDs."
+  },
+  {
+    "id": 16,
+    "title": "Tokenizing strings",
+    "goal": "Inspect separator characters and the tokens they define.",
+    "kind": "strings",
+    "refs": [
+      "assignment 16/assign16.c",
+      "assignment 16/StringStrtok.doc"
+    ],
+    "commands": [
+      "demo strings CS60;MATH;ART",
+      "cat coursework/a16/assign16.c"
+    ],
+    "note": "The original calls gets, uses fflush(stdin), risks overflowing rows, and reuses a buffer already modified by strtok before strstr. The new tokenizer is a bounded explanation and does not certify the original three methods as equivalent."
+  },
+  {
+    "id": 17,
+    "title": "Structures and heap allocation",
+    "goal": "Connect nested records to dynamically allocated character storage.",
+    "kind": "heap",
+    "refs": [
+      "assignment 17/assign17.c",
+      "assignment 17/Structure.doc",
+      "class activity/struct2.c"
+    ],
+    "commands": [
+      "demo structs",
+      "cat coursework/a17/assign17.c"
+    ],
+    "note": "assign17.c allocates only one byte for a school name and scans an unbounded string. The related heap exercise shows a pointer table and cleanup but needs input/buffer checks. The model uses fictional student labels, never real identity numbers."
+  },
+  {
+    "id": 18,
+    "title": "Final project: threads and processes",
+    "goal": "Follow pthread_create, fork, exec, wait and join in the submitted program.",
+    "kind": "processes",
+    "refs": [
+      "final assignment/fassign.c",
+      "final assignment/Assignment.docx",
+      "final assignment/submit.docx"
+    ],
+    "commands": [
+      "gcc coursework/final/fassign.c -pthread -o final",
+      "./final DK",
+      "ps"
+    ],
+    "note": "The original joins t1 before creating t2. The submitted university screenshot shows the combined name, a ps listing and child status 0. A controlled local retest returned ps status 1. execlp lacks a proper argv[0], waitpid receives NULL instead of integer 0, and error/status checks are incomplete. The visual trace distinguishes intended success from this observed nonzero result."
+  }
+]
