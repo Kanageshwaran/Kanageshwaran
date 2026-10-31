@@ -1,0 +1,327 @@
+[
+  {
+    "path": ".vscode/c_cpp_properties.json",
+    "bytes": 339,
+    "summary": "Local editor/toolchain configuration; inventoried but not installed into the portfolio."
+  },
+  {
+    "path": ".vscode/launch.json",
+    "bytes": 643,
+    "summary": "Local editor/toolchain configuration; inventoried but not installed into the portfolio."
+  },
+  {
+    "path": ".vscode/settings.json",
+    "bytes": 1453,
+    "summary": "Local editor/toolchain configuration; inventoried but not installed into the portfolio."
+  },
+  {
+    "path": "CN __ Final Study Guide FA24.1_ CSC138 Computer Network Fundamentals - SECTION 04.pdf",
+    "bytes": 114408,
+    "summary": "Instructor quiz/final review guide or supplied solutions; reference material, not a submitted assignment."
+  },
+  {
+    "path": "CN __ MQ2-OA Solutions (with a lot of detail)_ CSC138 Computer Network Fundamentals - SECTION 04.pdf",
+    "bytes": 90786,
+    "summary": "Instructor quiz/final review guide or supplied solutions; reference material, not a submitted assignment."
+  },
+  {
+    "path": "CN __ Module Quiz 1 Study Guide FA24.1_ CSC138 Computer Network Fundamentals - SECTION 04.pdf",
+    "bytes": 125990,
+    "summary": "Instructor quiz/final review guide or supplied solutions; reference material, not a submitted assignment."
+  },
+  {
+    "path": "CN __ Module Quiz 2 Study Guide FA24.1_ CSC138 Computer Network Fundamentals - SECTION 04.pdf",
+    "bytes": 76667,
+    "summary": "Instructor quiz/final review guide or supplied solutions; reference material, not a submitted assignment."
+  },
+  {
+    "path": "CN __ Module Quiz 3 Study Guide FA24.1_ CSC138 Computer Network Fundamentals - SECTION 04.pdf",
+    "bytes": 126863,
+    "summary": "Instructor quiz/final review guide or supplied solutions; reference material, not a submitted assignment."
+  },
+  {
+    "path": "Chapter_1_v8.2.pptx",
+    "bytes": 14911875,
+    "summary": "Lecture-reference deck, separate from original projects: 88 slides, introductory headings Introduction: 1- 1, Chapter 1: introduction Chapter goal:"
+  },
+  {
+    "path": "Chapter_2_v8.2.pptx",
+    "bytes": 10777955,
+    "summary": "Lecture-reference deck, separate from original projects: 125 slides, introductory headings Chapter 2 Application Layer, Application layer: overview Principles of network applications"
+  },
+  {
+    "path": "Chapter_3_v8.2.pptx",
+    "bytes": 7170792,
+    "summary": "Lecture-reference deck, separate from original projects: 154 slides, introductory headings Computer Networking: A Top-Down Approach  8, Transport layer: overview Our goal:"
+  },
+  {
+    "path": "Chapter_4_v8.2.pptx",
+    "bytes": 5105957,
+    "summary": "Lecture-reference deck, separate from original projects: 103 slides, introductory headings Computer Networking: A Top-Down Approach  8, Network layer: our goals understand principles behind network layer services, focusing on data plane:"
+  },
+  {
+    "path": "Chapter_5_v8.2.pptx",
+    "bytes": 7297239,
+    "summary": "Lecture-reference deck, separate from original projects: 121 slides, introductory headings Computer Networking: A Top-Down Approach  8, Network layer control plane: our goals understand principles behind network control plane:"
+  },
+  {
+    "path": "Chapter_6_v8.2.pptx",
+    "bytes": 8147987,
+    "summary": "Lecture-reference deck, separate from original projects: 109 slides, introductory headings Computer Networking: A Top-Down Approach  8, Link layer and LANs: our goals understand principles behind link layer services:"
+  },
+  {
+    "path": "Chapter_7_v8.2.pptx",
+    "bytes": 7729155,
+    "summary": "Lecture-reference deck, separate from original projects: 92 slides, introductory headings Computer Networking: A Top-Down Approach  8, Wireless and Mobile Networks: context Wireless and Mobile Networks: 7-"
+  },
+  {
+    "path": "Chapter_8_v8.1.pptx",
+    "bytes": 2767076,
+    "summary": "Lecture-reference deck, separate from original projects: 113 slides, introductory headings Computer Networking: A Top-Down Approach  8, Security: overview Security: 8- "
+  },
+  {
+    "path": "Internet Networking Study Guide.html",
+    "bytes": 124990,
+    "summary": "Study/review material. Authorship and all answers not independently certified; not labeled as original project work."
+  },
+  {
+    "path": "K_R_sockets_in_Java.pdf",
+    "bytes": 324971,
+    "summary": "Java sockets instructional reference; separate from the chat source."
+  },
+  {
+    "path": "LAB2.pcapng",
+    "bytes": 13176532,
+    "summary": "Packet capture: all enhanced packet blocks parsed into anonymized header metadata for the showcase. Original payloads, addresses, interface metadata and absolute timestamps excluded from web package."
+  },
+  {
+    "path": "Module0-StudentSlides-distrib.docx",
+    "bytes": 1765635,
+    "summary": "Course-introduction/reference slides in .docx format; not a separate submitted project."
+  },
+  {
+    "path": "Module0-StudentSlides-distrib.pdf",
+    "bytes": 6056186,
+    "summary": "Course-introduction/reference slides in .pdf format; not a separate submitted project."
+  },
+  {
+    "path": "New folder/MyXargs.java",
+    "bytes": 4514,
+    "summary": "xargs project source; public class MyXargs. Original source text. Variant ordering does not establish submission chronology."
+  },
+  {
+    "path": "New folder/X.java",
+    "bytes": 4465,
+    "summary": "xargs project source; public class MyXargs. Original UTF-8 source text; no credential material embedded. Public-class filename differs from archive filename."
+  },
+  {
+    "path": "New folder/help.java",
+    "bytes": 5400,
+    "summary": "xargs project source; public class MyXargs. Original UTF-8 source text; no credential material embedded. Public-class filename differs from archive filename."
+  },
+  {
+    "path": "New folder/helper.java",
+    "bytes": 5378,
+    "summary": "xargs project source; public class MyXargs. Original UTF-8 source text; no credential material embedded. Public-class filename differs from archive filename."
+  },
+  {
+    "path": "PROJECT __ Java based TCP Chat with Threading.pdf",
+    "bytes": 256901,
+    "summary": "Assignment specification for threaded TCP multi-client chat."
+  },
+  {
+    "path": "PROJECT __ The xargs Utility in Java_ Canvas Development Course 003.pdf",
+    "bytes": 332522,
+    "summary": "Assignment specification for Java xargs command construction and subprocesses."
+  },
+  {
+    "path": "PROJECT __ Threaded HTTP Server in Java.pdf",
+    "bytes": 316466,
+    "summary": "Assignment specification for threaded HTTP/HTTPS and static file serving."
+  },
+  {
+    "path": "StudentSlides-NetworkAddressingAll-distrib.pdf",
+    "bytes": 7246077,
+    "summary": "Network-addressing instructional reference; supports the new subnetting explainer."
+  },
+  {
+    "path": "Syllabus for CSC138 Computer Network Fundamentals - SECTION 04.pdf",
+    "bytes": 162772,
+    "summary": "Fall 2024 Sacramento State CSC 138 syllabus; course context and programming requirements."
+  },
+  {
+    "path": "TCP work/TCP Client Code Overview and Steps.docx",
+    "bytes": 20837,
+    "summary": "Short course notes or reading links; reference context, not a separately verified assignment."
+  },
+  {
+    "path": "TCP work/tcpccs.java",
+    "bytes": 3625,
+    "summary": "chat project source; public class TCPClient. Original UTF-8 source text; no credential material embedded. Public-class filename differs from archive filename."
+  },
+  {
+    "path": "TCP work/tcpcss.java",
+    "bytes": 4805,
+    "summary": "chat project source; public class TCPServer. Original UTF-8 source text; no credential material embedded. Public-class filename differs from archive filename."
+  },
+  {
+    "path": "Tutorial __ Spawning Java Threads Dynamically in Java_ CSC138 Computer Network Fundamentals - SECTION 04.pdf",
+    "bytes": 166757,
+    "summary": "Instructor tutorial/reference for dynamic Java threads and concurrency."
+  },
+  {
+    "path": "Tutorial __ The xargs Utility_ CSC138 Computer Network Fundamentals - SECTION 04.pdf",
+    "bytes": 392245,
+    "summary": "Instructor tutorial/reference for xargs usage and command execution."
+  },
+  {
+    "path": "Wireshark-4.4.0-x64.exe",
+    "bytes": 87262448,
+    "summary": "Bundled Wireshark installer. Inventoried only; not executed or redistributed."
+  },
+  {
+    "path": "bgnet_USLetter.pdf",
+    "bytes": 413085,
+    "summary": "Beej networking reference book; not original student code."
+  },
+  {
+    "path": "book links.txt",
+    "bytes": 108,
+    "summary": "Short course notes or reading links; reference context, not a separately verified assignment."
+  },
+  {
+    "path": "exam 1 study guide.txt",
+    "bytes": 33372,
+    "summary": "Study/review material. Authorship and all answers not independently certified; not labeled as original project work."
+  },
+  {
+    "path": "exam helper/QA/CH 1and2.txt",
+    "bytes": 8349,
+    "summary": "Study/review material. Authorship and all answers not independently certified; not labeled as original project work."
+  },
+  {
+    "path": "exam helper/QA/CH 3and4.txt",
+    "bytes": 7720,
+    "summary": "Study/review material. Authorship and all answers not independently certified; not labeled as original project work."
+  },
+  {
+    "path": "exam helper/QA/CH 5and6.txt",
+    "bytes": 5722,
+    "summary": "Study/review material. Authorship and all answers not independently certified; not labeled as original project work."
+  },
+  {
+    "path": "exam helper/QA/CH 7and8.txt",
+    "bytes": 5986,
+    "summary": "Study/review material. Authorship and all answers not independently certified; not labeled as original project work."
+  },
+  {
+    "path": "exam helper/QA/CH 9.txt",
+    "bytes": 3738,
+    "summary": "Study/review material. Authorship and all answers not independently certified; not labeled as original project work."
+  },
+  {
+    "path": "exam helper/QA/all questions.txt",
+    "bytes": 11742,
+    "summary": "Study/review material. Authorship and all answers not independently certified; not labeled as original project work."
+  },
+  {
+    "path": "exam helper/ch1.txt",
+    "bytes": 30734,
+    "summary": "Study/review material. Authorship and all answers not independently certified; not labeled as original project work."
+  },
+  {
+    "path": "http_server/http/WebServer.java",
+    "bytes": 8306,
+    "summary": "http project source; public class WebServer. Original source text. Variant ordering does not establish submission chronology."
+  },
+  {
+    "path": "http_server/http/index.html",
+    "bytes": 60,
+    "summary": "Small static-server sample page or script; displayed in context through the source fixture, not executed as arbitrary HTML."
+  },
+  {
+    "path": "http_server/http/keystore.jks",
+    "bytes": 2750,
+    "summary": "Private keystore material. Hashed for inventory only; never loaded as a keystore, used for a connection or redistributed."
+  },
+  {
+    "path": "http_server/http/server.crt",
+    "bytes": 899,
+    "summary": "Certificate material. Inventoried only; excluded from public package."
+  },
+  {
+    "path": "http_server/http/webroot/images/logo.png",
+    "bytes": 0,
+    "summary": "Empty webroot placeholder; zero-byte file has no image/style content."
+  },
+  {
+    "path": "http_server/http/webroot/index.html",
+    "bytes": 88,
+    "summary": "Small static-server sample page or script; displayed in context through the source fixture, not executed as arbitrary HTML."
+  },
+  {
+    "path": "http_server/http/webroot/script.js",
+    "bytes": 29,
+    "summary": "Small static-server sample page or script; displayed in context through the source fixture, not executed as arbitrary HTML."
+  },
+  {
+    "path": "http_server/http/webroot/style.css",
+    "bytes": 0,
+    "summary": "Empty webroot placeholder; zero-byte file has no image/style content."
+  },
+  {
+    "path": "http_server/http_server/helper.txt",
+    "bytes": 4067,
+    "summary": "HTTP/HTTPS helper commands and notes; contents not redistributed because setup material may include credential arguments."
+  },
+  {
+    "path": "http_server/http_server/keystore.jks",
+    "bytes": 2766,
+    "summary": "Private keystore material. Hashed for inventory only; never loaded as a keystore, used for a connection or redistributed."
+  },
+  {
+    "path": "http_server/http_server/server.crt",
+    "bytes": 909,
+    "summary": "Certificate material. Inventoried only; excluded from public package."
+  },
+  {
+    "path": "http_server/http_server/webserver.java",
+    "bytes": 4874,
+    "summary": "http project source; public class webserver. Original source text. Variant ordering does not establish submission chronology."
+  },
+  {
+    "path": "javanotes9-linked.pdf",
+    "bytes": 7089156,
+    "summary": "Java programming reference textbook; not a student submission."
+  },
+  {
+    "path": "lab1.pcapng",
+    "bytes": 58756,
+    "summary": "Packet capture: all enhanced packet blocks parsed into anonymized header metadata for the showcase. Original payloads, addresses, interface metadata and absolute timestamps excluded from web package."
+  },
+  {
+    "path": "learning_gnu_c.pdf",
+    "bytes": 352355,
+    "summary": "GNU C reference book; not a student submission."
+  },
+  {
+    "path": "notesOct2.txt",
+    "bytes": 495,
+    "summary": "Short course notes or reading links; reference context, not a separately verified assignment."
+  },
+  {
+    "path": "notesSep30.txt",
+    "bytes": 1159,
+    "summary": "Short course notes or reading links; reference context, not a separately verified assignment."
+  },
+  {
+    "path": "notesoct9.txt",
+    "bytes": 236,
+    "summary": "Short course notes or reading links; reference context, not a separately verified assignment."
+  },
+  {
+    "path": "test1.c",
+    "bytes": 102,
+    "summary": "Small hello-world experiment with a C++ using-namespace declaration in a .c file; not valid C as written."
+  }
+]
