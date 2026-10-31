@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Chapter_1_v8.2.pptx",
+    "count": 88,
+    "topics": [
+      "Introduction: 1- 1",
+      "Chapter 1: introduction Chapter goal:",
+      "Internet The Internet: a \u201cnuts and bolts\u201d view",
+      "\u201cFun\u201d Internet-connected devices Web-enabled toaster +",
+      "Internet: \u201c network of networks\u201d"
+    ]
+  },
+  {
+    "name": "Chapter_2_v8.2.pptx",
+    "count": 125,
+    "topics": [
+      "Chapter 2 Application Layer",
+      "Application layer: overview Principles of network applications",
+      "Application  l",
+      "Some  n",
+      "mobile network home network"
+    ]
+  },
+  {
+    "name": "Chapter_3_v8.2.pptx",
+    "count": 154,
+    "topics": [
+      "Computer Networking: A Top-Down Approach  8",
+      "Transport layer: overview Our goal:",
+      "Transport layer: roadmap Transport-layer services",
+      "Transport services and protocols provide",
+      "Transport vs. network layer services and protocols household analogy:"
+    ]
+  },
+  {
+    "name": "Chapter_4_v8.2.pptx",
+    "count": 103,
+    "topics": [
+      "Computer Networking: A Top-Down Approach  8",
+      "Network layer: our goals understand principles behind network layer services, focusing on data plane:",
+      "Network layer: \u201cdata plane\u201d roadmap Network layer: overview",
+      "Network-layer  services and protocols transport segment from sending to receiving host ",
+      "Two key network-layer functions network-layer functions:"
+    ]
+  },
+  {
+    "name": "Chapter_5_v8.2.pptx",
+    "count": 121,
+    "topics": [
+      "Computer Networking: A Top-Down Approach  8",
+      "Network layer control plane: our goals understand principles behind network control plane:",
+      "Network layer: \u201ccontrol plane\u201d roadmap network management, configuration ",
+      "Two approaches to structuring network control plane: per-router control (traditional)",
+      "Per-router control plane Individual routing algorithm components "
+    ]
+  },
+  {
+    "name": "Chapter_6_v8.2.pptx",
+    "count": 109,
+    "topics": [
+      "Computer Networking: A Top-Down Approach  8",
+      "Link layer and LANs: our goals understand principles behind link layer services:",
+      "Link layer, LANs: roadmap a day in the life of a web request",
+      "Link layer: introduction terminology:",
+      "Link layer: context datagram transferred by "
+    ]
+  },
+  {
+    "name": "Chapter_7_v8.2.pptx",
+    "count": 92,
+    "topics": [
+      "Computer Networking: A Top-Down Approach  8",
+      "Wireless and Mobile Networks: context Wireless and Mobile Networks: 7-",
+      "Chapter 7 outline Introduction",
+      "Elements of a wireless network Wireless and Mobile Networks: 7- ",
+      "Elements of a wireless network Wireless and Mobile Networks: 7- "
+    ]
+  },
+  {
+    "name": "Chapter_8_v8.1.pptx",
+    "count": 113,
+    "topics": [
+      "Computer Networking: A Top-Down Approach  8",
+      "Security: overview Security: 8- ",
+      "Chapter 8 outline What is network security?",
+      "What is network security? Security: 8- ",
+      "Friends and enemies: Alice, Bob, Trudy Security: 8- "
+    ]
+  }
+]
