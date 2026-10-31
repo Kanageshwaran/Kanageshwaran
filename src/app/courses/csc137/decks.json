@@ -1,0 +1,187 @@
+[
+  {
+    "name": "presentation_final.pptx",
+    "file": "presentation_final.pptx",
+    "kind": "Group presentation / archived version",
+    "slides": [
+      {
+        "number": 1,
+        "title": "Quantum Computers",
+        "text": "The Photo by Photo Author is licensed under CCYYSA.\n\nBy\n\u2003Hamza Hafeez\n\u2003Kanageshwaran DK\n\n\n\nQuantum Computers"
+      },
+      {
+        "number": 2,
+        "title": "Basics :",
+        "text": "\n\nBasics :\u000b\u2003\u20030's and 1's : \u000b\u2003\u2003Entanglement: \u000b\u2003\u2003Interferences:\u000b\u2003\u2003String Theory:\u000b\u2003\u2003Probability:\u000b\u2003\u2003"
+      },
+      {
+        "number": 3,
+        "title": "Quantum amplitude:",
+        "text": "\n\n\n\nQuantum amplitude:\n\nThePhoto by PhotoAuthor is licensed under CCYYSA."
+      },
+      {
+        "number": 4,
+        "title": "Entanglement:",
+        "text": "\n\n\n\nEntanglement:\n\nThePhoto by PhotoAuthor is licensed under CCYYSA."
+      },
+      {
+        "number": 5,
+        "title": "Entanglement Cont.",
+        "text": "\n\n\n\nEntanglement Cont.\n\nThePhoto by PhotoAuthor is licensed under CCYYSA."
+      },
+      {
+        "number": 6,
+        "title": "Interference:",
+        "text": "Interference: \n\nThePhoto by PhotoAuthor is licensed under CCYYSA."
+      },
+      {
+        "number": 7,
+        "title": "String Theory:",
+        "text": "\n\n\n\nString Theory:\n\nThePhoto by PhotoAuthor is licensed under CCYYSA.\n\n\n\nThePhoto by PhotoAuthor is licensed under CCYYSA."
+      },
+      {
+        "number": 8,
+        "title": "Probability:",
+        "text": "\n\n\n\nProbability:\n\nThePhoto by PhotoAuthor is licensed under CCYYSA.\n\n"
+      },
+      {
+        "number": 9,
+        "title": "Arc:",
+        "text": "\n\nArc:\u000b\u2003Circuit\u000b\u2003Gates\u000b\u2003Data transmission\u000b\u2003Data structure \u000b\u2003Network\u000b\u2003"
+      },
+      {
+        "number": 10,
+        "title": "Slide 10",
+        "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\nCircuits:"
+      },
+      {
+        "number": 11,
+        "title": "Data Transmission and Network:",
+        "text": "\n\nData Transmission and Network:\n\n"
+      },
+      {
+        "number": 12,
+        "title": "Data Structure:",
+        "text": "Data Structure:"
+      },
+      {
+        "number": 13,
+        "title": "Data Structure:",
+        "text": "\n\n\n\n\n\n\n\nData Structure:"
+      },
+      {
+        "number": 14,
+        "title": "Network:",
+        "text": "\n\nNetwork:"
+      },
+      {
+        "number": 15,
+        "title": "Used by:",
+        "text": "\n\nUsed by:\n\n\nJPMorgan- Calculating various outcomes and risks that come with investing\nMicrosoft- Trying to make fertilizer better but the computer produces so much greenhouse gas.\nRigetti Computing- Predict better weather patterns\nProteinQure- Molecular simulation of protein behavior. Checks how proteins are engineered for more targeted medicine\nDaimler Truck AG- Working on making car batteries for EV and more sustainable batteries.\nInfleqtion- Make error-corrected Qubits and Quantum Computers. By using laser-cooled atoms that can play the roles of qubits.\n\n\n\n"
+      },
+      {
+        "number": 16,
+        "title": "Used for (cont.):",
+        "text": "\n\nUsed for (cont.):\u000b\u2003\u2003\n\nBatteries- Can help look into how we can make batteries last longer and increase the efficiency by understanding the docking energies.\nManufacturing/Testing- Making test models more accurate to where they require less testing.\nTraffic Optimization- Can use weather and real time traffic patterns/alerts to find better and faster routes to help with the flow of the supply chain, logistics and transportation.\nAI/ML- Can help implement AI/ML into applications at a much larger scale\nMaterial Science- Can be used to stimulate the strength of various materials which helps cut down on costs and time by pretesting the materials durability before using it.\n"
+      },
+      {
+        "number": 17,
+        "title": "Limitations:",
+        "text": "\n\nLimitations:\u000b\u000b\u2003\u2003\n\nSuper expensive to afford so only big companies can afford them\nThey are VERY sensitive to their environments like heat, vibration etc.\nDifficult to calibrate because of the infinite number of qubits\nData can be corrupted due to buildup off errors, imperfected software's/hardware, and the qubits interacting with their environment.\nDon\u2019t have the best software's to handle what we need them to do and requires very specific knowledge of quantum programming and mechanics."
+      },
+      {
+        "number": 18,
+        "title": "Reference",
+        "text": "Reference\n\nhttps://www.sdxcentral.com/security/quantum/definitions/what-is-quantum-computing-its-architecture-advantages-and-disadvantages/\nhttps://new.nsf.gov/news/self-correcting-quantum-computers-within-reach#:~:text=Running%20a%20complicated%20algorithm%20on,errors%20renders%20the%20algorithm%20useless.\nhttps://builtin.com/hardware/quantum-computing-applications\nhttps://www.techtarget.com/searchdatacenter/tip/Explore-future-potential-quantum-computing-uses\n\n\n\n\n\n\n"
+      },
+      {
+        "number": 19,
+        "title": "Reference",
+        "text": "Reference\n\nSauceda, Huziel E., et al. \u201cBIGDML\u2014Towards Accurate Quantum Machine Learning Force Fields for Materials.\u201d Nature Communications, vol. 13, no. 1, 2022, pp. 3733\u20133733, https://doi.org/10.1038/s41467-022-31093-x.\nLloyd, Seth. Programming the Universe\u202f: A Quantum Computer Scientist Takes on the Cosmos. 1st ed., Knopf, 2006.\nSim, Sukin, et al. \u201cExpressibility and Entangling Capability of Parameterized Quantum Circuits for Hybrid Quantum\u2010Classical Algorithms.\u201d Advanced Quantum Technologies (Online), vol. 2, no. 12, 2019, https://doi.org/10.1002/qute.201900070.\n\u201c\u2018Spooky\u2019 Quantum-Entanglement Experiments Win Physics Nobel.\u201d Nature, 2022, https://doi.org/10.1038/d41586-022-03088-7.\nLiu, Hao, et al. \u201cFirst Tree-like Quantum Data Structure: Quantum B+ Tree.\u201d arXiv (Cornell University), 2024, https://doi.org/10.48550/arxiv.2405.20416.\nLuo Y, Cheng X, Mao H-K, Li Q. An Overview of Postprocessing in Quantum Key Distribution.\u00a0Mathematics. 2024; 12(14):2243. https://doi.org/10.3390/math12142243. \nhttps://quantumxc.com/blog/what-are-quantum-networks-and-how-do-they-work/\n\n\n\n\n\n\n"
+      }
+    ],
+    "note": "Text extracted from PPTX; layout and embedded media remain in the original file."
+  },
+  {
+    "name": "presentation_final1.ppt",
+    "file": "presentation_final1.ppt",
+    "kind": "Group presentation / archived version",
+    "slides": [],
+    "note": "Legacy PPT retained as a download; slide layout/content not rendered or certified here."
+  },
+  {
+    "name": "fun_with_ai/Quantum_Computers_Presentation.pptx",
+    "file": "Quantum_Computers_Presentation.pptx",
+    "kind": "AI exploration / template",
+    "slides": [
+      {
+        "number": 1,
+        "title": "Quantum Computers and Their Architecture",
+        "text": "\n\n\n\nQuantum Computers and Their Architecture\n\nRevolutionizing Computing Through Quantum Mechanics\nYour Name & Date"
+      },
+      {
+        "number": 2,
+        "title": "Introduction to Quantum Computing",
+        "text": "\n\nIntroduction to Quantum Computing\n\n\u2022 Definition of quantum computing\n\u2022 Difference between classical and quantum computers"
+      },
+      {
+        "number": 3,
+        "title": "Key Concepts in Quantum Computing",
+        "text": "\n\n\n\n\n\n\n\nKey Concepts in Quantum Computing"
+      },
+      {
+        "number": 4,
+        "title": "Quantum vs Classical Computing",
+        "text": "Quantum vs Classical Computing"
+      },
+      {
+        "number": 5,
+        "title": "Quantum Computing Algorithms",
+        "text": "\n\n\n\nQuantum Computing Algorithms\n\n\u2022 Shor's Algorithm (for factoring)\n\u2022 Grover's Algorithm (for searching)\n\u2022 Quantum Fourier Transform (QFT)"
+      },
+      {
+        "number": 6,
+        "title": "Quantum Gates and Circuits",
+        "text": "\n\nQuantum Gates and Circuits\n\n\u2022 Pauli-X, Y, Z Gates\n\u2022 Hadamard Gate\n\u2022 CNOT Gate\n\u2022 Quantum Circuits Overview"
+      },
+      {
+        "number": 7,
+        "title": "Quantum Computing Architecture",
+        "text": "\n\n\n\nQuantum Computing Architecture\n\n\u2022 Qubits: Physical implementations\n\u2022 Quantum Registers\n\u2022 Quantum Processor"
+      },
+      {
+        "number": 8,
+        "title": "Types of Quantum Computers",
+        "text": "\n\nTypes of Quantum Computers\n\n\u2022 Quantum Annealers (e.g., D-Wave)\n\u2022 Universal Quantum Computers\n\u2022 Topological Quantum Computers"
+      },
+      {
+        "number": 9,
+        "title": "Quantum Hardware Technologies",
+        "text": "\n\n\n\nQuantum Hardware Technologies\n\n\u2022 Superconducting Circuits\n\u2022 Trapped Ions\n\u2022 Photonic Quantum Computers\n\u2022 Challenges in building quantum hardware"
+      },
+      {
+        "number": 10,
+        "title": "Error Correction and Quantum Decoherence",
+        "text": "\n\n\n\n\n\n\n\nError Correction and Quantum Decoherence"
+      },
+      {
+        "number": 11,
+        "title": "Current Status and Future of Quantum Computing",
+        "text": "\n\n\n\nCurrent Status and Future of Quantum Computing\n\n\n\n"
+      },
+      {
+        "number": 12,
+        "title": "Conclusion",
+        "text": "Conclusion"
+      }
+    ],
+    "note": "Text extracted from PPTX; layout and embedded media remain in the original file."
+  },
+  {
+    "name": "CSC137_Computer_Organization___SECTION__4_export/presentation_final1.ppt",
+    "file": "export-presentation_final1.ppt",
+    "kind": "Group presentation / archived version",
+    "slides": [],
+    "note": "Legacy PPT retained as a download; slide layout/content not rendered or certified here."
+  }
+]

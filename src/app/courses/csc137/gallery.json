@@ -1,0 +1,206 @@
+[
+  {
+    "hw": 1,
+    "page": 1,
+    "file": "hw1-1.jpg",
+    "title": "Homework 1 / page 1"
+  },
+  {
+    "hw": 1,
+    "page": 2,
+    "file": "hw1-2.jpg",
+    "title": "Homework 1 / page 2"
+  },
+  {
+    "hw": 1,
+    "page": 3,
+    "file": "hw1-3.jpg",
+    "title": "Homework 1 / page 3"
+  },
+  {
+    "hw": 1,
+    "page": 4,
+    "file": "hw1-4.jpg",
+    "title": "Homework 1 / page 4"
+  },
+  {
+    "hw": 2,
+    "page": 1,
+    "file": "hw2-1.jpg",
+    "title": "Homework 2 / page 1"
+  },
+  {
+    "hw": 2,
+    "page": 2,
+    "file": "hw2-2.jpg",
+    "title": "Homework 2 / page 2"
+  },
+  {
+    "hw": 2,
+    "page": 3,
+    "file": "hw2-3.jpg",
+    "title": "Homework 2 / page 3"
+  },
+  {
+    "hw": 3,
+    "page": 1,
+    "file": "hw3-1.jpg",
+    "title": "Homework 3 / page 1"
+  },
+  {
+    "hw": 3,
+    "page": 2,
+    "file": "hw3-2.jpg",
+    "title": "Homework 3 / page 2"
+  },
+  {
+    "hw": 3,
+    "page": 3,
+    "file": "hw3-3.jpg",
+    "title": "Homework 3 / page 3"
+  },
+  {
+    "hw": 3,
+    "page": 4,
+    "file": "hw3-4.jpg",
+    "title": "Homework 3 / page 4"
+  },
+  {
+    "hw": 4,
+    "page": 1,
+    "file": "hw4-1.jpg",
+    "title": "Homework 4 / page 1"
+  },
+  {
+    "hw": 4,
+    "page": 2,
+    "file": "hw4-2.jpg",
+    "title": "Homework 4 / page 2"
+  },
+  {
+    "hw": 4,
+    "page": 3,
+    "file": "hw4-3.jpg",
+    "title": "Homework 4 / page 3"
+  },
+  {
+    "hw": 4,
+    "page": 4,
+    "file": "hw4-4.jpg",
+    "title": "Homework 4 / page 4"
+  },
+  {
+    "hw": 4,
+    "page": 5,
+    "file": "hw4-5.jpg",
+    "title": "Homework 4 / page 5"
+  },
+  {
+    "hw": 4,
+    "page": 6,
+    "file": "hw4-6.jpg",
+    "title": "Homework 4 / page 6"
+  },
+  {
+    "hw": 4,
+    "page": 7,
+    "file": "hw4-7.jpg",
+    "title": "Homework 4 / page 7"
+  },
+  {
+    "hw": 5,
+    "page": 1,
+    "file": "hw5-1.jpg",
+    "title": "Homework 5 / page 1"
+  },
+  {
+    "hw": 5,
+    "page": 2,
+    "file": "hw5-2.jpg",
+    "title": "Homework 5 / page 2"
+  },
+  {
+    "hw": 6,
+    "page": 1,
+    "file": "hw6-1.jpg",
+    "title": "Homework 6 / page 1"
+  },
+  {
+    "hw": 6,
+    "page": 2,
+    "file": "hw6-2.jpg",
+    "title": "Homework 6 / page 2"
+  },
+  {
+    "hw": 6,
+    "page": 3,
+    "file": "hw6-3.jpg",
+    "title": "Homework 6 / page 3"
+  },
+  {
+    "hw": 6,
+    "page": 4,
+    "file": "hw6-4.jpg",
+    "title": "Homework 6 / page 4"
+  },
+  {
+    "hw": 6,
+    "page": 5,
+    "file": "hw6-5.jpg",
+    "title": "Homework 6 / page 5"
+  },
+  {
+    "hw": 6,
+    "page": 6,
+    "file": "hw6-6.jpg",
+    "title": "Homework 6 / page 6"
+  },
+  {
+    "hw": 6,
+    "page": 7,
+    "file": "hw6-7.jpg",
+    "title": "Homework 6 / page 7"
+  },
+  {
+    "hw": 7,
+    "page": 1,
+    "file": "hw7-1.jpg",
+    "title": "Homework 7 / page 1"
+  },
+  {
+    "hw": 7,
+    "page": 2,
+    "file": "hw7-2.jpg",
+    "title": "Homework 7 / page 2"
+  },
+  {
+    "hw": 7,
+    "page": 3,
+    "file": "hw7-3.jpg",
+    "title": "Homework 7 / page 3"
+  },
+  {
+    "hw": 8,
+    "page": 1,
+    "file": "hw8-1.jpg",
+    "title": "Homework 8 / page 1"
+  },
+  {
+    "hw": 8,
+    "page": 2,
+    "file": "hw8-2.jpg",
+    "title": "Homework 8 / page 2"
+  },
+  {
+    "hw": 8,
+    "page": 3,
+    "file": "hw8-3.jpg",
+    "title": "Homework 8 / page 3"
+  },
+  {
+    "hw": 8,
+    "page": 4,
+    "file": "hw8-4.jpg",
+    "title": "Homework 8 / page 4"
+  }
+]
