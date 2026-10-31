@@ -1,0 +1,37 @@
+[
+  {
+    "file": "support-1.jpg",
+    "name": "Phio-Network-by-Quantum-Xchange-1.jpg",
+    "caption": "Archived Quantum Xchange network illustration; reference material for the presentation."
+  },
+  {
+    "file": "support-2.jpg",
+    "name": "x1.png",
+    "caption": "Archived quantum B+ tree comparison illustration; reference, not an implemented data structure in this course package."
+  },
+  {
+    "file": "support-3.jpg",
+    "name": "php8ANYEU.png",
+    "caption": "Provided simplified CLA counter figure used in the HW5 timing comparison."
+  },
+  {
+    "file": "support-4.jpg",
+    "name": "IMG_6219-1-scaled.webp",
+    "caption": "Archived quantum-computer hardware photograph supporting the presentation."
+  },
+  {
+    "file": "support-5.jpg",
+    "name": "Master-slave-architecture-of-a-hybrid-quantum-computer.png",
+    "caption": "Archived hybrid classical/quantum architecture figure."
+  },
+  {
+    "file": "support-6.jpg",
+    "name": "Screenshot 2024-09-19 161305.png",
+    "caption": "Archived screenshot of a quantum circuit tool interface; no live connection to that tool is used."
+  },
+  {
+    "file": "support-7.jpg",
+    "name": "media_17d_17d3748a-75fa-49c5-863d-45d0b992fc48_phpJsraUZ.png",
+    "caption": "HW8 helper CPU datapath diagram; kept separate from the submitted hand-drawn accumulator datapath."
+  }
+]
