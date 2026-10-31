@@ -1,0 +1,15 @@
+export const machines:any[];
+export function traceDFA(machine:any,word:string):any;
+export function minimize(machine:any):any;
+export const nfa:any;
+export function traceNFA(word:string):any;
+export function subsetNFA():any;
+export const regexTasks:{title:string;formal:string;pattern:string}[];
+export const grammars:Record<string,any>;
+export function grammarText(g:any):string;
+export function recognize(g:any,word:string):{accepted:boolean;chartCounts:number[]};
+export function pda(word:string,kind?:string):any;
+export const tmPrompts:string[][];
+export function tmLanguage(word:string,id:string):boolean;
+export function tapeAAA(word:string,student?:boolean):any;
+export function countChanges(word:string):{ab:number;ba:number;equal:boolean};
