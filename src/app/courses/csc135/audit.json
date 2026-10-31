@@ -1,0 +1,242 @@
+[
+  {
+    "id": "min1",
+    "area": "DFA minimization",
+    "source": "HW Cross product, Minimize DFA.pdf, page 1",
+    "page": "minimize-1.jpg",
+    "status": "Verified correct",
+    "problem": "Minimize the five-state DFA with accepting states C and E.",
+    "original": "The handwritten answer merges {A,B,D} and {C,E}.",
+    "answer": "Two equivalence classes are correct. On 0 the nonfinal class stays nonfinal; on 1 it reaches the accepting class. The accepting class loops on both symbols.",
+    "steps": [
+      "Start with {A,B,D} | {C,E}.",
+      "Compare transition-block signatures for both inputs.",
+      "All states within each block agree, so the initial partition is already stable."
+    ],
+    "witness": "The language is all binary strings containing at least one 1."
+  },
+  {
+    "id": "min2",
+    "area": "DFA minimization",
+    "source": "HW Cross product, Minimize DFA.pdf, page 2",
+    "page": "minimize-2.jpg",
+    "status": "Verified correct",
+    "problem": "Minimize the S0,S1,S2,S3 DFA.",
+    "original": "The answer says no states can be merged.",
+    "answer": "All four states are distinguishable. S3 is accepting. S1 versus S2 is distinguished by b; S0 differs from each of S1/S2 by a one-symbol suffix.",
+    "steps": [
+      "Initial blocks: {S0,S1,S2} | {S3}.",
+      "S0 has signature (nonfinal,nonfinal).",
+      "S1 has (nonfinal,final); S2 has (final,nonfinal). All blocks become singletons."
+    ],
+    "witness": "From S1, b accepts; from S2, b rejects."
+  },
+  {
+    "id": "min3",
+    "area": "DFA minimization",
+    "source": "HW Cross product, Minimize DFA.pdf, page 3",
+    "page": "minimize-3.jpg",
+    "status": "Verified correct",
+    "problem": "Minimize q0,q1,q2,q3 with q2,q3 accepting.",
+    "original": "The answer merges {q0,q1} and {q2,q3}.",
+    "answer": "The two-state result is correct. Both nonfinal states go to the same equivalence block on each input, and accepting states are equivalent sinks.",
+    "steps": [
+      "Partition by acceptance.",
+      "Check input signatures against blocks, not raw state names.",
+      "Merge each stable block."
+    ],
+    "witness": "Zero preserves the nonfinal block; the first 1 reaches the accepting sink."
+  },
+  {
+    "id": "product",
+    "area": "Product construction",
+    "source": "HW Cross product, Minimize DFA.pdf, pages 4\u20136",
+    "page": "minimize-4.jpg",
+    "status": "Verified correct",
+    "problem": "Build even-zero/even-one intersection and the contains-a/contains-b intersection.",
+    "original": "The work gives four product states, accepting AC for the parity product, and four states before/after minimization for contains-both.",
+    "answer": "Those conclusions are correct. Product transitions update both components, and an intersection state is accepting only when both components accept.",
+    "steps": [
+      "Pair the component states.",
+      "Apply the same input to both states.",
+      "Use F1 \u00d7 F2 as the accepting set."
+    ],
+    "witness": "For parity: \u03b5 and 0011 accept; 0 and 01 reject. For contains-both: ab and ba accept; aa rejects."
+  },
+  {
+    "id": "ambiguous",
+    "area": "CFG ambiguity",
+    "source": "HW CFG.pdf, page 1",
+    "page": "cfg-1.jpg",
+    "status": "Verified correct",
+    "problem": "Show S\u21920A10|B10, B\u2192A0|B1, A\u219200|\u03b5 is ambiguous.",
+    "original": "The work uses 010 and two leftmost derivations.",
+    "answer": "This is a valid ambiguity witness: S\u21d20A10\u21d2010 and S\u21d2B10\u21d2A010\u21d2010.",
+    "steps": [
+      "Use A\u2192\u03b5 in the first S branch.",
+      "Use B\u2192A0 and A\u2192\u03b5 in the second S branch.",
+      "The same terminal word has two different leftmost derivations."
+    ],
+    "witness": "010"
+  },
+  {
+    "id": "cnf",
+    "area": "Chomsky normal form",
+    "source": "HW CFG.pdf, page 4",
+    "page": "cfg-4.jpg",
+    "status": "Correction",
+    "problem": "Convert A\u2192BAB|B|\u03b5, B\u219200|\u03b5 to strict CNF.",
+    "original": "The displayed final grammar retains A\u2192\u03b5 while A also occurs on right-hand sides.",
+    "answer": "For the strict CNF convention, introduce a fresh start S0 and allow \u03b5 only there. Add the nullable omission BB, eliminate unit rules, isolate terminal 0 and binarize the long right-hand side.",
+    "steps": [
+      "Nullable variables are A and B. Start with S0\u2192A|\u03b5.",
+      "After epsilon/unit elimination use A\u2192BAB|AB|BA|BB|00 and B\u219200; S0 inherits A\u2019s nonempty alternatives.",
+      "With Z\u21920 and C\u2192AB, use A\u2192BC|AB|BA|BB|ZZ; B\u2192ZZ; C\u2192AB; S0\u2192BC|AB|BA|BB|ZZ|\u03b5."
+    ],
+    "witness": "The original language is exactly an even number of 0s, including \u03b5. CNF must preserve \u03b5 using the fresh start."
+  },
+  {
+    "id": "gnf",
+    "area": "Greibach normal form",
+    "source": "HW CFG.pdf, pages 7\u20138",
+    "page": "cfg-8.jpg",
+    "status": "Correction",
+    "problem": "Convert S\u2192AB|b, A\u2192aA|\u03b5, B\u2192Sb|a to GNF.",
+    "original": "The shown final lines are S\u2192b|aAB, A\u2192aA|a, B\u2192bS|a.",
+    "answer": "The shown rewrite loses the word a and reverses Sb to bS. A new verified GNF is provided in the grammar lab; it preserves nullable A through S\u2192B before eliminating units and left recursion.",
+    "steps": [
+      "Nullable A means S must gain S\u2192B.",
+      "Substitute A and B to obtain S\u2192aAB|aB|Sb|a|b.",
+      "Eliminate direct left recursion with a new R generating one-or-more b symbols, then substitute S in B and lift trailing b to a variable."
+    ],
+    "witness": "Original: S\u21d2AB\u21d2B\u21d2a. The shown S\u2192b|aAB cannot derive the one-letter word a."
+  },
+  {
+    "id": "equal-pda",
+    "area": "PDA design",
+    "source": "HW CFG.pdf, page 8, Q11",
+    "page": "cfg-8.jpg",
+    "status": "Correction",
+    "problem": "Accept arbitrary-order words with equal numbers of a and b.",
+    "original": "The drawing first pushes a prefix, then switches permanently to popping opposite symbols.",
+    "answer": "That construction recognizes a restricted reverse-complement pattern, not every balanced-count word. Use cancellation: pop the opposite stack symbol, otherwise push the current symbol, and accept with only the bottom marker after all input.",
+    "steps": [
+      "Maintain a stack consisting only of the currently unmatched symbol type.",
+      "For a, pop B if present; otherwise push A. Handle b symmetrically.",
+      "Require complete input consumption and zero unmatched symbols."
+    ],
+    "witness": "abbaba has three a\u2019s and three b\u2019s. A single push-then-pop split must occur after three symbols and fails on the second pop. Cancellation accepts it."
+  },
+  {
+    "id": "undefined",
+    "area": "Prompt quality",
+    "source": "hw3/Questions.txt Q13; HW CFG.pdf page 9",
+    "page": "cfg-9.jpg",
+    "status": "Needs clarification",
+    "problem": "L={a^i b^j c^k | i+\u2113=j+k} uses an undeclared \u2113.",
+    "original": "The answer correctly notices the undefined variable, then concludes a PDA is impossible.",
+    "answer": "The intended language is underspecified. That prevents a definitive construction, but does not prove that no PDA exists. Ask whether \u2113 is a typo, a quantified parameter or the exponent of a missing fourth block.",
+    "steps": [
+      "List the exponents actually present in the word.",
+      "Identify the unbound \u2113.",
+      "Do not infer non-context-freeness from a malformed prompt."
+    ],
+    "witness": "Different repairs define different languages; no repair is silently assumed."
+  },
+  {
+    "id": "pumping-ab",
+    "area": "Pumping-lemma notes",
+    "source": "exam_preparation/Pumping Lemma.docx, equal-ab/ba item",
+    "page": "",
+    "status": "Correction",
+    "problem": "Words over {a,b} with equal numbers of adjacent substrings ab and ba.",
+    "original": "The notes conclude the language is not regular by pumping an alternating-block word.",
+    "answer": "The language is regular. For nonempty words, #ab\u2212#ba depends only on the first and last symbol. The counts are equal exactly when the endpoints match. Also include \u03b5 and single-letter words.",
+    "steps": [
+      "Every a\u2192b change contributes +1; every b\u2192a change contributes \u22121.",
+      "Intermediate changes telescope, leaving the endpoint difference.",
+      "A five-state DFA remembers the first and current last symbol."
+    ],
+    "witness": "aabbaa has #ab=#ba=1. Pumping a leading a gives aaabbaa, still with equal counts; the proposed claim that a new a necessarily creates extra ab is false."
+  },
+  {
+    "id": "pumping-x",
+    "area": "Pumping-lemma notes",
+    "source": "exam_preparation/Pumping Lemma.docx, xyx^R item",
+    "page": "",
+    "status": "Correction",
+    "problem": "L={w\u2208{0,1}* | w=xyx^R for some x,y}, with no restriction on x.",
+    "original": "The notes call this language nonregular.",
+    "answer": "As written, choose x=\u03b5 and y=w. Then every binary word belongs, so L={0,1}*. Even if x is required nonempty, choosing a one-symbol x shows the language is the regular set of length-at-least-two words with matching endpoints.",
+    "steps": [
+      "Check all quantifiers and whether \u03b5 is allowed.",
+      "For unrestricted x, exhibit x=\u03b5 for every w.",
+      "The pumping argument must consider alternative decompositions, not preserve one chosen x."
+    ],
+    "witness": "For w=01, choose x=\u03b5 and y=01. A witness decomposition exists, despite different endpoints."
+  },
+  {
+    "id": "power-two",
+    "area": "Pumping proof rigor",
+    "source": "exam_preparation/Pumping Lemma.docx, powers-of-two item",
+    "page": "",
+    "status": "Proof repair",
+    "problem": "Show {a^(2^k) | k\u22650} is not regular.",
+    "original": "The notes give an example where pumping produces length 17, rather than explicitly handling every valid split.",
+    "answer": "Keep the conclusion, strengthen the quantified argument: choose 2^k>p. Every valid pumped block has length 1\u2264r\u2264p<2^k, so 2^k<2^k+r<2^(k+1). No such length is a power of two.",
+    "steps": [
+      "Choose a witness depending on the pumping length p.",
+      "Bound r using |xy|\u2264p and |y|>0.",
+      "Use the interval between consecutive powers to rule out every valid split."
+    ],
+    "witness": "This repairs the proof rather than changing the nonregular conclusion."
+  },
+  {
+    "id": "tm-aaa",
+    "area": "Turing-machine work",
+    "source": "Hw-final.pdf, page 4, G",
+    "page": "final-4.jpg",
+    "status": "Correction with transcription caveat",
+    "problem": "Recognize words over {a,b} containing aaa.",
+    "original": "No transition on b from q1 is visible in the submitted diagram, where q1 records one trailing a.",
+    "answer": "Under the usual undefined-transition-reject convention, the visible diagram rejects abaaa before it reaches the final aaa. Add q1 on b \u2192 q0, leaving b unchanged and moving right. The new corrected tape model includes this transition.",
+    "steps": [
+      "Trace the first a from q0 to q1.",
+      "The next symbol b needs a reset transition to q0.",
+      "Continue scanning; three consecutive a\u2019s reach the found state and the machine accepts after the remaining suffix."
+    ],
+    "witness": "abaaa. This finding applies to the visible transitions; a separate omitted transition table could change the assessment."
+  },
+  {
+    "id": "scan-limit",
+    "area": "Handwritten diagrams",
+    "source": "HW CFG.pdf PDA drawings; Hw-final.pdf A\u2013F; DFA design scans",
+    "page": "final-1.jpg",
+    "status": "Review limited",
+    "problem": "Audit every handwritten edge as though it were executable code.",
+    "original": "Several dense or faint edge labels are ambiguous at the available scan resolution.",
+    "answer": "Do not label an entire machine correct or incorrect without a reliable transition transcription. The scans remain visible. New reference procedures are labeled separately and tested against their stated languages.",
+    "steps": [
+      "Preserve the original page.",
+      "State exactly what is readable and what is not.",
+      "Separate a new reference solution from a verified transcription of the original."
+    ],
+    "witness": "This is a verification boundary, not a judgment that the work is wrong."
+  },
+  {
+    "id": "no11",
+    "area": "Practice-note specification",
+    "source": "exam_preparation/Exam practice problems.docx, no-consecutive-1s item",
+    "page": "",
+    "status": "Correction",
+    "problem": "Accept binary words that do not contain consecutive 1s.",
+    "original": "The practice text discusses rejecting three consecutive 1s and says two consecutive 1s are acceptable.",
+    "answer": "No consecutive 1s means reject as soon as 11 appears. A three-state reference DFA remembers whether the last symbol was 1 and enters a rejecting sink on a second 1.",
+    "steps": [
+      "Start in a state with no trailing 1.",
+      "On 1 move to the last-was-1 state.",
+      "Another 1 enters the dead state; a 0 resets to the safe state."
+    ],
+    "witness": "11 must be rejected; allowing it solves the different problem of avoiding 111. This review concerns the archived practice text, whose authorship is not independently established."
+  }
+]
