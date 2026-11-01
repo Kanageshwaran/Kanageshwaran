@@ -1,0 +1,1136 @@
+[
+  {
+    "path": "BOOK/1-Book-dialogue-threeeasy.pdf",
+    "bytes": 40349,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: Book-dialogue-threeeasy. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/10-cpu-sched-multi.pdf",
+    "bytes": 121893,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: cpu-sched-multi. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/11-cpu-dialogue.pdf",
+    "bytes": 33322,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: cpu-dialogue. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/12-dialogue-vm.pdf",
+    "bytes": 31767,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: dialogue-vm. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/13-vm-intro.pdf",
+    "bytes": 95320,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: vm-intro. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/14-vm-api.pdf",
+    "bytes": 101004,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: vm-api. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/15-vm-mechanism.pdf",
+    "bytes": 130259,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: vm-mechanism. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/16-vm-segmentation.pdf",
+    "bytes": 109967,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: vm-segmentation. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/17-vm-freespace.pdf",
+    "bytes": 135110,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: vm-freespace. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/18-vm-paging.pdf",
+    "bytes": 121304,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: vm-paging. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/19-vm-tlbs.pdf",
+    "bytes": 150670,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: vm-tlbs. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/2-Book-intro.pdf",
+    "bytes": 165071,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: Book-intro. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/20-vm-smalltables.pdf",
+    "bytes": 139762,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: vm-smalltables. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/21-vm-beyondphys.pdf",
+    "bytes": 107756,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: vm-beyondphys. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/22-vm-beyondphys-policy.pdf",
+    "bytes": 204328,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: vm-beyondphys-policy. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/23-vm-complete.pdf",
+    "bytes": 172402,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: vm-complete. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/24-vm-dialogue.pdf",
+    "bytes": 34012,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: vm-dialogue. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/25-dialogue-concurrency.pdf",
+    "bytes": 32657,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: dialogue-concurrency. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/26-threads-intro.pdf",
+    "bytes": 129716,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: threads-intro. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/27-threads-api.pdf",
+    "bytes": 100720,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: threads-api. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/28-threads-locks.pdf",
+    "bytes": 177604,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: threads-locks. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/29-threads-locks-usage.pdf",
+    "bytes": 121557,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: threads-locks-usage. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/3-Book-dialogue-virtualization.pdf",
+    "bytes": 29687,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: Book-dialogue-virtualization. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/30-threads-cv.pdf",
+    "bytes": 133868,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: threads-cv. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/31threads-sema.pdf",
+    "bytes": 158232,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: sema. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/32-threads-bugs.pdf",
+    "bytes": 135258,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: threads-bugs. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/33-threads-events.pdf",
+    "bytes": 106082,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: threads-events. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/34-threads-dialogue.pdf",
+    "bytes": 32085,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: threads-dialogue. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/35-dialogue-persistence.pdf",
+    "bytes": 27610,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: dialogue-persistence. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/36-file-devices.pdf",
+    "bytes": 123600,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: file-devices. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/37-file-disks.pdf",
+    "bytes": 154732,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: file-disks. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/38-file-raid.pdf",
+    "bytes": 170255,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: file-raid. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/39-file-intro.pdf",
+    "bytes": 212094,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: file-intro. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/4-Book-cpu-intro.pdf",
+    "bytes": 106900,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: Book-cpu-intro. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/40-file-implementation.pdf",
+    "bytes": 164413,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: file-implementation. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/41-file-ffs.pdf",
+    "bytes": 131038,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: file-ffs. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/42-file-journaling.pdf",
+    "bytes": 178600,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: file-journaling. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/43-file-lfs.pdf",
+    "bytes": 156049,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: file-lfs. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/44-file-ssd.pdf",
+    "bytes": 200630,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: file-ssd. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/45-file-integrity.pdf",
+    "bytes": 129210,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: file-integrity. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/46-file-dialogue.pdf",
+    "bytes": 26908,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: file-dialogue. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/5-Book-cpu-api.pdf",
+    "bytes": 126700,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: Book-cpu-api. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/6-Book-cpu-mechanisms.pdf",
+    "bytes": 134592,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: Book-cpu-mechanisms. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/7-cpu-sched.pdf",
+    "bytes": 118326,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: cpu-sched. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/8-cpu-sched-mlfq.pdf",
+    "bytes": 115638,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: cpu-sched-mlfq. Not a submitted assignment."
+  },
+  {
+    "path": "BOOK/9-cpu-sched-lottery.pdf",
+    "bytes": 142654,
+    "identical_to": null,
+    "summary": "OSTEP textbook chapter/reference: cpu-sched-lottery. Not a submitted assignment."
+  },
+  {
+    "path": "concurrency/26.Concurrency_An_Introduction.pptx",
+    "bytes": 110658,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 26.Concurrency An Introduction. Separate from student project work."
+  },
+  {
+    "path": "concurrency/27.Interlude_Thread_API.pptx",
+    "bytes": 132748,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 27.Interlude Thread API. Separate from student project work."
+  },
+  {
+    "path": "concurrency/28.Locks.pptx",
+    "bytes": 155466,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 28.Locks. Separate from student project work."
+  },
+  {
+    "path": "concurrency/29.Lock-based_Concurrent_Data_Structures.pptx",
+    "bytes": 313051,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 29.Lock-based Concurrent Data Structures. Separate from student project work."
+  },
+  {
+    "path": "concurrency/30.Condition_Variables.pptx",
+    "bytes": 270449,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 30.Condition Variables. Separate from student project work."
+  },
+  {
+    "path": "concurrency/31.Semaphore.pptx",
+    "bytes": 162342,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 31.Semaphore. Separate from student project work."
+  },
+  {
+    "path": "concurrency/32.Common_Concurrency_Problems.pptx",
+    "bytes": 151517,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 32.Common Concurrency Problems. Separate from student project work."
+  },
+  {
+    "path": "concurrency/33.Event-based_Concurrency(Advanced).pptx",
+    "bytes": 131530,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 33.Event-based Concurrency(Advanced). Separate from student project work."
+  },
+  {
+    "path": "concurrency/Helper.txt",
+    "bytes": 4313,
+    "identical_to": null,
+    "summary": "Supporting course notes, commands or reference README. Not treated as proof of a successful run."
+  },
+  {
+    "path": "concurrency/Quiz_ M2A1 __ Concurrency_.pdf",
+    "bytes": 310222,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: Quiz_ M2A1 __ Concurrency_. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "final_Prepartion/04.The_abtrasction_the_process.pptx",
+    "bytes": 119018,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 04.The abtrasction the process. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/05.Interlude_process_api.pptx",
+    "bytes": 131798,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 05.Interlude process api. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/06.Mechanism_Limieted_Direct_Execution.pptx",
+    "bytes": 128836,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 06.Mechanism Limieted Direct Execution. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/07.Scheduling_Introduction.pptx",
+    "bytes": 193370,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 07.Scheduling Introduction. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/08.Scheduling_The_Multi-level_Feedback_queue.pptx",
+    "bytes": 133295,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 08.Scheduling The Multi-level Feedback queue. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/09.Scheduling_Proportional_Share.pptx",
+    "bytes": 187224,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 09.Scheduling Proportional Share. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/10.Multiprocessor_Scheduling(Advaned).pptx",
+    "bytes": 162392,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 10.Multiprocessor Scheduling(Advaned). Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/13.The_Abstraction_Address_Space.pptx",
+    "bytes": 116182,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 13.The Abstraction Address Space. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/14.Memory_API.pptx",
+    "bytes": 150480,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 14.Memory API. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/15.Address_Translation.pptx",
+    "bytes": 179637,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 15.Address Translation. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/16.Segmentation.pptx",
+    "bytes": 158592,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 16.Segmentation. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/17.Free-spac_Management.pptx",
+    "bytes": 170224,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 17.Free-spac Management. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/18.Paging_Introduction.pptx",
+    "bytes": 175747,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 18.Paging Introduction. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/19.Translation_Lookaside_Buffers.pptx",
+    "bytes": 165004,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 19.Translation Lookaside Buffers. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/20.Advanced_Page_Tables.pptx",
+    "bytes": 212051,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 20.Advanced Page Tables. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/21.Swapping_Mechanism.pptx",
+    "bytes": 123116,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 21.Swapping Mechanism. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/22.Swapping_Policies.pptx",
+    "bytes": 185430,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 22.Swapping Policies. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/26.Concurrency_An_Introduction.pptx",
+    "bytes": 110658,
+    "identical_to": "concurrency/26.Concurrency_An_Introduction.pptx",
+    "summary": "Lecture slide reference: 26.Concurrency An Introduction. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/27.Interlude_Thread_API.pptx",
+    "bytes": 132748,
+    "identical_to": "concurrency/27.Interlude_Thread_API.pptx",
+    "summary": "Lecture slide reference: 27.Interlude Thread API. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/28.Locks.pptx",
+    "bytes": 155466,
+    "identical_to": "concurrency/28.Locks.pptx",
+    "summary": "Lecture slide reference: 28.Locks. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/29.Lock-based_Concurrent_Data_Structures.pptx",
+    "bytes": 313051,
+    "identical_to": "concurrency/29.Lock-based_Concurrent_Data_Structures.pptx",
+    "summary": "Lecture slide reference: 29.Lock-based Concurrent Data Structures. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/30.Condition_Variables.pptx",
+    "bytes": 270449,
+    "identical_to": "concurrency/30.Condition_Variables.pptx",
+    "summary": "Lecture slide reference: 30.Condition Variables. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/31.Semaphore.pptx",
+    "bytes": 162342,
+    "identical_to": "concurrency/31.Semaphore.pptx",
+    "summary": "Lecture slide reference: 31.Semaphore. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/32.Common_Concurrency_Problems.pptx",
+    "bytes": 151517,
+    "identical_to": "concurrency/32.Common_Concurrency_Problems.pptx",
+    "summary": "Lecture slide reference: 32.Common Concurrency Problems. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/33.Event-based_Concurrency(Advanced).pptx",
+    "bytes": 131530,
+    "identical_to": "concurrency/33.Event-based_Concurrency(Advanced).pptx",
+    "summary": "Lecture slide reference: 33.Event-based Concurrency(Advanced). Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/Introduction_to_operating_system.pptx",
+    "bytes": 150284,
+    "identical_to": null,
+    "summary": "Lecture slide reference: Introduction to operating system. Separate from student project work."
+  },
+  {
+    "path": "final_Prepartion/M1A1 - Introduction and Limited Direct Execution_ CSC139 Operating System Principles - SECTION 04.pdf",
+    "bytes": 278116,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: M1A1 - Introduction and Limited Direct Execution_ CSC139 Operating System Principles - SECTION 04. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "final_Prepartion/M1A2 - Scheduling Questions _ CSC139 Operating System Principles - SECTION 04.pdf",
+    "bytes": 2681308,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: M1A2 - Scheduling Questions _ CSC139 Operating System Principles - SECTION 04. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "final_Prepartion/M1A3 - The Process API_ CSC139 Operating System Principles - SECTION 04.pdf",
+    "bytes": 280896,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: M1A3 - The Process API_ CSC139 Operating System Principles - SECTION 04. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "final_Prepartion/M1A4 - Memory Virtualization_ CSC139 Operating System Principles - SECTION 04.pdf",
+    "bytes": 295719,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: M1A4 - Memory Virtualization_ CSC139 Operating System Principles - SECTION 04. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "final_Prepartion/Operating Systems_ Three Easy Pieces.pdf",
+    "bytes": 575221,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: Operating Systems_ Three Easy Pieces. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "final_Prepartion/OS __ Final Study Guide - FA25.1_ Canvas Development Course 003.pdf",
+    "bytes": 161668,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: OS __ Final Study Guide - FA25.1_ Canvas Development Course 003. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "final_Prepartion/SOLUTIONS __ M1A1 - Introduction and Limited Direct Execution_ CSC139 Operating System Principles - SECTION 04.pdf",
+    "bytes": 100854,
+    "identical_to": null,
+    "summary": "Instructor-supplied solution/reference PDF; not presented as the student's original answer."
+  },
+  {
+    "path": "final_Prepartion/SOLUTIONS __ M1A2 [Partial] - Scheduling _ CSC139 Operating System Principles - SECTION 04.pdf",
+    "bytes": 101080,
+    "identical_to": null,
+    "summary": "Instructor-supplied solution/reference PDF; not presented as the student's original answer."
+  },
+  {
+    "path": "final_Prepartion/SOLUTIONS __ M1A3 - Process API_ CSC139 Operating System Principles - SECTION 04.pdf",
+    "bytes": 156644,
+    "identical_to": null,
+    "summary": "Instructor-supplied solution/reference PDF; not presented as the student's original answer."
+  },
+  {
+    "path": "final_Prepartion/SOLUTIONS __ M1A4 - Memory Virtualization_ CSC139 Operating System Principles - SECTION 04.pdf",
+    "bytes": 97078,
+    "identical_to": null,
+    "summary": "Instructor-supplied solution/reference PDF; not presented as the student's original answer."
+  },
+  {
+    "path": "final_Prepartion/SOLUTIONS __ M2A1 - Concurrency_ CSC139 Operating System Principles - SECTION 04.pdf",
+    "bytes": 85681,
+    "identical_to": null,
+    "summary": "Instructor-supplied solution/reference PDF; not presented as the student's original answer."
+  },
+  {
+    "path": "final_Prepartion/SOLUTIONS __ M3A1 - Persistence _ CSC139 Operating System Principles - SECTION 04.pdf",
+    "bytes": 93378,
+    "identical_to": null,
+    "summary": "Instructor-supplied solution/reference PDF; not presented as the student's original answer."
+  },
+  {
+    "path": "hw1/.vscode/c_cpp_properties.json",
+    "bytes": 339,
+    "identical_to": null,
+    "summary": "Local editor configuration; inventoried, not installed into the portfolio."
+  },
+  {
+    "path": "hw1/.vscode/launch.json",
+    "bytes": 649,
+    "identical_to": null,
+    "summary": "Local editor configuration; inventoried, not installed into the portfolio."
+  },
+  {
+    "path": "hw1/.vscode/settings.json",
+    "bytes": 1453,
+    "identical_to": null,
+    "summary": "Local editor configuration; inventoried, not installed into the portfolio."
+  },
+  {
+    "path": "hw1/lottery/lottery.c",
+    "bytes": 1562,
+    "identical_to": null,
+    "summary": "scheduler source: OSTEP teaching lottery C example; not claimed as original student implementation."
+  },
+  {
+    "path": "hw1/lottery/lottery.py",
+    "bytes": 4455,
+    "identical_to": null,
+    "summary": "scheduler source: OSTEP lottery reference script."
+  },
+  {
+    "path": "hw1/lottery/readme.txt",
+    "bytes": 5225,
+    "identical_to": null,
+    "summary": "Supporting course notes, commands or reference README. Not treated as proof of a successful run."
+  },
+  {
+    "path": "hw1/mlfq/mlfq.py",
+    "bytes": 14766,
+    "identical_to": null,
+    "summary": "scheduler source: OSTEP multi-level feedback-queue reference simulator."
+  },
+  {
+    "path": "hw1/mlfq/readme.txt",
+    "bytes": 9205,
+    "identical_to": null,
+    "summary": "Supporting course notes, commands or reference README. Not treated as proof of a successful run."
+  },
+  {
+    "path": "hw1/MLFQ - Scheduling Questions _ CSC139 Operating System Principles - SECTION 04.pdf",
+    "bytes": 95899,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: MLFQ - Scheduling Questions _ CSC139 Operating System Principles - SECTION 04. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "hw1/pythonToC/scheduler",
+    "bytes": 17176,
+    "identical_to": null,
+    "summary": "Prebuilt executable. Inventoried only; never executed or redistributed. Native checks compile fresh from source."
+  },
+  {
+    "path": "hw1/pythonToC/scheduler.c",
+    "bytes": 7615,
+    "identical_to": null,
+    "summary": "scheduler source: C FIFO/SJF/RR scheduler port with job-list parsing and statistics."
+  },
+  {
+    "path": "hw1/qa/q1.txt",
+    "bytes": 2333,
+    "identical_to": null,
+    "summary": "Archived scheduling answer notes and command traces. All 11 question files retained as text; authorship and every conclusion not independently certified. Terminal path prefixes are normalized in the public viewer."
+  },
+  {
+    "path": "hw1/qa/q10.txt",
+    "bytes": 48492,
+    "identical_to": null,
+    "summary": "Archived scheduling answer notes and command traces. All 11 question files retained as text; authorship and every conclusion not independently certified. Terminal path prefixes are normalized in the public viewer."
+  },
+  {
+    "path": "hw1/qa/q11.txt",
+    "bytes": 346286,
+    "identical_to": null,
+    "summary": "Archived scheduling answer notes and command traces. All 11 question files retained as text; authorship and every conclusion not independently certified. Terminal path prefixes are normalized in the public viewer."
+  },
+  {
+    "path": "hw1/qa/q2.txt",
+    "bytes": 2359,
+    "identical_to": null,
+    "summary": "Archived scheduling answer notes and command traces. All 11 question files retained as text; authorship and every conclusion not independently certified. Terminal path prefixes are normalized in the public viewer."
+  },
+  {
+    "path": "hw1/qa/q3.txt",
+    "bytes": 29648,
+    "identical_to": null,
+    "summary": "Archived scheduling answer notes and command traces. All 11 question files retained as text; authorship and every conclusion not independently certified. Terminal path prefixes are normalized in the public viewer."
+  },
+  {
+    "path": "hw1/qa/q4.txt",
+    "bytes": 2405,
+    "identical_to": null,
+    "summary": "Archived scheduling answer notes and command traces. All 11 question files retained as text; authorship and every conclusion not independently certified. Terminal path prefixes are normalized in the public viewer."
+  },
+  {
+    "path": "hw1/qa/q5.txt",
+    "bytes": 3979,
+    "identical_to": null,
+    "summary": "Archived scheduling answer notes and command traces. All 11 question files retained as text; authorship and every conclusion not independently certified. Terminal path prefixes are normalized in the public viewer."
+  },
+  {
+    "path": "hw1/qa/q6.txt",
+    "bytes": 3787,
+    "identical_to": null,
+    "summary": "Archived scheduling answer notes and command traces. All 11 question files retained as text; authorship and every conclusion not independently certified. Terminal path prefixes are normalized in the public viewer."
+  },
+  {
+    "path": "hw1/qa/q7.txt",
+    "bytes": 16094,
+    "identical_to": null,
+    "summary": "Archived scheduling answer notes and command traces. All 11 question files retained as text; authorship and every conclusion not independently certified. Terminal path prefixes are normalized in the public viewer."
+  },
+  {
+    "path": "hw1/qa/q8.txt",
+    "bytes": 141040,
+    "identical_to": null,
+    "summary": "Archived scheduling answer notes and command traces. All 11 question files retained as text; authorship and every conclusion not independently certified. Terminal path prefixes are normalized in the public viewer."
+  },
+  {
+    "path": "hw1/qa/q9.txt",
+    "bytes": 17501,
+    "identical_to": null,
+    "summary": "Archived scheduling answer notes and command traces. All 11 question files retained as text; authorship and every conclusion not independently certified. Terminal path prefixes are normalized in the public viewer."
+  },
+  {
+    "path": "hw1/question 11.txt",
+    "bytes": 344432,
+    "identical_to": null,
+    "summary": "Archived scheduling answer notes and command traces. All 11 question files retained as text; authorship and every conclusion not independently certified. Terminal path prefixes are normalized in the public viewer."
+  },
+  {
+    "path": "hw1/scheduler/readme.txt",
+    "bytes": 4651,
+    "identical_to": null,
+    "summary": "Supporting course notes, commands or reference README. Not treated as proof of a successful run."
+  },
+  {
+    "path": "hw1/scheduler/scheduler.py",
+    "bytes": 5993,
+    "identical_to": null,
+    "summary": "scheduler source: OSTEP scheduling reference script."
+  },
+  {
+    "path": "hw1/Scheduling Project.pdf",
+    "bytes": 78814,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: Scheduling Project. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "hw2/bash.txt",
+    "bytes": 10299,
+    "identical_to": null,
+    "summary": "Supporting course notes, commands or reference README. Not treated as proof of a successful run."
+  },
+  {
+    "path": "hw2/bash2.txt",
+    "bytes": 18316,
+    "identical_to": null,
+    "summary": "Supporting course notes, commands or reference README. Not treated as proof of a successful run."
+  },
+  {
+    "path": "hw2/hashproj",
+    "bytes": 21488,
+    "identical_to": null,
+    "summary": "Prebuilt executable. Inventoried only; never executed or redistributed. Native checks compile fresh from source."
+  },
+  {
+    "path": "hw2/hashproj.c",
+    "bytes": 16519,
+    "identical_to": null,
+    "summary": "hasher source: Custom mmap first-fit allocator, Huffman block signatures and sequential pipe/fork collection. Bounded testing found a multi-block single-process crash."
+  },
+  {
+    "path": "hw2/PROJECT [OS] __ Managed Memory and Multiprocessing in a Faux File Hasher_ Canvas Development Course 003.pdf",
+    "bytes": 538287,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: PROJECT [OS] __ Managed Memory and Multiprocessing in a Faux File Hasher_ Canvas Development Course 003. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "hw2/PROJECT __ Managed Memory and Multiprocessing in a Faux File Hasher.pdf",
+    "bytes": 160523,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: PROJECT __ Managed Memory and Multiprocessing in a Faux File Hasher. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "hw2/sample.bin",
+    "bytes": 27,
+    "identical_to": null,
+    "summary": "Binary test fixture; inventoried by size/hash, not redistributed as a public download."
+  },
+  {
+    "path": "Memory virtualization/Helper.txt",
+    "bytes": 5805,
+    "identical_to": null,
+    "summary": "Supporting course notes, commands or reference README. Not treated as proof of a successful run."
+  },
+  {
+    "path": "Memory virtualization/OS-Chapter5-StudentSlides.pdf",
+    "bytes": 1053142,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: OS-Chapter5-StudentSlides. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "midterm/04.The_abtrasction_the_process.pptx",
+    "bytes": 119018,
+    "identical_to": "final_Prepartion/04.The_abtrasction_the_process.pptx",
+    "summary": "Lecture slide reference: 04.The abtrasction the process. Separate from student project work."
+  },
+  {
+    "path": "midterm/05.Interlude_process_api.pptx",
+    "bytes": 131798,
+    "identical_to": "final_Prepartion/05.Interlude_process_api.pptx",
+    "summary": "Lecture slide reference: 05.Interlude process api. Separate from student project work."
+  },
+  {
+    "path": "midterm/06.Mechanism_Limieted_Direct_Execution.pptx",
+    "bytes": 128836,
+    "identical_to": "final_Prepartion/06.Mechanism_Limieted_Direct_Execution.pptx",
+    "summary": "Lecture slide reference: 06.Mechanism Limieted Direct Execution. Separate from student project work."
+  },
+  {
+    "path": "midterm/07.Scheduling_Introduction.pptx",
+    "bytes": 193370,
+    "identical_to": "final_Prepartion/07.Scheduling_Introduction.pptx",
+    "summary": "Lecture slide reference: 07.Scheduling Introduction. Separate from student project work."
+  },
+  {
+    "path": "midterm/13.The_Abstraction_Address_Space.pptx",
+    "bytes": 116182,
+    "identical_to": "final_Prepartion/13.The_Abstraction_Address_Space.pptx",
+    "summary": "Lecture slide reference: 13.The Abstraction Address Space. Separate from student project work."
+  },
+  {
+    "path": "midterm/14.Memory_API.pptx",
+    "bytes": 150480,
+    "identical_to": "final_Prepartion/14.Memory_API.pptx",
+    "summary": "Lecture slide reference: 14.Memory API. Separate from student project work."
+  },
+  {
+    "path": "midterm/15.Address_Translation.pptx",
+    "bytes": 179637,
+    "identical_to": "final_Prepartion/15.Address_Translation.pptx",
+    "summary": "Lecture slide reference: 15.Address Translation. Separate from student project work."
+  },
+  {
+    "path": "midterm/16.Segmentation.pptx",
+    "bytes": 158592,
+    "identical_to": "final_Prepartion/16.Segmentation.pptx",
+    "summary": "Lecture slide reference: 16.Segmentation. Separate from student project work."
+  },
+  {
+    "path": "midterm/17.Free-spac_Management.pptx",
+    "bytes": 170224,
+    "identical_to": "final_Prepartion/17.Free-spac_Management.pptx",
+    "summary": "Lecture slide reference: 17.Free-spac Management. Separate from student project work."
+  },
+  {
+    "path": "midterm/18.Paging_Introduction.pptx",
+    "bytes": 175747,
+    "identical_to": "final_Prepartion/18.Paging_Introduction.pptx",
+    "summary": "Lecture slide reference: 18.Paging Introduction. Separate from student project work."
+  },
+  {
+    "path": "midterm/19.Translation_Lookaside_Buffers.pptx",
+    "bytes": 165004,
+    "identical_to": "final_Prepartion/19.Translation_Lookaside_Buffers.pptx",
+    "summary": "Lecture slide reference: 19.Translation Lookaside Buffers. Separate from student project work."
+  },
+  {
+    "path": "midterm/20.Advanced_Page_Tables.pptx",
+    "bytes": 212051,
+    "identical_to": "final_Prepartion/20.Advanced_Page_Tables.pptx",
+    "summary": "Lecture slide reference: 20.Advanced Page Tables. Separate from student project work."
+  },
+  {
+    "path": "midterm/Introduction_to_operating_system.pptx",
+    "bytes": 150284,
+    "identical_to": "final_Prepartion/Introduction_to_operating_system.pptx",
+    "summary": "Lecture slide reference: Introduction to operating system. Separate from student project work."
+  },
+  {
+    "path": "midterm/OS __ Midterm Study Guide - FA25_ Canvas Development Course 003.pdf",
+    "bytes": 226697,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: OS __ Midterm Study Guide - FA25_ Canvas Development Course 003. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "midterm/SOLUTIONS __ M1A1 - Introduction and Limited Direct Execution_ CSC139 Operating System Principles - SECTION 04.pdf",
+    "bytes": 100929,
+    "identical_to": null,
+    "summary": "Instructor-supplied solution/reference PDF; not presented as the student's original answer."
+  },
+  {
+    "path": "midterm/SOLUTIONS __ M1A3 - Process API_ CSC139 Operating System Principles - SECTION 04.pdf",
+    "bytes": 156121,
+    "identical_to": null,
+    "summary": "Instructor-supplied solution/reference PDF; not presented as the student's original answer."
+  },
+  {
+    "path": "Persistence/36.IO_Devices.pptx",
+    "bytes": 158057,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 36.IO Devices. Separate from student project work."
+  },
+  {
+    "path": "Persistence/37.Hard_Disk_Drives.pptx",
+    "bytes": 311643,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 37.Hard Disk Drives. Separate from student project work."
+  },
+  {
+    "path": "Persistence/38.RAID.pptx",
+    "bytes": 463568,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 38.RAID. Separate from student project work."
+  },
+  {
+    "path": "Persistence/39.File_and_Directories.pptx",
+    "bytes": 172254,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 39.File and Directories. Separate from student project work."
+  },
+  {
+    "path": "Persistence/40.File_system_Implementation.pptx",
+    "bytes": 241994,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 40.File system Implementation. Separate from student project work."
+  },
+  {
+    "path": "Persistence/41.Locality_and_The_Fast_File_System.pptx",
+    "bytes": 232722,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 41.Locality and The Fast File System. Separate from student project work."
+  },
+  {
+    "path": "Persistence/42.Crash_Consistency_FSCK_and_Journaling.pptx",
+    "bytes": 195414,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 42.Crash Consistency FSCK and Journaling. Separate from student project work."
+  },
+  {
+    "path": "Persistence/43.Log-sructured File System(LFS).pptx",
+    "bytes": 220602,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 43.Log-sructured File System(LFS). Separate from student project work."
+  },
+  {
+    "path": "Persistence/44.Data_Integrity_and_Protection.pptx",
+    "bytes": 121953,
+    "identical_to": null,
+    "summary": "Lecture slide reference: 44.Data Integrity and Protection. Separate from student project work."
+  },
+  {
+    "path": "Persistence/helper.txt",
+    "bytes": 6807,
+    "identical_to": null,
+    "summary": "Supporting course notes, commands or reference README. Not treated as proof of a successful run."
+  },
+  {
+    "path": "Persistence/M3A1 - Persistence _ CSC139 Operating System Principles - SECTION 04.pdf",
+    "bytes": 190111,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: M3A1 - Persistence _ CSC139 Operating System Principles - SECTION 04. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "Project/esharedhash",
+    "bytes": 22144,
+    "identical_to": null,
+    "summary": "Prebuilt executable. Inventoried only; never executed or redistributed. Native checks compile fresh from source."
+  },
+  {
+    "path": "Project/esharedhash.c",
+    "bytes": 31246,
+    "identical_to": null,
+    "summary": "threads source: Experimental compile-time halloc/hfree switch and batches of at most 16 active threads."
+  },
+  {
+    "path": "Project/helper.txt",
+    "bytes": 79600,
+    "identical_to": null,
+    "summary": "Supporting course notes, commands or reference README. Not treated as proof of a successful run."
+  },
+  {
+    "path": "Project/markdown.md",
+    "bytes": 5960,
+    "identical_to": null,
+    "summary": "Part 2 allocator-optimization report, including recorded times, matched signatures and personal learning points; full text preserved with qualified conclusions."
+  },
+  {
+    "path": "Project/out_single.txt",
+    "bytes": 28,
+    "identical_to": null,
+    "summary": "Archived signature output (1496557429); the producing input/run is not identified by the file alone."
+  },
+  {
+    "path": "Project/out_thread.txt",
+    "bytes": 28,
+    "identical_to": "Project/out_single.txt",
+    "summary": "Archived signature output (1496557429); the producing input/run is not identified by the file alone."
+  },
+  {
+    "path": "Project/part-2 result.png",
+    "bytes": 109241,
+    "identical_to": null,
+    "summary": "Original terminal evidence for the allocator experiment; timing values reconstructed separately for comparison."
+  },
+  {
+    "path": "Project/part-2_results.png",
+    "bytes": 102852,
+    "identical_to": null,
+    "summary": "Original terminal evidence for the allocator experiment; timing values reconstructed separately for comparison."
+  },
+  {
+    "path": "Project/PROJECT [OS] __ Managed Memory with More Concurrency - and Threads_ Canvas Development Course 003.pdf",
+    "bytes": 445760,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: PROJECT [OS] __ Managed Memory with More Concurrency - and Threads_ Canvas Development Course 003. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "Project/PROJECT __ Managed Memory with More Concurrency, and Threads.pdf",
+    "bytes": 184176,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: PROJECT __ Managed Memory with More Concurrency, and Threads. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "Project/sharedhash",
+    "bytes": 21992,
+    "identical_to": null,
+    "summary": "Prebuilt executable. Inventoried only; never executed or redistributed. Native checks compile fresh from source."
+  },
+  {
+    "path": "Project/sharedhash.c",
+    "bytes": 27156,
+    "identical_to": null,
+    "summary": "threads source: Thread-capable hasher with pthread mutex, malloc-backed private heap and per-block results. Fork mode does not use an interprocess shared allocator."
+  },
+  {
+    "path": "Project/test_100KB.bin",
+    "bytes": 102400,
+    "identical_to": null,
+    "summary": "Binary test fixture; inventoried by size/hash, not redistributed as a public download."
+  },
+  {
+    "path": "Project/test_1KB.bin",
+    "bytes": 1024,
+    "identical_to": null,
+    "summary": "Binary test fixture; inventoried by size/hash, not redistributed as a public download."
+  },
+  {
+    "path": "Project/test_1MB.bin",
+    "bytes": 1048576,
+    "identical_to": null,
+    "summary": "Binary test fixture; inventoried by size/hash, not redistributed as a public download."
+  },
+  {
+    "path": "week5/05.Interlude_process_api.pptx",
+    "bytes": 131798,
+    "identical_to": "midterm/05.Interlude_process_api.pptx",
+    "summary": "Lecture slide reference: 05.Interlude process api. Separate from student project work."
+  },
+  {
+    "path": "week5/06.Mechanism_Limieted_Direct_Execution.pptx",
+    "bytes": 128836,
+    "identical_to": "midterm/06.Mechanism_Limieted_Direct_Execution.pptx",
+    "summary": "Lecture slide reference: 06.Mechanism Limieted Direct Execution. Separate from student project work."
+  },
+  {
+    "path": "week5/07.Scheduling_Introduction.pptx",
+    "bytes": 193370,
+    "identical_to": "midterm/07.Scheduling_Introduction.pptx",
+    "summary": "Lecture slide reference: 07.Scheduling Introduction. Separate from student project work."
+  },
+  {
+    "path": "week5/08.Scheduling_The_Multi-level_Feedback_queue.pptx",
+    "bytes": 133295,
+    "identical_to": "final_Prepartion/08.Scheduling_The_Multi-level_Feedback_queue.pptx",
+    "summary": "Lecture slide reference: 08.Scheduling The Multi-level Feedback queue. Separate from student project work."
+  },
+  {
+    "path": "week5/19.Translation_Lookaside_Buffers.pptx",
+    "bytes": 165004,
+    "identical_to": "midterm/19.Translation_Lookaside_Buffers.pptx",
+    "summary": "Lecture slide reference: 19.Translation Lookaside Buffers. Separate from student project work."
+  },
+  {
+    "path": "week5/27.Interlude_Thread_API.pptx",
+    "bytes": 132748,
+    "identical_to": "final_Prepartion/27.Interlude_Thread_API.pptx",
+    "summary": "Lecture slide reference: 27.Interlude Thread API. Separate from student project work."
+  },
+  {
+    "path": "week5/29.Lock-based_Concurrent_Data_Structures.pptx",
+    "bytes": 313051,
+    "identical_to": "final_Prepartion/29.Lock-based_Concurrent_Data_Structures.pptx",
+    "summary": "Lecture slide reference: 29.Lock-based Concurrent Data Structures. Separate from student project work."
+  },
+  {
+    "path": "week5/31.Semaphore.pptx",
+    "bytes": 162342,
+    "identical_to": "final_Prepartion/31.Semaphore.pptx",
+    "summary": "Lecture slide reference: 31.Semaphore. Separate from student project work."
+  },
+  {
+    "path": "week5/32.Common_Concurrency_Problems.pptx",
+    "bytes": 151517,
+    "identical_to": "final_Prepartion/32.Common_Concurrency_Problems.pptx",
+    "summary": "Lecture slide reference: 32.Common Concurrency Problems. Separate from student project work."
+  },
+  {
+    "path": "week5/40.File_system_Implementation.pptx",
+    "bytes": 241994,
+    "identical_to": "Persistence/40.File_system_Implementation.pptx",
+    "summary": "Lecture slide reference: 40.File system Implementation. Separate from student project work."
+  },
+  {
+    "path": "week5/CSC139 Operating System Principles - SECTION 04.pdf",
+    "bytes": 225434,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: CSC139 Operating System Principles - SECTION 04. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "week5/helper_test.txt",
+    "bytes": 3834,
+    "identical_to": null,
+    "summary": "Supporting course notes, commands or reference README. Not treated as proof of a successful run."
+  },
+  {
+    "path": "week5/Introduction_to_operating_system.pptx",
+    "bytes": 150284,
+    "identical_to": "midterm/Introduction_to_operating_system.pptx",
+    "summary": "Lecture slide reference: Introduction to operating system. Separate from student project work."
+  },
+  {
+    "path": "week5/IntroOSStudentSlides.pdf",
+    "bytes": 477344,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: IntroOSStudentSlides. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "week5/learning_gnu_c.pdf",
+    "bytes": 352355,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: learning_gnu_c. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "week5/Operating Systems_ Three Easy Pieces.pdf",
+    "bytes": 575813,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: Operating Systems_ Three Easy Pieces. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "week5/OS-Chapter5-StudentSlides.pdf",
+    "bytes": 1053142,
+    "identical_to": "Memory virtualization/OS-Chapter5-StudentSlides.pdf",
+    "summary": "Course assignment, quiz, study guide or reference: OS-Chapter5-StudentSlides. Context is distinct from implementation evidence."
+  },
+  {
+    "path": "week5/OSHistoryStudentSlides.pdf",
+    "bytes": 1703408,
+    "identical_to": null,
+    "summary": "Course assignment, quiz, study guide or reference: OSHistoryStudentSlides. Context is distinct from implementation evidence."
+  }
+]

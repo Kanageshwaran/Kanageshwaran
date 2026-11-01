@@ -1,0 +1,226 @@
+[
+  {
+    "program": "hashproj",
+    "fixture": "empty",
+    "mode": "single",
+    "exit": 0,
+    "signature": 0
+  },
+  {
+    "program": "hashproj",
+    "fixture": "empty",
+    "mode": "-m",
+    "exit": 0,
+    "signature": 0
+  },
+  {
+    "program": "hashproj",
+    "fixture": "abba",
+    "mode": "single",
+    "exit": 0,
+    "signature": 6019
+  },
+  {
+    "program": "hashproj",
+    "fixture": "abba",
+    "mode": "-m",
+    "exit": 0,
+    "signature": 6019
+  },
+  {
+    "program": "hashproj",
+    "fixture": "oneblock",
+    "mode": "single",
+    "exit": 0,
+    "signature": 1089
+  },
+  {
+    "program": "hashproj",
+    "fixture": "oneblock",
+    "mode": "-m",
+    "exit": 0,
+    "signature": 1089
+  },
+  {
+    "program": "hashproj",
+    "fixture": "threeblocks",
+    "mode": "single",
+    "exit": -11,
+    "signature": null
+  },
+  {
+    "program": "hashproj",
+    "fixture": "threeblocks",
+    "mode": "-m",
+    "exit": 0,
+    "signature": 1996215911
+  },
+  {
+    "program": "sharedhash",
+    "fixture": "empty",
+    "mode": "single",
+    "exit": 0,
+    "signature": 0
+  },
+  {
+    "program": "sharedhash",
+    "fixture": "empty",
+    "mode": "-m",
+    "exit": 0,
+    "signature": 0
+  },
+  {
+    "program": "sharedhash",
+    "fixture": "empty",
+    "mode": "-t",
+    "exit": 0,
+    "signature": 0
+  },
+  {
+    "program": "sharedhash",
+    "fixture": "abba",
+    "mode": "single",
+    "exit": 0,
+    "signature": 6019
+  },
+  {
+    "program": "sharedhash",
+    "fixture": "abba",
+    "mode": "-m",
+    "exit": 0,
+    "signature": 6019
+  },
+  {
+    "program": "sharedhash",
+    "fixture": "abba",
+    "mode": "-t",
+    "exit": 0,
+    "signature": 6019
+  },
+  {
+    "program": "sharedhash",
+    "fixture": "oneblock",
+    "mode": "single",
+    "exit": 0,
+    "signature": 1089
+  },
+  {
+    "program": "sharedhash",
+    "fixture": "oneblock",
+    "mode": "-m",
+    "exit": 0,
+    "signature": 1089
+  },
+  {
+    "program": "sharedhash",
+    "fixture": "oneblock",
+    "mode": "-t",
+    "exit": 0,
+    "signature": 1089
+  },
+  {
+    "program": "sharedhash",
+    "fixture": "threeblocks",
+    "mode": "single",
+    "exit": 0,
+    "signature": 1996215911
+  },
+  {
+    "program": "sharedhash",
+    "fixture": "threeblocks",
+    "mode": "-m",
+    "exit": 0,
+    "signature": 1996215911
+  },
+  {
+    "program": "sharedhash",
+    "fixture": "threeblocks",
+    "mode": "-t",
+    "exit": 0,
+    "signature": 1996215911
+  },
+  {
+    "program": "esharedhash",
+    "fixture": "empty",
+    "mode": "single",
+    "exit": 0,
+    "signature": 0
+  },
+  {
+    "program": "esharedhash",
+    "fixture": "empty",
+    "mode": "-m",
+    "exit": 0,
+    "signature": 0
+  },
+  {
+    "program": "esharedhash",
+    "fixture": "empty",
+    "mode": "-t",
+    "exit": 0,
+    "signature": 0
+  },
+  {
+    "program": "esharedhash",
+    "fixture": "abba",
+    "mode": "single",
+    "exit": 0,
+    "signature": 6019
+  },
+  {
+    "program": "esharedhash",
+    "fixture": "abba",
+    "mode": "-m",
+    "exit": 0,
+    "signature": 6019
+  },
+  {
+    "program": "esharedhash",
+    "fixture": "abba",
+    "mode": "-t",
+    "exit": 0,
+    "signature": 6019
+  },
+  {
+    "program": "esharedhash",
+    "fixture": "oneblock",
+    "mode": "single",
+    "exit": 0,
+    "signature": 1089
+  },
+  {
+    "program": "esharedhash",
+    "fixture": "oneblock",
+    "mode": "-m",
+    "exit": 0,
+    "signature": 1089
+  },
+  {
+    "program": "esharedhash",
+    "fixture": "oneblock",
+    "mode": "-t",
+    "exit": 0,
+    "signature": 1089
+  },
+  {
+    "program": "esharedhash",
+    "fixture": "threeblocks",
+    "mode": "single",
+    "exit": 0,
+    "signature": 1996215911
+  },
+  {
+    "program": "esharedhash",
+    "fixture": "threeblocks",
+    "mode": "-m",
+    "exit": 0,
+    "signature": 1996215911
+  },
+  {
+    "program": "esharedhash",
+    "fixture": "threeblocks",
+    "mode": "-t",
+    "exit": 0,
+    "signature": 1996215911
+  }
+]

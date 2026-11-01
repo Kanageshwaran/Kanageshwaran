@@ -1,0 +1,11 @@
+export function schedule(list:string,policy?:string,quantum?:number):any;
+export function mlfq(list:string,boost?:number):any[];
+export function lottery(seed?:number,draws?:number):any;
+export function heapInit():any[];
+export function heapOp(blocks:any[],action:any):any[];
+export function hashBytes(bytes:Uint8Array):any;
+export function hashText(text:string):any;
+export function raceInit():any;
+export function raceStep(state:any,id:number,locked:boolean):any;
+export function translate(address:number,table:any[]):any;
+export function journal(stage:number,crash?:boolean):any;
