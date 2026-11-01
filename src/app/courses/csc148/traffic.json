@@ -1,0 +1,362 @@
+{
+  "source": "hw3/final.xlsx final 60-interval counts; timestamps normalized against HW3.docx because single-time spreadsheet cells have inconsistent stored time formatting.",
+  "rows": [
+    {
+      "interval": 1,
+      "times": "00:07 00:11 00:20 00:24 00:30 00:37",
+      "count": 6
+    },
+    {
+      "interval": 2,
+      "times": "01:10 01:21 01:27",
+      "count": 3
+    },
+    {
+      "interval": 3,
+      "times": "01:47 01:57 02:07",
+      "count": 3
+    },
+    {
+      "interval": 4,
+      "times": "02:15 02:22 02:28",
+      "count": 3
+    },
+    {
+      "interval": 5,
+      "times": "03:04 03:09 03:15 03:19 03:28 03:38 03:43",
+      "count": 7
+    },
+    {
+      "interval": 6,
+      "times": "03:46 04:21 04:26",
+      "count": 3
+    },
+    {
+      "interval": 7,
+      "times": "04:30 04:33 04:36 04:39 04:57 05:04 05:06 05:11 05:13",
+      "count": 9
+    },
+    {
+      "interval": 8,
+      "times": "05:18 05:32 05:34 05:48 05:51 05:53 05:57",
+      "count": 7
+    },
+    {
+      "interval": 9,
+      "times": "06:28 06:37 06:39",
+      "count": 3
+    },
+    {
+      "interval": 10,
+      "times": "06:55 07:00 07:02 07:07 07:17 07:19",
+      "count": 6
+    },
+    {
+      "interval": 11,
+      "times": "08:04 08:08",
+      "count": 2
+    },
+    {
+      "interval": 12,
+      "times": "08:53",
+      "count": 1
+    },
+    {
+      "interval": 13,
+      "times": "09:00 09:12 09:27 09:34 09:42",
+      "count": 5
+    },
+    {
+      "interval": 14,
+      "times": "09:46 09:52 10:13 10:22 10:25",
+      "count": 5
+    },
+    {
+      "interval": 15,
+      "times": "10:38 10:41 10:49 11:06 11:14",
+      "count": 5
+    },
+    {
+      "interval": 16,
+      "times": "11:20 11:24 11:28 11:37 11:41 11:45",
+      "count": 6
+    },
+    {
+      "interval": 17,
+      "times": "12:13 12:35",
+      "count": 2
+    },
+    {
+      "interval": 18,
+      "times": "12:53 13:01 13:03 13:07 13:15",
+      "count": 5
+    },
+    {
+      "interval": 19,
+      "times": "13:30 13:32 13:55 14:12",
+      "count": 4
+    },
+    {
+      "interval": 20,
+      "times": "14:35 14:52",
+      "count": 2
+    },
+    {
+      "interval": 21,
+      "times": "15:06 15:12 15:16 15:35 15:39",
+      "count": 5
+    },
+    {
+      "interval": 22,
+      "times": "15:45 15:48 16:01 16:29",
+      "count": 4
+    },
+    {
+      "interval": 23,
+      "times": "16:30 16:35 16:41 17:09",
+      "count": 4
+    },
+    {
+      "interval": 24,
+      "times": "17:19",
+      "count": 1
+    },
+    {
+      "interval": 25,
+      "times": "18:02 18:11 18:27 18:32 18:42",
+      "count": 5
+    },
+    {
+      "interval": 26,
+      "times": "18:48 19:25 19:28",
+      "count": 3
+    },
+    {
+      "interval": 27,
+      "times": "20:11",
+      "count": 1
+    },
+    {
+      "interval": 28,
+      "times": "20:17 20:38",
+      "count": 2
+    },
+    {
+      "interval": 29,
+      "times": "21:14 21:20",
+      "count": 2
+    },
+    {
+      "interval": 30,
+      "times": "21:56 22:08",
+      "count": 2
+    },
+    {
+      "interval": 31,
+      "times": "22:36 22:39 22:46 22:59 23:02 23:04 23:10",
+      "count": 7
+    },
+    {
+      "interval": 32,
+      "times": "23:17 23:26 23:27 23:28 23:32 23:58",
+      "count": 6
+    },
+    {
+      "interval": 33,
+      "times": "24:30 24:36 24:42",
+      "count": 3
+    },
+    {
+      "interval": 34,
+      "times": "24:49 24:59 25:07",
+      "count": 3
+    },
+    {
+      "interval": 35,
+      "times": "25:34 25:41 25:52 25:57 26:01 26:13",
+      "count": 6
+    },
+    {
+      "interval": 36,
+      "times": "26:21 26:27 26:31 26:32 26:59",
+      "count": 5
+    },
+    {
+      "interval": 37,
+      "times": "27:07 27:13 27:16",
+      "count": 3
+    },
+    {
+      "interval": 38,
+      "times": "27:48 27:53 27:58 28:12 28:19 28:21",
+      "count": 6
+    },
+    {
+      "interval": 39,
+      "times": "28:38 28:46 28:52 28:55 28:56 28:57",
+      "count": 6
+    },
+    {
+      "interval": 40,
+      "times": "29:44 29:48 29:54",
+      "count": 3
+    },
+    {
+      "interval": 41,
+      "times": "30:42 30:44",
+      "count": 2
+    },
+    {
+      "interval": 42,
+      "times": "30:46 30:49 30:52 30:53 31:00 31:05 31:10 31:15",
+      "count": 8
+    },
+    {
+      "interval": 43,
+      "times": "31:31 32:08",
+      "count": 2
+    },
+    {
+      "interval": 44,
+      "times": "32:16 32:21 32:39",
+      "count": 3
+    },
+    {
+      "interval": 45,
+      "times": "33:01 33:05 33:12 33:22",
+      "count": 4
+    },
+    {
+      "interval": 46,
+      "times": "33:55",
+      "count": 1
+    },
+    {
+      "interval": 47,
+      "times": "34:41 34:44 34:48 34:55 34:58 35:03 35:10",
+      "count": 7
+    },
+    {
+      "interval": 48,
+      "times": "35:15 35:27 35:33 35:40 35:45 35:49",
+      "count": 6
+    },
+    {
+      "interval": 49,
+      "times": "36:00 36:11 36:13 36:19 36:23 36:36",
+      "count": 6
+    },
+    {
+      "interval": 50,
+      "times": "37:09 37:16 37:23 37:29",
+      "count": 4
+    },
+    {
+      "interval": 51,
+      "times": "37:33 37:38 37:46 37:55 38:00 38:10 38:13",
+      "count": 7
+    },
+    {
+      "interval": 52,
+      "times": "38:18 38:24 38:31 38:51 38:53 38:59",
+      "count": 6
+    },
+    {
+      "interval": 53,
+      "times": "39:03 39:10 39:16 39:21 39:24 39:31 39:35 39:39 39:43",
+      "count": 9
+    },
+    {
+      "interval": 54,
+      "times": "39:48 39:51 39:55 40:09 40:12",
+      "count": 5
+    },
+    {
+      "interval": 55,
+      "times": "40:39 40:49 41:03 41:11",
+      "count": 4
+    },
+    {
+      "interval": 56,
+      "times": "41:51 41:57",
+      "count": 2
+    },
+    {
+      "interval": 57,
+      "times": "42:03 42:09 42:15",
+      "count": 3
+    },
+    {
+      "interval": 58,
+      "times": "42:54 43:12 43:28",
+      "count": 3
+    },
+    {
+      "interval": 59,
+      "times": "43:50 43:58 44:03 44:08",
+      "count": 4
+    },
+    {
+      "interval": 60,
+      "times": "44:17 44:31 44:44",
+      "count": 3
+    }
+  ],
+  "total": 253,
+  "mean": 4.216666666666667,
+  "histogram": [
+    0,
+    4,
+    9,
+    14,
+    7,
+    8,
+    10,
+    5,
+    1,
+    2,
+    0
+  ],
+  "pooled": [
+    {
+      "label": "0\u20132",
+      "observed": 13,
+      "expected": 12.482594575479247,
+      "contribution": 0.021446532746436035
+    },
+    {
+      "label": "3",
+      "observed": 14,
+      "expected": 11.056883838901422,
+      "contribution": 0.7833972811801062
+    },
+    {
+      "label": "4",
+      "observed": 7,
+      "expected": 11.655798380175266,
+      "contribution": 1.859714611545699
+    },
+    {
+      "label": "5",
+      "observed": 8,
+      "expected": 9.829723300614472,
+      "contribution": 0.3405881584278404
+    },
+    {
+      "label": "6",
+      "observed": 10,
+      "expected": 6.908111097376284,
+      "contribution": 1.3838481824356461
+    },
+    {
+      "label": "\u22657",
+      "observed": 8,
+      "expected": 8.066888807453306,
+      "contribution": 0.0005546267798301258
+    }
+  ],
+  "chi2": 4.389549393115558,
+  "df": 4,
+  "p": 0.35584567876631634,
+  "critical": 9.487729036781154
+}
