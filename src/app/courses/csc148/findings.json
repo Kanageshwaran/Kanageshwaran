@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Lab 1: a population is not a timestamp",
+    "text": "The response gives 1306.291 for n(t), but n(t) counts customers and must be an integer. The time alone does not determine how many customers remain. The new event lab shows how to count arrived but unfinished jobs. The saved base model is overloaded in long-run traffic intensity (400/300 > 1); a finite two-completion run can still terminate."
+  },
+  {
+    "title": "Lab 2: RN1 range and TABLE operands",
+    "text": "The bundled GPSS reference manual \u00a74.15 states that RN-class SNAs return integers 0\u2013999 inclusive. The submitted [0,1) floating-point answer and TABLE RN1,0,0.01,1 therefore do not implement 100-wide classes. D is the number of classes, not an endpoint. A corrected example is RNTABLE TABLE RN1,99,100,10. The browser uses a separate seeded generator, not GPSS World random-stream parity."
+  },
+  {
+    "title": "What RESTIME actually measures",
+    "text": "HW1 uses TABLE QT$CJW rather than a QTABLE. QT is the queue entity\u2019s accumulated average residence statistic, not the current customer\u2019s elapsed residence. The archived RESTIME histogram therefore samples an evolving average. A per-customer residence histogram can use RESTIME QTABLE CJW,5,5,20 and automatic QUEUE/DEPART timestamp collection, without TABULATE RESTIME. Both archived histograms remain visible with their original labels."
+  },
+  {
+    "title": "Queue sampling and the cleaning timer",
+    "text": "WAITCOUNT is tabulated after SEIZE and before DEPART CJCOUNT, so its sampled count includes the customer starting service. It is not the time-weighted queue-length distribution. The CLEAN stream advances 120 units and terminates the counter but never seizes BARBER, so it does not pause customer service. Its 50th completion sets the 48120 horizon."
+  },
+  {
+    "title": "Little\u2019s Law: finite-run boundary effects",
+    "text": "Lab 3 computes 0.1 \u00d7 60.684 = 6.0684. The saved report has CJW AVE.CONT. 6.096. They are close, not identical. The actual entry rate is 4834/48120 \u2248 0.100457, giving approximately 6.096 with the reported queue-time convention. Do not confuse theoretical \u03bb, observed arrivals, completed-customer averages and censored jobs at the horizon."
+  },
+  {
+    "title": "Capacity: the storage convention is inverted",
+    "text": "The HW2 model fills STORAGE during initialization, then LEAVEs it to acquire servers and ENTERs it to return them. Occupied storage represents free servers here. Busy-server fraction is therefore 1 \u2212 AVE.C./capacity, not the report\u2019s UTIL. The submission\u2019s capacity thresholds are consistent with this convention. Seeds in the source are not the documented pair: RMULT ,Seed1 and RMULT ,Seed2 both target RN2, leaving RN1 unchanged."
+  },
+  {
+    "title": "Capacity evidence has revision limits",
+    "text": "The submitted tables label a fixed service mean 4.9 while the saved model uses 5.0. Eight archived reports and the submitted screenshot are separate evidence artifacts, not proof that the one final .gps file reproduces all runs. No original GPSS engine or saved .sim executable state was run during this review."
+  },
+  {
+    "title": "Traffic fit: keep the tail and pool sparse bins",
+    "text": "The 60 listed intervals contain 253 vehicles. The submitted unpooled table truncates Poisson counts at 9 and includes expected cells below 5; its expected sum 59.315415 is not the stated 59.99. A new review pools 0\u20132, 3, 4, 5, 6 and \u22657, preserving the tail. With one fitted \u03bb, df=6\u22121\u22121=4, \u03c7\u00b2\u22484.38955 and p\u22480.35585. At 5%, fail to reject; this does not prove Poisson arrivals or independence."
+  },
+  {
+    "title": "Traffic source revisions and time formatting",
+    "text": "The final 60-interval table and HW3.docx list agree on 253 events. Earlier data1.xlsx has 256 timestamps, including three before the stated observation start. The four single-event cells in final.xlsx use Excel time serialization inconsistently with the surrounding mm:ss strings. The viewer uses the explicit mm:ss timestamps in HW3.docx, verifies each against the 45-second interval rule, and preserves the final counts. Earlier intermediate workbooks are not mixed into the final analysis."
+  },
+  {
+    "title": "HW4: persistent plots and range endpoints",
+    "text": "The instructor feedback records a plot that flashes then disappears, and missing documentation. The browser keeps the captured histogram visible beside inventory trajectories. Fresh HW4 execution with plotting-only adapters yielded 35 sales totaling 1333 widgets. int(np.random.uniform(30,50)) generates 30\u201349, matching the assignment appendix\u2019s half-open API description but not its earlier inclusive [30,50] wording. This ambiguity is made explicit."
+  },
+  {
+    "title": "HW5: restock events, lost sales and run cutoff",
+    "text": "Fresh execution reproduced the archived terminal summary: 10 stockouts, 80 completed restocks and 82 interrupts, with per-site counts [2,1,2,0,1,1,2,0,1,0]. The run stops before t=49 events execute; pending restocks can remain. A sale exceeding stock is lost; the site waits for its restock and then draws a new sale. The browser replays captured events, not a live Python process."
+  },
+  {
+    "title": "References are distinct from student work",
+    "text": "The ZIP includes 911 environment files, 0 IDE metadata files and 221 GPSS distribution files. Vendor samples, runtime dependencies, lectures, study guides and question sheets are not presented as original implementations. No external instructor plotting module is included; execution adapters capture its chart inputs only."
+  }
+]

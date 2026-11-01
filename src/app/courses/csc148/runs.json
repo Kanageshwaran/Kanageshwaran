@@ -1,0 +1,3412 @@
+[
+  {
+    "path": "hw-4/hw4.py",
+    "error": "",
+    "stdout": "\n================= START SIMULATION =================\n\nCreated Warehouse instance named  W1  at time  0  seed is 123456\n    Created CO instance  CO0  with init I(t) value  250\n    Created CO instance  CO1  with init I(t) value  250\n    Created CO instance  CO2  with init I(t) value  250\n    Created CO instance  CO3  with init I(t) value  250\n    Created CO instance  CO4  with init I(t) value  500\nStarting doSale for CO  CO0  at time  0\nStarting doSale for CO  CO1  at time  0\nStarting doSale for CO  CO2  at time  0\nStarting doSale for CO  CO3  at time  0\nStarting doSale for CO  CO4  at time  0\n... Starting numDoneReport\nSite  CO0  has I(t) value  214  at time  1\nSite  CO2  has I(t) value  204  at time  1\nSite  CO4  has I(t) value  460  at time  1\n### Sites that are finished at time  1 ::  {}\nSite  CO1  has I(t) value  212  at time  2\nSite  CO3  has I(t) value  203  at time  2\nSite  CO0  has I(t) value  177  at time  2\nSite  CO2  has I(t) value  159  at time  2\nSite  CO4  has I(t) value  428  at time  2\n### Sites that are finished at time  2 ::  {}\nSite  CO1  has I(t) value  178  at time  3\nSite  CO0  has I(t) value  136  at time  3\n### Sites that are finished at time  3 ::  {}\nSite  CO3  has I(t) value  172  at time  4\nSite  CO2  has I(t) value  125  at time  4\nSite  CO4  has I(t) value  379  at time  4\nSite  CO1  has I(t) value  148  at time  4\n### Sites that are finished at time  4 ::  {}\nSite  CO0  has I(t) value  91  at time  5\nSite  CO2  has I(t) value  89  at time  5\n### Sites that are finished at time  5 ::  {}\nSite  CO3  has I(t) value  135  at time  6\nSite  CO4  has I(t) value  344  at time  6\nSite  CO1  has I(t) value  101  at time  6\nSite  CO0  has I(t) value  49  at time  6\n  %%% CO  CO0  finished sales at time  6\nSite  CO2  has I(t) value  57  at time  6\n### Sites that are finished at time  6 ::  {'CO0': 'done'}\nSite  CO4  has I(t) value  306  at time  7\nSite  CO1  has I(t) value  60  at time  7\n### Sites that are finished at time  7 ::  {'CO0': 'done'}\nSite  CO3  has I(t) value  104  at time  8\nSite  CO2  has I(t) value  27  at time  8\n  %%% CO  CO2  finished sales at time  8\nSite  CO4  has I(t) value  267  at time  8\nSite  CO1  has I(t) value  21  at time  8\n  %%% CO  CO1  finished sales at time  8\n### Sites that are finished at time  8 ::  {'CO0': 'done', 'CO2': 'done', 'CO1': 'done'}\nSite  CO4  has I(t) value  221  at time  9\n### Sites that are finished at time  9 ::  {'CO0': 'done', 'CO2': 'done', 'CO1': 'done'}\nSite  CO3  has I(t) value  60  at time  10\n### Sites that are finished at time  10 ::  {'CO0': 'done', 'CO2': 'done', 'CO1': 'done'}\nSite  CO4  has I(t) value  180  at time  11\n### Sites that are finished at time  11 ::  {'CO0': 'done', 'CO2': 'done', 'CO1': 'done'}\nSite  CO3  has I(t) value  28  at time  12\n  %%% CO  CO3  finished sales at time  12\nSite  CO4  has I(t) value  149  at time  12\n### Sites that are finished at time  12 ::  {'CO0': 'done', 'CO2': 'done', 'CO1': 'done', 'CO3': 'done'}\n### Sites that are finished at time  13 ::  {'CO0': 'done', 'CO2': 'done', 'CO1': 'done', 'CO3': 'done'}\nSite  CO4  has I(t) value  117  at time  14\n### Sites that are finished at time  14 ::  {'CO0': 'done', 'CO2': 'done', 'CO1': 'done', 'CO3': 'done'}\n### Sites that are finished at time  15 ::  {'CO0': 'done', 'CO2': 'done', 'CO1': 'done', 'CO3': 'done'}\nSite  CO4  has I(t) value  75  at time  16\n### Sites that are finished at time  16 ::  {'CO0': 'done', 'CO2': 'done', 'CO1': 'done', 'CO3': 'done'}\nSite  CO4  has I(t) value  42  at time  17\n  %%% CO  CO4  finished sales at time  17\n### Sites that are finished at time  17 ::  {'CO0': 'done', 'CO2': 'done', 'CO1': 'done', 'CO3': 'done', 'CO4': 'done'}\n\nAll COk have finished at t=17.\n... numDoneReport finished execution at time:  17\n\n===== Final Accounting =====\nTotal sales amounts over all COk was  1333\nNumber of elements in salesSizeData list is  35\n\n================== END SIMULATION ==================\n\n",
+    "records": [
+      {
+        "site": "CO0",
+        "value": 214,
+        "t": 1.0,
+        "type": "sale",
+        "text": "Site  CO0  has I(t) value  214  at time  1"
+      },
+      {
+        "site": "CO2",
+        "value": 204,
+        "t": 1.0,
+        "type": "sale",
+        "text": "Site  CO2  has I(t) value  204  at time  1"
+      },
+      {
+        "site": "CO4",
+        "value": 460,
+        "t": 1.0,
+        "type": "sale",
+        "text": "Site  CO4  has I(t) value  460  at time  1"
+      },
+      {
+        "site": "CO1",
+        "value": 212,
+        "t": 2.0,
+        "type": "sale",
+        "text": "Site  CO1  has I(t) value  212  at time  2"
+      },
+      {
+        "site": "CO3",
+        "value": 203,
+        "t": 2.0,
+        "type": "sale",
+        "text": "Site  CO3  has I(t) value  203  at time  2"
+      },
+      {
+        "site": "CO0",
+        "value": 177,
+        "t": 2.0,
+        "type": "sale",
+        "text": "Site  CO0  has I(t) value  177  at time  2"
+      },
+      {
+        "site": "CO2",
+        "value": 159,
+        "t": 2.0,
+        "type": "sale",
+        "text": "Site  CO2  has I(t) value  159  at time  2"
+      },
+      {
+        "site": "CO4",
+        "value": 428,
+        "t": 2.0,
+        "type": "sale",
+        "text": "Site  CO4  has I(t) value  428  at time  2"
+      },
+      {
+        "site": "CO1",
+        "value": 178,
+        "t": 3.0,
+        "type": "sale",
+        "text": "Site  CO1  has I(t) value  178  at time  3"
+      },
+      {
+        "site": "CO0",
+        "value": 136,
+        "t": 3.0,
+        "type": "sale",
+        "text": "Site  CO0  has I(t) value  136  at time  3"
+      },
+      {
+        "site": "CO3",
+        "value": 172,
+        "t": 4.0,
+        "type": "sale",
+        "text": "Site  CO3  has I(t) value  172  at time  4"
+      },
+      {
+        "site": "CO2",
+        "value": 125,
+        "t": 4.0,
+        "type": "sale",
+        "text": "Site  CO2  has I(t) value  125  at time  4"
+      },
+      {
+        "site": "CO4",
+        "value": 379,
+        "t": 4.0,
+        "type": "sale",
+        "text": "Site  CO4  has I(t) value  379  at time  4"
+      },
+      {
+        "site": "CO1",
+        "value": 148,
+        "t": 4.0,
+        "type": "sale",
+        "text": "Site  CO1  has I(t) value  148  at time  4"
+      },
+      {
+        "site": "CO0",
+        "value": 91,
+        "t": 5.0,
+        "type": "sale",
+        "text": "Site  CO0  has I(t) value  91  at time  5"
+      },
+      {
+        "site": "CO2",
+        "value": 89,
+        "t": 5.0,
+        "type": "sale",
+        "text": "Site  CO2  has I(t) value  89  at time  5"
+      },
+      {
+        "site": "CO3",
+        "value": 135,
+        "t": 6.0,
+        "type": "sale",
+        "text": "Site  CO3  has I(t) value  135  at time  6"
+      },
+      {
+        "site": "CO4",
+        "value": 344,
+        "t": 6.0,
+        "type": "sale",
+        "text": "Site  CO4  has I(t) value  344  at time  6"
+      },
+      {
+        "site": "CO1",
+        "value": 101,
+        "t": 6.0,
+        "type": "sale",
+        "text": "Site  CO1  has I(t) value  101  at time  6"
+      },
+      {
+        "site": "CO0",
+        "value": 49,
+        "t": 6.0,
+        "type": "sale",
+        "text": "Site  CO0  has I(t) value  49  at time  6"
+      },
+      {
+        "site": "CO2",
+        "value": 57,
+        "t": 6.0,
+        "type": "sale",
+        "text": "Site  CO2  has I(t) value  57  at time  6"
+      },
+      {
+        "site": "CO4",
+        "value": 306,
+        "t": 7.0,
+        "type": "sale",
+        "text": "Site  CO4  has I(t) value  306  at time  7"
+      },
+      {
+        "site": "CO1",
+        "value": 60,
+        "t": 7.0,
+        "type": "sale",
+        "text": "Site  CO1  has I(t) value  60  at time  7"
+      },
+      {
+        "site": "CO3",
+        "value": 104,
+        "t": 8.0,
+        "type": "sale",
+        "text": "Site  CO3  has I(t) value  104  at time  8"
+      },
+      {
+        "site": "CO2",
+        "value": 27,
+        "t": 8.0,
+        "type": "sale",
+        "text": "Site  CO2  has I(t) value  27  at time  8"
+      },
+      {
+        "site": "CO4",
+        "value": 267,
+        "t": 8.0,
+        "type": "sale",
+        "text": "Site  CO4  has I(t) value  267  at time  8"
+      },
+      {
+        "site": "CO1",
+        "value": 21,
+        "t": 8.0,
+        "type": "sale",
+        "text": "Site  CO1  has I(t) value  21  at time  8"
+      },
+      {
+        "site": "CO4",
+        "value": 221,
+        "t": 9.0,
+        "type": "sale",
+        "text": "Site  CO4  has I(t) value  221  at time  9"
+      },
+      {
+        "site": "CO3",
+        "value": 60,
+        "t": 10.0,
+        "type": "sale",
+        "text": "Site  CO3  has I(t) value  60  at time  10"
+      },
+      {
+        "site": "CO4",
+        "value": 180,
+        "t": 11.0,
+        "type": "sale",
+        "text": "Site  CO4  has I(t) value  180  at time  11"
+      },
+      {
+        "site": "CO3",
+        "value": 28,
+        "t": 12.0,
+        "type": "sale",
+        "text": "Site  CO3  has I(t) value  28  at time  12"
+      },
+      {
+        "site": "CO4",
+        "value": 149,
+        "t": 12.0,
+        "type": "sale",
+        "text": "Site  CO4  has I(t) value  149  at time  12"
+      },
+      {
+        "site": "CO4",
+        "value": 117,
+        "t": 14.0,
+        "type": "sale",
+        "text": "Site  CO4  has I(t) value  117  at time  14"
+      },
+      {
+        "site": "CO4",
+        "value": 75,
+        "t": 16.0,
+        "type": "sale",
+        "text": "Site  CO4  has I(t) value  75  at time  16"
+      },
+      {
+        "site": "CO4",
+        "value": 42,
+        "t": 17.0,
+        "type": "sale",
+        "text": "Site  CO4  has I(t) value  42  at time  17"
+      }
+    ],
+    "plots": {
+      "histogram": [
+        36,
+        46,
+        40,
+        38,
+        47,
+        37,
+        45,
+        32,
+        34,
+        41,
+        31,
+        34,
+        49,
+        30,
+        45,
+        36,
+        37,
+        35,
+        47,
+        42,
+        32,
+        38,
+        41,
+        31,
+        30,
+        39,
+        39,
+        46,
+        44,
+        41,
+        32,
+        31,
+        32,
+        42,
+        33
+      ]
+    },
+    "provenance": "Fresh execution with SimPy 4.1.1. Original algorithms unchanged; absent instructor plot helpers replaced only to capture chart inputs, and display/save calls suppressed."
+  },
+  {
+    "path": "hw-5/hw5.py",
+    "error": "",
+    "stdout": "\n================= START SIMULATION =================\n\nPython version & info::  3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]\n\nYour 10-digit seed\n1234567890\nYour 10-digit seed\n1234567890\n\nRunning class Warehouse __init__ fcn at time  0  for warehouse  WH1  // random pkg seed is  1234567890\nCreating  10  CO stores, some of which start orders after a delay\n    Created CO instance  CO1  with init I(t) value  300\nStarting doOrders() for CO 1  at time  0  with Init inventory  300  and RP  100\n    Created CO instance  CO2  with init I(t) value  200\nStarting doOrders() for CO 2  at time  0  with Init inventory  200  and RP  100\n    Created CO instance  CO3  with init I(t) value  200\nStarting doOrders() for CO 3  at time  0  with Init inventory  200  and RP  100\n    Created CO instance  CO4  with init I(t) value  200\nStarting doOrders() for CO 4  at time  0  with Init inventory  200  and RP  100\n    Created CO instance  CO5  with init I(t) value  200\n    Created CO instance  CO6  with init I(t) value  200\n    Created CO instance  CO7  with init I(t) value  200\nStarting doOrders() for CO 7  at time  0  with Init inventory  200  and RP  100\n    Created CO instance  CO8  with init I(t) value  200\nStarting doOrders() for CO 8  at time  0  with Init inventory  200  and RP  100\n    Created CO instance  CO9  with init I(t) value  200\nStarting doOrders() for CO 9  at time  0  with Init inventory  200  and RP  100\n    Created CO instance  CO10  with init I(t) value  300\nStarting doOrders() for CO 10  at time  0  with Init inventory  300  and RP  100\nCO 3  I(t) level is  158  at time  1\nCO 9  I(t) level is  160  at time  1\nCO 10  I(t) level is  240  at time  1\nCO 1  I(t) level is  254  at time  2\nCO 2  I(t) level is  159  at time  2\nCO 4  I(t) level is  143  at time  2\nCO 7  I(t) level is  152  at time  2\nCO 8  I(t) level is  157  at time  2\nCO 3  I(t) level is  98  at time  2\n    III  CO 3  is interrupting warehouse w at time  2\nStart scheduling & delivering restock to CO 3  at time  2\nCO 9  I(t) level is  120  at time  2\nCO 10  I(t) level is  183  at time  2\nCO 2  I(t) level is  102  at time  3\nCO 9  I(t) level is  68  at time  3\n    III  CO 9  is interrupting warehouse w at time  3\nStart scheduling & delivering restock to CO 9  at time  3\nCO 3  I(t) level is  56  at time  3\nCO 1  I(t) level is  206  at time  4\nCO 4  I(t) level is  100  at time  4\nCO 7  I(t) level is  106  at time  4\nCO 8  I(t) level is  112  at time  4\nCO 10  I(t) level is  141  at time  4\n    CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  4\n    CNS CO 3  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  5\nCO 2  I(t) level is  56  at time  5\n    III  CO 2  is interrupting warehouse w at time  5\nStart scheduling & delivering restock to CO 2  at time  5\nCO 3  I(t) level is  150  at time  5\nCO 9  I(t) level is  145  at time  5\nCO 1  I(t) level is  150  at time  5\nCO 4  I(t) level is  54  at time  5\n    III  CO 4  is interrupting warehouse w at time  5\nStart scheduling & delivering restock to CO 4  at time  5\nCO 7  I(t) level is  65  at time  5\n    III  CO 7  is interrupting warehouse w at time  5\nStart scheduling & delivering restock to CO 7  at time  5\nCO 8  I(t) level is  61  at time  5\n    III  CO 8  is interrupting warehouse w at time  5\nStart scheduling & delivering restock to CO 8  at time  5\nCO 10  I(t) level is  81  at time  6\n    III  CO 10  is interrupting warehouse w at time  6\nStart scheduling & delivering restock to CO 10  at time  6\n    CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  6\n    CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  6\nCO 2  I(t) level is  141  at time  6\nCO 7  I(t) level is  17  at time  6\nCO 3  I(t) level is  100  at time  7\nCO 9  I(t) level is  90  at time  7\n    III  CO 9  is interrupting warehouse w at time  7\nStart scheduling & delivering restock to CO 9  at time  7\nCO 1  I(t) level is  90  at time  7\n    III  CO 1  is interrupting warehouse w at time  7\nStart scheduling & delivering restock to CO 1  at time  7\n    CNS CO 8  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  7\nCO 4  I(t) level is  147  at time  7\nCO 8  I(t) level is  159  at time  7\nCO 10  I(t) level is  28  at time  7\n    CNS CO 7  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  8\nCO 2  I(t) level is  84  at time  8\n    III  CO 2  is interrupting warehouse w at time  8\nStart scheduling & delivering restock to CO 2  at time  8\nCO 7  I(t) level is  145  at time  8\nCO 3  I(t) level is  44  at time  8\n    III  CO 3  is interrupting warehouse w at time  8\nStart scheduling & delivering restock to CO 3  at time  8\n    CNS CO 1  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  8\nCO 4  I(t) level is  105  at time  8\nCO 9  I(t) level is  47  at time  8\nCO 1  I(t) level is  257  at time  8\n    CNS CO 10  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  9\n    CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  9\nCO 8  I(t) level is  107  at time  9\nCO 10  I(t) level is  247  at time  9\nCO 7  I(t) level is  97  at time  9\n    III  CO 7  is interrupting warehouse w at time  9\nStart scheduling & delivering restock to CO 7  at time  9\nCO 9  I(t) level is  142  at time  9\nCO 2  I(t) level is  24  at time  9\n    RRR  Report - The COks with pending restocks at time  10 ::  ['CO2', 'CO3', 'CO7']\n    CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  10\nCO 4  I(t) level is  52  at time  10\n    III  CO 4  is interrupting warehouse w at time  10\nStart scheduling & delivering restock to CO 4  at time  10\nCO 1  I(t) level is  217  at time  10\n    SSS - Stockout occured for CO 3  at time  10\nCO 8  I(t) level is  56  at time  10\n    III  CO 8  is interrupting warehouse w at time  10\nStart scheduling & delivering restock to CO 8  at time  10\nCO 10  I(t) level is  199  at time  10\nCO 9  I(t) level is  89  at time  10\n    III  CO 9  is interrupting warehouse w at time  10\nStart scheduling & delivering restock to CO 9  at time  10\nCO 2  I(t) level is  143  at time  10\nCO 7  I(t) level is  38  at time  10\n  CRAS  CO 3  completed re-stock AFTER stockout; resume w. I(t)=  200  at time  11\n    CNS CO 7  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  11\n    CNS CO 8  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  11\nCO 10  I(t) level is  147  at time  11\nCO 4  I(t) level is  0  at time  11\nCO 8  I(t) level is  154  at time  11\nCO 9  I(t) level is  33  at time  11\nCO 1  I(t) level is  160  at time  12\n    CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  12\nCO 2  I(t) level is  102  at time  12\nCO 7  I(t) level is  141  at time  12\nCO 10  I(t) level is  99  at time  12\n    III  CO 10  is interrupting warehouse w at time  12\nStart scheduling & delivering restock to CO 10  at time  12\nCO 9  I(t) level is  143  at time  12\nCO 3  I(t) level is  148  at time  12\n    CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  13\nCO 4  I(t) level is  144  at time  13\nCO 8  I(t) level is  109  at time  13\nCO 1  I(t) level is  104  at time  13\nCO 2  I(t) level is  50  at time  13\n    III  CO 2  is interrupting warehouse w at time  13\nStart scheduling & delivering restock to CO 2  at time  13\nCO 7  I(t) level is  82  at time  14\n    III  CO 7  is interrupting warehouse w at time  14\nStart scheduling & delivering restock to CO 7  at time  14\n    CNS CO 10  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  14\nCO 9  I(t) level is  93  at time  14\n    III  CO 9  is interrupting warehouse w at time  14\nStart scheduling & delivering restock to CO 9  at time  14\nCO 3  I(t) level is  106  at time  14\nCO 10  I(t) level is  255  at time  14\nCO 4  I(t) level is  96  at time  14\n    III  CO 4  is interrupting warehouse w at time  14\nStart scheduling & delivering restock to CO 4  at time  14\nCO 1  I(t) level is  46  at time  14\n    III  CO 1  is interrupting warehouse w at time  14\nStart scheduling & delivering restock to CO 1  at time  14\n\nCOks that are beginning a deferred startup\n\n at t=15\nStarting doOrders() for CO 5  at time  15  with Init inventory  200  and RP  100\nStarting doOrders() for CO 6  at time  15  with Init inventory  200  and RP  100\nCO 8  I(t) level is  51  at time  15\n    III  CO 8  is interrupting warehouse w at time  15\nStart scheduling & delivering restock to CO 8  at time  15\n    SSS - Stockout occured for CO 2  at time  15\nCO 3  I(t) level is  49  at time  15\n    III  CO 3  is interrupting warehouse w at time  15\nStart scheduling & delivering restock to CO 3  at time  15\nCO 7  I(t) level is  26  at time  15\nCO 9  I(t) level is  49  at time  15\n    SSS - Stockout occured for CO 1  at time  15\n  CRAS  CO 2  completed re-stock AFTER stockout; resume w. I(t)=  200  at time  16\nCO 10  I(t) level is  203  at time  16\nCO 4  I(t) level is  38  at time  16\nCO 5  I(t) level is  142  at time  16\nCO 9  I(t) level is  2  at time  16\nCO 8  I(t) level is  9  at time  16\n    CNS CO 7  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  17\n    CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  17\n    CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  17\n  CRAS  CO 1  completed re-stock AFTER stockout; resume w. I(t)=  300  at time  17\nCO 6  I(t) level is  147  at time  17\n    CNS CO 8  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  17\n    CNS CO 3  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  17\nCO 7  I(t) level is  154  at time  17\nCO 3  I(t) level is  141  at time  17\nCO 10  I(t) level is  159  at time  17\nCO 4  I(t) level is  159  at time  17\nCO 9  I(t) level is  145  at time  17\nCO 2  I(t) level is  155  at time  17\nCO 5  I(t) level is  82  at time  18\n    III  CO 5  is interrupting warehouse w at time  18\nStart scheduling & delivering restock to CO 5  at time  18\nCO 8  I(t) level is  145  at time  18\nCO 7  I(t) level is  101  at time  18\nCO 3  I(t) level is  90  at time  18\n    III  CO 3  is interrupting warehouse w at time  18\nStart scheduling & delivering restock to CO 3  at time  18\nCO 6  I(t) level is  104  at time  19\nCO 10  I(t) level is  118  at time  19\nCO 4  I(t) level is  119  at time  19\nCO 9  I(t) level is  90  at time  19\n    III  CO 9  is interrupting warehouse w at time  19\nStart scheduling & delivering restock to CO 9  at time  19\nCO 2  I(t) level is  107  at time  19\nCO 1  I(t) level is  258  at time  19\nCO 8  I(t) level is  105  at time  19\nCO 5  I(t) level is  32  at time  19\nCO 3  I(t) level is  35  at time  19\n    RRR  Report - The COks with pending restocks at time  20 ::  ['CO3', 'CO5', 'CO9']\n    CNS CO 5  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  20\nCO 7  I(t) level is  47  at time  20\n    III  CO 7  is interrupting warehouse w at time  20\nStart scheduling & delivering restock to CO 7  at time  20\n    CNS CO 3  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  20\n    CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  20\nCO 9  I(t) level is  143  at time  20\nCO 6  I(t) level is  52  at time  21\n    III  CO 6  is interrupting warehouse w at time  21\nStart scheduling & delivering restock to CO 6  at time  21\nCO 10  I(t) level is  70  at time  21\n    III  CO 10  is interrupting warehouse w at time  21\nStart scheduling & delivering restock to CO 10  at time  21\nCO 4  I(t) level is  59  at time  21\n    III  CO 4  is interrupting warehouse w at time  21\nStart scheduling & delivering restock to CO 4  at time  21\nCO 2  I(t) level is  62  at time  21\n    III  CO 2  is interrupting warehouse w at time  21\nStart scheduling & delivering restock to CO 2  at time  21\nCO 1  I(t) level is  212  at time  21\nCO 8  I(t) level is  57  at time  21\n    III  CO 8  is interrupting warehouse w at time  21\nStart scheduling & delivering restock to CO 8  at time  21\nCO 5  I(t) level is  144  at time  21\nCO 3  I(t) level is  143  at time  21\nCO 7  I(t) level is  5  at time  21\nCO 9  I(t) level is  96  at time  22\n    III  CO 9  is interrupting warehouse w at time  22\nStart scheduling & delivering restock to CO 9  at time  22\nCO 1  I(t) level is  153  at time  22\n    SSS - Stockout occured for CO 7  at time  22\n    SSS - Stockout occured for CO 6  at time  22\nCO 2  I(t) level is  8  at time  22\nCO 8  I(t) level is  7  at time  22\n  CRAS  CO 7  completed re-stock AFTER stockout; resume w. I(t)=  200  at time  23\n    CNS CO 10  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  23\n    CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  23\nCO 5  I(t) level is  93  at time  23\n    III  CO 5  is interrupting warehouse w at time  23\nStart scheduling & delivering restock to CO 5  at time  23\nCO 3  I(t) level is  97  at time  23\n    III  CO 3  is interrupting warehouse w at time  23\nStart scheduling & delivering restock to CO 3  at time  23\nCO 10  I(t) level is  257  at time  23\nCO 4  I(t) level is  3  at time  23\nCO 1  I(t) level is  97  at time  23\n    III  CO 1  is interrupting warehouse w at time  23\nStart scheduling & delivering restock to CO 1  at time  23\nCO 9  I(t) level is  48  at time  23\n  CRAS  CO 6  completed re-stock AFTER stockout; resume w. I(t)=  200  at time  24\n    CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  24\n    CNS CO 8  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  24\n    CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  24\nCO 2  I(t) level is  154  at time  24\nCO 8  I(t) level is  160  at time  24\n    CNS CO 5  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  24\n    CNS CO 3  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  24\nCO 10  I(t) level is  197  at time  24\n    CNS CO 1  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  24\nCO 7  I(t) level is  152  at time  24\nCO 3  I(t) level is  152  at time  24\nCO 4  I(t) level is  144  at time  25\nCO 9  I(t) level is  141  at time  25\nCO 5  I(t) level is  151  at time  25\nCO 1  I(t) level is  244  at time  25\nCO 7  I(t) level is  98  at time  25\n    III  CO 7  is interrupting warehouse w at time  25\nStart scheduling & delivering restock to CO 7  at time  25\nCO 6  I(t) level is  144  at time  25\nCO 2  I(t) level is  106  at time  26\nCO 8  I(t) level is  104  at time  26\nCO 10  I(t) level is  155  at time  26\nCO 3  I(t) level is  103  at time  26\nCO 9  I(t) level is  99  at time  26\n    III  CO 9  is interrupting warehouse w at time  26\nStart scheduling & delivering restock to CO 9  at time  26\nCO 5  I(t) level is  106  at time  26\n    CNS CO 7  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  26\nCO 6  I(t) level is  95  at time  26\n    III  CO 6  is interrupting warehouse w at time  26\nStart scheduling & delivering restock to CO 6  at time  26\nCO 7  I(t) level is  152  at time  26\nCO 4  I(t) level is  94  at time  27\n    III  CO 4  is interrupting warehouse w at time  27\nStart scheduling & delivering restock to CO 4  at time  27\nCO 1  I(t) level is  191  at time  27\nCO 9  I(t) level is  49  at time  27\nCO 2  I(t) level is  66  at time  28\n    III  CO 2  is interrupting warehouse w at time  28\nStart scheduling & delivering restock to CO 2  at time  28\nCO 8  I(t) level is  48  at time  28\n    III  CO 8  is interrupting warehouse w at time  28\nStart scheduling & delivering restock to CO 8  at time  28\nCO 10  I(t) level is  98  at time  28\n    III  CO 10  is interrupting warehouse w at time  28\nStart scheduling & delivering restock to CO 10  at time  28\nCO 3  I(t) level is  50  at time  28\n    III  CO 3  is interrupting warehouse w at time  28\nStart scheduling & delivering restock to CO 3  at time  28\nCO 5  I(t) level is  56  at time  28\n    III  CO 5  is interrupting warehouse w at time  28\nStart scheduling & delivering restock to CO 5  at time  28\n    CNS CO 6  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  28\nCO 7  I(t) level is  108  at time  28\nCO 6  I(t) level is  158  at time  28\n    CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  28\n    SSS - Stockout occured for CO 9  at time  28\n  CRAS  CO 9  completed re-stock AFTER stockout; resume w. I(t)=  200  at time  29\nCO 1  I(t) level is  149  at time  29\nCO 4  I(t) level is  142  at time  29\n    CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  29\nCO 7  I(t) level is  50  at time  29\n    III  CO 7  is interrupting warehouse w at time  29\nStart scheduling & delivering restock to CO 7  at time  29\nCO 6  I(t) level is  102  at time  29\nCO 2  I(t) level is  151  at time  29\nCO 10  I(t) level is  55  at time  29\n    SSS - Stockout occured for CO 3  at time  29\n    SSS - Stockout occured for CO 5  at time  29\n    RRR  Report - The COks with pending restocks at time  30 ::  ['CO3', 'CO5', 'CO7', 'CO8', 'CO10']\n    CNS CO 8  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  30\n    CNS CO 10  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  30\n  CRAS  CO 3  completed re-stock AFTER stockout; resume w. I(t)=  200  at time  30\nCO 8  I(t) level is  152  at time  30\nCO 4  I(t) level is  84  at time  30\n    III  CO 4  is interrupting warehouse w at time  30\nStart scheduling & delivering restock to CO 4  at time  30\nCO 2  I(t) level is  97  at time  30\n    III  CO 2  is interrupting warehouse w at time  30\nStart scheduling & delivering restock to CO 2  at time  30\nCO 9  I(t) level is  158  at time  30\nCO 7  I(t) level is  2  at time  30\n  CRAS  CO 5  completed re-stock AFTER stockout; resume w. I(t)=  200  at time  31\nCO 1  I(t) level is  101  at time  31\n    CNS CO 7  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  31\nCO 6  I(t) level is  58  at time  31\n    III  CO 6  is interrupting warehouse w at time  31\nStart scheduling & delivering restock to CO 6  at time  31\nCO 10  I(t) level is  251  at time  31\n    CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  31\nCO 7  I(t) level is  152  at time  31\nCO 2  I(t) level is  46  at time  31\nCO 8  I(t) level is  96  at time  32\n    III  CO 8  is interrupting warehouse w at time  32\nStart scheduling & delivering restock to CO 8  at time  32\n    CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  32\nCO 9  I(t) level is  98  at time  32\n    III  CO 9  is interrupting warehouse w at time  32\nStart scheduling & delivering restock to CO 9  at time  32\nCO 3  I(t) level is  153  at time  32\nCO 4  I(t) level is  144  at time  32\n    CNS CO 6  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  32\nCO 10  I(t) level is  200  at time  32\nCO 7  I(t) level is  94  at time  32\n    III  CO 7  is interrupting warehouse w at time  32\nStart scheduling & delivering restock to CO 7  at time  32\nCO 5  I(t) level is  142  at time  32\nCO 6  I(t) level is  149  at time  32\nCO 1  I(t) level is  47  at time  33\n    III  CO 1  is interrupting warehouse w at time  33\nStart scheduling & delivering restock to CO 1  at time  33\nCO 2  I(t) level is  143  at time  33\nCO 3  I(t) level is  94  at time  33\n    III  CO 3  is interrupting warehouse w at time  33\nStart scheduling & delivering restock to CO 3  at time  33\n    CNS CO 7  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  33\nCO 5  I(t) level is  93  at time  33\n    III  CO 5  is interrupting warehouse w at time  33\nStart scheduling & delivering restock to CO 5  at time  33\nCO 6  I(t) level is  100  at time  33\nCO 9  I(t) level is  52  at time  33\nCO 7  I(t) level is  157  at time  33\n    CNS CO 8  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  34\n    CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  34\nCO 4  I(t) level is  88  at time  34\n    III  CO 4  is interrupting warehouse w at time  34\nStart scheduling & delivering restock to CO 4  at time  34\nCO 10  I(t) level is  148  at time  34\nCO 8  I(t) level is  151  at time  34\n    CNS CO 3  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  34\nCO 9  I(t) level is  152  at time  34\nCO 3  I(t) level is  159  at time  34\nCO 2  I(t) level is  92  at time  35\n    III  CO 2  is interrupting warehouse w at time  35\nStart scheduling & delivering restock to CO 2  at time  35\nCO 6  I(t) level is  49  at time  35\n    III  CO 6  is interrupting warehouse w at time  35\nStart scheduling & delivering restock to CO 6  at time  35\nCO 7  I(t) level is  114  at time  35\n    SSS - Stockout occured for CO 1  at time  35\nCO 5  I(t) level is  33  at time  35\n    CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  35\nCO 10  I(t) level is  108  at time  35\nCO 3  I(t) level is  112  at time  35\n  CRAS  CO 1  completed re-stock AFTER stockout; resume w. I(t)=  300  at time  36\n    CNS CO 5  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  36\nCO 8  I(t) level is  91  at time  36\n    III  CO 8  is interrupting warehouse w at time  36\nStart scheduling & delivering restock to CO 8  at time  36\nCO 9  I(t) level is  107  at time  36\nCO 4  I(t) level is  149  at time  36\n    CNS CO 6  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  36\nCO 7  I(t) level is  73  at time  36\n    III  CO 7  is interrupting warehouse w at time  36\nStart scheduling & delivering restock to CO 7  at time  36\nCO 5  I(t) level is  159  at time  36\nCO 10  I(t) level is  59  at time  36\n    III  CO 10  is interrupting warehouse w at time  36\nStart scheduling & delivering restock to CO 10  at time  36\nCO 3  I(t) level is  64  at time  36\n    III  CO 3  is interrupting warehouse w at time  36\nStart scheduling & delivering restock to CO 3  at time  36\nCO 2  I(t) level is  41  at time  36\n    CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  37\nCO 6  I(t) level is  154  at time  37\nCO 4  I(t) level is  90  at time  37\n    III  CO 4  is interrupting warehouse w at time  37\nStart scheduling & delivering restock to CO 4  at time  37\nCO 5  I(t) level is  114  at time  37\nCO 2  I(t) level is  154  at time  37\nCO 8  I(t) level is  38  at time  37\nCO 7  I(t) level is  24  at time  37\nCO 3  I(t) level is  21  at time  37\nCO 9  I(t) level is  55  at time  38\n    III  CO 9  is interrupting warehouse w at time  38\nStart scheduling & delivering restock to CO 9  at time  38\n    CNS CO 10  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  38\n    CNS CO 3  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  38\nCO 1  I(t) level is  247  at time  38\nCO 10  I(t) level is  256  at time  38\nCO 2  I(t) level is  111  at time  38\n    CNS CO 8  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  39\n    CNS CO 7  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  39\nCO 6  I(t) level is  101  at time  39\n    CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  39\nCO 5  I(t) level is  59  at time  39\n    III  CO 5  is interrupting warehouse w at time  39\nStart scheduling & delivering restock to CO 5  at time  39\nCO 8  I(t) level is  159  at time  39\nCO 7  I(t) level is  144  at time  39\nCO 3  I(t) level is  143  at time  39\nCO 4  I(t) level is  149  at time  39\n    CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  39\nCO 1  I(t) level is  206  at time  39\nCO 10  I(t) level is  202  at time  39\nCO 2  I(t) level is  68  at time  39\n    III  CO 2  is interrupting warehouse w at time  39\nStart scheduling & delivering restock to CO 2  at time  39\nCO 9  I(t) level is  140  at time  39\n    RRR  Report - The COks with pending restocks at time  40 ::  ['CO2', 'CO5']\nCO 6  I(t) level is  47  at time  40\n    III  CO 6  is interrupting warehouse w at time  40\nStart scheduling & delivering restock to CO 6  at time  40\nCO 7  I(t) level is  102  at time  40\nCO 8  I(t) level is  102  at time  41\nCO 3  I(t) level is  93  at time  41\n    III  CO 3  is interrupting warehouse w at time  41\nStart scheduling & delivering restock to CO 3  at time  41\nCO 4  I(t) level is  92  at time  41\n    III  CO 4  is interrupting warehouse w at time  41\nStart scheduling & delivering restock to CO 4  at time  41\nCO 1  I(t) level is  159  at time  41\nCO 10  I(t) level is  144  at time  41\nCO 9  I(t) level is  99  at time  41\n    III  CO 9  is interrupting warehouse w at time  41\nStart scheduling & delivering restock to CO 9  at time  41\nCO 5  I(t) level is  1  at time  41\nCO 2  I(t) level is  26  at time  41\nCO 7  I(t) level is  60  at time  41\n    III  CO 7  is interrupting warehouse w at time  41\nStart scheduling & delivering restock to CO 7  at time  41\n    CNS CO 5  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  42\n    CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  42\n    CNS CO 6  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  42\nCO 6  I(t) level is  146  at time  42\nCO 1  I(t) level is  103  at time  42\nCO 5  I(t) level is  153  at time  42\nCO 2  I(t) level is  153  at time  42\nCO 3  I(t) level is  51  at time  42\nCO 9  I(t) level is  41  at time  42\nCO 8  I(t) level is  53  at time  43\n    III  CO 8  is interrupting warehouse w at time  43\nStart scheduling & delivering restock to CO 8  at time  43\n    CNS CO 3  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  43\n    CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  43\nCO 10  I(t) level is  85  at time  43\n    III  CO 10  is interrupting warehouse w at time  43\nStart scheduling & delivering restock to CO 10  at time  43\n    CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  43\nCO 4  I(t) level is  160  at time  43\nCO 7  I(t) level is  11  at time  43\nCO 6  I(t) level is  99  at time  43\n    III  CO 6  is interrupting warehouse w at time  43\nStart scheduling & delivering restock to CO 6  at time  43\nCO 5  I(t) level is  106  at time  43\nCO 3  I(t) level is  157  at time  43\n    CNS CO 7  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  44\nCO 1  I(t) level is  58  at time  44\n    III  CO 1  is interrupting warehouse w at time  44\nStart scheduling & delivering restock to CO 1  at time  44\nCO 2  I(t) level is  112  at time  44\nCO 9  I(t) level is  144  at time  44\n    CNS CO 10  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  44\nCO 7  I(t) level is  143  at time  44\nCO 10  I(t) level is  259  at time  44\nCO 4  I(t) level is  104  at time  45\n    CNS CO 6  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  45\nCO 5  I(t) level is  58  at time  45\n    III  CO 5  is interrupting warehouse w at time  45\nStart scheduling & delivering restock to CO 5  at time  45\nCO 3  I(t) level is  107  at time  45\nCO 8  I(t) level is  13  at time  45\nCO 6  I(t) level is  157  at time  45\nCO 2  I(t) level is  65  at time  45\n    III  CO 2  is interrupting warehouse w at time  45\nStart scheduling & delivering restock to CO 2  at time  45\nCO 9  I(t) level is  84  at time  45\n    III  CO 9  is interrupting warehouse w at time  45\nStart scheduling & delivering restock to CO 9  at time  45\nCO 1  I(t) level is  6  at time  45\n    CNS CO 8  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  46\n    CNS CO 1  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  46\nCO 7  I(t) level is  95  at time  46\n    III  CO 7  is interrupting warehouse w at time  46\nStart scheduling & delivering restock to CO 7  at time  46\nCO 10  I(t) level is  214  at time  46\nCO 4  I(t) level is  51  at time  46\n    III  CO 4  is interrupting warehouse w at time  46\nStart scheduling & delivering restock to CO 4  at time  46\n    CNS CO 5  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  46\n    CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  46\nCO 5  I(t) level is  153  at time  46\nCO 2  I(t) level is  152  at time  46\nCO 3  I(t) level is  63  at time  47\n    III  CO 3  is interrupting warehouse w at time  47\nStart scheduling & delivering restock to CO 3  at time  47\nCO 8  I(t) level is  156  at time  47\nCO 6  I(t) level is  102  at time  47\nCO 1  I(t) level is  257  at time  47\nCO 9  I(t) level is  39  at time  47\n    CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  47\nCO 2  I(t) level is  92  at time  47\n    III  CO 2  is interrupting warehouse w at time  47\nStart scheduling & delivering restock to CO 2  at time  47\nCO 7  I(t) level is  35  at time  47\nCO 4  I(t) level is  155  at time  47\n    CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  48\nCO 10  I(t) level is  166  at time  48\nCO 5  I(t) level is  103  at time  48\nCO 8  I(t) level is  112  at time  48\nCO 1  I(t) level is  200  at time  48\n    CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  48\n    SSS - Stockout occured for CO 7  at time  48\nCO 4  I(t) level is  104  at time  48\nCO 3  I(t) level is  16  at time  48\nCO 2  I(t) level is  140  at time  48\nFinished run at model time  49 \n\n Summary Report\n\nGrand total number of stockouts over all COk   10\n\nRequired run Summary reporting\nTotal number of restocks completed & interrupts thrown by all COk   80  &  82\nNumber of stockouts, by COk number   [2, 1, 2, 0, 1, 1, 2, 0, 1, 0]\n\n",
+    "records": [
+      {
+        "site": "CO3",
+        "value": 158,
+        "t": 1.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  158  at time  1"
+      },
+      {
+        "site": "CO9",
+        "value": 160,
+        "t": 1.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  160  at time  1"
+      },
+      {
+        "site": "CO10",
+        "value": 240,
+        "t": 1.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  240  at time  1"
+      },
+      {
+        "site": "CO1",
+        "value": 254,
+        "t": 2.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  254  at time  2"
+      },
+      {
+        "site": "CO2",
+        "value": 159,
+        "t": 2.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  159  at time  2"
+      },
+      {
+        "site": "CO4",
+        "value": 143,
+        "t": 2.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  143  at time  2"
+      },
+      {
+        "site": "CO7",
+        "value": 152,
+        "t": 2.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  152  at time  2"
+      },
+      {
+        "site": "CO8",
+        "value": 157,
+        "t": 2.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  157  at time  2"
+      },
+      {
+        "site": "CO3",
+        "value": 98,
+        "t": 2.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  98  at time  2"
+      },
+      {
+        "site": "CO3",
+        "t": 2.0,
+        "type": "interrupt",
+        "text": "III  CO 3  is interrupting warehouse w at time  2"
+      },
+      {
+        "site": "CO9",
+        "value": 120,
+        "t": 2.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  120  at time  2"
+      },
+      {
+        "site": "CO10",
+        "value": 183,
+        "t": 2.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  183  at time  2"
+      },
+      {
+        "site": "CO2",
+        "value": 102,
+        "t": 3.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  102  at time  3"
+      },
+      {
+        "site": "CO9",
+        "value": 68,
+        "t": 3.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  68  at time  3"
+      },
+      {
+        "site": "CO9",
+        "t": 3.0,
+        "type": "interrupt",
+        "text": "III  CO 9  is interrupting warehouse w at time  3"
+      },
+      {
+        "site": "CO3",
+        "value": 56,
+        "t": 3.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  56  at time  3"
+      },
+      {
+        "site": "CO1",
+        "value": 206,
+        "t": 4.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  206  at time  4"
+      },
+      {
+        "site": "CO4",
+        "value": 100,
+        "t": 4.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  100  at time  4"
+      },
+      {
+        "site": "CO7",
+        "value": 106,
+        "t": 4.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  106  at time  4"
+      },
+      {
+        "site": "CO8",
+        "value": 112,
+        "t": 4.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  112  at time  4"
+      },
+      {
+        "site": "CO10",
+        "value": 141,
+        "t": 4.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  141  at time  4"
+      },
+      {
+        "site": "CO9",
+        "value": 200,
+        "t": 4.0,
+        "type": "restock",
+        "text": "CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  4"
+      },
+      {
+        "site": "CO3",
+        "value": 200,
+        "t": 5.0,
+        "type": "restock",
+        "text": "CNS CO 3  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  5"
+      },
+      {
+        "site": "CO2",
+        "value": 56,
+        "t": 5.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  56  at time  5"
+      },
+      {
+        "site": "CO2",
+        "t": 5.0,
+        "type": "interrupt",
+        "text": "III  CO 2  is interrupting warehouse w at time  5"
+      },
+      {
+        "site": "CO3",
+        "value": 150,
+        "t": 5.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  150  at time  5"
+      },
+      {
+        "site": "CO9",
+        "value": 145,
+        "t": 5.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  145  at time  5"
+      },
+      {
+        "site": "CO1",
+        "value": 150,
+        "t": 5.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  150  at time  5"
+      },
+      {
+        "site": "CO4",
+        "value": 54,
+        "t": 5.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  54  at time  5"
+      },
+      {
+        "site": "CO4",
+        "t": 5.0,
+        "type": "interrupt",
+        "text": "III  CO 4  is interrupting warehouse w at time  5"
+      },
+      {
+        "site": "CO7",
+        "value": 65,
+        "t": 5.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  65  at time  5"
+      },
+      {
+        "site": "CO7",
+        "t": 5.0,
+        "type": "interrupt",
+        "text": "III  CO 7  is interrupting warehouse w at time  5"
+      },
+      {
+        "site": "CO8",
+        "value": 61,
+        "t": 5.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  61  at time  5"
+      },
+      {
+        "site": "CO8",
+        "t": 5.0,
+        "type": "interrupt",
+        "text": "III  CO 8  is interrupting warehouse w at time  5"
+      },
+      {
+        "site": "CO10",
+        "value": 81,
+        "t": 6.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  81  at time  6"
+      },
+      {
+        "site": "CO10",
+        "t": 6.0,
+        "type": "interrupt",
+        "text": "III  CO 10  is interrupting warehouse w at time  6"
+      },
+      {
+        "site": "CO2",
+        "value": 200,
+        "t": 6.0,
+        "type": "restock",
+        "text": "CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  6"
+      },
+      {
+        "site": "CO4",
+        "value": 200,
+        "t": 6.0,
+        "type": "restock",
+        "text": "CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  6"
+      },
+      {
+        "site": "CO2",
+        "value": 141,
+        "t": 6.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  141  at time  6"
+      },
+      {
+        "site": "CO7",
+        "value": 17,
+        "t": 6.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  17  at time  6"
+      },
+      {
+        "site": "CO3",
+        "value": 100,
+        "t": 7.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  100  at time  7"
+      },
+      {
+        "site": "CO9",
+        "value": 90,
+        "t": 7.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  90  at time  7"
+      },
+      {
+        "site": "CO9",
+        "t": 7.0,
+        "type": "interrupt",
+        "text": "III  CO 9  is interrupting warehouse w at time  7"
+      },
+      {
+        "site": "CO1",
+        "value": 90,
+        "t": 7.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  90  at time  7"
+      },
+      {
+        "site": "CO1",
+        "t": 7.0,
+        "type": "interrupt",
+        "text": "III  CO 1  is interrupting warehouse w at time  7"
+      },
+      {
+        "site": "CO8",
+        "value": 200,
+        "t": 7.0,
+        "type": "restock",
+        "text": "CNS CO 8  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  7"
+      },
+      {
+        "site": "CO4",
+        "value": 147,
+        "t": 7.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  147  at time  7"
+      },
+      {
+        "site": "CO8",
+        "value": 159,
+        "t": 7.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  159  at time  7"
+      },
+      {
+        "site": "CO10",
+        "value": 28,
+        "t": 7.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  28  at time  7"
+      },
+      {
+        "site": "CO7",
+        "value": 200,
+        "t": 8.0,
+        "type": "restock",
+        "text": "CNS CO 7  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  8"
+      },
+      {
+        "site": "CO2",
+        "value": 84,
+        "t": 8.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  84  at time  8"
+      },
+      {
+        "site": "CO2",
+        "t": 8.0,
+        "type": "interrupt",
+        "text": "III  CO 2  is interrupting warehouse w at time  8"
+      },
+      {
+        "site": "CO7",
+        "value": 145,
+        "t": 8.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  145  at time  8"
+      },
+      {
+        "site": "CO3",
+        "value": 44,
+        "t": 8.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  44  at time  8"
+      },
+      {
+        "site": "CO3",
+        "t": 8.0,
+        "type": "interrupt",
+        "text": "III  CO 3  is interrupting warehouse w at time  8"
+      },
+      {
+        "site": "CO1",
+        "value": 300,
+        "t": 8.0,
+        "type": "restock",
+        "text": "CNS CO 1  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  8"
+      },
+      {
+        "site": "CO4",
+        "value": 105,
+        "t": 8.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  105  at time  8"
+      },
+      {
+        "site": "CO9",
+        "value": 47,
+        "t": 8.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  47  at time  8"
+      },
+      {
+        "site": "CO1",
+        "value": 257,
+        "t": 8.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  257  at time  8"
+      },
+      {
+        "site": "CO10",
+        "value": 300,
+        "t": 9.0,
+        "type": "restock",
+        "text": "CNS CO 10  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  9"
+      },
+      {
+        "site": "CO9",
+        "value": 200,
+        "t": 9.0,
+        "type": "restock",
+        "text": "CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  9"
+      },
+      {
+        "site": "CO8",
+        "value": 107,
+        "t": 9.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  107  at time  9"
+      },
+      {
+        "site": "CO10",
+        "value": 247,
+        "t": 9.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  247  at time  9"
+      },
+      {
+        "site": "CO7",
+        "value": 97,
+        "t": 9.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  97  at time  9"
+      },
+      {
+        "site": "CO7",
+        "t": 9.0,
+        "type": "interrupt",
+        "text": "III  CO 7  is interrupting warehouse w at time  9"
+      },
+      {
+        "site": "CO9",
+        "value": 142,
+        "t": 9.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  142  at time  9"
+      },
+      {
+        "site": "CO2",
+        "value": 24,
+        "t": 9.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  24  at time  9"
+      },
+      {
+        "site": "W",
+        "t": 10.0,
+        "type": "report",
+        "text": "RRR  Report - The COks with pending restocks at time  10 ::  ['CO2', 'CO3', 'CO7']"
+      },
+      {
+        "site": "CO2",
+        "value": 200,
+        "t": 10.0,
+        "type": "restock",
+        "text": "CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  10"
+      },
+      {
+        "site": "CO4",
+        "value": 52,
+        "t": 10.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  52  at time  10"
+      },
+      {
+        "site": "CO4",
+        "t": 10.0,
+        "type": "interrupt",
+        "text": "III  CO 4  is interrupting warehouse w at time  10"
+      },
+      {
+        "site": "CO1",
+        "value": 217,
+        "t": 10.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  217  at time  10"
+      },
+      {
+        "site": "CO3",
+        "t": 10.0,
+        "type": "stockout",
+        "text": "SSS - Stockout occured for CO 3  at time  10"
+      },
+      {
+        "site": "CO8",
+        "value": 56,
+        "t": 10.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  56  at time  10"
+      },
+      {
+        "site": "CO8",
+        "t": 10.0,
+        "type": "interrupt",
+        "text": "III  CO 8  is interrupting warehouse w at time  10"
+      },
+      {
+        "site": "CO10",
+        "value": 199,
+        "t": 10.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  199  at time  10"
+      },
+      {
+        "site": "CO9",
+        "value": 89,
+        "t": 10.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  89  at time  10"
+      },
+      {
+        "site": "CO9",
+        "t": 10.0,
+        "type": "interrupt",
+        "text": "III  CO 9  is interrupting warehouse w at time  10"
+      },
+      {
+        "site": "CO2",
+        "value": 143,
+        "t": 10.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  143  at time  10"
+      },
+      {
+        "site": "CO7",
+        "value": 38,
+        "t": 10.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  38  at time  10"
+      },
+      {
+        "site": "CO3",
+        "value": 200,
+        "t": 11.0,
+        "type": "restock",
+        "text": "CRAS  CO 3  completed re-stock AFTER stockout; resume w. I(t)=  200  at time  11"
+      },
+      {
+        "site": "CO7",
+        "value": 200,
+        "t": 11.0,
+        "type": "restock",
+        "text": "CNS CO 7  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  11"
+      },
+      {
+        "site": "CO8",
+        "value": 200,
+        "t": 11.0,
+        "type": "restock",
+        "text": "CNS CO 8  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  11"
+      },
+      {
+        "site": "CO10",
+        "value": 147,
+        "t": 11.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  147  at time  11"
+      },
+      {
+        "site": "CO4",
+        "value": 0,
+        "t": 11.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  0  at time  11"
+      },
+      {
+        "site": "CO8",
+        "value": 154,
+        "t": 11.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  154  at time  11"
+      },
+      {
+        "site": "CO9",
+        "value": 33,
+        "t": 11.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  33  at time  11"
+      },
+      {
+        "site": "CO1",
+        "value": 160,
+        "t": 12.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  160  at time  12"
+      },
+      {
+        "site": "CO9",
+        "value": 200,
+        "t": 12.0,
+        "type": "restock",
+        "text": "CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  12"
+      },
+      {
+        "site": "CO2",
+        "value": 102,
+        "t": 12.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  102  at time  12"
+      },
+      {
+        "site": "CO7",
+        "value": 141,
+        "t": 12.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  141  at time  12"
+      },
+      {
+        "site": "CO10",
+        "value": 99,
+        "t": 12.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  99  at time  12"
+      },
+      {
+        "site": "CO10",
+        "t": 12.0,
+        "type": "interrupt",
+        "text": "III  CO 10  is interrupting warehouse w at time  12"
+      },
+      {
+        "site": "CO9",
+        "value": 143,
+        "t": 12.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  143  at time  12"
+      },
+      {
+        "site": "CO3",
+        "value": 148,
+        "t": 12.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  148  at time  12"
+      },
+      {
+        "site": "CO4",
+        "value": 200,
+        "t": 13.0,
+        "type": "restock",
+        "text": "CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  13"
+      },
+      {
+        "site": "CO4",
+        "value": 144,
+        "t": 13.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  144  at time  13"
+      },
+      {
+        "site": "CO8",
+        "value": 109,
+        "t": 13.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  109  at time  13"
+      },
+      {
+        "site": "CO1",
+        "value": 104,
+        "t": 13.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  104  at time  13"
+      },
+      {
+        "site": "CO2",
+        "value": 50,
+        "t": 13.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  50  at time  13"
+      },
+      {
+        "site": "CO2",
+        "t": 13.0,
+        "type": "interrupt",
+        "text": "III  CO 2  is interrupting warehouse w at time  13"
+      },
+      {
+        "site": "CO7",
+        "value": 82,
+        "t": 14.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  82  at time  14"
+      },
+      {
+        "site": "CO7",
+        "t": 14.0,
+        "type": "interrupt",
+        "text": "III  CO 7  is interrupting warehouse w at time  14"
+      },
+      {
+        "site": "CO10",
+        "value": 300,
+        "t": 14.0,
+        "type": "restock",
+        "text": "CNS CO 10  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  14"
+      },
+      {
+        "site": "CO9",
+        "value": 93,
+        "t": 14.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  93  at time  14"
+      },
+      {
+        "site": "CO9",
+        "t": 14.0,
+        "type": "interrupt",
+        "text": "III  CO 9  is interrupting warehouse w at time  14"
+      },
+      {
+        "site": "CO3",
+        "value": 106,
+        "t": 14.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  106  at time  14"
+      },
+      {
+        "site": "CO10",
+        "value": 255,
+        "t": 14.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  255  at time  14"
+      },
+      {
+        "site": "CO4",
+        "value": 96,
+        "t": 14.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  96  at time  14"
+      },
+      {
+        "site": "CO4",
+        "t": 14.0,
+        "type": "interrupt",
+        "text": "III  CO 4  is interrupting warehouse w at time  14"
+      },
+      {
+        "site": "CO1",
+        "value": 46,
+        "t": 14.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  46  at time  14"
+      },
+      {
+        "site": "CO1",
+        "t": 14.0,
+        "type": "interrupt",
+        "text": "III  CO 1  is interrupting warehouse w at time  14"
+      },
+      {
+        "site": "CO8",
+        "value": 51,
+        "t": 15.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  51  at time  15"
+      },
+      {
+        "site": "CO8",
+        "t": 15.0,
+        "type": "interrupt",
+        "text": "III  CO 8  is interrupting warehouse w at time  15"
+      },
+      {
+        "site": "CO2",
+        "t": 15.0,
+        "type": "stockout",
+        "text": "SSS - Stockout occured for CO 2  at time  15"
+      },
+      {
+        "site": "CO3",
+        "value": 49,
+        "t": 15.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  49  at time  15"
+      },
+      {
+        "site": "CO3",
+        "t": 15.0,
+        "type": "interrupt",
+        "text": "III  CO 3  is interrupting warehouse w at time  15"
+      },
+      {
+        "site": "CO7",
+        "value": 26,
+        "t": 15.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  26  at time  15"
+      },
+      {
+        "site": "CO9",
+        "value": 49,
+        "t": 15.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  49  at time  15"
+      },
+      {
+        "site": "CO1",
+        "t": 15.0,
+        "type": "stockout",
+        "text": "SSS - Stockout occured for CO 1  at time  15"
+      },
+      {
+        "site": "CO2",
+        "value": 200,
+        "t": 16.0,
+        "type": "restock",
+        "text": "CRAS  CO 2  completed re-stock AFTER stockout; resume w. I(t)=  200  at time  16"
+      },
+      {
+        "site": "CO10",
+        "value": 203,
+        "t": 16.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  203  at time  16"
+      },
+      {
+        "site": "CO4",
+        "value": 38,
+        "t": 16.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  38  at time  16"
+      },
+      {
+        "site": "CO5",
+        "value": 142,
+        "t": 16.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  142  at time  16"
+      },
+      {
+        "site": "CO9",
+        "value": 2,
+        "t": 16.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  2  at time  16"
+      },
+      {
+        "site": "CO8",
+        "value": 9,
+        "t": 16.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  9  at time  16"
+      },
+      {
+        "site": "CO7",
+        "value": 200,
+        "t": 17.0,
+        "type": "restock",
+        "text": "CNS CO 7  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  17"
+      },
+      {
+        "site": "CO9",
+        "value": 200,
+        "t": 17.0,
+        "type": "restock",
+        "text": "CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  17"
+      },
+      {
+        "site": "CO4",
+        "value": 200,
+        "t": 17.0,
+        "type": "restock",
+        "text": "CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  17"
+      },
+      {
+        "site": "CO1",
+        "value": 300,
+        "t": 17.0,
+        "type": "restock",
+        "text": "CRAS  CO 1  completed re-stock AFTER stockout; resume w. I(t)=  300  at time  17"
+      },
+      {
+        "site": "CO6",
+        "value": 147,
+        "t": 17.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  147  at time  17"
+      },
+      {
+        "site": "CO8",
+        "value": 200,
+        "t": 17.0,
+        "type": "restock",
+        "text": "CNS CO 8  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  17"
+      },
+      {
+        "site": "CO3",
+        "value": 200,
+        "t": 17.0,
+        "type": "restock",
+        "text": "CNS CO 3  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  17"
+      },
+      {
+        "site": "CO7",
+        "value": 154,
+        "t": 17.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  154  at time  17"
+      },
+      {
+        "site": "CO3",
+        "value": 141,
+        "t": 17.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  141  at time  17"
+      },
+      {
+        "site": "CO10",
+        "value": 159,
+        "t": 17.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  159  at time  17"
+      },
+      {
+        "site": "CO4",
+        "value": 159,
+        "t": 17.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  159  at time  17"
+      },
+      {
+        "site": "CO9",
+        "value": 145,
+        "t": 17.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  145  at time  17"
+      },
+      {
+        "site": "CO2",
+        "value": 155,
+        "t": 17.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  155  at time  17"
+      },
+      {
+        "site": "CO5",
+        "value": 82,
+        "t": 18.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  82  at time  18"
+      },
+      {
+        "site": "CO5",
+        "t": 18.0,
+        "type": "interrupt",
+        "text": "III  CO 5  is interrupting warehouse w at time  18"
+      },
+      {
+        "site": "CO8",
+        "value": 145,
+        "t": 18.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  145  at time  18"
+      },
+      {
+        "site": "CO7",
+        "value": 101,
+        "t": 18.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  101  at time  18"
+      },
+      {
+        "site": "CO3",
+        "value": 90,
+        "t": 18.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  90  at time  18"
+      },
+      {
+        "site": "CO3",
+        "t": 18.0,
+        "type": "interrupt",
+        "text": "III  CO 3  is interrupting warehouse w at time  18"
+      },
+      {
+        "site": "CO6",
+        "value": 104,
+        "t": 19.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  104  at time  19"
+      },
+      {
+        "site": "CO10",
+        "value": 118,
+        "t": 19.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  118  at time  19"
+      },
+      {
+        "site": "CO4",
+        "value": 119,
+        "t": 19.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  119  at time  19"
+      },
+      {
+        "site": "CO9",
+        "value": 90,
+        "t": 19.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  90  at time  19"
+      },
+      {
+        "site": "CO9",
+        "t": 19.0,
+        "type": "interrupt",
+        "text": "III  CO 9  is interrupting warehouse w at time  19"
+      },
+      {
+        "site": "CO2",
+        "value": 107,
+        "t": 19.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  107  at time  19"
+      },
+      {
+        "site": "CO1",
+        "value": 258,
+        "t": 19.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  258  at time  19"
+      },
+      {
+        "site": "CO8",
+        "value": 105,
+        "t": 19.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  105  at time  19"
+      },
+      {
+        "site": "CO5",
+        "value": 32,
+        "t": 19.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  32  at time  19"
+      },
+      {
+        "site": "CO3",
+        "value": 35,
+        "t": 19.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  35  at time  19"
+      },
+      {
+        "site": "W",
+        "t": 20.0,
+        "type": "report",
+        "text": "RRR  Report - The COks with pending restocks at time  20 ::  ['CO3', 'CO5', 'CO9']"
+      },
+      {
+        "site": "CO5",
+        "value": 200,
+        "t": 20.0,
+        "type": "restock",
+        "text": "CNS CO 5  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  20"
+      },
+      {
+        "site": "CO7",
+        "value": 47,
+        "t": 20.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  47  at time  20"
+      },
+      {
+        "site": "CO7",
+        "t": 20.0,
+        "type": "interrupt",
+        "text": "III  CO 7  is interrupting warehouse w at time  20"
+      },
+      {
+        "site": "CO3",
+        "value": 200,
+        "t": 20.0,
+        "type": "restock",
+        "text": "CNS CO 3  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  20"
+      },
+      {
+        "site": "CO9",
+        "value": 200,
+        "t": 20.0,
+        "type": "restock",
+        "text": "CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  20"
+      },
+      {
+        "site": "CO9",
+        "value": 143,
+        "t": 20.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  143  at time  20"
+      },
+      {
+        "site": "CO6",
+        "value": 52,
+        "t": 21.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  52  at time  21"
+      },
+      {
+        "site": "CO6",
+        "t": 21.0,
+        "type": "interrupt",
+        "text": "III  CO 6  is interrupting warehouse w at time  21"
+      },
+      {
+        "site": "CO10",
+        "value": 70,
+        "t": 21.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  70  at time  21"
+      },
+      {
+        "site": "CO10",
+        "t": 21.0,
+        "type": "interrupt",
+        "text": "III  CO 10  is interrupting warehouse w at time  21"
+      },
+      {
+        "site": "CO4",
+        "value": 59,
+        "t": 21.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  59  at time  21"
+      },
+      {
+        "site": "CO4",
+        "t": 21.0,
+        "type": "interrupt",
+        "text": "III  CO 4  is interrupting warehouse w at time  21"
+      },
+      {
+        "site": "CO2",
+        "value": 62,
+        "t": 21.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  62  at time  21"
+      },
+      {
+        "site": "CO2",
+        "t": 21.0,
+        "type": "interrupt",
+        "text": "III  CO 2  is interrupting warehouse w at time  21"
+      },
+      {
+        "site": "CO1",
+        "value": 212,
+        "t": 21.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  212  at time  21"
+      },
+      {
+        "site": "CO8",
+        "value": 57,
+        "t": 21.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  57  at time  21"
+      },
+      {
+        "site": "CO8",
+        "t": 21.0,
+        "type": "interrupt",
+        "text": "III  CO 8  is interrupting warehouse w at time  21"
+      },
+      {
+        "site": "CO5",
+        "value": 144,
+        "t": 21.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  144  at time  21"
+      },
+      {
+        "site": "CO3",
+        "value": 143,
+        "t": 21.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  143  at time  21"
+      },
+      {
+        "site": "CO7",
+        "value": 5,
+        "t": 21.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  5  at time  21"
+      },
+      {
+        "site": "CO9",
+        "value": 96,
+        "t": 22.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  96  at time  22"
+      },
+      {
+        "site": "CO9",
+        "t": 22.0,
+        "type": "interrupt",
+        "text": "III  CO 9  is interrupting warehouse w at time  22"
+      },
+      {
+        "site": "CO1",
+        "value": 153,
+        "t": 22.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  153  at time  22"
+      },
+      {
+        "site": "CO7",
+        "t": 22.0,
+        "type": "stockout",
+        "text": "SSS - Stockout occured for CO 7  at time  22"
+      },
+      {
+        "site": "CO6",
+        "t": 22.0,
+        "type": "stockout",
+        "text": "SSS - Stockout occured for CO 6  at time  22"
+      },
+      {
+        "site": "CO2",
+        "value": 8,
+        "t": 22.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  8  at time  22"
+      },
+      {
+        "site": "CO8",
+        "value": 7,
+        "t": 22.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  7  at time  22"
+      },
+      {
+        "site": "CO7",
+        "value": 200,
+        "t": 23.0,
+        "type": "restock",
+        "text": "CRAS  CO 7  completed re-stock AFTER stockout; resume w. I(t)=  200  at time  23"
+      },
+      {
+        "site": "CO10",
+        "value": 300,
+        "t": 23.0,
+        "type": "restock",
+        "text": "CNS CO 10  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  23"
+      },
+      {
+        "site": "CO2",
+        "value": 200,
+        "t": 23.0,
+        "type": "restock",
+        "text": "CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  23"
+      },
+      {
+        "site": "CO5",
+        "value": 93,
+        "t": 23.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  93  at time  23"
+      },
+      {
+        "site": "CO5",
+        "t": 23.0,
+        "type": "interrupt",
+        "text": "III  CO 5  is interrupting warehouse w at time  23"
+      },
+      {
+        "site": "CO3",
+        "value": 97,
+        "t": 23.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  97  at time  23"
+      },
+      {
+        "site": "CO3",
+        "t": 23.0,
+        "type": "interrupt",
+        "text": "III  CO 3  is interrupting warehouse w at time  23"
+      },
+      {
+        "site": "CO10",
+        "value": 257,
+        "t": 23.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  257  at time  23"
+      },
+      {
+        "site": "CO4",
+        "value": 3,
+        "t": 23.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  3  at time  23"
+      },
+      {
+        "site": "CO1",
+        "value": 97,
+        "t": 23.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  97  at time  23"
+      },
+      {
+        "site": "CO1",
+        "t": 23.0,
+        "type": "interrupt",
+        "text": "III  CO 1  is interrupting warehouse w at time  23"
+      },
+      {
+        "site": "CO9",
+        "value": 48,
+        "t": 23.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  48  at time  23"
+      },
+      {
+        "site": "CO6",
+        "value": 200,
+        "t": 24.0,
+        "type": "restock",
+        "text": "CRAS  CO 6  completed re-stock AFTER stockout; resume w. I(t)=  200  at time  24"
+      },
+      {
+        "site": "CO4",
+        "value": 200,
+        "t": 24.0,
+        "type": "restock",
+        "text": "CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  24"
+      },
+      {
+        "site": "CO8",
+        "value": 200,
+        "t": 24.0,
+        "type": "restock",
+        "text": "CNS CO 8  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  24"
+      },
+      {
+        "site": "CO9",
+        "value": 200,
+        "t": 24.0,
+        "type": "restock",
+        "text": "CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  24"
+      },
+      {
+        "site": "CO2",
+        "value": 154,
+        "t": 24.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  154  at time  24"
+      },
+      {
+        "site": "CO8",
+        "value": 160,
+        "t": 24.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  160  at time  24"
+      },
+      {
+        "site": "CO5",
+        "value": 200,
+        "t": 24.0,
+        "type": "restock",
+        "text": "CNS CO 5  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  24"
+      },
+      {
+        "site": "CO3",
+        "value": 200,
+        "t": 24.0,
+        "type": "restock",
+        "text": "CNS CO 3  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  24"
+      },
+      {
+        "site": "CO10",
+        "value": 197,
+        "t": 24.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  197  at time  24"
+      },
+      {
+        "site": "CO1",
+        "value": 300,
+        "t": 24.0,
+        "type": "restock",
+        "text": "CNS CO 1  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  24"
+      },
+      {
+        "site": "CO7",
+        "value": 152,
+        "t": 24.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  152  at time  24"
+      },
+      {
+        "site": "CO3",
+        "value": 152,
+        "t": 24.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  152  at time  24"
+      },
+      {
+        "site": "CO4",
+        "value": 144,
+        "t": 25.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  144  at time  25"
+      },
+      {
+        "site": "CO9",
+        "value": 141,
+        "t": 25.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  141  at time  25"
+      },
+      {
+        "site": "CO5",
+        "value": 151,
+        "t": 25.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  151  at time  25"
+      },
+      {
+        "site": "CO1",
+        "value": 244,
+        "t": 25.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  244  at time  25"
+      },
+      {
+        "site": "CO7",
+        "value": 98,
+        "t": 25.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  98  at time  25"
+      },
+      {
+        "site": "CO7",
+        "t": 25.0,
+        "type": "interrupt",
+        "text": "III  CO 7  is interrupting warehouse w at time  25"
+      },
+      {
+        "site": "CO6",
+        "value": 144,
+        "t": 25.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  144  at time  25"
+      },
+      {
+        "site": "CO2",
+        "value": 106,
+        "t": 26.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  106  at time  26"
+      },
+      {
+        "site": "CO8",
+        "value": 104,
+        "t": 26.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  104  at time  26"
+      },
+      {
+        "site": "CO10",
+        "value": 155,
+        "t": 26.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  155  at time  26"
+      },
+      {
+        "site": "CO3",
+        "value": 103,
+        "t": 26.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  103  at time  26"
+      },
+      {
+        "site": "CO9",
+        "value": 99,
+        "t": 26.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  99  at time  26"
+      },
+      {
+        "site": "CO9",
+        "t": 26.0,
+        "type": "interrupt",
+        "text": "III  CO 9  is interrupting warehouse w at time  26"
+      },
+      {
+        "site": "CO5",
+        "value": 106,
+        "t": 26.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  106  at time  26"
+      },
+      {
+        "site": "CO7",
+        "value": 200,
+        "t": 26.0,
+        "type": "restock",
+        "text": "CNS CO 7  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  26"
+      },
+      {
+        "site": "CO6",
+        "value": 95,
+        "t": 26.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  95  at time  26"
+      },
+      {
+        "site": "CO6",
+        "t": 26.0,
+        "type": "interrupt",
+        "text": "III  CO 6  is interrupting warehouse w at time  26"
+      },
+      {
+        "site": "CO7",
+        "value": 152,
+        "t": 26.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  152  at time  26"
+      },
+      {
+        "site": "CO4",
+        "value": 94,
+        "t": 27.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  94  at time  27"
+      },
+      {
+        "site": "CO4",
+        "t": 27.0,
+        "type": "interrupt",
+        "text": "III  CO 4  is interrupting warehouse w at time  27"
+      },
+      {
+        "site": "CO1",
+        "value": 191,
+        "t": 27.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  191  at time  27"
+      },
+      {
+        "site": "CO9",
+        "value": 49,
+        "t": 27.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  49  at time  27"
+      },
+      {
+        "site": "CO2",
+        "value": 66,
+        "t": 28.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  66  at time  28"
+      },
+      {
+        "site": "CO2",
+        "t": 28.0,
+        "type": "interrupt",
+        "text": "III  CO 2  is interrupting warehouse w at time  28"
+      },
+      {
+        "site": "CO8",
+        "value": 48,
+        "t": 28.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  48  at time  28"
+      },
+      {
+        "site": "CO8",
+        "t": 28.0,
+        "type": "interrupt",
+        "text": "III  CO 8  is interrupting warehouse w at time  28"
+      },
+      {
+        "site": "CO10",
+        "value": 98,
+        "t": 28.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  98  at time  28"
+      },
+      {
+        "site": "CO10",
+        "t": 28.0,
+        "type": "interrupt",
+        "text": "III  CO 10  is interrupting warehouse w at time  28"
+      },
+      {
+        "site": "CO3",
+        "value": 50,
+        "t": 28.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  50  at time  28"
+      },
+      {
+        "site": "CO3",
+        "t": 28.0,
+        "type": "interrupt",
+        "text": "III  CO 3  is interrupting warehouse w at time  28"
+      },
+      {
+        "site": "CO5",
+        "value": 56,
+        "t": 28.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  56  at time  28"
+      },
+      {
+        "site": "CO5",
+        "t": 28.0,
+        "type": "interrupt",
+        "text": "III  CO 5  is interrupting warehouse w at time  28"
+      },
+      {
+        "site": "CO6",
+        "value": 200,
+        "t": 28.0,
+        "type": "restock",
+        "text": "CNS CO 6  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  28"
+      },
+      {
+        "site": "CO7",
+        "value": 108,
+        "t": 28.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  108  at time  28"
+      },
+      {
+        "site": "CO6",
+        "value": 158,
+        "t": 28.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  158  at time  28"
+      },
+      {
+        "site": "CO4",
+        "value": 200,
+        "t": 28.0,
+        "type": "restock",
+        "text": "CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  28"
+      },
+      {
+        "site": "CO9",
+        "t": 28.0,
+        "type": "stockout",
+        "text": "SSS - Stockout occured for CO 9  at time  28"
+      },
+      {
+        "site": "CO9",
+        "value": 200,
+        "t": 29.0,
+        "type": "restock",
+        "text": "CRAS  CO 9  completed re-stock AFTER stockout; resume w. I(t)=  200  at time  29"
+      },
+      {
+        "site": "CO1",
+        "value": 149,
+        "t": 29.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  149  at time  29"
+      },
+      {
+        "site": "CO4",
+        "value": 142,
+        "t": 29.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  142  at time  29"
+      },
+      {
+        "site": "CO2",
+        "value": 200,
+        "t": 29.0,
+        "type": "restock",
+        "text": "CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  29"
+      },
+      {
+        "site": "CO7",
+        "value": 50,
+        "t": 29.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  50  at time  29"
+      },
+      {
+        "site": "CO7",
+        "t": 29.0,
+        "type": "interrupt",
+        "text": "III  CO 7  is interrupting warehouse w at time  29"
+      },
+      {
+        "site": "CO6",
+        "value": 102,
+        "t": 29.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  102  at time  29"
+      },
+      {
+        "site": "CO2",
+        "value": 151,
+        "t": 29.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  151  at time  29"
+      },
+      {
+        "site": "CO10",
+        "value": 55,
+        "t": 29.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  55  at time  29"
+      },
+      {
+        "site": "CO3",
+        "t": 29.0,
+        "type": "stockout",
+        "text": "SSS - Stockout occured for CO 3  at time  29"
+      },
+      {
+        "site": "CO5",
+        "t": 29.0,
+        "type": "stockout",
+        "text": "SSS - Stockout occured for CO 5  at time  29"
+      },
+      {
+        "site": "W",
+        "t": 30.0,
+        "type": "report",
+        "text": "RRR  Report - The COks with pending restocks at time  30 ::  ['CO3', 'CO5', 'CO7', 'CO8', 'CO10']"
+      },
+      {
+        "site": "CO8",
+        "value": 200,
+        "t": 30.0,
+        "type": "restock",
+        "text": "CNS CO 8  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  30"
+      },
+      {
+        "site": "CO10",
+        "value": 300,
+        "t": 30.0,
+        "type": "restock",
+        "text": "CNS CO 10  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  30"
+      },
+      {
+        "site": "CO3",
+        "value": 200,
+        "t": 30.0,
+        "type": "restock",
+        "text": "CRAS  CO 3  completed re-stock AFTER stockout; resume w. I(t)=  200  at time  30"
+      },
+      {
+        "site": "CO8",
+        "value": 152,
+        "t": 30.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  152  at time  30"
+      },
+      {
+        "site": "CO4",
+        "value": 84,
+        "t": 30.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  84  at time  30"
+      },
+      {
+        "site": "CO4",
+        "t": 30.0,
+        "type": "interrupt",
+        "text": "III  CO 4  is interrupting warehouse w at time  30"
+      },
+      {
+        "site": "CO2",
+        "value": 97,
+        "t": 30.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  97  at time  30"
+      },
+      {
+        "site": "CO2",
+        "t": 30.0,
+        "type": "interrupt",
+        "text": "III  CO 2  is interrupting warehouse w at time  30"
+      },
+      {
+        "site": "CO9",
+        "value": 158,
+        "t": 30.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  158  at time  30"
+      },
+      {
+        "site": "CO7",
+        "value": 2,
+        "t": 30.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  2  at time  30"
+      },
+      {
+        "site": "CO5",
+        "value": 200,
+        "t": 31.0,
+        "type": "restock",
+        "text": "CRAS  CO 5  completed re-stock AFTER stockout; resume w. I(t)=  200  at time  31"
+      },
+      {
+        "site": "CO1",
+        "value": 101,
+        "t": 31.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  101  at time  31"
+      },
+      {
+        "site": "CO7",
+        "value": 200,
+        "t": 31.0,
+        "type": "restock",
+        "text": "CNS CO 7  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  31"
+      },
+      {
+        "site": "CO6",
+        "value": 58,
+        "t": 31.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  58  at time  31"
+      },
+      {
+        "site": "CO6",
+        "t": 31.0,
+        "type": "interrupt",
+        "text": "III  CO 6  is interrupting warehouse w at time  31"
+      },
+      {
+        "site": "CO10",
+        "value": 251,
+        "t": 31.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  251  at time  31"
+      },
+      {
+        "site": "CO4",
+        "value": 200,
+        "t": 31.0,
+        "type": "restock",
+        "text": "CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  31"
+      },
+      {
+        "site": "CO7",
+        "value": 152,
+        "t": 31.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  152  at time  31"
+      },
+      {
+        "site": "CO2",
+        "value": 46,
+        "t": 31.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  46  at time  31"
+      },
+      {
+        "site": "CO8",
+        "value": 96,
+        "t": 32.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  96  at time  32"
+      },
+      {
+        "site": "CO8",
+        "t": 32.0,
+        "type": "interrupt",
+        "text": "III  CO 8  is interrupting warehouse w at time  32"
+      },
+      {
+        "site": "CO2",
+        "value": 200,
+        "t": 32.0,
+        "type": "restock",
+        "text": "CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  32"
+      },
+      {
+        "site": "CO9",
+        "value": 98,
+        "t": 32.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  98  at time  32"
+      },
+      {
+        "site": "CO9",
+        "t": 32.0,
+        "type": "interrupt",
+        "text": "III  CO 9  is interrupting warehouse w at time  32"
+      },
+      {
+        "site": "CO3",
+        "value": 153,
+        "t": 32.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  153  at time  32"
+      },
+      {
+        "site": "CO4",
+        "value": 144,
+        "t": 32.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  144  at time  32"
+      },
+      {
+        "site": "CO6",
+        "value": 200,
+        "t": 32.0,
+        "type": "restock",
+        "text": "CNS CO 6  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  32"
+      },
+      {
+        "site": "CO10",
+        "value": 200,
+        "t": 32.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  200  at time  32"
+      },
+      {
+        "site": "CO7",
+        "value": 94,
+        "t": 32.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  94  at time  32"
+      },
+      {
+        "site": "CO7",
+        "t": 32.0,
+        "type": "interrupt",
+        "text": "III  CO 7  is interrupting warehouse w at time  32"
+      },
+      {
+        "site": "CO5",
+        "value": 142,
+        "t": 32.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  142  at time  32"
+      },
+      {
+        "site": "CO6",
+        "value": 149,
+        "t": 32.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  149  at time  32"
+      },
+      {
+        "site": "CO1",
+        "value": 47,
+        "t": 33.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  47  at time  33"
+      },
+      {
+        "site": "CO1",
+        "t": 33.0,
+        "type": "interrupt",
+        "text": "III  CO 1  is interrupting warehouse w at time  33"
+      },
+      {
+        "site": "CO2",
+        "value": 143,
+        "t": 33.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  143  at time  33"
+      },
+      {
+        "site": "CO3",
+        "value": 94,
+        "t": 33.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  94  at time  33"
+      },
+      {
+        "site": "CO3",
+        "t": 33.0,
+        "type": "interrupt",
+        "text": "III  CO 3  is interrupting warehouse w at time  33"
+      },
+      {
+        "site": "CO7",
+        "value": 200,
+        "t": 33.0,
+        "type": "restock",
+        "text": "CNS CO 7  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  33"
+      },
+      {
+        "site": "CO5",
+        "value": 93,
+        "t": 33.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  93  at time  33"
+      },
+      {
+        "site": "CO5",
+        "t": 33.0,
+        "type": "interrupt",
+        "text": "III  CO 5  is interrupting warehouse w at time  33"
+      },
+      {
+        "site": "CO6",
+        "value": 100,
+        "t": 33.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  100  at time  33"
+      },
+      {
+        "site": "CO9",
+        "value": 52,
+        "t": 33.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  52  at time  33"
+      },
+      {
+        "site": "CO7",
+        "value": 157,
+        "t": 33.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  157  at time  33"
+      },
+      {
+        "site": "CO8",
+        "value": 200,
+        "t": 34.0,
+        "type": "restock",
+        "text": "CNS CO 8  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  34"
+      },
+      {
+        "site": "CO9",
+        "value": 200,
+        "t": 34.0,
+        "type": "restock",
+        "text": "CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  34"
+      },
+      {
+        "site": "CO4",
+        "value": 88,
+        "t": 34.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  88  at time  34"
+      },
+      {
+        "site": "CO4",
+        "t": 34.0,
+        "type": "interrupt",
+        "text": "III  CO 4  is interrupting warehouse w at time  34"
+      },
+      {
+        "site": "CO10",
+        "value": 148,
+        "t": 34.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  148  at time  34"
+      },
+      {
+        "site": "CO8",
+        "value": 151,
+        "t": 34.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  151  at time  34"
+      },
+      {
+        "site": "CO3",
+        "value": 200,
+        "t": 34.0,
+        "type": "restock",
+        "text": "CNS CO 3  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  34"
+      },
+      {
+        "site": "CO9",
+        "value": 152,
+        "t": 34.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  152  at time  34"
+      },
+      {
+        "site": "CO3",
+        "value": 159,
+        "t": 34.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  159  at time  34"
+      },
+      {
+        "site": "CO2",
+        "value": 92,
+        "t": 35.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  92  at time  35"
+      },
+      {
+        "site": "CO2",
+        "t": 35.0,
+        "type": "interrupt",
+        "text": "III  CO 2  is interrupting warehouse w at time  35"
+      },
+      {
+        "site": "CO6",
+        "value": 49,
+        "t": 35.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  49  at time  35"
+      },
+      {
+        "site": "CO6",
+        "t": 35.0,
+        "type": "interrupt",
+        "text": "III  CO 6  is interrupting warehouse w at time  35"
+      },
+      {
+        "site": "CO7",
+        "value": 114,
+        "t": 35.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  114  at time  35"
+      },
+      {
+        "site": "CO1",
+        "t": 35.0,
+        "type": "stockout",
+        "text": "SSS - Stockout occured for CO 1  at time  35"
+      },
+      {
+        "site": "CO5",
+        "value": 33,
+        "t": 35.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  33  at time  35"
+      },
+      {
+        "site": "CO4",
+        "value": 200,
+        "t": 35.0,
+        "type": "restock",
+        "text": "CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  35"
+      },
+      {
+        "site": "CO10",
+        "value": 108,
+        "t": 35.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  108  at time  35"
+      },
+      {
+        "site": "CO3",
+        "value": 112,
+        "t": 35.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  112  at time  35"
+      },
+      {
+        "site": "CO1",
+        "value": 300,
+        "t": 36.0,
+        "type": "restock",
+        "text": "CRAS  CO 1  completed re-stock AFTER stockout; resume w. I(t)=  300  at time  36"
+      },
+      {
+        "site": "CO5",
+        "value": 200,
+        "t": 36.0,
+        "type": "restock",
+        "text": "CNS CO 5  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  36"
+      },
+      {
+        "site": "CO8",
+        "value": 91,
+        "t": 36.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  91  at time  36"
+      },
+      {
+        "site": "CO8",
+        "t": 36.0,
+        "type": "interrupt",
+        "text": "III  CO 8  is interrupting warehouse w at time  36"
+      },
+      {
+        "site": "CO9",
+        "value": 107,
+        "t": 36.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  107  at time  36"
+      },
+      {
+        "site": "CO4",
+        "value": 149,
+        "t": 36.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  149  at time  36"
+      },
+      {
+        "site": "CO6",
+        "value": 200,
+        "t": 36.0,
+        "type": "restock",
+        "text": "CNS CO 6  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  36"
+      },
+      {
+        "site": "CO7",
+        "value": 73,
+        "t": 36.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  73  at time  36"
+      },
+      {
+        "site": "CO7",
+        "t": 36.0,
+        "type": "interrupt",
+        "text": "III  CO 7  is interrupting warehouse w at time  36"
+      },
+      {
+        "site": "CO5",
+        "value": 159,
+        "t": 36.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  159  at time  36"
+      },
+      {
+        "site": "CO10",
+        "value": 59,
+        "t": 36.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  59  at time  36"
+      },
+      {
+        "site": "CO10",
+        "t": 36.0,
+        "type": "interrupt",
+        "text": "III  CO 10  is interrupting warehouse w at time  36"
+      },
+      {
+        "site": "CO3",
+        "value": 64,
+        "t": 36.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  64  at time  36"
+      },
+      {
+        "site": "CO3",
+        "t": 36.0,
+        "type": "interrupt",
+        "text": "III  CO 3  is interrupting warehouse w at time  36"
+      },
+      {
+        "site": "CO2",
+        "value": 41,
+        "t": 36.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  41  at time  36"
+      },
+      {
+        "site": "CO2",
+        "value": 200,
+        "t": 37.0,
+        "type": "restock",
+        "text": "CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  37"
+      },
+      {
+        "site": "CO6",
+        "value": 154,
+        "t": 37.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  154  at time  37"
+      },
+      {
+        "site": "CO4",
+        "value": 90,
+        "t": 37.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  90  at time  37"
+      },
+      {
+        "site": "CO4",
+        "t": 37.0,
+        "type": "interrupt",
+        "text": "III  CO 4  is interrupting warehouse w at time  37"
+      },
+      {
+        "site": "CO5",
+        "value": 114,
+        "t": 37.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  114  at time  37"
+      },
+      {
+        "site": "CO2",
+        "value": 154,
+        "t": 37.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  154  at time  37"
+      },
+      {
+        "site": "CO8",
+        "value": 38,
+        "t": 37.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  38  at time  37"
+      },
+      {
+        "site": "CO7",
+        "value": 24,
+        "t": 37.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  24  at time  37"
+      },
+      {
+        "site": "CO3",
+        "value": 21,
+        "t": 37.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  21  at time  37"
+      },
+      {
+        "site": "CO9",
+        "value": 55,
+        "t": 38.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  55  at time  38"
+      },
+      {
+        "site": "CO9",
+        "t": 38.0,
+        "type": "interrupt",
+        "text": "III  CO 9  is interrupting warehouse w at time  38"
+      },
+      {
+        "site": "CO10",
+        "value": 300,
+        "t": 38.0,
+        "type": "restock",
+        "text": "CNS CO 10  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  38"
+      },
+      {
+        "site": "CO3",
+        "value": 200,
+        "t": 38.0,
+        "type": "restock",
+        "text": "CNS CO 3  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  38"
+      },
+      {
+        "site": "CO1",
+        "value": 247,
+        "t": 38.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  247  at time  38"
+      },
+      {
+        "site": "CO10",
+        "value": 256,
+        "t": 38.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  256  at time  38"
+      },
+      {
+        "site": "CO2",
+        "value": 111,
+        "t": 38.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  111  at time  38"
+      },
+      {
+        "site": "CO8",
+        "value": 200,
+        "t": 39.0,
+        "type": "restock",
+        "text": "CNS CO 8  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  39"
+      },
+      {
+        "site": "CO7",
+        "value": 200,
+        "t": 39.0,
+        "type": "restock",
+        "text": "CNS CO 7  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  39"
+      },
+      {
+        "site": "CO6",
+        "value": 101,
+        "t": 39.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  101  at time  39"
+      },
+      {
+        "site": "CO4",
+        "value": 200,
+        "t": 39.0,
+        "type": "restock",
+        "text": "CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  39"
+      },
+      {
+        "site": "CO5",
+        "value": 59,
+        "t": 39.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  59  at time  39"
+      },
+      {
+        "site": "CO5",
+        "t": 39.0,
+        "type": "interrupt",
+        "text": "III  CO 5  is interrupting warehouse w at time  39"
+      },
+      {
+        "site": "CO8",
+        "value": 159,
+        "t": 39.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  159  at time  39"
+      },
+      {
+        "site": "CO7",
+        "value": 144,
+        "t": 39.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  144  at time  39"
+      },
+      {
+        "site": "CO3",
+        "value": 143,
+        "t": 39.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  143  at time  39"
+      },
+      {
+        "site": "CO4",
+        "value": 149,
+        "t": 39.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  149  at time  39"
+      },
+      {
+        "site": "CO9",
+        "value": 200,
+        "t": 39.0,
+        "type": "restock",
+        "text": "CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  39"
+      },
+      {
+        "site": "CO1",
+        "value": 206,
+        "t": 39.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  206  at time  39"
+      },
+      {
+        "site": "CO10",
+        "value": 202,
+        "t": 39.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  202  at time  39"
+      },
+      {
+        "site": "CO2",
+        "value": 68,
+        "t": 39.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  68  at time  39"
+      },
+      {
+        "site": "CO2",
+        "t": 39.0,
+        "type": "interrupt",
+        "text": "III  CO 2  is interrupting warehouse w at time  39"
+      },
+      {
+        "site": "CO9",
+        "value": 140,
+        "t": 39.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  140  at time  39"
+      },
+      {
+        "site": "W",
+        "t": 40.0,
+        "type": "report",
+        "text": "RRR  Report - The COks with pending restocks at time  40 ::  ['CO2', 'CO5']"
+      },
+      {
+        "site": "CO6",
+        "value": 47,
+        "t": 40.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  47  at time  40"
+      },
+      {
+        "site": "CO6",
+        "t": 40.0,
+        "type": "interrupt",
+        "text": "III  CO 6  is interrupting warehouse w at time  40"
+      },
+      {
+        "site": "CO7",
+        "value": 102,
+        "t": 40.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  102  at time  40"
+      },
+      {
+        "site": "CO8",
+        "value": 102,
+        "t": 41.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  102  at time  41"
+      },
+      {
+        "site": "CO3",
+        "value": 93,
+        "t": 41.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  93  at time  41"
+      },
+      {
+        "site": "CO3",
+        "t": 41.0,
+        "type": "interrupt",
+        "text": "III  CO 3  is interrupting warehouse w at time  41"
+      },
+      {
+        "site": "CO4",
+        "value": 92,
+        "t": 41.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  92  at time  41"
+      },
+      {
+        "site": "CO4",
+        "t": 41.0,
+        "type": "interrupt",
+        "text": "III  CO 4  is interrupting warehouse w at time  41"
+      },
+      {
+        "site": "CO1",
+        "value": 159,
+        "t": 41.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  159  at time  41"
+      },
+      {
+        "site": "CO10",
+        "value": 144,
+        "t": 41.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  144  at time  41"
+      },
+      {
+        "site": "CO9",
+        "value": 99,
+        "t": 41.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  99  at time  41"
+      },
+      {
+        "site": "CO9",
+        "t": 41.0,
+        "type": "interrupt",
+        "text": "III  CO 9  is interrupting warehouse w at time  41"
+      },
+      {
+        "site": "CO5",
+        "value": 1,
+        "t": 41.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  1  at time  41"
+      },
+      {
+        "site": "CO2",
+        "value": 26,
+        "t": 41.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  26  at time  41"
+      },
+      {
+        "site": "CO7",
+        "value": 60,
+        "t": 41.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  60  at time  41"
+      },
+      {
+        "site": "CO7",
+        "t": 41.0,
+        "type": "interrupt",
+        "text": "III  CO 7  is interrupting warehouse w at time  41"
+      },
+      {
+        "site": "CO5",
+        "value": 200,
+        "t": 42.0,
+        "type": "restock",
+        "text": "CNS CO 5  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  42"
+      },
+      {
+        "site": "CO2",
+        "value": 200,
+        "t": 42.0,
+        "type": "restock",
+        "text": "CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  42"
+      },
+      {
+        "site": "CO6",
+        "value": 200,
+        "t": 42.0,
+        "type": "restock",
+        "text": "CNS CO 6  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  42"
+      },
+      {
+        "site": "CO6",
+        "value": 146,
+        "t": 42.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  146  at time  42"
+      },
+      {
+        "site": "CO1",
+        "value": 103,
+        "t": 42.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  103  at time  42"
+      },
+      {
+        "site": "CO5",
+        "value": 153,
+        "t": 42.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  153  at time  42"
+      },
+      {
+        "site": "CO2",
+        "value": 153,
+        "t": 42.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  153  at time  42"
+      },
+      {
+        "site": "CO3",
+        "value": 51,
+        "t": 42.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  51  at time  42"
+      },
+      {
+        "site": "CO9",
+        "value": 41,
+        "t": 42.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  41  at time  42"
+      },
+      {
+        "site": "CO8",
+        "value": 53,
+        "t": 43.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  53  at time  43"
+      },
+      {
+        "site": "CO8",
+        "t": 43.0,
+        "type": "interrupt",
+        "text": "III  CO 8  is interrupting warehouse w at time  43"
+      },
+      {
+        "site": "CO3",
+        "value": 200,
+        "t": 43.0,
+        "type": "restock",
+        "text": "CNS CO 3  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  43"
+      },
+      {
+        "site": "CO4",
+        "value": 200,
+        "t": 43.0,
+        "type": "restock",
+        "text": "CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  43"
+      },
+      {
+        "site": "CO10",
+        "value": 85,
+        "t": 43.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  85  at time  43"
+      },
+      {
+        "site": "CO10",
+        "t": 43.0,
+        "type": "interrupt",
+        "text": "III  CO 10  is interrupting warehouse w at time  43"
+      },
+      {
+        "site": "CO9",
+        "value": 200,
+        "t": 43.0,
+        "type": "restock",
+        "text": "CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  43"
+      },
+      {
+        "site": "CO4",
+        "value": 160,
+        "t": 43.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  160  at time  43"
+      },
+      {
+        "site": "CO7",
+        "value": 11,
+        "t": 43.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  11  at time  43"
+      },
+      {
+        "site": "CO6",
+        "value": 99,
+        "t": 43.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  99  at time  43"
+      },
+      {
+        "site": "CO6",
+        "t": 43.0,
+        "type": "interrupt",
+        "text": "III  CO 6  is interrupting warehouse w at time  43"
+      },
+      {
+        "site": "CO5",
+        "value": 106,
+        "t": 43.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  106  at time  43"
+      },
+      {
+        "site": "CO3",
+        "value": 157,
+        "t": 43.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  157  at time  43"
+      },
+      {
+        "site": "CO7",
+        "value": 200,
+        "t": 44.0,
+        "type": "restock",
+        "text": "CNS CO 7  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  44"
+      },
+      {
+        "site": "CO1",
+        "value": 58,
+        "t": 44.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  58  at time  44"
+      },
+      {
+        "site": "CO1",
+        "t": 44.0,
+        "type": "interrupt",
+        "text": "III  CO 1  is interrupting warehouse w at time  44"
+      },
+      {
+        "site": "CO2",
+        "value": 112,
+        "t": 44.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  112  at time  44"
+      },
+      {
+        "site": "CO9",
+        "value": 144,
+        "t": 44.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  144  at time  44"
+      },
+      {
+        "site": "CO10",
+        "value": 300,
+        "t": 44.0,
+        "type": "restock",
+        "text": "CNS CO 10  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  44"
+      },
+      {
+        "site": "CO7",
+        "value": 143,
+        "t": 44.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  143  at time  44"
+      },
+      {
+        "site": "CO10",
+        "value": 259,
+        "t": 44.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  259  at time  44"
+      },
+      {
+        "site": "CO4",
+        "value": 104,
+        "t": 45.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  104  at time  45"
+      },
+      {
+        "site": "CO6",
+        "value": 200,
+        "t": 45.0,
+        "type": "restock",
+        "text": "CNS CO 6  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  45"
+      },
+      {
+        "site": "CO5",
+        "value": 58,
+        "t": 45.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  58  at time  45"
+      },
+      {
+        "site": "CO5",
+        "t": 45.0,
+        "type": "interrupt",
+        "text": "III  CO 5  is interrupting warehouse w at time  45"
+      },
+      {
+        "site": "CO3",
+        "value": 107,
+        "t": 45.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  107  at time  45"
+      },
+      {
+        "site": "CO8",
+        "value": 13,
+        "t": 45.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  13  at time  45"
+      },
+      {
+        "site": "CO6",
+        "value": 157,
+        "t": 45.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  157  at time  45"
+      },
+      {
+        "site": "CO2",
+        "value": 65,
+        "t": 45.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  65  at time  45"
+      },
+      {
+        "site": "CO2",
+        "t": 45.0,
+        "type": "interrupt",
+        "text": "III  CO 2  is interrupting warehouse w at time  45"
+      },
+      {
+        "site": "CO9",
+        "value": 84,
+        "t": 45.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  84  at time  45"
+      },
+      {
+        "site": "CO9",
+        "t": 45.0,
+        "type": "interrupt",
+        "text": "III  CO 9  is interrupting warehouse w at time  45"
+      },
+      {
+        "site": "CO1",
+        "value": 6,
+        "t": 45.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  6  at time  45"
+      },
+      {
+        "site": "CO8",
+        "value": 200,
+        "t": 46.0,
+        "type": "restock",
+        "text": "CNS CO 8  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  46"
+      },
+      {
+        "site": "CO1",
+        "value": 300,
+        "t": 46.0,
+        "type": "restock",
+        "text": "CNS CO 1  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  300  at time  46"
+      },
+      {
+        "site": "CO7",
+        "value": 95,
+        "t": 46.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  95  at time  46"
+      },
+      {
+        "site": "CO7",
+        "t": 46.0,
+        "type": "interrupt",
+        "text": "III  CO 7  is interrupting warehouse w at time  46"
+      },
+      {
+        "site": "CO10",
+        "value": 214,
+        "t": 46.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  214  at time  46"
+      },
+      {
+        "site": "CO4",
+        "value": 51,
+        "t": 46.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  51  at time  46"
+      },
+      {
+        "site": "CO4",
+        "t": 46.0,
+        "type": "interrupt",
+        "text": "III  CO 4  is interrupting warehouse w at time  46"
+      },
+      {
+        "site": "CO5",
+        "value": 200,
+        "t": 46.0,
+        "type": "restock",
+        "text": "CNS CO 5  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  46"
+      },
+      {
+        "site": "CO2",
+        "value": 200,
+        "t": 46.0,
+        "type": "restock",
+        "text": "CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  46"
+      },
+      {
+        "site": "CO5",
+        "value": 153,
+        "t": 46.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  153  at time  46"
+      },
+      {
+        "site": "CO2",
+        "value": 152,
+        "t": 46.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  152  at time  46"
+      },
+      {
+        "site": "CO3",
+        "value": 63,
+        "t": 47.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  63  at time  47"
+      },
+      {
+        "site": "CO3",
+        "t": 47.0,
+        "type": "interrupt",
+        "text": "III  CO 3  is interrupting warehouse w at time  47"
+      },
+      {
+        "site": "CO8",
+        "value": 156,
+        "t": 47.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  156  at time  47"
+      },
+      {
+        "site": "CO6",
+        "value": 102,
+        "t": 47.0,
+        "type": "sale",
+        "text": "CO 6  I(t) level is  102  at time  47"
+      },
+      {
+        "site": "CO1",
+        "value": 257,
+        "t": 47.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  257  at time  47"
+      },
+      {
+        "site": "CO9",
+        "value": 39,
+        "t": 47.0,
+        "type": "sale",
+        "text": "CO 9  I(t) level is  39  at time  47"
+      },
+      {
+        "site": "CO4",
+        "value": 200,
+        "t": 47.0,
+        "type": "restock",
+        "text": "CNS CO 4  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  47"
+      },
+      {
+        "site": "CO2",
+        "value": 92,
+        "t": 47.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  92  at time  47"
+      },
+      {
+        "site": "CO2",
+        "t": 47.0,
+        "type": "interrupt",
+        "text": "III  CO 2  is interrupting warehouse w at time  47"
+      },
+      {
+        "site": "CO7",
+        "value": 35,
+        "t": 47.0,
+        "type": "sale",
+        "text": "CO 7  I(t) level is  35  at time  47"
+      },
+      {
+        "site": "CO4",
+        "value": 155,
+        "t": 47.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  155  at time  47"
+      },
+      {
+        "site": "CO9",
+        "value": 200,
+        "t": 48.0,
+        "type": "restock",
+        "text": "CNS CO 9  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  48"
+      },
+      {
+        "site": "CO10",
+        "value": 166,
+        "t": 48.0,
+        "type": "sale",
+        "text": "CO 10  I(t) level is  166  at time  48"
+      },
+      {
+        "site": "CO5",
+        "value": 103,
+        "t": 48.0,
+        "type": "sale",
+        "text": "CO 5  I(t) level is  103  at time  48"
+      },
+      {
+        "site": "CO8",
+        "value": 112,
+        "t": 48.0,
+        "type": "sale",
+        "text": "CO 8  I(t) level is  112  at time  48"
+      },
+      {
+        "site": "CO1",
+        "value": 200,
+        "t": 48.0,
+        "type": "sale",
+        "text": "CO 1  I(t) level is  200  at time  48"
+      },
+      {
+        "site": "CO2",
+        "value": 200,
+        "t": 48.0,
+        "type": "restock",
+        "text": "CNS CO 2  completed NON-STOCKOUT re-stocking, resuming w. I(t)=  200  at time  48"
+      },
+      {
+        "site": "CO7",
+        "t": 48.0,
+        "type": "stockout",
+        "text": "SSS - Stockout occured for CO 7  at time  48"
+      },
+      {
+        "site": "CO4",
+        "value": 104,
+        "t": 48.0,
+        "type": "sale",
+        "text": "CO 4  I(t) level is  104  at time  48"
+      },
+      {
+        "site": "CO3",
+        "value": 16,
+        "t": 48.0,
+        "type": "sale",
+        "text": "CO 3  I(t) level is  16  at time  48"
+      },
+      {
+        "site": "CO2",
+        "value": 140,
+        "t": 48.0,
+        "type": "sale",
+        "text": "CO 2  I(t) level is  140  at time  48"
+      }
+    ],
+    "plots": {
+      "stockoutPlot": [
+        2,
+        1,
+        2,
+        0,
+        1,
+        1,
+        2,
+        0,
+        1,
+        0
+      ]
+    },
+    "provenance": "Fresh execution with SimPy 4.1.1. Original algorithms unchanged; absent instructor plot helpers replaced only to capture chart inputs, and display/save calls suppressed."
+  }
+]

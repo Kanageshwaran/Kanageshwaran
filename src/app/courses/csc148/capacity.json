@@ -1,0 +1,82 @@
+[
+  {
+    "source": "hw-2/h2_multiServerSystem.23.1.gpr",
+    "capacity": 16,
+    "rho": 0.9969375,
+    "maxQ": 1526,
+    "W": 860.27,
+    "scenario": "Load free",
+    "storageUtil": 0.003,
+    "freeAverage": 0.049
+  },
+  {
+    "source": "hw-2/h2_multiServerSystem.24.1.gpr",
+    "capacity": 32,
+    "rho": 0.5406875,
+    "maxQ": 10,
+    "W": 5.158,
+    "scenario": "Load free",
+    "storageUtil": 0.459,
+    "freeAverage": 14.698
+  },
+  {
+    "source": "hw-2/h2_multiServerSystem.25.1.gpr",
+    "capacity": 64,
+    "rho": 0.27054687499999996,
+    "maxQ": 1,
+    "W": 5.008,
+    "scenario": "Load free",
+    "storageUtil": 0.729,
+    "freeAverage": 46.685
+  },
+  {
+    "source": "hw-2/h2_multiServerSystem.26.1.gpr",
+    "capacity": 128,
+    "rho": 0.13527343749999998,
+    "maxQ": 1,
+    "W": 5.008,
+    "scenario": "Load free",
+    "storageUtil": 0.865,
+    "freeAverage": 110.685
+  },
+  {
+    "source": "hw-2/h2_multiServerSystem.27.1.gpr",
+    "capacity": 32,
+    "rho": 0.998375,
+    "maxQ": 4881,
+    "W": 3198.312,
+    "scenario": "Load dependent",
+    "storageUtil": 0.002,
+    "freeAverage": 0.052
+  },
+  {
+    "source": "hw-2/h2_multiServerSystem.28.1.gpr",
+    "capacity": 64,
+    "rho": 0.9971875,
+    "maxQ": 2914,
+    "W": 1739.189,
+    "scenario": "Load dependent",
+    "storageUtil": 0.003,
+    "freeAverage": 0.18
+  },
+  {
+    "source": "hw-2/h2_multiServerSystem.29.1.gpr",
+    "capacity": 128,
+    "rho": 0.18403124999999998,
+    "maxQ": 1,
+    "W": 6.736,
+    "scenario": "Load dependent",
+    "storageUtil": 0.816,
+    "freeAverage": 104.444
+  },
+  {
+    "source": "hw-2/h2_multiServerSystem.30.1.gpr",
+    "capacity": 256,
+    "rho": 0.07571093750000002,
+    "maxQ": 1,
+    "W": 5.572,
+    "scenario": "Load dependent",
+    "storageUtil": 0.924,
+    "freeAverage": 236.618
+  }
+]
