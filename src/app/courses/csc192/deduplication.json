@@ -1,0 +1,370 @@
+{
+  "outerFiles": 44,
+  "distinctSeminars": 9,
+  "method": "Grouped by numbered questionnaire, speaker identity and response topic; Word/PDF versions, evaluation forms, helper notes and transcripts count as supporting files for the same session. Exact SHA-256 and normalized five-word cross-response overlap supplement manual identity review, rather than proving recording identity.",
+  "maxCrossResponseFiveWordJaccard": 0.002809,
+  "crossResponsePairs": [
+    {
+      "first": 1,
+      "second": 2,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 1,
+      "second": 3,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 1,
+      "second": 4,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 1,
+      "second": 5,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 1,
+      "second": 6,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 1,
+      "second": 7,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 1,
+      "second": 8,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 1,
+      "second": 9,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 2,
+      "second": 3,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 2,
+      "second": 4,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 2,
+      "second": 5,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 2,
+      "second": 6,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 2,
+      "second": 7,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 2,
+      "second": 8,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 2,
+      "second": 9,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 3,
+      "second": 4,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 3,
+      "second": 5,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 3,
+      "second": 6,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 3,
+      "second": 7,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 3,
+      "second": 8,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 3,
+      "second": 9,
+      "fiveWordJaccard": 0.000759
+    },
+    {
+      "first": 4,
+      "second": 5,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 4,
+      "second": 6,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 4,
+      "second": 7,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 4,
+      "second": 8,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 4,
+      "second": 9,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 5,
+      "second": 6,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 5,
+      "second": 7,
+      "fiveWordJaccard": 0.002809
+    },
+    {
+      "first": 5,
+      "second": 8,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 5,
+      "second": 9,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 6,
+      "second": 7,
+      "fiveWordJaccard": 0.001779
+    },
+    {
+      "first": 6,
+      "second": 8,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 6,
+      "second": 9,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 7,
+      "second": 8,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 7,
+      "second": 9,
+      "fiveWordJaccard": 0.0
+    },
+    {
+      "first": 8,
+      "second": 9,
+      "fiveWordJaccard": 0.002389
+    }
+  ],
+  "groups": [
+    {
+      "seminar": 1,
+      "speaker": "Voun Sa",
+      "title": "Resume Workshop / Job Search Strategies",
+      "files": [
+        "week1/CSC192 Career Planning - SECTION 01.pdf",
+        "week1/ECS Internship & Career Services-1.22.25.pptx",
+        "week1/Mod1_HLP_CSC192 Survey Form_Fall 22-1.docx",
+        "week1/Mod1_HLP_CSC192 Survey Form_Fall 22-1.pdf",
+        "week1/Seminar #1 Questionnaire.pdf",
+        "week1/assignment1.docx",
+        "week1/assignment1.pdf"
+      ]
+    },
+    {
+      "seminar": 2,
+      "speaker": "Gregory Kiefer",
+      "title": "Lessons Learned from a Career in IT Entrepreneurship",
+      "files": [
+        "week2/Seminar #21 Questionnaire .docx",
+        "week2/Seminar #21 Questionnaire .pdf",
+        "week2/Seminar answers.pdf",
+        "week2/helper.txt",
+        "week2/transcript.txt"
+      ]
+    },
+    {
+      "seminar": 3,
+      "speaker": "Alex Bonnifield",
+      "title": "Emerging Areas for CS Careers",
+      "files": [
+        "week3/Q&A's.pdf",
+        "week3/Seminar #31 Questionnaire.pdf",
+        "week3/notes.txt",
+        "week3/questionaries.docx"
+      ]
+    },
+    {
+      "seminar": 4,
+      "speaker": "Joseph Taylor",
+      "title": "Leadership in the Data Age",
+      "files": [
+        "week4/Seminar #4 Questionnaire.pdf",
+        "week4/helper.txt",
+        "week4/helper2.txt",
+        "week4/response4.docx",
+        "week4/response4.pdf"
+      ]
+    },
+    {
+      "seminar": 5,
+      "speaker": "Jon Cronin",
+      "title": "Careers in Startups vs. Corporates",
+      "files": [
+        "week5/Seminar #5 Questionnaire.pdf",
+        "week5/answers.docx",
+        "week5/answers.pdf",
+        "week5/helper.txt",
+        "week5/transcript.txt"
+      ]
+    },
+    {
+      "seminar": 6,
+      "speaker": "Karl Kopper and the Caltrans IT team",
+      "title": "Career Opportunities at Caltrans & State",
+      "files": [
+        "week6/Seminar #6 Questionnaire.pdf",
+        "week6/answers.docx",
+        "week6/answers.pdf",
+        "week6/transcript.txt"
+      ]
+    },
+    {
+      "seminar": 7,
+      "speaker": "Jason Francis",
+      "title": "Career in IT Consulting",
+      "files": [
+        "week7/Answers.docx",
+        "week7/Answers.pdf",
+        "week7/Seminar #7 Questionnaire.pdf",
+        "week7/helper.txt",
+        "week7/transcript.txt"
+      ]
+    },
+    {
+      "seminar": 8,
+      "speaker": "Heather Giovanni",
+      "title": "Corporate Culture & Career Success Factors",
+      "files": [
+        "week8/Seminar #8 Questionnaire.pdf",
+        "week8/Seminar8 QA's.docx",
+        "week8/Seminar8 QA's.pdf",
+        "week8/transcript.txt"
+      ]
+    },
+    {
+      "seminar": 9,
+      "speaker": "Richard Layne",
+      "title": "An Unexpected Career Path",
+      "files": [
+        "week9/QA's.docx",
+        "week9/QA's.pdf",
+        "week9/Seminar #9 Questionnaire.pdf",
+        "week9/Transcript.txt",
+        "week9/answerrs.txt"
+      ]
+    }
+  ],
+  "notes": [
+    "Different seminars can share career themes; thematic overlap is not a duplicate session.",
+    "Seminars 5 and 7 both have March 3 on their responses, and 8 and 9 both have April 14. These are document dates, not verified event dates. Order follows seminar numbers.",
+    "The early schedule lists seminar 9 as Apr 1, out of sequence with seminar 8; no corrected event date is inferred.",
+    "The schedule lists 10 seminars and an additional reading assignment; only responses 1\u20139 are present. No missing seminar 10 or reading response is invented.",
+    "Questionnaire labels #21 and #31 are filename variations; their internal headings identify seminars 2 and 3.",
+    "Original seminar 9 documents vary between Richard Layne and Rich Lane; grouped as one session."
+  ],
+  "wordPdfResponseChecks": [
+    {
+      "seminar": 1,
+      "docx": "week1/assignment1.docx",
+      "pdf": "week1/assignment1.pdf",
+      "fiveWordContainment": 0.977208,
+      "decision": "Same seminar response; PDF layout and document headers may differ."
+    },
+    {
+      "seminar": 2,
+      "docx": "week2/Seminar #21 Questionnaire .docx",
+      "pdf": "week2/Seminar answers.pdf",
+      "fiveWordContainment": 0.979275,
+      "decision": "Same seminar response; PDF layout and document headers may differ."
+    },
+    {
+      "seminar": 3,
+      "docx": "week3/questionaries.docx",
+      "pdf": "week3/Q&A's.pdf",
+      "fiveWordContainment": 0.875,
+      "decision": "Same seminar response; PDF layout and document headers may differ."
+    },
+    {
+      "seminar": 4,
+      "docx": "week4/response4.docx",
+      "pdf": "week4/response4.pdf",
+      "fiveWordContainment": 0.992395,
+      "decision": "Same seminar response; PDF layout and document headers may differ."
+    },
+    {
+      "seminar": 5,
+      "docx": "week5/answers.docx",
+      "pdf": "week5/answers.pdf",
+      "fiveWordContainment": 0.963918,
+      "decision": "Same seminar response; PDF layout and document headers may differ."
+    },
+    {
+      "seminar": 6,
+      "docx": "week6/answers.docx",
+      "pdf": "week6/answers.pdf",
+      "fiveWordContainment": 0.902954,
+      "decision": "Same seminar response; PDF layout and document headers may differ."
+    },
+    {
+      "seminar": 7,
+      "docx": "week7/Answers.docx",
+      "pdf": "week7/Answers.pdf",
+      "fiveWordContainment": 0.993865,
+      "decision": "Same seminar response; PDF layout and document headers may differ."
+    },
+    {
+      "seminar": 8,
+      "docx": "week8/Seminar8 QA's.docx",
+      "pdf": "week8/Seminar8 QA's.pdf",
+      "fiveWordContainment": 0.992248,
+      "decision": "Same seminar response; PDF layout and document headers may differ."
+    },
+    {
+      "seminar": 9,
+      "docx": "week9/QA's.docx",
+      "pdf": "week9/QA's.pdf",
+      "fiveWordContainment": 0.994616,
+      "decision": "Same seminar response; PDF layout and document headers may differ."
+    }
+  ]
+}

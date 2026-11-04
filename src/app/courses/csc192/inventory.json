@@ -1,0 +1,398 @@
+[
+  {
+    "path": "week1/CSC192 Career Planning - SECTION 01.pdf",
+    "bytes": 265293,
+    "sha256": "e0d8e514081f2bdabd65dd6add7243759d765984ecfb84891a203abfddd05767",
+    "seminar": 1,
+    "role": "Course schedule",
+    "duplicateOf": null,
+    "summary": "Course schedule associated with seminar 1; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week1/ECS Internship & Career Services-1.22.25.pptx",
+    "bytes": 577411,
+    "sha256": "2868200487f73b58d1050091069eabb81b540bafa33587c6d145ff7c100c074a",
+    "seminar": 1,
+    "role": "Career services slides",
+    "duplicateOf": null,
+    "summary": "Career services slides associated with seminar 1; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week1/Mod1_HLP_CSC192 Survey Form_Fall 22-1.docx",
+    "bytes": 27321,
+    "sha256": "9045403c2c01c5f9182fa806de4e05df2c2a3134184ff42b4fc8cfa00be2795d",
+    "seminar": 1,
+    "role": "Evaluation form",
+    "duplicateOf": null,
+    "summary": "Evaluation form associated with seminar 1; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week1/Mod1_HLP_CSC192 Survey Form_Fall 22-1.pdf",
+    "bytes": 84576,
+    "sha256": "5eb2c600da82bc6d5642b064cbd36ab7f3255fba54f6e06a5071b119ed56aeca",
+    "seminar": 1,
+    "role": "Evaluation form",
+    "duplicateOf": null,
+    "summary": "Evaluation form associated with seminar 1; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week1/Seminar #1 Questionnaire.pdf",
+    "bytes": 55731,
+    "sha256": "a7bbc14440d7ba606ee495c7cbbbf2e0f81f088d606fdb9b5ca1919226fd1830",
+    "seminar": 1,
+    "role": "Seminar questionnaire",
+    "duplicateOf": null,
+    "summary": "Seminar questionnaire associated with seminar 1; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week1/assignment1.docx",
+    "bytes": 21799,
+    "sha256": "1afa9a9ded831a7bd6a4821e77897e783f6b20b1f2f9085294e37ba53335ea77",
+    "seminar": 1,
+    "role": "Student response",
+    "duplicateOf": null,
+    "summary": "Student response associated with seminar 1; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week1/assignment1.pdf",
+    "bytes": 151219,
+    "sha256": "7a24174614fd04ef5bd8553879cd5664e0925fbaa8590f8ca25ea618a688c5ca",
+    "seminar": 1,
+    "role": "Student response PDF",
+    "duplicateOf": null,
+    "summary": "Student response PDF associated with seminar 1; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week2/Seminar #21 Questionnaire .docx",
+    "bytes": 16132,
+    "sha256": "c58c53a74e0af8835987b547851b255198ca64e9dc365c6c85858adccd06e0d9",
+    "seminar": 2,
+    "role": "Student response",
+    "duplicateOf": null,
+    "summary": "Student response associated with seminar 2; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week2/Seminar #21 Questionnaire .pdf",
+    "bytes": 51871,
+    "sha256": "d13fbe186cd6726a756903a3c504f2d33c988aebbb3996f06eab00bdc8eab221",
+    "seminar": 2,
+    "role": "Seminar questionnaire",
+    "duplicateOf": null,
+    "summary": "Seminar questionnaire associated with seminar 2; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week2/Seminar answers.pdf",
+    "bytes": 81272,
+    "sha256": "d49e7bd22f4e4a58a70901d703ec26e3dc4f8e7d5c8a355733c4cecac1f26bc7",
+    "seminar": 2,
+    "role": "Student response PDF",
+    "duplicateOf": null,
+    "summary": "Student response PDF associated with seminar 2; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week2/helper.txt",
+    "bytes": 653,
+    "sha256": "0c41b2e60d50c8f36c0aaa157644f24db1e120186d1e488e8c95e8d1cb894283",
+    "seminar": 2,
+    "role": "Helper / alternate copy",
+    "duplicateOf": null,
+    "summary": "Helper / alternate copy associated with seminar 2; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week2/transcript.txt",
+    "bytes": 47334,
+    "sha256": "cab3137a01f962be2157628d2458586dbbd2f8f04b5a737eae31088c1b465718",
+    "seminar": 2,
+    "role": "Transcript / notes",
+    "duplicateOf": null,
+    "summary": "Transcript / notes associated with seminar 2; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week3/Q&A's.pdf",
+    "bytes": 164259,
+    "sha256": "825eebf5715aec28222cf2c6cc4cef8a4476264588b70bf9b9198fb7bb600adf",
+    "seminar": 3,
+    "role": "Student response PDF",
+    "duplicateOf": null,
+    "summary": "Student response PDF associated with seminar 3; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week3/Seminar #31 Questionnaire.pdf",
+    "bytes": 54373,
+    "sha256": "9a534923b28ed7f080544cd12353f439f2bb526d0cafdcf7e0487952d790d2b5",
+    "seminar": 3,
+    "role": "Seminar questionnaire",
+    "duplicateOf": null,
+    "summary": "Seminar questionnaire associated with seminar 3; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week3/notes.txt",
+    "bytes": 60807,
+    "sha256": "b1227bd1d45387d0f0e6990a3bc1b2ad033fce3fb43da0a0d27de2382b7f28ca",
+    "seminar": 3,
+    "role": "Transcript / notes",
+    "duplicateOf": null,
+    "summary": "Transcript / notes associated with seminar 3; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week3/questionaries.docx",
+    "bytes": 21660,
+    "sha256": "7bc338701a20476eb033a45fec34b1dc5973752588f0ae7ee8a120c90c496419",
+    "seminar": 3,
+    "role": "Student response",
+    "duplicateOf": null,
+    "summary": "Student response associated with seminar 3; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week4/Seminar #4 Questionnaire.pdf",
+    "bytes": 55874,
+    "sha256": "85ebfab07295f467376f6fff0aca3069da13d5245e2fb88279e66a000c970383",
+    "seminar": 4,
+    "role": "Seminar questionnaire",
+    "duplicateOf": null,
+    "summary": "Seminar questionnaire associated with seminar 4; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week4/helper.txt",
+    "bytes": 46587,
+    "sha256": "2f010d7ae3129211c3dd3dafcc1e1d4369be9b868bb4b21efb393d6789e0e8cc",
+    "seminar": 4,
+    "role": "Transcript / notes",
+    "duplicateOf": null,
+    "summary": "Transcript / notes associated with seminar 4; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week4/helper2.txt",
+    "bytes": 4576,
+    "sha256": "6a7a8fe68d62ecd57a485e5eba3481f0ab47c9559ea0ab1fc7c645989cb0b72a",
+    "seminar": 4,
+    "role": "Helper / alternate copy",
+    "duplicateOf": null,
+    "summary": "Helper / alternate copy associated with seminar 4; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week4/response4.docx",
+    "bytes": 19110,
+    "sha256": "dff3e11ed224eefcfd24e21d9530b88af6e7bf880b7df4c3fa18f100de5cf3ed",
+    "seminar": 4,
+    "role": "Student response",
+    "duplicateOf": null,
+    "summary": "Student response associated with seminar 4; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week4/response4.pdf",
+    "bytes": 125562,
+    "sha256": "06cb36f4b76c6f82b00ded5ef707f9d2739ca7ca820b39f007e7193f5be2a941",
+    "seminar": 4,
+    "role": "Student response PDF",
+    "duplicateOf": null,
+    "summary": "Student response PDF associated with seminar 4; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week5/Seminar #5 Questionnaire.pdf",
+    "bytes": 65200,
+    "sha256": "33932c1bb78eda1d30945fb17831603b5358f18f1c09985e75d128b6b38ae0f6",
+    "seminar": 5,
+    "role": "Seminar questionnaire",
+    "duplicateOf": null,
+    "summary": "Seminar questionnaire associated with seminar 5; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week5/answers.docx",
+    "bytes": 22649,
+    "sha256": "aa50e0fd50c3538c2f28a7dd54e04cf27c6d5554b3efd2562275b953fda18ad2",
+    "seminar": 5,
+    "role": "Student response",
+    "duplicateOf": null,
+    "summary": "Student response associated with seminar 5; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week5/answers.pdf",
+    "bytes": 130567,
+    "sha256": "76af43b23028400428d0982b9d998299d5097f0e3da6e6db824c53ff2b2c1d68",
+    "seminar": 5,
+    "role": "Student response PDF",
+    "duplicateOf": null,
+    "summary": "Student response PDF associated with seminar 5; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week5/helper.txt",
+    "bytes": 2322,
+    "sha256": "9d8b64096f4f445be401aad9c20847a638d6ff23901dec0f580ab24083632d17",
+    "seminar": 5,
+    "role": "Helper / alternate copy",
+    "duplicateOf": null,
+    "summary": "Helper / alternate copy associated with seminar 5; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week5/transcript.txt",
+    "bytes": 60755,
+    "sha256": "114ac8444c30035949791173f88cbad16e942cf382479d13943c332ffe80e1e7",
+    "seminar": 5,
+    "role": "Transcript / notes",
+    "duplicateOf": null,
+    "summary": "Transcript / notes associated with seminar 5; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week6/Seminar #6 Questionnaire.pdf",
+    "bytes": 55498,
+    "sha256": "15ff568e4c81dcc206a5c2d0a49729051b9c9a4bea268a7c08041bd5c55103ad",
+    "seminar": 6,
+    "role": "Seminar questionnaire",
+    "duplicateOf": null,
+    "summary": "Seminar questionnaire associated with seminar 6; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week6/answers.docx",
+    "bytes": 20227,
+    "sha256": "6a74cecb0b2d80bb4ca73f1f92b44f7c5dded829cc53e4cf5097649c3c98c007",
+    "seminar": 6,
+    "role": "Student response",
+    "duplicateOf": null,
+    "summary": "Student response associated with seminar 6; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week6/answers.pdf",
+    "bytes": 117501,
+    "sha256": "dad794eacc37185ba1a1377520f2934f5870f8e54ae3e2e3043ef41a7a0a7d45",
+    "seminar": 6,
+    "role": "Student response PDF",
+    "duplicateOf": null,
+    "summary": "Student response PDF associated with seminar 6; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week6/transcript.txt",
+    "bytes": 52720,
+    "sha256": "1aa0ac6fbb6ba76b03edb0b02a03de8a64288520e2dec6159de2ce3d625a50d4",
+    "seminar": 6,
+    "role": "Transcript / notes",
+    "duplicateOf": null,
+    "summary": "Transcript / notes associated with seminar 6; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week7/Answers.docx",
+    "bytes": 21662,
+    "sha256": "02ef90e08b9727cc22e3ee588ff1d56eaafacce423f4b7c8d35756e34c25fb9c",
+    "seminar": 7,
+    "role": "Student response",
+    "duplicateOf": null,
+    "summary": "Student response associated with seminar 7; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week7/Answers.pdf",
+    "bytes": 128009,
+    "sha256": "f5008100e9b912f726829a800d438de281046accb46ada1559779a102a436dde",
+    "seminar": 7,
+    "role": "Student response PDF",
+    "duplicateOf": null,
+    "summary": "Student response PDF associated with seminar 7; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week7/Seminar #7 Questionnaire.pdf",
+    "bytes": 54940,
+    "sha256": "b71b9e0ce17788f991b31763fbaf8ba0909a0e5903f35ded27c409139fbe3dc4",
+    "seminar": 7,
+    "role": "Seminar questionnaire",
+    "duplicateOf": null,
+    "summary": "Seminar questionnaire associated with seminar 7; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week7/helper.txt",
+    "bytes": 4027,
+    "sha256": "fe6bb42ad50ae34181f3f2104ba587842c392bdb95547d65940c8c2afd5af127",
+    "seminar": 7,
+    "role": "Helper / alternate copy",
+    "duplicateOf": null,
+    "summary": "Helper / alternate copy associated with seminar 7; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week7/transcript.txt",
+    "bytes": 62877,
+    "sha256": "8c7a277da8d78825900dce29b11fe804215834ab442e30be5595bb0f1902f038",
+    "seminar": 7,
+    "role": "Transcript / notes",
+    "duplicateOf": null,
+    "summary": "Transcript / notes associated with seminar 7; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week8/Seminar #8 Questionnaire.pdf",
+    "bytes": 55909,
+    "sha256": "7d73ebbf144b87f1784ee55800b0277d6f92a8f5eaeadaa4542ce948c224d495",
+    "seminar": 8,
+    "role": "Seminar questionnaire",
+    "duplicateOf": null,
+    "summary": "Seminar questionnaire associated with seminar 8; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week8/Seminar8 QA's.docx",
+    "bytes": 19263,
+    "sha256": "2ef85518fa63c17eb0902e5598161d6636647e3672a6e72b48f478946d507aae",
+    "seminar": 8,
+    "role": "Student response",
+    "duplicateOf": null,
+    "summary": "Student response associated with seminar 8; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week8/Seminar8 QA's.pdf",
+    "bytes": 83939,
+    "sha256": "eb87c1c8bc13c2e1f651c2b05343a00fd77ffa6440c68e380f9516dd457240d0",
+    "seminar": 8,
+    "role": "Student response PDF",
+    "duplicateOf": null,
+    "summary": "Student response PDF associated with seminar 8; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week8/transcript.txt",
+    "bytes": 59720,
+    "sha256": "c8abc2456398286fcf51dbc006bef881a2a0446ddede24fb2a0fd161bcc49d0d",
+    "seminar": 8,
+    "role": "Transcript / notes",
+    "duplicateOf": null,
+    "summary": "Transcript / notes associated with seminar 8; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week9/QA's.docx",
+    "bytes": 20160,
+    "sha256": "04f146006cb07aa1e1b3c6aec28017481fa324ad37fb1f464153e9a24a57a221",
+    "seminar": 9,
+    "role": "Student response",
+    "duplicateOf": null,
+    "summary": "Student response associated with seminar 9; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week9/QA's.pdf",
+    "bytes": 82935,
+    "sha256": "415449c6a837a3446c2539d5a3dc25dd941cfac69da140db0a9b542f72d4a264",
+    "seminar": 9,
+    "role": "Student response PDF",
+    "duplicateOf": null,
+    "summary": "Student response PDF associated with seminar 9; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week9/Seminar #9 Questionnaire.pdf",
+    "bytes": 54687,
+    "sha256": "f99591f92561cf02b421cefec0e43aff673b645dcef085f5add71689db666a2f",
+    "seminar": 9,
+    "role": "Seminar questionnaire",
+    "duplicateOf": null,
+    "summary": "Seminar questionnaire associated with seminar 9; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week9/Transcript.txt",
+    "bytes": 84852,
+    "sha256": "3109748795badc5624d5521033a0fca29543a8a1cf82af91d1b82677105a1f85",
+    "seminar": 9,
+    "role": "Transcript / notes",
+    "duplicateOf": null,
+    "summary": "Transcript / notes associated with seminar 9; grouped into the same session, not counted as another seminar."
+  },
+  {
+    "path": "week9/answerrs.txt",
+    "bytes": 4805,
+    "sha256": "e987267483ac2c96055ce179c91f708afc95e9841a985342a57c395b90a142f6",
+    "seminar": 9,
+    "role": "Helper / alternate copy",
+    "duplicateOf": null,
+    "summary": "Helper / alternate copy associated with seminar 9; grouped into the same session, not counted as another seminar."
+  }
+]
