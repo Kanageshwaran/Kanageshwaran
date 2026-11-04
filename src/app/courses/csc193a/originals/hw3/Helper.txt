@@ -1,0 +1,21 @@
+1. Too much CSS / inline CSS
+Yes, you can overdo CSS—especially when using too many inline styles. It’s better to keep your styles in one place so it’s cleaner and easier to edit later.
+
+2. Multiple CSS files
+Yes, sometimes you’ll need more than one CSS file—like one for layout and another for colors or mobile design. It helps keep things organized and easier to manage.
+
+3. Advanced websites using HTML/CSS/JS
+Even big sites like Apple still use HTML, CSS, and JavaScript under the hood. They just use them in more advanced ways to make animations and layouts look high-end.
+
+4. Limits of HTML
+HTML only handles structure—it can’t really do styling or logic. That’s where CSS and JavaScript come in to make things look good and actually interact.
+
+5. Unique perspective from the reading
+I learned that web design isn’t just about making things pretty—it’s about structure, balance, and keeping code simple. Good layout and clean CSS make everything work smoother.
+
+
+Too much CSS / inline CSS: Yes, you can overdo CSS—especially when using too many inline styles. It’s better to keep your styles in one place so it’s cleaner and easier to edit later.
+Multiple CSS files: Yes, sometimes you’ll need more than one CSS file—like one for layout and another for colors or mobile design. It helps keep things organized and easier to manage.
+Advanced websites using HTML/CSS/JS: Even big sites like Apple still use HTML, CSS, and JavaScript under the hood. They just use them in more advanced ways to make animations and layouts look high-end.
+Limits of HTML: HTML only handles structure—it can’t really do styling or logic. That’s where CSS and JavaScript come in to make things look good and actually interact.
+Unique perspective from the reading: I learned that web design isn’t just about making things pretty—it’s about structure, balance, and keeping code simple. Good layout and clean CSS make everything work smoother.

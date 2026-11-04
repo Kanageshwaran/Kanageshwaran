@@ -1,0 +1,16 @@
+For our Senior Project SOL Church App, we used local storage through AsyncStorage in React Native to persist user settings — especially the Notification Preferences feature. Since users can choose which notifications they want (events, media uploads, announcements, etc.), we stored those preferences locally so the app remembers them even before the backend syncs. This made the UX feel smoother and reduced unnecessary network calls.
+
+Here’s a small TypeScript example similar to what we used in our app:
+
+import AsyncStorage from "@react-native-async-storage/async-storage";
+
+export const saveNotificationPrefs = async (prefs: object) => {
+  await AsyncStorage.setItem("notificationPrefs", JSON.stringify(prefs));
+};
+
+export const loadNotificationPrefs = async () => {
+  const data = await AsyncStorage.getItem("notificationPrefs");
+  return data ? JSON.parse(data) : null;
+};
+
+This lets the SOL Church App instantly restore a user’s saved settings on launch without hitting Supabase every time, keeping everything fast and consistent across sessions.

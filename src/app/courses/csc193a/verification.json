@@ -1,0 +1,141 @@
+{
+  "scope": "Original saved JavaScript executed in bounded Node VM contexts with DOM and Express request/response test doubles. No real HTTP server, installed archived dependencies, Expo runtime, original Jest suite or live Supabase is used. Circle JSON checks serialize through JSON.stringify/parse. SOL models are new reference behavior, not execution of absent app source.",
+  "checks": [
+    {
+      "name": "Fancify HTML points to a missing differently spelled JS filename",
+      "result": "PASS"
+    },
+    {
+      "name": "Original Bigger handler sets 24pt and requests its alert",
+      "result": "PASS"
+    },
+    {
+      "name": "Original Fancy and Boring handlers set and restore styles",
+      "result": "PASS"
+    },
+    {
+      "name": "Original Moo and browser model: \"Hello. World.\"",
+      "result": "PASS"
+    },
+    {
+      "name": "Original Moo and browser model: \"No period\"",
+      "result": "PASS"
+    },
+    {
+      "name": "Original Moo and browser model: \".\"",
+      "result": "PASS"
+    },
+    {
+      "name": "Original Moo and browser model: \"hello. unfinished\"",
+      "result": "PASS"
+    },
+    {
+      "name": "Original Moo and browser model: \"\"",
+      "result": "PASS"
+    },
+    {
+      "name": "Original cipher click and browser model: \"Abc XYZ! 09\"",
+      "result": "PASS"
+    },
+    {
+      "name": "Original cipher click and browser model: \"zZ\"",
+      "result": "PASS"
+    },
+    {
+      "name": "Original cipher click and browser model: \"ÉΩ\"",
+      "result": "PASS"
+    },
+    {
+      "name": "Original cipher click and browser model: \"\"",
+      "result": "PASS"
+    },
+    {
+      "name": "Original cipher click and browser model: \"<b>\"",
+      "result": "PASS"
+    },
+    {
+      "name": "Original reset clears input and output",
+      "result": "PASS"
+    },
+    {
+      "name": "Original circle handler and model: 2",
+      "result": "PASS"
+    },
+    {
+      "name": "Original circle handler and model: 0",
+      "result": "PASS"
+    },
+    {
+      "name": "Original circle handler and model: -3",
+      "result": "PASS"
+    },
+    {
+      "name": "Original circle handler and model: abc",
+      "result": "PASS"
+    },
+    {
+      "name": "Original circle handler and model: Infinity",
+      "result": "PASS"
+    },
+    {
+      "name": "Original circle handler and model: 1e308",
+      "result": "PASS"
+    },
+    {
+      "name": "Circle 2 produces area 4π and circumference 4π",
+      "result": "PASS"
+    },
+    {
+      "name": "Improved radius validation rejects negative and nonfinite values",
+      "result": "PASS"
+    },
+    {
+      "name": "Original hello handler and model: Ada/Lovelace",
+      "result": "PASS"
+    },
+    {
+      "name": "Original hello handler and model: Ada/",
+      "result": "PASS"
+    },
+    {
+      "name": "Original hello handler and model: /",
+      "result": "PASS"
+    },
+    {
+      "name": "Original hello handler and model: /Lovelace",
+      "result": "PASS"
+    },
+    {
+      "name": "Original pets handler and model: puppy",
+      "result": "PASS"
+    },
+    {
+      "name": "Original pets handler and model: kitty",
+      "result": "PASS"
+    },
+    {
+      "name": "Original pets handler and model: bird",
+      "result": "PASS"
+    },
+    {
+      "name": "Original pets handler and model: undefined",
+      "result": "PASS"
+    },
+    {
+      "name": "Original HTML files in HW2/HW4 are byte-identical",
+      "result": "PASS"
+    },
+    {
+      "name": "Inventory optimistic update supports success and rollback",
+      "result": "PASS"
+    },
+    {
+      "name": "Inventory query and visibility filters combine",
+      "result": "PASS"
+    },
+    {
+      "name": "New slider model makes internal, external and no-link branches explicit",
+      "result": "PASS"
+    }
+  ]
+}

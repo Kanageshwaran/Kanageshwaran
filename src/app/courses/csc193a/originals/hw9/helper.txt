@@ -1,0 +1,3 @@
+I’m working on my Senior Project right now, and we’re building the SOL Church App using React Native and TypeScript. We don’t use Node.js directly for the backend—our full stack uses Supabase for authentication, database, and storage. We connect to the DB through the Supabase client library, which handles queries and API calls for us. For development, we mainly use Expo, Supabase CLI, Docker, GitHub, and VS Code. All the skills from this class help us understand how web requests, state, and storage work when building our app.
+
+While building our app, we learned a lot about how web requests, state management, and client-side storage work.
