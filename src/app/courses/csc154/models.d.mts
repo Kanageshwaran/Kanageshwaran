@@ -1,0 +1,10 @@
+export const people:any[];
+export function login(account:string,password:string):any;
+export function access(session:any,route:string):any;
+export function tlsDecision(options?:any):any;
+export function sqlExample(attempt?:string,prepared?:boolean):any;
+export function xssFlow(options?:any):string[];
+export const scriptCases:any[];
+export function cspResults(policy?:string):any[];
+export function permissions(code?:string):any[];
+export function modPow(base:number,exponent:number,modulus:number):any;

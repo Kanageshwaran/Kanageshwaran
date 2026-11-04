@@ -1,0 +1,2442 @@
+[
+  {
+    "path": "course eval/Screenshot 2025-07-02 185608.png",
+    "bytes": 207784,
+    "sha256": "e19438521fe2464eeb3b0d080d5e038c4be77918bd453c08f5d15696b00d5e49",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "CSC154-Syllabus-SMR2025.pdf",
+    "bytes": 218575,
+    "sha256": "229e0bc93bb40d4003fe8d5017083b8b2cad401573851e61bf9ee1d0c709193c",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "Digital Logic Circuit Analysis and Design.pdf",
+    "bytes": 16262806,
+    "sha256": "fc787f08db25955efc2da47a0f5a74cca15f84de872ad8b6f1b3dd3d8915fb05",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "final exa/CSC154_Optional_Study_Guide (Final Exam).pdf",
+    "bytes": 194643,
+    "sha256": "092336e49731ab68862ca6b4ae52227b3739a6085b0c0b9220896f974b783da7",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "final exa/homework/CSC154-HW1-Solutions.pdf",
+    "bytes": 171945,
+    "sha256": "dd9dddd7b6617477594deff2fed04817027198f9eb1a6d15fe64524350131d97",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "final exa/homework/CSC154-HW2-Solutions.pdf",
+    "bytes": 228928,
+    "sha256": "5e1ba5a5a4dde809899841a885113f4090d38e601d663c2c40c98f0f3243b68d",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "final exa/homework/CSC154-HW3 - Solutions.pdf",
+    "bytes": 182214,
+    "sha256": "ddbbf8e808c793fdbb7ce1025a65829b00c001e262f1e281a8dd72ff84eb174b",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "final exa/quiz/Quiz 1_ CSC154 Compsys Attck+Countermsur - SECTION 01.pdf",
+    "bytes": 183713,
+    "sha256": "b45a0c8a612d1824913c29960545d0c12192b221d2e011907c1f1b6cc675fe8a",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "final exa/quiz/Quiz 2_ CSC154 Compsys Attck+Countermsur - SECTION 01.pdf",
+    "bytes": 138523,
+    "sha256": "482d25ff81a7b7ad8c61747ee09e3a23c6950a41a4fa19bee893cc850e567f9b",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "final exa/quiz/Quiz 3_ CSC154 Compsys Attck+Countermsur - SECTION 01.pdf",
+    "bytes": 132159,
+    "sha256": "b763dbc75a9a508742e99df204eaee6c5ea9f298055446842593db15f88ac325",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "final exa/quiz/Quiz 4_ CSC154 Compsys Attck+Countermsur - SECTION 01.pdf",
+    "bytes": 195875,
+    "sha256": "cb2560f577b38fa686509b23f81f2ee18209ba1e305319beaf0e44817efa22fb",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "final exa/quiz/Quiz 5_ CSC154 Compsys Attck+Countermsur - SECTION 01.pdf",
+    "bytes": 195446,
+    "sha256": "6dc479d700e28d8e3978c202de2023623baabb397630a26a766482bb8782cdc9",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "final exa/quiz/Quiz 6_ CSC154 Compsys Attck+Countermsur - SECTION 01.pdf",
+    "bytes": 117554,
+    "sha256": "9f0046b44644301afbaafdd63b7eeaaf7f97911b5e828f6174f33b0f906d13eb",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "final exa/quiz/summary.txt",
+    "bytes": 5975,
+    "sha256": "c46ebd00f84d8cde4e9d697e3b579c73a8a1b5e63ac181120862984078bd27d5",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "Introduction to Computer Security pdf DONE.pdf",
+    "bytes": 9079048,
+    "sha256": "ffcbcc0eba60ccbb5ceef926eda24fbed8d3125825749c2fccc2859d10aaafc7",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "M. Morris R. Mano, Charles R. Kime, Tom Martin - Logic and computer design fundamentals-Prentice Hall (2015).pdf",
+    "bytes": 5406451,
+    "sha256": "4ab93d1ddf810021d9b97f6dcadb106ed356701f9d8f2f64fcb59df2bf3a1d68",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "preview-9781292220635_A37747428.pdf",
+    "bytes": 3495715,
+    "sha256": "260bb4224c1d8350cc9f5510357bcf0d090d83069dcdeefd3c17e528b489a714",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "project/CSC154/.git/AUTO_MERGE",
+    "bytes": 41,
+    "sha256": "3137f4bc7643b868f2bd8d59312be9b2d5950e44022fb046d14df873e4b5ebca",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/COMMIT_EDITMSG",
+    "bytes": 23,
+    "sha256": "930f379973b566bb7c23c6b9e9d89073a6708926ceeb3fd88d0725b97b3e9f4e",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/config",
+    "bytes": 478,
+    "sha256": "318b136835cb9b7fe8714126db52ab8234070240a8aa1199a17b0b42d16f987d",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/description",
+    "bytes": 73,
+    "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/FETCH_HEAD",
+    "bytes": 509,
+    "sha256": "ddc3a43e610cdf17e2a63438d1e5615d4d19a3323c3a3ec29ca1f38d6501387f",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/HEAD",
+    "bytes": 21,
+    "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/hooks/applypatch-msg.sample",
+    "bytes": 478,
+    "sha256": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/hooks/commit-msg.sample",
+    "bytes": 896,
+    "sha256": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/hooks/fsmonitor-watchman.sample",
+    "bytes": 4726,
+    "sha256": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/hooks/post-update.sample",
+    "bytes": 189,
+    "sha256": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/hooks/pre-applypatch.sample",
+    "bytes": 424,
+    "sha256": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/hooks/pre-commit.sample",
+    "bytes": 1649,
+    "sha256": "57185b7b9f05239d7ab52db045f5b89eb31348d7b2177eab214f5eb872e1971b",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/hooks/pre-merge-commit.sample",
+    "bytes": 416,
+    "sha256": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/hooks/pre-push.sample",
+    "bytes": 1374,
+    "sha256": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/hooks/pre-rebase.sample",
+    "bytes": 4898,
+    "sha256": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/hooks/pre-receive.sample",
+    "bytes": 544,
+    "sha256": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/hooks/prepare-commit-msg.sample",
+    "bytes": 1492,
+    "sha256": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/hooks/push-to-checkout.sample",
+    "bytes": 2783,
+    "sha256": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/hooks/sendemail-validate.sample",
+    "bytes": 2308,
+    "sha256": "44ebfc923dc5466bc009602f0ecf067b9c65459abfe8868ddc49b78e6ced7a92",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/hooks/update.sample",
+    "bytes": 3650,
+    "sha256": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/index",
+    "bytes": 2345,
+    "sha256": "798f7e6348830ef22435acbd21e28e1951baca1bb3a2e0204a4519ff9dc045eb",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/info/exclude",
+    "bytes": 240,
+    "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/logs/HEAD",
+    "bytes": 1743,
+    "sha256": "ca7aa4ed10ec51ebc7015891a5e66f7026b6272de77fac5589b5d6f3dfef1c74",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/logs/refs/heads/DK",
+    "bytes": 552,
+    "sha256": "cb78c11fba0bd058453f35c23a1126bbbc7bc4586685dde5d1ca8a9174d9b0e8",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/logs/refs/heads/main",
+    "bytes": 354,
+    "sha256": "34ee6286ce71a428e71b448f587e6a51f2acd6b9dd4bff53de81cb0d8143d4da",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/logs/refs/remotes/origin/DK",
+    "bytes": 452,
+    "sha256": "be0967fb77873fc1f786208585b6c95210ad0b9ce142b39e99f44ec536eb66f2",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/logs/refs/remotes/origin/DK-1",
+    "bytes": 154,
+    "sha256": "cba76a142aac9581b08b454ac43684cef9800bb1de2221380ac58e3c0c085a05",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/logs/refs/remotes/origin/HEAD",
+    "bytes": 182,
+    "sha256": "1d72605e0cfb9cd0f7ff2ef7fc0b22e135e5b1dbff0b717858f9bbbed0fabd66",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/logs/refs/remotes/origin/main",
+    "bytes": 462,
+    "sha256": "0668073861e364e3b149776986231e85b1b98f67ee741293ca1e9abf2dfbce6c",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/logs/refs/remotes/origin/Vincent",
+    "bytes": 154,
+    "sha256": "08c1c55b2c245e24b8c8ef1af083d3b86dd9cded3cc6eaa892f2a33d704d7457",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/MERGE_HEAD",
+    "bytes": 41,
+    "sha256": "26856b25f0a75fa1f636c99a322aab724d1cba6d30aed0970e62b77947165e4c",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/MERGE_MODE",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "group": "Repository metadata",
+    "summary": "Empty archived file; no submitted content can be recovered from this file."
+  },
+  {
+    "path": "project/CSC154/.git/MERGE_MSG",
+    "bytes": 95,
+    "sha256": "ace18f9c97de5862a2f0acb1b86c7f4fbf7eb37d6a14a075286c8799dd1d51a9",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/0d/c81d4f5f6ae4a78ba7ca065f0fcb0b36dbf837",
+    "bytes": 87,
+    "sha256": "cdc571ad8ce19583623c99dfcc7f19352d3af1863133944ce490207b43ef0274",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/19/ba28df5e421410b11857bcd163af5b8bd28c2f",
+    "bytes": 878,
+    "sha256": "bde770e193c4025ef496ef03d971a9404cf8f43b83f076d357c4db82890e48bb",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/24/0ea22fb899ec912e41b384cde0d4ae318a0d3a",
+    "bytes": 584,
+    "sha256": "bfa10a089145216010ef798c478b89b25000751f76b7fe5d36f3d8fa6a3cba7d",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/24/61b0979c45cff011dac17ce173b94942499118",
+    "bytes": 320,
+    "sha256": "949b06aabeed87f9498b2954e7d5cdfb2c96ccc4448ce85cd3452b6e8cd6f3c8",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/27/5a032a718776e047389889abcffc67f784bc11",
+    "bytes": 445,
+    "sha256": "050abffd5b66f7154840c7d5a2ab252b24266963d48097cd9a635767564e4bc6",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/28/9e0b6fbbdf7105edc692f9a43c61f986d3fbdd",
+    "bytes": 87,
+    "sha256": "4a1cf8360347f307607b961e72ebae2813fa07fdc0858055d9aaf048b943f296",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/32/d9ceff2b905626e3be8a812896502b46d28156",
+    "bytes": 1692,
+    "sha256": "5c9910edb8a8423411b1b4627a857686364ef6d461b3a14b76217ede58ee602b",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/3a/55ba794f363e7d9758451e5b20317e459288f4",
+    "bytes": 1000,
+    "sha256": "bbdf49cf0eacaf7bfbcd41c9f7a662fdbfbf8de383ed3bfc36d7b6efed3ce97e",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/41/e8931b540ffa9fadfde6362174b3d3ec183b8e",
+    "bytes": 86,
+    "sha256": "1fd9b38a4d7004570846e76f6294fb8dfbd6e6e3d4916ed1a9c0647e4a8bf5b0",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/42/b969c10f4ceb2faff917f68539a1e12a1d3bad",
+    "bytes": 862,
+    "sha256": "7b2ab67392e1db3e4545015c0c548ae01a10065a84c2a9bc101cc479344bcf5a",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/54/60a2069a8b50393d9fdc612185f23588609d2d",
+    "bytes": 1618,
+    "sha256": "3b65deff31fa97496b1d0be0ff12dc4ab15eb033417383a68ae36c2386ee6b95",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/5a/4a3038e7b6f9405677ccb040a2c5f1a8e5e1f4",
+    "bytes": 86,
+    "sha256": "3885613367512247ac0d0c22927eb71e1640918ecc18a4b05798d12ee6249503",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/5e/360a52a58df8e31d2039ec48c49820f3cd66ed",
+    "bytes": 87,
+    "sha256": "545e6abe08e6fb2152d47111afb788d297975b4279e0009f327b96bdeceaf3c5",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/6a/ad936d3b16ad1175c4a245a2b58455798152c6",
+    "bytes": 87,
+    "sha256": "320ede98a4ffa57e49395e1be555d7a485eadd88d2860c0d7999e80bc7cf5ab5",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/75/5ec804fb946d8818ebd63cc466fc620081adfa",
+    "bytes": 408,
+    "sha256": "60cf9108e757b96e63972ada09c8aa41cb6d574ac3f07a6628287fcf03ec159c",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/76/60e9df11aecb78d958dd5ee2bdbd9c05e84b29",
+    "bytes": 1616,
+    "sha256": "225682bc2f2a4e438844be70190bf3d68b2dc1a02f6104dbaf6c1d4b5fb59ecb",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/7f/478d4f9df15c06ae67449ef9ef57df3325f100",
+    "bytes": 399,
+    "sha256": "b3c07b03b6437155d9745df7ab8f0e007f6fe09f0b0c88278fddd27251049334",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/84/f59a1e2da077d4da174408a5db73c5f1fe9e3e",
+    "bytes": 87,
+    "sha256": "02ed735ba8b7a3f6d07f7b8bd9d89ddf3dac9a2cfe15b9e064b9a85fc93e168c",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/93/8b2245e536d134fb11a988160715d513cab133",
+    "bytes": 889,
+    "sha256": "c4f1968839cbf8cc2daae8180ed1128e47e598566faacd6f44cc71a93db17be6",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/96/c8cd89dfb325f721bf99982181c331680a0680",
+    "bytes": 320,
+    "sha256": "2b7f670939856b7f649821135cc62e7a845077d69212a9133cca681bc6c04ca8",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/9a/681c5c759bc62b14f2e62bc48db3b8308cfc9b",
+    "bytes": 1084,
+    "sha256": "57c0c41c38e20cfe09ee331a0cad97dbcc840a250d06e96db9fdbaa76324e81f",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/a3/849d87edf6116dcc436a358372d6106fb575b4",
+    "bytes": 208,
+    "sha256": "380aa2ba86f6464e75e9113a241f075e1636db421711c688ab5d0a6fe9d524c0",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/a7/f0a971181e139a0bc5ddb05b977167784e5d95",
+    "bytes": 1270,
+    "sha256": "fa7afbeaba9373d1fe396817b1387cc38db9818d16c0a3d82d2b2dd0d19bd849",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/c2/7b8e29fa7daebe6da05994655d13375ceace58",
+    "bytes": 321,
+    "sha256": "aa9fedbcab88a1d50f456986b7e836c9bc116d7bf728bc122ba7d7ef45b69752",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/c5/dac47b9f1a4f96ad671a9f5ab96593f047295c",
+    "bytes": 175,
+    "sha256": "933b5e5bea137d68b97a36288872aa4765fad15098689105c50239cfe1f945a0",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/d8/30d674f3c38e55bb39c7379f4ef52c4fbc9150",
+    "bytes": 1616,
+    "sha256": "8787b5a9945bb9052e4a24b3d29dcb4c50f7ac586104fee3ff796dcaa7ee01d0",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/da/9a68412cf1021e74667b100a3e4897113eca1c",
+    "bytes": 86,
+    "sha256": "eccb8c243299142003e3caf3ffb56c99057461ad1725da5a76e7d16a3c7e117f",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/e8/3480c8f0d83c86f7e6f3d6181097e235c0307e",
+    "bytes": 146,
+    "sha256": "fe4a574c896ef5b371d6d27f7b0b7d23249b063393bf8f0b152ea038ea224cf9",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/fb/f0a25c2f49e3317492c92be92d28bdfd732ab1",
+    "bytes": 869,
+    "sha256": "4522eb76e9d7953ea7fa96ba973cb795a940cef4b871d891cb539981b1364c38",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/pack/pack-744a22ecee4b65c7c46737a6b76f50ed1d3c6ca9.idx",
+    "bytes": 2920,
+    "sha256": "0840044d23fab7501ecdb914117483db6d3bd93e252ed1c2dcfca5d6609eed4f",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/pack/pack-744a22ecee4b65c7c46737a6b76f50ed1d3c6ca9.pack",
+    "bytes": 23640,
+    "sha256": "53f5e5f0754a4064b45610632c56dd84937d1efd4f2954290f7bdbe79f5f463e",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/objects/pack/pack-744a22ecee4b65c7c46737a6b76f50ed1d3c6ca9.rev",
+    "bytes": 316,
+    "sha256": "eff24f8831988159c26d9518d944c24dc160ee1d76347f52e4ba41ba04c9e0c9",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/ORIG_HEAD",
+    "bytes": 41,
+    "sha256": "1b62bc750fb858a834832481689eaee2112df08680f2e25669cde8c91c055403",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/packed-refs",
+    "bytes": 386,
+    "sha256": "5d882e5a30d520a9e2084522c14a65e0e1e4f12997a89361670bf8218e4199da",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/refs/heads/DK",
+    "bytes": 41,
+    "sha256": "26856b25f0a75fa1f636c99a322aab724d1cba6d30aed0970e62b77947165e4c",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/MERGE_HEAD"
+  },
+  {
+    "path": "project/CSC154/.git/refs/heads/main",
+    "bytes": 41,
+    "sha256": "1b62bc750fb858a834832481689eaee2112df08680f2e25669cde8c91c055403",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/ORIG_HEAD"
+  },
+  {
+    "path": "project/CSC154/.git/refs/remotes/origin/DK",
+    "bytes": 41,
+    "sha256": "70ffa0552939cd269a3cde3468df774637060a5d0743e8cf125f62b3f5752cb5",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/refs/remotes/origin/DK-1",
+    "bytes": 41,
+    "sha256": "ba55e29909e1fc0cc561448e128ea496bbb783b381e88e5e7857f9a16bc81b27",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/refs/remotes/origin/HEAD",
+    "bytes": 30,
+    "sha256": "2bb6a24aa0fc6c484100f5d51a29bbad841cd2c755f5d93faa204e5dbb4eb2b4",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/CSC154/.git/refs/remotes/origin/main",
+    "bytes": 41,
+    "sha256": "1b62bc750fb858a834832481689eaee2112df08680f2e25669cde8c91c055403",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/ORIG_HEAD"
+  },
+  {
+    "path": "project/CSC154/.git/refs/remotes/origin/Vincent",
+    "bytes": 41,
+    "sha256": "1b62bc750fb858a834832481689eaee2112df08680f2e25669cde8c91c055403",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/ORIG_HEAD"
+  },
+  {
+    "path": "project/CSC154/docker/app.py",
+    "bytes": 2672,
+    "sha256": "2d0e854aa3ce2016241cd828326f3fdab744b1a8dd2e1af1528882982f868f24",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "project/CSC154/docker/ca/certs/rootCA.pem",
+    "bytes": 1386,
+    "sha256": "7e54f3feb06403d659d69fc843d65a13889db32c7b669205b6907843979d2ff8",
+    "group": "Certificate artifact",
+    "summary": "Lab public certificate, signing request or CA bookkeeping; represented by reviewed public metadata only."
+  },
+  {
+    "path": "project/CSC154/docker/ca/certs/rootCA.srl",
+    "bytes": 42,
+    "sha256": "297a0eef4ce31d6bb6bf5115971ff634bb17deb0be029d97c3e671bf095dab7a",
+    "group": "Certificate artifact",
+    "summary": "Lab public certificate, signing request or CA bookkeeping; represented by reviewed public metadata only."
+  },
+  {
+    "path": "project/CSC154/docker/ca/index.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "group": "Project source",
+    "summary": "Empty archived file; no submitted content can be recovered from this file.",
+    "identical_to": "project/CSC154/.git/MERGE_MODE"
+  },
+  {
+    "path": "project/CSC154/docker/ca/private/rootCA.key",
+    "bytes": 1706,
+    "sha256": "93cfc9dc8f6817a32c144e8ce43c7c8b13bb51c6ffdb7c3d304288ca140f00bc",
+    "group": "Private key material",
+    "summary": "Private cryptographic key. Not copied, displayed, served or included in the showcase package."
+  },
+  {
+    "path": "project/CSC154/docker/ca/serial",
+    "bytes": 6,
+    "sha256": "3b7b041d37d1d693c3afe25d2af7d56ad2ee7b98eddb2cc1a055c1117e55542e",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "project/CSC154/docker/docker-compose.yml",
+    "bytes": 715,
+    "sha256": "e0b3e4620999a93d635ba29509904cb1739e56f1e2d3a56b95c69df050b158b9",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "project/CSC154/docker/Dockerfile",
+    "bytes": 173,
+    "sha256": "fee4082eacf89fff08643b7929e5a9214ba48651ffe129fafdcca8af74fa5352",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "project/CSC154/docker/init_db.py",
+    "bytes": 4882,
+    "sha256": "4a24316caf44ae34ec91349ddabf3dbf881c959e66724b15cc2a16c324389f18",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "project/CSC154/docker/models.py",
+    "bytes": 800,
+    "sha256": "ad43c16b5a11d5e94fca05d37072a6aedde75ae9700fc0c6444418e3ff47a6f0",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "project/CSC154/docker/nginx/certs/openssl.cnf",
+    "bytes": 263,
+    "sha256": "e6af27fc52cd81f2ef262b2828d47b869b4b3060ece9f3780fa8ec161cc64e74",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "project/CSC154/docker/nginx/certs/project154.crt",
+    "bytes": 1204,
+    "sha256": "23498df9cec8161572a858004745ea1ca00ed5a1ad6d2afc4a50dcfdce97b0be",
+    "group": "Certificate artifact",
+    "summary": "Lab public certificate, signing request or CA bookkeeping; represented by reviewed public metadata only."
+  },
+  {
+    "path": "project/CSC154/docker/nginx/certs/project154.csr",
+    "bytes": 984,
+    "sha256": "ee93d252ab3dca0399ddbcb45ff4453c758a37138e23a1899c5ed2506cf38d35",
+    "group": "Certificate artifact",
+    "summary": "Lab public certificate, signing request or CA bookkeeping; represented by reviewed public metadata only."
+  },
+  {
+    "path": "project/CSC154/docker/nginx/certs/project154.key",
+    "bytes": 1702,
+    "sha256": "6ea8165514ca11eda7abc3e47ef3103370a670abcaf78771b9709474adf515bd",
+    "group": "Private key material",
+    "summary": "Private cryptographic key. Not copied, displayed, served or included in the showcase package."
+  },
+  {
+    "path": "project/CSC154/docker/nginx/nginx.conf",
+    "bytes": 534,
+    "sha256": "ea948a0d690856ea1874e51837d2ac9b40c9430b2a5d04af8c2ebf2ea79f74a8",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "project/CSC154/docker/requirements.txt",
+    "bytes": 65,
+    "sha256": "0bbfab7dc7cc11a5fa4037320d549ee473c59950e35de57bb50c3b2939e01c23",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "project/CSC154/docker/templates/admin.html",
+    "bytes": 595,
+    "sha256": "0746e513ab247a0f2423e91b025b51b496967f52645b00df16b1334806b9064b",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "project/CSC154/docker/templates/employee.html",
+    "bytes": 662,
+    "sha256": "d5c9bea96080e2664b88df9179d79bc1cddbeecc733d3298fa4177fa74d0bf12",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "project/CSC154/docker/templates/home.html",
+    "bytes": 1434,
+    "sha256": "b63e3c12c11224cef87b452f7d7092b31bca3b9deedafdb8432727a747fde7e2",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "project/CSC154/docker/templates/login.html",
+    "bytes": 482,
+    "sha256": "64e61f0abf9b954e25eb64ddfc30f3ae73450d5de05d4533c540010a8ff8680d",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "project/CSC154/README.md",
+    "bytes": 3419,
+    "sha256": "56a40b0a7f9b11db585d437dab43c6f8f22957ecde3ed4096ce4b31d40583149",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "project/dk/.git/COMMIT_EDITMSG",
+    "bytes": 34,
+    "sha256": "70d4c8a2b8723e96b97294ccf67654e97dbf42b87fb3412f4dd249c138b8868b",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/config",
+    "bytes": 300,
+    "sha256": "512e99c5be2db45e57914afefd3296fa11a8ab57e4303fb3bb8b793a59237632",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/description",
+    "bytes": 73,
+    "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/description"
+  },
+  {
+    "path": "project/dk/.git/FETCH_HEAD",
+    "bytes": 97,
+    "sha256": "62230616a0de6beeae5e35d59018f097f4cec0677df47d82d5c7837a2d18345e",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/HEAD",
+    "bytes": 21,
+    "sha256": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/HEAD"
+  },
+  {
+    "path": "project/dk/.git/hooks/applypatch-msg.sample",
+    "bytes": 478,
+    "sha256": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/applypatch-msg.sample"
+  },
+  {
+    "path": "project/dk/.git/hooks/commit-msg.sample",
+    "bytes": 896,
+    "sha256": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/commit-msg.sample"
+  },
+  {
+    "path": "project/dk/.git/hooks/fsmonitor-watchman.sample",
+    "bytes": 4726,
+    "sha256": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/fsmonitor-watchman.sample"
+  },
+  {
+    "path": "project/dk/.git/hooks/post-update.sample",
+    "bytes": 189,
+    "sha256": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/post-update.sample"
+  },
+  {
+    "path": "project/dk/.git/hooks/pre-applypatch.sample",
+    "bytes": 424,
+    "sha256": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/pre-applypatch.sample"
+  },
+  {
+    "path": "project/dk/.git/hooks/pre-commit.sample",
+    "bytes": 1649,
+    "sha256": "57185b7b9f05239d7ab52db045f5b89eb31348d7b2177eab214f5eb872e1971b",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/pre-commit.sample"
+  },
+  {
+    "path": "project/dk/.git/hooks/pre-merge-commit.sample",
+    "bytes": 416,
+    "sha256": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/pre-merge-commit.sample"
+  },
+  {
+    "path": "project/dk/.git/hooks/pre-push.sample",
+    "bytes": 1374,
+    "sha256": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/pre-push.sample"
+  },
+  {
+    "path": "project/dk/.git/hooks/pre-rebase.sample",
+    "bytes": 4898,
+    "sha256": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/pre-rebase.sample"
+  },
+  {
+    "path": "project/dk/.git/hooks/pre-receive.sample",
+    "bytes": 544,
+    "sha256": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/pre-receive.sample"
+  },
+  {
+    "path": "project/dk/.git/hooks/prepare-commit-msg.sample",
+    "bytes": 1492,
+    "sha256": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/prepare-commit-msg.sample"
+  },
+  {
+    "path": "project/dk/.git/hooks/push-to-checkout.sample",
+    "bytes": 2783,
+    "sha256": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/push-to-checkout.sample"
+  },
+  {
+    "path": "project/dk/.git/hooks/sendemail-validate.sample",
+    "bytes": 2308,
+    "sha256": "44ebfc923dc5466bc009602f0ecf067b9c65459abfe8868ddc49b78e6ced7a92",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/sendemail-validate.sample"
+  },
+  {
+    "path": "project/dk/.git/hooks/update.sample",
+    "bytes": 3650,
+    "sha256": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/update.sample"
+  },
+  {
+    "path": "project/dk/.git/index",
+    "bytes": 2065,
+    "sha256": "69cfde6dc09ec5a8bfc2c0666d1e024d7266b265466bf67794aa19e7f7f5e782",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/info/exclude",
+    "bytes": 240,
+    "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/info/exclude"
+  },
+  {
+    "path": "project/dk/.git/logs/HEAD",
+    "bytes": 510,
+    "sha256": "5a1b002cfb8009ac90cfcd79da676c4b923d41056c7c2ca905718d6fdd572c7c",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/logs/refs/heads/main",
+    "bytes": 341,
+    "sha256": "673ec54e6ca0fdf91ec019151822f1f2d67a5c12304892feee87a663a0950847",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/logs/refs/remotes/origin/main",
+    "bytes": 298,
+    "sha256": "5a15cfc85e2c2f18efcc42a50d4f0838e1c6328fcfee7e48c8d112a7068a9ad9",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/08/130975749b19b6abbed68ad0e4fdec6681d79a",
+    "bytes": 360,
+    "sha256": "b622d7119fde759eac430a20813912b7def6a1dc35b2243db918505c298a55e4",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/0b/35aeadbf70b7c61816cb23b599271a78ba4803",
+    "bytes": 299,
+    "sha256": "31828c1479fa876e15910f9f6f40c63ab705a53d92a59d89abd22f6403a9d6df",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/10/77908ca4c68581f7a2b6725e99dd076cdd5c1d",
+    "bytes": 127,
+    "sha256": "f3d71ee008c920b6cbc70b0be19bc5fed319bd4070d567b83c3a4222cd014c98",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/11/3199b96319617564f51ba59170e83b7b2ca2a5",
+    "bytes": 912,
+    "sha256": "d3cf05c39a29dc742b747a25d2c270f3dc73abfb800a1b5b11bfb9bef088cd1a",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/14/0a479a5f12bec3517b12d382bdc03a66060d47",
+    "bytes": 1301,
+    "sha256": "891280e4e04526508d5a2e5674660a8cd3892407619dd1acad95031aec8e6912",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/15/6a07b8cc75c8ddd69a06c9e0c0c24a088c1948",
+    "bytes": 82,
+    "sha256": "581b40d821e0e01bf3d3fd3307df68e7b9b2ed90dc65fd210070e41ccc9019e6",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/19/b3508feab8206e4dbd3fd7c4cbe1ef1d0d710d",
+    "bytes": 331,
+    "sha256": "f09194eee1a027ceca8928e70fbcbd4eca0fea157d4a79ea4c3b5fbe99cc371a",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/23/343574400503c6d08cc80eff998e98865a3949",
+    "bytes": 87,
+    "sha256": "b9f16e394597a069da1dffe8669f178751338aba612658cca1a95979702edae8",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/29/610bf9b59b99ffa71f523166cdf4ebba510697",
+    "bytes": 87,
+    "sha256": "6c90ee1ece19d6a37a09a899fac82ca77ff8ac1fecc16b6f7d953a7381a61eb7",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/5e/360a52a58df8e31d2039ec48c49820f3cd66ed",
+    "bytes": 87,
+    "sha256": "545e6abe08e6fb2152d47111afb788d297975b4279e0009f327b96bdeceaf3c5",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/objects/5e/360a52a58df8e31d2039ec48c49820f3cd66ed"
+  },
+  {
+    "path": "project/dk/.git/objects/5e/69674252cbae2c8a6fdbb21ca995cf8b0208d1",
+    "bytes": 54,
+    "sha256": "991d141a9a00389256f65442276bc8c8d98c7ef81d571660a5f282a31f768ed3",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/62/c29fa8c61d2ecd38a934c8c35958727205dc66",
+    "bytes": 1268,
+    "sha256": "0846359fb33ec54e5cbbd57ca0add770744a0f5de16ae66bd10c6cc5ea36c14c",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/65/ced22ba5c760f1ff0a64a9f9968d466bf5e0de",
+    "bytes": 320,
+    "sha256": "5102b813311cf792a2dc9231eb2516d40239aed714cb5238b763db71ab18d399",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/6b/ec6231b067ef489f33e01a6790c6e4ab867122",
+    "bytes": 57,
+    "sha256": "d3a0fea2ed880412d18f903687195750086fe892c320774e28623c62e957cc1f",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/6f/1d7e078f51fdcfaa1fcbacaa3778fe775a3dc7",
+    "bytes": 66,
+    "sha256": "117fd465ea91f916a1d848aebab3bbf4a6cfdee2bcf88158ebc80acaba547a22",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/70/72f0f0cf92c69949d1b21dab244ef972621dec",
+    "bytes": 148,
+    "sha256": "8209edf16e2feae96f91b244dd51890ae59df226614ddd40513286199f16d45e",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/76/60e9df11aecb78d958dd5ee2bdbd9c05e84b29",
+    "bytes": 1616,
+    "sha256": "225682bc2f2a4e438844be70190bf3d68b2dc1a02f6104dbaf6c1d4b5fb59ecb",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/objects/76/60e9df11aecb78d958dd5ee2bdbd9c05e84b29"
+  },
+  {
+    "path": "project/dk/.git/objects/7a/79db8605ef80956bfed5033ff785ccecc769ad",
+    "bytes": 1300,
+    "sha256": "43770f2f3cdb21b9c0fe57acf1b8cf0e6b1c5962994e36c62b2e39394e9c0a94",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/7e/81a8c511d95cc3cc28e4adccbd2cc6a1288d23",
+    "bytes": 117,
+    "sha256": "30f02b76fd6fe743a8a3efde9039bdd2361e44f1e3f6a36485f07be04db46c1a",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/83/b33d238dab9943201aaf267f701e8ea5fc9268",
+    "bytes": 20,
+    "sha256": "30b6fb419aa8e64e0e32330b85884b2cfeb0b0c83f10d4478a8a07584ec2154a",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/90/4964074c7ecbf75ed38d9027b627934bc6bcad",
+    "bytes": 149,
+    "sha256": "29a152e7afc497129892d89d6f06ccba8035717faf999c53e1b953690b10288f",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/9a/9a63e5d9ce303149f5d7eb419cfc19cb72389e",
+    "bytes": 269,
+    "sha256": "6c616976532f8f5674a6b6b66fb20241b6c96745aa160ae2153fdff5c16451cb",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/a0/64131f494285607d9dc8dac15ce5b95d7c5255",
+    "bytes": 1011,
+    "sha256": "b272ab16689bac6803625dbed99fab5d1e11e3a9b2696fa3004ebfdce36913a6",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/b7/3d9e1e04aa578e24c75cf1a90112cf7d4fce71",
+    "bytes": 169,
+    "sha256": "9fc1ccb1f522e2d8784611d5e1c3123a4e8450b59b3799301f2d11cbea733f42",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/bb/d6fca2edfa31db27edd115d385121c5630be3a",
+    "bytes": 264,
+    "sha256": "18bce6eb5abc1bec8c45e00dc305febfed7e5f554aa402b8347c262d4ed5b33a",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/c0/d1c9276cf716caaab7b5b381994021845de168",
+    "bytes": 759,
+    "sha256": "c3bb1bb5003f5e8958de37bf7f9159566c36f50edaac6c1949a3355a336602fd",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/d5/b676d09317530087104bd8a36e28cbd3b4797a",
+    "bytes": 1229,
+    "sha256": "e9ce6b155dd178128a5d16ead9ec79506fe86d279dd839a4e67e406093846363",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/db/8f32b6ceb533c22c840198e171ee2538ccc1af",
+    "bytes": 149,
+    "sha256": "9e8a917d6549345759b68a3c08ba40159be6af584864352dbf45068b59236159",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "bytes": 15,
+    "sha256": "164c5fa8067facf1a43f09ce3d0e35ebf53a7f5723ecbf15a8667cfc53c26f6c",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/ee/1fb0782197d520e149b4c671c800bc451f54db",
+    "bytes": 177,
+    "sha256": "d2b466eb431b617dc8e9cbc40f702bb4f2ef90239970188518cc4ca62dfa3ede",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/f6/2cc37818ee0d52b1e6d742564e6bbfae8a3e2b",
+    "bytes": 1004,
+    "sha256": "4768436ab0e308721b84bf800cb5d28c5951a79410c5530ddf70c85a2e9dc1bc",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/objects/fc/fe7485ad335f5a701c99d504f364913e56e93f",
+    "bytes": 273,
+    "sha256": "420e52f03cac4189b5eb9994a03a7bdf3c626f68b21dff969f21292a3d4ee812",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/ORIG_HEAD",
+    "bytes": 41,
+    "sha256": "6dab1908740a8fd63421e62b6f4f0a215eab83cc3a91765d712e7af21947b358",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project/dk/.git/refs/heads/main",
+    "bytes": 41,
+    "sha256": "6dab1908740a8fd63421e62b6f4f0a215eab83cc3a91765d712e7af21947b358",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/dk/.git/ORIG_HEAD"
+  },
+  {
+    "path": "project/dk/.git/refs/remotes/origin/main",
+    "bytes": 41,
+    "sha256": "6dab1908740a8fd63421e62b6f4f0a215eab83cc3a91765d712e7af21947b358",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/dk/.git/ORIG_HEAD"
+  },
+  {
+    "path": "project/dk/docker/app.py",
+    "bytes": 2558,
+    "sha256": "46e1048b93d9b5d52b040fb9d183dad3e5943438801b9ce69ddfc659c371f2fb",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "project/dk/docker/ca/certs/rootCA.pem",
+    "bytes": 1386,
+    "sha256": "7e54f3feb06403d659d69fc843d65a13889db32c7b669205b6907843979d2ff8",
+    "group": "Certificate artifact",
+    "summary": "Lab public certificate, signing request or CA bookkeeping; represented by reviewed public metadata only.",
+    "identical_to": "project/CSC154/docker/ca/certs/rootCA.pem"
+  },
+  {
+    "path": "project/dk/docker/ca/certs/rootCA.srl",
+    "bytes": 42,
+    "sha256": "297a0eef4ce31d6bb6bf5115971ff634bb17deb0be029d97c3e671bf095dab7a",
+    "group": "Certificate artifact",
+    "summary": "Lab public certificate, signing request or CA bookkeeping; represented by reviewed public metadata only.",
+    "identical_to": "project/CSC154/docker/ca/certs/rootCA.srl"
+  },
+  {
+    "path": "project/dk/docker/ca/index.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "group": "Project source",
+    "summary": "Empty archived file; no submitted content can be recovered from this file.",
+    "identical_to": "project/CSC154/.git/MERGE_MODE"
+  },
+  {
+    "path": "project/dk/docker/ca/private/rootCA.key",
+    "bytes": 1706,
+    "sha256": "93cfc9dc8f6817a32c144e8ce43c7c8b13bb51c6ffdb7c3d304288ca140f00bc",
+    "group": "Private key material",
+    "summary": "Private cryptographic key. Not copied, displayed, served or included in the showcase package.",
+    "identical_to": "project/CSC154/docker/ca/private/rootCA.key"
+  },
+  {
+    "path": "project/dk/docker/ca/serial",
+    "bytes": 6,
+    "sha256": "3b7b041d37d1d693c3afe25d2af7d56ad2ee7b98eddb2cc1a055c1117e55542e",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder.",
+    "identical_to": "project/CSC154/docker/ca/serial"
+  },
+  {
+    "path": "project/dk/docker/docker-compose.yml",
+    "bytes": 715,
+    "sha256": "e0b3e4620999a93d635ba29509904cb1739e56f1e2d3a56b95c69df050b158b9",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/docker-compose.yml"
+  },
+  {
+    "path": "project/dk/docker/Dockerfile",
+    "bytes": 173,
+    "sha256": "fee4082eacf89fff08643b7929e5a9214ba48651ffe129fafdcca8af74fa5352",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder.",
+    "identical_to": "project/CSC154/docker/Dockerfile"
+  },
+  {
+    "path": "project/dk/docker/init_db.py",
+    "bytes": 4882,
+    "sha256": "4a24316caf44ae34ec91349ddabf3dbf881c959e66724b15cc2a16c324389f18",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/init_db.py"
+  },
+  {
+    "path": "project/dk/docker/models.py",
+    "bytes": 800,
+    "sha256": "ad43c16b5a11d5e94fca05d37072a6aedde75ae9700fc0c6444418e3ff47a6f0",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/models.py"
+  },
+  {
+    "path": "project/dk/docker/nginx/certs/openssl.cnf",
+    "bytes": 263,
+    "sha256": "e6af27fc52cd81f2ef262b2828d47b869b4b3060ece9f3780fa8ec161cc64e74",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/nginx/certs/openssl.cnf"
+  },
+  {
+    "path": "project/dk/docker/nginx/certs/project154.crt",
+    "bytes": 1204,
+    "sha256": "23498df9cec8161572a858004745ea1ca00ed5a1ad6d2afc4a50dcfdce97b0be",
+    "group": "Certificate artifact",
+    "summary": "Lab public certificate, signing request or CA bookkeeping; represented by reviewed public metadata only.",
+    "identical_to": "project/CSC154/docker/nginx/certs/project154.crt"
+  },
+  {
+    "path": "project/dk/docker/nginx/certs/project154.csr",
+    "bytes": 984,
+    "sha256": "ee93d252ab3dca0399ddbcb45ff4453c758a37138e23a1899c5ed2506cf38d35",
+    "group": "Certificate artifact",
+    "summary": "Lab public certificate, signing request or CA bookkeeping; represented by reviewed public metadata only.",
+    "identical_to": "project/CSC154/docker/nginx/certs/project154.csr"
+  },
+  {
+    "path": "project/dk/docker/nginx/certs/project154.key",
+    "bytes": 1702,
+    "sha256": "6ea8165514ca11eda7abc3e47ef3103370a670abcaf78771b9709474adf515bd",
+    "group": "Private key material",
+    "summary": "Private cryptographic key. Not copied, displayed, served or included in the showcase package.",
+    "identical_to": "project/CSC154/docker/nginx/certs/project154.key"
+  },
+  {
+    "path": "project/dk/docker/nginx/nginx.conf",
+    "bytes": 534,
+    "sha256": "ea948a0d690856ea1874e51837d2ac9b40c9430b2a5d04af8c2ebf2ea79f74a8",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/nginx/nginx.conf"
+  },
+  {
+    "path": "project/dk/docker/requirements.txt",
+    "bytes": 65,
+    "sha256": "0bbfab7dc7cc11a5fa4037320d549ee473c59950e35de57bb50c3b2939e01c23",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/requirements.txt"
+  },
+  {
+    "path": "project/dk/docker/templates/admin.html",
+    "bytes": 595,
+    "sha256": "0746e513ab247a0f2423e91b025b51b496967f52645b00df16b1334806b9064b",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/templates/admin.html"
+  },
+  {
+    "path": "project/dk/docker/templates/employee.html",
+    "bytes": 662,
+    "sha256": "d5c9bea96080e2664b88df9179d79bc1cddbeecc733d3298fa4177fa74d0bf12",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/templates/employee.html"
+  },
+  {
+    "path": "project/dk/docker/templates/login.html",
+    "bytes": 482,
+    "sha256": "64e61f0abf9b954e25eb64ddfc30f3ae73450d5de05d4533c540010a8ff8680d",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/templates/login.html"
+  },
+  {
+    "path": "project/dk/README.md",
+    "bytes": 3221,
+    "sha256": "ce02c5e74a2c8880dc3eaf8971fc061be4142c1494240eee27f1d477e948f4b7",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "project/Helper.txt",
+    "bytes": 639,
+    "sha256": "f51f8e3c343286abce37880f722a2571fb9bbedfd4eef59db083061fc63166d1",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "project/p1.mp4",
+    "bytes": 12957770,
+    "sha256": "56098c1ee81680b921a0930bd1d878b7398c0a8a639bafda829415ebddc62196",
+    "group": "Demonstration video",
+    "summary": "Original project demonstration video; retained in the source archive inventory, not republished with potential lab credentials."
+  },
+  {
+    "path": "project/p2.mp4",
+    "bytes": 11626311,
+    "sha256": "bbb10239a5aee06adc8d81610521b1d19b2d7fe706237e996cfca5c462438a6b",
+    "group": "Demonstration video",
+    "summary": "Original project demonstration video; retained in the source archive inventory, not republished with potential lab credentials."
+  },
+  {
+    "path": "project/Project.pdf",
+    "bytes": 219364,
+    "sha256": "08eabf0da3e652e08e8a5d6de3e63f6884993c1e54e6f24e938ff52443699c8e",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "project1/CSC154/.git/COMMIT_EDITMSG",
+    "bytes": 22,
+    "sha256": "f7682b05a0bc7f4da8bc816cf65f36523bfd674d0f4a6a4804f160d4540a9e9f",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/config",
+    "bytes": 445,
+    "sha256": "e66bdeb68650066be8975907fa72cb0cb2c197490f4c51ec729808447dfe43d1",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/description",
+    "bytes": 73,
+    "sha256": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/description"
+  },
+  {
+    "path": "project1/CSC154/.git/FETCH_HEAD",
+    "bytes": 405,
+    "sha256": "9f104578623f9660e5ef302a5711751deb0ad4eea6888e95048c82c0be979383",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/HEAD",
+    "bytes": 19,
+    "sha256": "e87b174b29ff98786668ac0ab0a49ccc15c33cf6257ed211fddef0f09c184b30",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/hooks/applypatch-msg.sample",
+    "bytes": 478,
+    "sha256": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/applypatch-msg.sample"
+  },
+  {
+    "path": "project1/CSC154/.git/hooks/commit-msg.sample",
+    "bytes": 896,
+    "sha256": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/commit-msg.sample"
+  },
+  {
+    "path": "project1/CSC154/.git/hooks/fsmonitor-watchman.sample",
+    "bytes": 4726,
+    "sha256": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/fsmonitor-watchman.sample"
+  },
+  {
+    "path": "project1/CSC154/.git/hooks/post-update.sample",
+    "bytes": 189,
+    "sha256": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/post-update.sample"
+  },
+  {
+    "path": "project1/CSC154/.git/hooks/pre-applypatch.sample",
+    "bytes": 424,
+    "sha256": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/pre-applypatch.sample"
+  },
+  {
+    "path": "project1/CSC154/.git/hooks/pre-commit.sample",
+    "bytes": 1649,
+    "sha256": "57185b7b9f05239d7ab52db045f5b89eb31348d7b2177eab214f5eb872e1971b",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/pre-commit.sample"
+  },
+  {
+    "path": "project1/CSC154/.git/hooks/pre-merge-commit.sample",
+    "bytes": 416,
+    "sha256": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/pre-merge-commit.sample"
+  },
+  {
+    "path": "project1/CSC154/.git/hooks/pre-push.sample",
+    "bytes": 1374,
+    "sha256": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/pre-push.sample"
+  },
+  {
+    "path": "project1/CSC154/.git/hooks/pre-rebase.sample",
+    "bytes": 4898,
+    "sha256": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/pre-rebase.sample"
+  },
+  {
+    "path": "project1/CSC154/.git/hooks/pre-receive.sample",
+    "bytes": 544,
+    "sha256": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/pre-receive.sample"
+  },
+  {
+    "path": "project1/CSC154/.git/hooks/prepare-commit-msg.sample",
+    "bytes": 1492,
+    "sha256": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/prepare-commit-msg.sample"
+  },
+  {
+    "path": "project1/CSC154/.git/hooks/push-to-checkout.sample",
+    "bytes": 2783,
+    "sha256": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/push-to-checkout.sample"
+  },
+  {
+    "path": "project1/CSC154/.git/hooks/sendemail-validate.sample",
+    "bytes": 2308,
+    "sha256": "44ebfc923dc5466bc009602f0ecf067b9c65459abfe8868ddc49b78e6ced7a92",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/sendemail-validate.sample"
+  },
+  {
+    "path": "project1/CSC154/.git/hooks/update.sample",
+    "bytes": 3650,
+    "sha256": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/hooks/update.sample"
+  },
+  {
+    "path": "project1/CSC154/.git/index",
+    "bytes": 2161,
+    "sha256": "e58d9a512028da5b75722599bbb2eee2b64af4c46836137f9b77d864407a16b2",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/info/exclude",
+    "bytes": 240,
+    "sha256": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/info/exclude"
+  },
+  {
+    "path": "project1/CSC154/.git/logs/HEAD",
+    "bytes": 1023,
+    "sha256": "99815405eb66f2afb274fac221c211cc313ca1b45f0889b142dd5821f3f05db9",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/logs/refs/heads/DK",
+    "bytes": 505,
+    "sha256": "dc7c129a428b4d576f96b1963302d3710ea5f7f9781fdb70b9c696b95eb6a2c6",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/logs/refs/heads/main",
+    "bytes": 182,
+    "sha256": "cb33d2d435c3c341ceace298ae3d267e9669dbd9bc864915e1f3d3a8920855ca",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/logs/refs/remotes/origin/DK",
+    "bytes": 298,
+    "sha256": "f4ee6e3a4085fddb21db177111a599e8f47647f5f9429eb22997306c2231576a",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/logs/refs/remotes/origin/HEAD",
+    "bytes": 182,
+    "sha256": "cb33d2d435c3c341ceace298ae3d267e9669dbd9bc864915e1f3d3a8920855ca",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project1/CSC154/.git/logs/refs/heads/main"
+  },
+  {
+    "path": "project1/CSC154/.git/objects/08/a9d860f3a5215939cade96cf7c52d302a529c7",
+    "bytes": 168,
+    "sha256": "2f9e4cd6bc1c85255f5df8cde97a2cf562297a252f70d04ff5ab5db776202218",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/objects/49/0f10d80d500b891e9fa8d678a08aabcece6e27",
+    "bytes": 87,
+    "sha256": "15d71403697d0aaa0838c7fbaa3ee83e458d5891af62f0b8c2db9e2384a3d27a",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/objects/82/821fa4640a5f3ef0d5c6020ebaf678bee22642",
+    "bytes": 87,
+    "sha256": "eeefeba1e497785256501f201bce79651f15a00c095502ce1828a539f7a6a888",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/objects/8c/8230aa1292c46e2e59e2246c9ebc1aabd0c58d",
+    "bytes": 1619,
+    "sha256": "c9ea8012fb2d412c31bef15cbf7604fb82c3cb01bcf2212a37969f2a8d768211",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/objects/93/da8d8e27eb6767d0900156cd6a90c6efd99479",
+    "bytes": 1619,
+    "sha256": "9616843695d2729b76adf8aa193b3c4521da0ed6b776926480061f9a64d28ed5",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/objects/d9/8cd9c9a130afbe2b7d7540865af4c589e559ea",
+    "bytes": 181,
+    "sha256": "a61a78ea9dda41a610a9ef09b013fd76169d617e2bcb12706f221cf7e428326d",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/objects/pack/pack-d66b2367b52b9759f8e6a551cc46610b33558acd.idx",
+    "bytes": 3620,
+    "sha256": "fc84c4eb1dd51a67c271b29eabf46fbf3c9b5958862e369a5668a4cc72fb9d32",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/objects/pack/pack-d66b2367b52b9759f8e6a551cc46610b33558acd.pack",
+    "bytes": 30204,
+    "sha256": "ca37d4202d6949b461375136527521bd3fdf039ec90d9ac3c11c55478df9c661",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/objects/pack/pack-d66b2367b52b9759f8e6a551cc46610b33558acd.rev",
+    "bytes": 416,
+    "sha256": "cc9fa16e8fe9acecad054c449c842553dccdc6226cb3ee5f658de7fae3434436",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/ORIG_HEAD",
+    "bytes": 41,
+    "sha256": "8836b97f35da35b612cc658072c321b2eae16a1170397c105cb30d832a5d2394",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/packed-refs",
+    "bytes": 378,
+    "sha256": "c6b4adc50bd5ba05868806e50c1051cfe7d7d2a7ffe0bc9c0cfc81d146682bb5",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata."
+  },
+  {
+    "path": "project1/CSC154/.git/refs/heads/DK",
+    "bytes": 41,
+    "sha256": "8836b97f35da35b612cc658072c321b2eae16a1170397c105cb30d832a5d2394",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project1/CSC154/.git/ORIG_HEAD"
+  },
+  {
+    "path": "project1/CSC154/.git/refs/heads/main",
+    "bytes": 41,
+    "sha256": "1b62bc750fb858a834832481689eaee2112df08680f2e25669cde8c91c055403",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/ORIG_HEAD"
+  },
+  {
+    "path": "project1/CSC154/.git/refs/remotes/origin/DK",
+    "bytes": 41,
+    "sha256": "8836b97f35da35b612cc658072c321b2eae16a1170397c105cb30d832a5d2394",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project1/CSC154/.git/ORIG_HEAD"
+  },
+  {
+    "path": "project1/CSC154/.git/refs/remotes/origin/HEAD",
+    "bytes": 30,
+    "sha256": "2bb6a24aa0fc6c484100f5d51a29bbad841cd2c755f5d93faa204e5dbb4eb2b4",
+    "group": "Repository metadata",
+    "summary": "Archived version-control object, hook sample, ref or local repository state; inventoried without publishing repository metadata.",
+    "identical_to": "project/CSC154/.git/refs/remotes/origin/HEAD"
+  },
+  {
+    "path": "project1/CSC154/docker/app.py",
+    "bytes": 2550,
+    "sha256": "4c9d1268016def2dde3d86b06ae9f16b9a9cd57a6e40784129472f7f5b957e27",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "project1/CSC154/docker/ca/certs/rootCA.pem",
+    "bytes": 1386,
+    "sha256": "7e54f3feb06403d659d69fc843d65a13889db32c7b669205b6907843979d2ff8",
+    "group": "Certificate artifact",
+    "summary": "Lab public certificate, signing request or CA bookkeeping; represented by reviewed public metadata only.",
+    "identical_to": "project/CSC154/docker/ca/certs/rootCA.pem"
+  },
+  {
+    "path": "project1/CSC154/docker/ca/certs/rootCA.srl",
+    "bytes": 42,
+    "sha256": "297a0eef4ce31d6bb6bf5115971ff634bb17deb0be029d97c3e671bf095dab7a",
+    "group": "Certificate artifact",
+    "summary": "Lab public certificate, signing request or CA bookkeeping; represented by reviewed public metadata only.",
+    "identical_to": "project/CSC154/docker/ca/certs/rootCA.srl"
+  },
+  {
+    "path": "project1/CSC154/docker/ca/index.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "group": "Project source",
+    "summary": "Empty archived file; no submitted content can be recovered from this file.",
+    "identical_to": "project/CSC154/.git/MERGE_MODE"
+  },
+  {
+    "path": "project1/CSC154/docker/ca/private/rootCA.key",
+    "bytes": 1706,
+    "sha256": "93cfc9dc8f6817a32c144e8ce43c7c8b13bb51c6ffdb7c3d304288ca140f00bc",
+    "group": "Private key material",
+    "summary": "Private cryptographic key. Not copied, displayed, served or included in the showcase package.",
+    "identical_to": "project/CSC154/docker/ca/private/rootCA.key"
+  },
+  {
+    "path": "project1/CSC154/docker/ca/serial",
+    "bytes": 6,
+    "sha256": "3b7b041d37d1d693c3afe25d2af7d56ad2ee7b98eddb2cc1a055c1117e55542e",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder.",
+    "identical_to": "project/CSC154/docker/ca/serial"
+  },
+  {
+    "path": "project1/CSC154/docker/docker-compose.yml",
+    "bytes": 715,
+    "sha256": "e0b3e4620999a93d635ba29509904cb1739e56f1e2d3a56b95c69df050b158b9",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/docker-compose.yml"
+  },
+  {
+    "path": "project1/CSC154/docker/Dockerfile",
+    "bytes": 173,
+    "sha256": "fee4082eacf89fff08643b7929e5a9214ba48651ffe129fafdcca8af74fa5352",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder.",
+    "identical_to": "project/CSC154/docker/Dockerfile"
+  },
+  {
+    "path": "project1/CSC154/docker/init_db.py",
+    "bytes": 4882,
+    "sha256": "4a24316caf44ae34ec91349ddabf3dbf881c959e66724b15cc2a16c324389f18",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/init_db.py"
+  },
+  {
+    "path": "project1/CSC154/docker/models.py",
+    "bytes": 800,
+    "sha256": "ad43c16b5a11d5e94fca05d37072a6aedde75ae9700fc0c6444418e3ff47a6f0",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/models.py"
+  },
+  {
+    "path": "project1/CSC154/docker/nginx/certs/openssl.cnf",
+    "bytes": 263,
+    "sha256": "e6af27fc52cd81f2ef262b2828d47b869b4b3060ece9f3780fa8ec161cc64e74",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/nginx/certs/openssl.cnf"
+  },
+  {
+    "path": "project1/CSC154/docker/nginx/certs/project154.crt",
+    "bytes": 1204,
+    "sha256": "23498df9cec8161572a858004745ea1ca00ed5a1ad6d2afc4a50dcfdce97b0be",
+    "group": "Certificate artifact",
+    "summary": "Lab public certificate, signing request or CA bookkeeping; represented by reviewed public metadata only.",
+    "identical_to": "project/CSC154/docker/nginx/certs/project154.crt"
+  },
+  {
+    "path": "project1/CSC154/docker/nginx/certs/project154.csr",
+    "bytes": 984,
+    "sha256": "ee93d252ab3dca0399ddbcb45ff4453c758a37138e23a1899c5ed2506cf38d35",
+    "group": "Certificate artifact",
+    "summary": "Lab public certificate, signing request or CA bookkeeping; represented by reviewed public metadata only.",
+    "identical_to": "project/CSC154/docker/nginx/certs/project154.csr"
+  },
+  {
+    "path": "project1/CSC154/docker/nginx/certs/project154.key",
+    "bytes": 1702,
+    "sha256": "6ea8165514ca11eda7abc3e47ef3103370a670abcaf78771b9709474adf515bd",
+    "group": "Private key material",
+    "summary": "Private cryptographic key. Not copied, displayed, served or included in the showcase package.",
+    "identical_to": "project/CSC154/docker/nginx/certs/project154.key"
+  },
+  {
+    "path": "project1/CSC154/docker/nginx/nginx.conf",
+    "bytes": 534,
+    "sha256": "ea948a0d690856ea1874e51837d2ac9b40c9430b2a5d04af8c2ebf2ea79f74a8",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/nginx/nginx.conf"
+  },
+  {
+    "path": "project1/CSC154/docker/requirements.txt",
+    "bytes": 65,
+    "sha256": "0bbfab7dc7cc11a5fa4037320d549ee473c59950e35de57bb50c3b2939e01c23",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/requirements.txt"
+  },
+  {
+    "path": "project1/CSC154/docker/templates/admin.html",
+    "bytes": 595,
+    "sha256": "0746e513ab247a0f2423e91b025b51b496967f52645b00df16b1334806b9064b",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/templates/admin.html"
+  },
+  {
+    "path": "project1/CSC154/docker/templates/employee.html",
+    "bytes": 662,
+    "sha256": "d5c9bea96080e2664b88df9179d79bc1cddbeecc733d3298fa4177fa74d0bf12",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/templates/employee.html"
+  },
+  {
+    "path": "project1/CSC154/docker/templates/home.html",
+    "bytes": 1434,
+    "sha256": "b63e3c12c11224cef87b452f7d7092b31bca3b9deedafdb8432727a747fde7e2",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/templates/home.html"
+  },
+  {
+    "path": "project1/CSC154/docker/templates/login.html",
+    "bytes": 482,
+    "sha256": "64e61f0abf9b954e25eb64ddfc30f3ae73450d5de05d4533c540010a8ff8680d",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present.",
+    "identical_to": "project/CSC154/docker/templates/login.html"
+  },
+  {
+    "path": "project1/CSC154/README.md",
+    "bytes": 3225,
+    "sha256": "e0751f6ef47961cc73f450cbe246d15d33cf5551bf24335268cee72d2b077d2e",
+    "group": "Project source",
+    "summary": "Flask, SQLAlchemy, Jinja, Docker/Nginx or project documentation revision. Source viewer explains relevant code; credentials and seeded personal fields are omitted where present."
+  },
+  {
+    "path": "week1/Crypto_PKI.pdf",
+    "bytes": 194525,
+    "sha256": "ffe46bef280bc2e03bac07f1965aa1209c95678845b5385db49a428f9146159c",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week1/helper.txt",
+    "bytes": 2274,
+    "sha256": "86170d90bdbf92abc18c33a4d1af17731f3c3b204215d9841a599daa69628c47",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week1/homework/CSC154-HW1-Solutions.pdf",
+    "bytes": 171945,
+    "sha256": "dd9dddd7b6617477594deff2fed04817027198f9eb1a6d15fe64524350131d97",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder.",
+    "identical_to": "final exa/homework/CSC154-HW1-Solutions.pdf"
+  },
+  {
+    "path": "week1/homework/M1- Homework.docx",
+    "bytes": 28173,
+    "sha256": "f0386a72da95ad22e74f135965ee2e1b0ead78f49ae682a0a50fd9682e9745a4",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week1/Lab 1 Questions.docx",
+    "bytes": 7720052,
+    "sha256": "ff74281ee445e8c22ed29ba7cc80739b4cefda5a12e6eb95e5268d4a6f07d906",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week1/Lab 1 Questions.pdf",
+    "bytes": 69510,
+    "sha256": "658ea7c36877b79606cd632848ce84f8fd941bda8679d55e3496529612bab1bc",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week1/Lecture 1_1_CH1.pdf",
+    "bytes": 505190,
+    "sha256": "2b5fedac7c243f73102e567bb26f1d5154e2b6180f586af79121c4023b6442f0",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week1/Lecture 1_2_CH2.pdf",
+    "bytes": 1126285,
+    "sha256": "8d3fb710ab6bf504600a77c9bce6fe01cf4ddd5136286edf8258d876fc5321e0",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week1/PKI-Overview.pdf",
+    "bytes": 19296609,
+    "sha256": "5879647e8c802b9e3f9e1f6b7a76e0a1ee72a5921bf6d8b712cb3637d85ecc5b",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week1/Practical/helper.txt",
+    "bytes": 1531,
+    "sha256": "b14371758430daa2dfe5d783eed75d0cbf6fd3107f377f782d37940694de4542",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week1/Practical/Labsetup.zip",
+    "bytes": 9951,
+    "sha256": "c30d33c592f53d7d6488548e1528733ae2732e593f74bea6771f29d016395a06",
+    "group": "Setup archive",
+    "summary": "Nested SEED lab setup archive; relevant code is inspected separately without running containers."
+  },
+  {
+    "path": "week1_Discussion/discussion_Help.txt",
+    "bytes": 421,
+    "sha256": "ba32ed985b634ea3a16740fb886a2055263d9e97f5456363904af873e3bcf732",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week2/14-SQL Injection.pdf",
+    "bytes": 12420432,
+    "sha256": "f0c974123325692eb4a12939b8269823a91dff7f4adeed4b191341cab0fd8739",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week2/Access Control Activity(Ungraded).pdf",
+    "bytes": 193529,
+    "sha256": "eacdb63e4ea91fd9b7b6872540b53977d69999f580ab4df3bdbeaabfc654ba6f",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week2/helper.txt",
+    "bytes": 19644,
+    "sha256": "4496c0d386d31f5c089678bfa7a2148041b5a0c5a169a77d91ee6886688687a3",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week2/homework/CSC154-HW2-Solutions.pdf",
+    "bytes": 228928,
+    "sha256": "5e1ba5a5a4dde809899841a885113f4090d38e601d663c2c40c98f0f3243b68d",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder.",
+    "identical_to": "final exa/homework/CSC154-HW2-Solutions.pdf"
+  },
+  {
+    "path": "week2/homework/Homework 2 .docx",
+    "bytes": 38594,
+    "sha256": "03273a07513400b9facf9358decfcead638e1ce34de73c9dfbd33ed54a417c67",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week2/homework/Homework 2.pdf",
+    "bytes": 144254,
+    "sha256": "bd5c39f0ff9539dad796541ea162a84137e642194f84ea948117d60de4e81a97",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week2/Lab 2 Questions.docx",
+    "bytes": 4951851,
+    "sha256": "e48abb0a28f0e3da4c9144fa8859f1e2b7d8496f326fb43e9275fc69e7573095",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week2/Lab 2 Questions.pdf",
+    "bytes": 42989,
+    "sha256": "ff86afccb8a71c1cb3e392268905a4e5e1de726ee48ddb2fc8b77f6072c2f51e",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week2/Labsetup/docker-compose.yml",
+    "bytes": 826,
+    "sha256": "ac79d5201cb00c2390129dbc26ca4b5ed0a73866d6e66786c521dc0501b220f6",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup/image_mysql/Dockerfile",
+    "bytes": 211,
+    "sha256": "e3f72c99621d1a29315b9a2241ac936b665e9e0a8282eeb7d8799c801a4bf246",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup/image_mysql/sqllab_users.sql",
+    "bytes": 2861,
+    "sha256": "b0c37dd716d7209e71c90956f6501dcaa72bc52671c24301dd51c5114a683c1e",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup/image_www/apache_sql_injection.conf",
+    "bytes": 119,
+    "sha256": "c7bbc5856b633124fc0a83555e68e9a32560259ed1de0f0612425baab8afcf22",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup/image_www/Code/css/bootstrap.min.css",
+    "bytes": 144878,
+    "sha256": "8779c88ac1d574f7c9bec584b562d5dfbd0f95a74d49850626995b90fcda043c",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup/image_www/Code/css/style_home.css",
+    "bytes": 674,
+    "sha256": "6c01df23454a0e27d123dfaf3f10e863b14fc0599ef5020b95b2577522408faa",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup/image_www/Code/defense/getinfo.php",
+    "bytes": 1046,
+    "sha256": "afb7999e200604eb29cb3a0d783f50bd06e1b90eca38c5a1c0f1bad13c97ae98",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup/image_www/Code/defense/index.html",
+    "bytes": 1743,
+    "sha256": "79e31220a89b2cb5155d9f852656bf0ecafa049a321893b0e5be9bc28065a7fd",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup/image_www/Code/defense/style_home.css",
+    "bytes": 674,
+    "sha256": "8741be536973ff4ef4eb050aaa0bffc936be096ea77238e80050b4048ae3b489",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup/image_www/Code/defense/unsafe.php",
+    "bytes": 987,
+    "sha256": "78ebd6dbe4c40c63e2f996b9c1b06f1e02f7d5ad2d4170171f0950d4dae0854a",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup/image_www/Code/index.html",
+    "bytes": 2033,
+    "sha256": "9229a8379efd4ac607715fb5348773d2b738dbc3eb4422493b3bb502daf43cae",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup/image_www/Code/logoff.php",
+    "bytes": 476,
+    "sha256": "d7e28570b53e0384afe5017bba28b4d1b7504f7fbaebdafb588b08c281a36b93",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup/image_www/Code/seed_logo.png",
+    "bytes": 16672,
+    "sha256": "a4654bc1c8581076ddfa9826a48e35d390690367a6c04681edd8ef43c0e3f24d",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup/image_www/Code/unsafe_edit_backend.php",
+    "bytes": 1745,
+    "sha256": "a65b5047a91e7d2ff484bfb0c713c75ec9b5f35eedfd8013dddd5316756d4660",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup/image_www/Code/unsafe_edit_frontend.php",
+    "bytes": 5121,
+    "sha256": "c10547fa6290529ae5ed50039599fda52a8c445981784a9b893fee0720f46e72",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup/image_www/Code/unsafe_home.php",
+    "bytes": 10384,
+    "sha256": "ddf94f0899e4727648cfb75f59cf9ec4535a533d695d68bd006e92bd24375ab2",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup/image_www/Dockerfile",
+    "bytes": 203,
+    "sha256": "a95454a654dff23bf1260c01581dc2a3a80bf9dbcaf5fa84ba60ac93063496bc",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week2/Labsetup-SQL.zip",
+    "bytes": 52743,
+    "sha256": "eba51ab30891ecfa840f1b76f454b03baea63a8ae744cd9a2381daeede8e55db",
+    "group": "Setup archive",
+    "summary": "Nested SEED lab setup archive; relevant code is inspected separately without running containers."
+  },
+  {
+    "path": "week2/Lecture 2_1_CH4.pdf",
+    "bytes": 1548039,
+    "sha256": "7dcdebdb78a09a2b33a44908bd988f17efa721aa51c13d46d60d2a57f629693a",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week2/Lecture 2_2_CH5.pdf",
+    "bytes": 1120427,
+    "sha256": "29727b58254a4db8310ea0687a0ab9ee7e591117188f9d651bfed49af6bd6588",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week2/Web_SQL_Injection -Lab Guide.pdf",
+    "bytes": 237275,
+    "sha256": "035bcc3641a809d4d9aae7993224b498de39412ff8ffc9d61c433a75f9d3622d",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week3/discussion/helper.txt",
+    "bytes": 2118,
+    "sha256": "1ab6292e9fce97275eace0d2c89199ccd2c675ebd8a1fe14d3903330f7969949",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week3/discussion/Transcript.txt",
+    "bytes": 13323,
+    "sha256": "5fb792553534be5b3905aa4ba90f9091daa602f0f8a29861e1d6317af08a2d02",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week3/homework/CSC154-HW3 - Solutions.pdf",
+    "bytes": 182214,
+    "sha256": "ddbbf8e808c793fdbb7ce1025a65829b00c001e262f1e281a8dd72ff84eb174b",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder.",
+    "identical_to": "final exa/homework/CSC154-HW3 - Solutions.pdf"
+  },
+  {
+    "path": "week3/homework/Helper.txt",
+    "bytes": 5610,
+    "sha256": "f65975a6bd65d6639675d8788f6b7deb827c704c8c0077c4b4267a6b81d465c0",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week3/homework/Homework 3.pdf",
+    "bytes": 129380,
+    "sha256": "5c1be1df42bdc87208428ced813e24bad344a45dd80a0834bb222aede571087b",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week3/homework/Homework_3Answers.docx",
+    "bytes": 23521,
+    "sha256": "9f6fb007af4620e2ffffa0b4f80633b7327020b75b71094fe3295493f32dec17",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week3/lab/helper.txt",
+    "bytes": 725,
+    "sha256": "dbd4c4cf88f60e3b287919cb62ee45a48459bbdf8bfa7fec7eafa2c949779760",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week3/lab/Lab 3 Questions.docx",
+    "bytes": 2085284,
+    "sha256": "50b08900e45993372369730e85c827365dd14b890f53b36cfb2c91511ebb26fa",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week3/lab/Lab 3 Questions.pdf",
+    "bytes": 959828,
+    "sha256": "ce9a5594958da40cf66002416112d24a333c87970eeb36361b6b056e40380a80",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week3/lab/Lab3_Report.docx",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "group": "Course document or evidence",
+    "summary": "Empty archived file; no submitted content can be recovered from this file.",
+    "identical_to": "project/CSC154/.git/MERGE_MODE"
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/docker-compose.yml",
+    "bytes": 817,
+    "sha256": "a48dccbc91aad9cfc3054135c86fc80378ed7b1d3640ef60b17efbf5180c48b7",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/image_mysql/Dockerfile",
+    "bytes": 201,
+    "sha256": "88f3f3e96ec81902cc914a59491a2b217b24a57bc211d62daeb700eee54978d5",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/image_mysql/elgg.sql",
+    "bytes": 95795,
+    "sha256": "a82fd431fba782e7ade87aca6d0441e63e631b46ec989ad03f831cc4b1f219b4",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/image_www/apache_csp.conf",
+    "bytes": 941,
+    "sha256": "ad20b0e1585f4a29f10b70facbf17a874cafedd6ff72a9eb7eb08e8e8bc47524",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/image_www/apache_elgg.conf",
+    "bytes": 245,
+    "sha256": "a15e9f95bb05f221e9b9042ce59863007e80d78733879e88b82128d7a063a832",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/image_www/csp/index.html",
+    "bytes": 1242,
+    "sha256": "260fd59fc0af0350c1b62811f94e9421881bfef2763e783d21a18618090f82ba",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/image_www/csp/phpindex.php",
+    "bytes": 235,
+    "sha256": "e63190605bb18baf65bcb849052028e61056bdc410da344e44a68730118be2bd",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/image_www/csp/script_area4.js",
+    "bytes": 78,
+    "sha256": "aeefd327cda3f339068de2190665732afb35dcb732ab0f4b191d97dd0dad619f",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/image_www/csp/script_area5.js",
+    "bytes": 78,
+    "sha256": "f39a34fcdb063c301ca15134356b8c8726b3c43f8946a7f34e3ccd2adf3dfcc3",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/image_www/csp/script_area6.js",
+    "bytes": 78,
+    "sha256": "d3a87e4935444b1d03a47b729da33f5724570a6eee8b123c2112088b27707bab",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/image_www/Dockerfile",
+    "bytes": 821,
+    "sha256": "6045b14a87a05ad1f38a0957bfd0a4a20d474e8f557426264d319335ebe1192d",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/image_www/elgg/ajax.js",
+    "bytes": 6476,
+    "sha256": "ac975cd0339c008dd11324fd4fef00552a51830f0cb6961c93ef8421f19e1b08",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/image_www/elgg/dropdown.php",
+    "bytes": 245,
+    "sha256": "b81daae22aa9932660407f14936f05d512a4fa073d5c68bae2d3ebf20d4914ff",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/image_www/elgg/input.php",
+    "bytes": 10455,
+    "sha256": "9fea6b9705ce29960351588935ce835a0c4124b236705686833cad215c15cdd2",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/image_www/elgg/settings.php",
+    "bytes": 14043,
+    "sha256": "acbe50cb8af580c17c7cc14dbff9dfe16e07fcdde792ce9cd06cf27b92a93802",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/image_www/elgg/text.php",
+    "bytes": 323,
+    "sha256": "a7d25bdb0be32e9ad31308d4a3b7ca285d840b79cc39cab5f5bdb6ee44c2d414",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup/Labsetup/image_www/elgg/url.php",
+    "bytes": 4021,
+    "sha256": "cd8816fedfc28197f239e89cac4bbecb0e3876f3286c14b85e60bd3d2fe996d6",
+    "group": "Lab source/scaffold",
+    "summary": "SEED lab scaffold or dependency supporting SQL injection, XSS or CSP exercises; not attributed as student-authored framework code."
+  },
+  {
+    "path": "week3/lab/Labsetup.zip",
+    "bytes": 31537,
+    "sha256": "085e023d87371d0131364d9d36c8186adba6c668491f5d87af82380d58ec07e7",
+    "group": "Setup archive",
+    "summary": "Nested SEED lab setup archive; relevant code is inspected separately without running containers."
+  },
+  {
+    "path": "week3/lab/Web_XSS_Elgg.pdf",
+    "bytes": 1182197,
+    "sha256": "3bf548d4c8b83368f62557cc78479732916cfa0bd8dd932a6849badbe3a65659",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week3/Lecture 4_1_CH7.pdf",
+    "bytes": 987831,
+    "sha256": "0f1d9bac8c203929898faa5baf4597279e97adf8ce9689b38d8b7b3b43cc05be",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week3/Lecture 4_2_CH22.pdf",
+    "bytes": 1010035,
+    "sha256": "f411bb70c29c86515a215d254af53411c9d3b852eec2b9bdf122afb25d84fd18",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week3/Lecture_T1.txt",
+    "bytes": 47215,
+    "sha256": "4e00edecb25df017753bd29d602f262b97f964053bd74944842b5cba60058c5c",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week3/Lecture_T2.txt",
+    "bytes": 15983,
+    "sha256": "4f9efd144880486aef722a2084f40d4dae648d4e99f0a18ee75cc4b036ae179e",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week3/Lecture_T3.txt",
+    "bytes": 30212,
+    "sha256": "b7ad773988a1ef63211dbcb1f2c2565fb3720660f6d5fcd625c202554a276958",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week3/Module 4_ Application Security_ CSC154 Compsys Attck+Countermsur - SECTION 01.pdf",
+    "bytes": 143105,
+    "sha256": "aba3861d80edef7c8c29b086f3ca6b15a7e290a695bfe3b127e6c6f52394f165",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week4/Lecture 5_1_CH8.pdf",
+    "bytes": 919915,
+    "sha256": "26832cfe30c300206a62c54da94c8b9627e87348ed204f7faa0cdba2af5f2323",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week4/Lecture 5_2_CH9.pdf",
+    "bytes": 728440,
+    "sha256": "b46cc80c67fb4eb922b45d376203ad4c713f96d4e20bbe73efed7fa29e9d0c98",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  },
+  {
+    "path": "week5/Lecture 6_1_CH12.pdf",
+    "bytes": 334088,
+    "sha256": "19bd0e8aa8da167d2765204c80fa6e704c6c70b30cfd2621b999d0708e2430fc",
+    "group": "Course document or evidence",
+    "summary": "Course lab/report, homework, reference, lecture, quiz or textbook artifact; labeled by its original course folder."
+  }
+]

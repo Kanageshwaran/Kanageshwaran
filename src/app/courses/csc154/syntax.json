@@ -1,0 +1,47 @@
+[
+  {
+    "path": "project/dk/docker/init_db.py",
+    "status": "Parses",
+    "error": ""
+  },
+  {
+    "path": "project/dk/docker/app.py",
+    "status": "Parses",
+    "error": ""
+  },
+  {
+    "path": "project/dk/docker/models.py",
+    "status": "Parses",
+    "error": ""
+  },
+  {
+    "path": "project/CSC154/docker/init_db.py",
+    "status": "Parses",
+    "error": ""
+  },
+  {
+    "path": "project/CSC154/docker/app.py",
+    "status": "Syntax error",
+    "error": "expected an indented block after function definition on line 36 at line 37"
+  },
+  {
+    "path": "project/CSC154/docker/models.py",
+    "status": "Parses",
+    "error": ""
+  },
+  {
+    "path": "project1/CSC154/docker/init_db.py",
+    "status": "Parses",
+    "error": ""
+  },
+  {
+    "path": "project1/CSC154/docker/app.py",
+    "status": "Parses",
+    "error": ""
+  },
+  {
+    "path": "project1/CSC154/docker/models.py",
+    "status": "Parses",
+    "error": ""
+  }
+]
