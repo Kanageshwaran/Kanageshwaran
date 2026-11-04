@@ -1,0 +1,34 @@
+[
+  {
+    "title": "One HTML assignment, two saved locations",
+    "detail": "hw2/Assignment2/index.html and hw4/index.html are byte-identical. They are shown together rather than counted as different implementations. The hand-drawn sitemap plans About, Gallery, Tutorials, Contact and Search; these are planned features, not implemented pages."
+  },
+  {
+    "title": "Text formatter filename mismatch",
+    "detail": "fancifymytext.html loads fancifymytext.js, but the saved file is facifymytext.js. An unchanged folder will not wire up the buttons. The new browser adaptation shows the functions working; original files remain unchanged."
+  },
+  {
+    "title": "Shift cipher is a learning exercise",
+    "detail": "The saved JavaScript implements events, reset and a one-letter shift; the algorithm is also supplied in the brief. Input is lowercased before ASCII letters are shifted, so non-ASCII uppercase characters can also change case. This is not secure encryption."
+  },
+  {
+    "title": "Pet gallery is labeled as a solution",
+    "detail": "The folder is ajaxpets-solution and the HTML credits CSE 154 contributors. It is presented as a supplied reference exercise, not asserted as independently authored work. The server returns 57 puppy paths and 13 kitty paths, all present in the archive."
+  },
+  {
+    "title": "Circle validation is narrow",
+    "detail": "The route checks only isNaN(Number(r)). Negative radii and Infinity pass that test. Negative radii produce negative circumference; non-finite numeric results become null in JSON. A separate improved validation example requires a finite, nonnegative radius."
+  },
+  {
+    "title": "SOL evidence is not the app repository",
+    "detail": "The final project is documented by report prose, screenshots and saved commit/Jira views. Editable SOL source is absent from this ZIP. Interactive inventory, preference and navigation examples are new, fictional browser reconstructions. No live Supabase write, push registration, borrowing or church-app login occurs."
+  },
+  {
+    "title": "Jira identifiers differ across report sections",
+    "detail": "The task captions, older PDF and reflection attach different IDs to several features. The showcase uses feature names and does not certify an ID-to-feature mapping, percentage of contribution, paid freelance status or live production state."
+  },
+  {
+    "title": "Native storage and browser storage differ",
+    "detail": "hw10/helper.txt gives a small AsyncStorage example and discusses notification preferences. The showcase uses a separate browser localStorage key with explicit save/restore controls. It illustrates persistence without claiming to run AsyncStorage or synchronize to Supabase."
+  }
+]
