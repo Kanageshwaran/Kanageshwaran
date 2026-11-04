@@ -1,0 +1,50 @@
+[
+  {
+    "title": "One project copy cannot start as archived",
+    "text": "project/CSC154/docker/app.py contains unresolved Git conflict markers and fails Python syntax parsing. Its README has conflict markers too. The project/dk and project1/CSC154 app copies parse and pass the bounded route checks. Folder names alone do not establish their chronology or prove that the whole submitted project was deployed."
+  },
+  {
+    "title": "The saved defense file still builds SQL with strings",
+    "text": "The Lab 2 response and its final screenshots document prepare/bind_param/execute edits, including the login lookup and update path. However, the archived defense/unsafe.php file still interpolates the username into a SELECT passed to query(). The screenshots and saved source represent different states; the corrected code is not present in that saved defense file. The showcase credits the documented prepared-statement work while labeling its runnable browser comparison as a new reference model."
+  },
+  {
+    "title": "A direct UPDATE is not the documented field exploit",
+    "text": "The Lab 2 answers list standalone UPDATE commands for salary changes. Those commands demonstrate SQL syntax, but do not by themselves show how input altered the vulnerable application\u2019s existing UPDATE statement. mysqli query() disallowing stacked statements also does not prevent a single injected SELECT or UPDATE. The interface uses fixed synthetic examples and a read-only teaching result, not a live database attack."
+  },
+  {
+    "title": "PKI proof and certificate lifetime",
+    "text": "The archived project certificate has SAN www.project154.com and was valid from June 25 2025 to June 25 2026. Offline verification with the archived public root succeeds at a June 2025 validation time, rejects a different hostname, and rejects the certificate as expired at review time. Matching subject/authority key identifiers alone does not prove a self-signature; signature verification and the certificate\u2019s issuer/subject matter."
+  },
+  {
+    "title": "CA keys and sessions need a deployment boundary",
+    "text": "Six private-key files occur in the outer ZIP and another key is inside the nested PKI setup ZIP. None is copied into the public package. The project uses a hard-coded Flask secret and Docker COPY . . with no supplied ignore file excluding CA material. A real deployment needs fresh secrets, controlled key storage and a build context that excludes CA private keys."
+  },
+  {
+    "title": "Route checks support a specific access model",
+    "text": "Both clean Flask copies passed 14 checks each against an isolated in-memory SQLite database with synthetic users: anonymous redirects, generic invalid login, literal ORM lookup, employee-only data, employee denial at /admin, admin listing, admin denial at /employee, logout, autoescaping and the home route. This does not validate PostgreSQL, Nginx, Docker networking or all authorization cases. Admin access to employee-only /employee is denied by the actual source even though /admin lists everyone."
+  },
+  {
+    "title": "Authentication hardening remains separate work",
+    "text": "The source verifies password hashes through Werkzeug, contrary to an outdated README suggestion that hashing is still future work. The seed initializer calls generate_password_hash but embeds demo plaintext seed credentials and drops/recreates tables. No original initializer was run here. Cookie Secure is unset, HttpOnly is enabled by Flask\u2019s tested default, SameSite is not explicitly configured, logout uses GET, and no CSRF tokens or login throttling are implemented in these files."
+  },
+  {
+    "title": "Docker exposure and HTTPS have different roles",
+    "text": "Compose publishes only Nginx ports 80 and 443; the backend uses expose 5000 and PostgreSQL has no host port mapping. That is a useful service boundary but not a complete firewall or isolation proof. Nginx terminates TLS and forwards HTTP to backend:5000; traffic is not end-to-end encrypted to Flask. EXPOSE documents a port and does not by itself publish it."
+  },
+  {
+    "title": "XSS can act inside an authenticated session",
+    "text": "The Lab 3 script reads Elgg\u2019s CSRF tokens through the same origin, then sends friend/profile requests. Tokens guard against cross-site request forgery but do not stop a script already executing with page privileges. The written claim that Editor mode alone makes XSS impossible is too strong; safety depends on output encoding and enforced sanitization, not the editor UI mode."
+  },
+  {
+    "title": "The supplied CSP is specific",
+    "text": "The Apache policy allows self and subdomains of example70.com, blocking inline scripts and the example60.com source. The PHP variant additionally allows nonce 111-111-111. A fixed demonstration nonce is not a suitable production nonce; nonces need unpredictable fresh values per response. The website evaluates only the seven supplied script cases and does not implement a general CSP parser or execute archived scripts."
+  },
+  {
+    "title": "Homework permission corrections",
+    "text": "HW2 gives 755 for the requested owner rwx, group r-x, others r-- configuration. That specification is 754; 755 would also grant others execute. The displayed ssh-agent permission string contains a group s, so setGID should be identified alongside passwd\u2019s setUID and /tmp\u2019s sticky bit. The showcase explains these as reviewed corrections to the written answer."
+  },
+  {
+    "title": "Homework cryptography and evidence scope",
+    "text": "HW1 writes 8^5 mod 91 = 2, but 32768 = 91\u00d7360 + 8, so the correct ciphertext is 8. The supplied d=29 recovers 8 from that correct ciphertext; decrypting the claimed ciphertext 2 gives 32, not 8. The browser checks all 91 teaching plaintext values. These tiny unpadded parameters are not production RSA. HW3 also attributes the S/MIME message signature to the CA: the sender signs the message, while the CA signs the certificate binding identity to a public key. Other written answers remain available without a claim that every answer is certified."
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "subject": "www.project154.com",
+  "issuer": "project154-RootCA",
+  "san": [
+    "www.project154.com"
+  ],
+  "notBefore": "2025-06-25T22:24:32Z",
+  "notAfter": "2026-06-25T22:24:32Z",
+  "checks": [
+    {
+      "condition": "Trusted archived root, matching hostname, 2025-06-27 validation time",
+      "result": "Pass / OpenSSL verify OK"
+    },
+    {
+      "condition": "Trusted archived root, wrong.example hostname, 2025-06-27 validation time",
+      "result": "Fail / hostname mismatch"
+    },
+    {
+      "condition": "Trusted archived root, matching hostname, review-time validation",
+      "result": "Fail / expired certificate"
+    }
+  ],
+  "scope": "Public certificate metadata and offline verification only; private keys were not read into the showcase or used to sign anything."
+}

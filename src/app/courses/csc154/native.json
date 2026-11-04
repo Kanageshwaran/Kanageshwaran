@@ -1,0 +1,164 @@
+[
+  {
+    "variant": "project/dk",
+    "checks": [
+      {
+        "check": "Anonymous admin redirects to login",
+        "status": 302,
+        "result": "Pass"
+      },
+      {
+        "check": "Anonymous employee redirects to login",
+        "status": 302,
+        "result": "Pass"
+      },
+      {
+        "check": "Wrong password gives generic error",
+        "status": 200,
+        "result": "Pass"
+      },
+      {
+        "check": "ORM username lookup treats injection string as data",
+        "status": 200,
+        "result": "Pass"
+      },
+      {
+        "check": "Valid employee login redirects",
+        "status": 302,
+        "result": "Pass"
+      },
+      {
+        "check": "Employee sees only own synthetic fixture",
+        "status": 200,
+        "result": "Pass"
+      },
+      {
+        "check": "Employee cannot access admin route",
+        "status": 403,
+        "result": "Pass"
+      },
+      {
+        "check": "GET logout redirects",
+        "status": 302,
+        "result": "Pass"
+      },
+      {
+        "check": "Logged-out employee redirects again",
+        "status": 302,
+        "result": "Pass"
+      },
+      {
+        "check": "Valid admin login redirects",
+        "status": 302,
+        "result": "Pass"
+      },
+      {
+        "check": "Admin sees both synthetic fixtures",
+        "status": 200,
+        "result": "Pass"
+      },
+      {
+        "check": "Admin role denied employee-only route",
+        "status": 403,
+        "result": "Pass"
+      },
+      {
+        "check": "Jinja HTML autoescape preserves text boundary",
+        "status": 200,
+        "result": "Pass"
+      },
+      {
+        "check": "Home route responds",
+        "status": 200,
+        "result": "Pass"
+      }
+    ],
+    "scope": "Original clean Flask app and templates, fresh SQLite in-memory database, two explicitly synthetic employees and generated test passwords. No PostgreSQL, Docker, Nginx, network or original seed initializer was executed. This is bounded route/escaping evidence, not a production security certification.",
+    "settings": {
+      "SESSION_COOKIE_SECURE": false,
+      "SESSION_COOKIE_HTTPONLY": true,
+      "SESSION_COOKIE_SAMESITE": null
+    }
+  },
+  {
+    "variant": "project1/CSC154",
+    "checks": [
+      {
+        "check": "Anonymous admin redirects to login",
+        "status": 302,
+        "result": "Pass"
+      },
+      {
+        "check": "Anonymous employee redirects to login",
+        "status": 302,
+        "result": "Pass"
+      },
+      {
+        "check": "Wrong password gives generic error",
+        "status": 200,
+        "result": "Pass"
+      },
+      {
+        "check": "ORM username lookup treats injection string as data",
+        "status": 200,
+        "result": "Pass"
+      },
+      {
+        "check": "Valid employee login redirects",
+        "status": 302,
+        "result": "Pass"
+      },
+      {
+        "check": "Employee sees only own synthetic fixture",
+        "status": 200,
+        "result": "Pass"
+      },
+      {
+        "check": "Employee cannot access admin route",
+        "status": 403,
+        "result": "Pass"
+      },
+      {
+        "check": "GET logout redirects",
+        "status": 302,
+        "result": "Pass"
+      },
+      {
+        "check": "Logged-out employee redirects again",
+        "status": 302,
+        "result": "Pass"
+      },
+      {
+        "check": "Valid admin login redirects",
+        "status": 302,
+        "result": "Pass"
+      },
+      {
+        "check": "Admin sees both synthetic fixtures",
+        "status": 200,
+        "result": "Pass"
+      },
+      {
+        "check": "Admin role denied employee-only route",
+        "status": 403,
+        "result": "Pass"
+      },
+      {
+        "check": "Jinja HTML autoescape preserves text boundary",
+        "status": 200,
+        "result": "Pass"
+      },
+      {
+        "check": "Home route responds",
+        "status": 200,
+        "result": "Pass"
+      }
+    ],
+    "scope": "Original clean Flask app and templates, fresh SQLite in-memory database, two explicitly synthetic employees and generated test passwords. No PostgreSQL, Docker, Nginx, network or original seed initializer was executed. This is bounded route/escaping evidence, not a production security certification.",
+    "settings": {
+      "SESSION_COOKIE_SECURE": false,
+      "SESSION_COOKIE_HTTPONLY": true,
+      "SESSION_COOKIE_SAMESITE": null
+    }
+  }
+]
