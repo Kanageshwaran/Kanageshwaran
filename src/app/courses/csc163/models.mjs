@@ -1,0 +1,5 @@
+export function pixel(d,x,y,c,steps=25){let sum=0;const terms=[];for(let i=0;i<25;i++){const xx=x+i%5-2,yy=y+Math.floor(i/5)-2;const value=xx<0||yy<0||xx>=d.width||yy>=d.height?0:d.input[(yy*d.width+xx)*3+c]/255;const product=value*d.mask[i];terms.push({x:xx,y:yy,value,weight:d.mask[i],product});if(i<steps)sum+=product;}return {terms,sum,clamped:Math.max(0,Math.min(1,sum))};}
+export function thread(tx,ty,bx,by,w,h){const x=bx*16+tx,y=by*16+ty;return {loadX:x-2,loadY:y-2,x,y,writer:tx<16&&ty<16&&x<w&&y<h,linear:ty*20+tx,warp:Math.floor((ty*20+tx)/32)};}
+export function scan(a,size=4){const blocks=[];for(let i=0;i<a.length;i+=size){let n=0;blocks.push(a.slice(i,i+size).map(x=>n+=x));}let offset=0;return blocks.map(local=>{const r={local,offset,output:local.map(x=>x+offset)};offset+=local.at(-1)||0;return r;});}
+export function histogram(a){const bins=Array(4096).fill(0);for(const n of a){if(!Number.isInteger(n)||n<0||n>=4096)throw Error('Invalid bin');bins[n]++;}return bins.map(n=>Math.min(n,127));}
+export function matmul(a,b){return a.map(row=>b[0].map((_,j)=>row.reduce((s,v,k)=>s+v*b[k][j],0)));}
