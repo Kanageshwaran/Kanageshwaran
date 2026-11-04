@@ -1,0 +1,207 @@
+[
+  {
+    "dataset": 0,
+    "timers": [
+      {
+        "kind": "GPU",
+        "message": "Doing GPU memory allocation",
+        "ns": 233413100,
+        "ms": 233.4131,
+        "id": 1
+      },
+      {
+        "kind": "Copy",
+        "message": "Copying data to the GPU",
+        "ns": 100200,
+        "ms": 0.1002,
+        "id": 2
+      },
+      {
+        "kind": "Compute",
+        "message": "Doing the computation on the GPU",
+        "ns": 1406700,
+        "ms": 1.4067,
+        "id": 3
+      },
+      {
+        "kind": "Copy",
+        "message": "Copying data from the GPU",
+        "ns": 66500,
+        "ms": 0.0665,
+        "id": 4
+      },
+      {
+        "kind": "GPU",
+        "message": "Doing GPU Computation (memory + compute)",
+        "ns": 236515800,
+        "ms": 236.5158,
+        "id": 0
+      }
+    ],
+    "correct": true
+  },
+  {
+    "dataset": 1,
+    "timers": [
+      {
+        "kind": "GPU",
+        "message": "Doing GPU memory allocation",
+        "ns": 205791300,
+        "ms": 205.7913,
+        "id": 1
+      },
+      {
+        "kind": "Copy",
+        "message": "Copying data to the GPU",
+        "ns": 109000,
+        "ms": 0.109,
+        "id": 2
+      },
+      {
+        "kind": "Compute",
+        "message": "Doing the computation on the GPU",
+        "ns": 1336500,
+        "ms": 1.3365,
+        "id": 3
+      },
+      {
+        "kind": "Copy",
+        "message": "Copying data from the GPU",
+        "ns": 66300,
+        "ms": 0.0663,
+        "id": 4
+      },
+      {
+        "kind": "GPU",
+        "message": "Doing GPU Computation (memory + compute)",
+        "ns": 209110600,
+        "ms": 209.1106,
+        "id": 0
+      }
+    ],
+    "correct": true
+  },
+  {
+    "dataset": 2,
+    "timers": [
+      {
+        "kind": "GPU",
+        "message": "Doing GPU memory allocation",
+        "ns": 180428900,
+        "ms": 180.4289,
+        "id": 1
+      },
+      {
+        "kind": "Copy",
+        "message": "Copying data to the GPU",
+        "ns": 90000,
+        "ms": 0.09,
+        "id": 2
+      },
+      {
+        "kind": "Compute",
+        "message": "Doing the computation on the GPU",
+        "ns": 1400900,
+        "ms": 1.4009,
+        "id": 3
+      },
+      {
+        "kind": "Copy",
+        "message": "Copying data from the GPU",
+        "ns": 60400,
+        "ms": 0.0604,
+        "id": 4
+      },
+      {
+        "kind": "GPU",
+        "message": "Doing GPU Computation (memory + compute)",
+        "ns": 183905000,
+        "ms": 183.905,
+        "id": 0
+      }
+    ],
+    "correct": true
+  },
+  {
+    "dataset": 3,
+    "timers": [
+      {
+        "kind": "GPU",
+        "message": "Doing GPU memory allocation",
+        "ns": 211761200,
+        "ms": 211.7612,
+        "id": 1
+      },
+      {
+        "kind": "Copy",
+        "message": "Copying data to the GPU",
+        "ns": 156800,
+        "ms": 0.1568,
+        "id": 2
+      },
+      {
+        "kind": "Compute",
+        "message": "Doing the computation on the GPU",
+        "ns": 5005900,
+        "ms": 5.0059,
+        "id": 3
+      },
+      {
+        "kind": "Copy",
+        "message": "Copying data from the GPU",
+        "ns": 129700,
+        "ms": 0.1297,
+        "id": 4
+      },
+      {
+        "kind": "GPU",
+        "message": "Doing GPU Computation (memory + compute)",
+        "ns": 219137500,
+        "ms": 219.1375,
+        "id": 0
+      }
+    ],
+    "correct": true
+  },
+  {
+    "dataset": 4,
+    "timers": [
+      {
+        "kind": "GPU",
+        "message": "Doing GPU memory allocation",
+        "ns": 196293400,
+        "ms": 196.2934,
+        "id": 1
+      },
+      {
+        "kind": "Copy",
+        "message": "Copying data to the GPU",
+        "ns": 666600,
+        "ms": 0.6666,
+        "id": 2
+      },
+      {
+        "kind": "Compute",
+        "message": "Doing the computation on the GPU",
+        "ns": 2802600,
+        "ms": 2.8026,
+        "id": 3
+      },
+      {
+        "kind": "Copy",
+        "message": "Copying data from the GPU",
+        "ns": 62600,
+        "ms": 0.0626,
+        "id": 4
+      },
+      {
+        "kind": "GPU",
+        "message": "Doing GPU Computation (memory + compute)",
+        "ns": 202111800,
+        "ms": 202.1118,
+        "id": 0
+      }
+    ],
+    "correct": true
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "scope": "New NumPy CPU reference, zero padding, unflipped 5\u00d75 mask, clamp [0,1]. Compared against provided expected PPM values with a one-byte quantization tolerance. No CUDA compilation or GPU execution.",
+  "checks": [
+    {
+      "dataset": 0,
+      "width": 64,
+      "height": 128,
+      "maxAbsoluteError": 0.003921439215686273,
+      "tolerance": 0.0039225686274509805,
+      "passed": true
+    },
+    {
+      "dataset": 1,
+      "width": 128,
+      "height": 64,
+      "maxAbsoluteError": 0.0039214117647058955,
+      "tolerance": 0.0039225686274509805,
+      "passed": true
+    },
+    {
+      "dataset": 2,
+      "width": 3,
+      "height": 64,
+      "maxAbsoluteError": 0.003920541176470588,
+      "tolerance": 0.0039225686274509805,
+      "passed": true
+    },
+    {
+      "dataset": 3,
+      "width": 128,
+      "height": 228,
+      "maxAbsoluteError": 0.003921470588235332,
+      "tolerance": 0.0039225686274509805,
+      "passed": true
+    },
+    {
+      "dataset": 4,
+      "width": 12,
+      "height": 28,
+      "maxAbsoluteError": 0.003916313725490228,
+      "tolerance": 0.0039225686274509805,
+      "passed": true
+    }
+  ]
+}

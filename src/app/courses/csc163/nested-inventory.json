@@ -1,0 +1,2924 @@
+[
+  {
+    "path": "A2.zip!/A2/a2-instructions.pdf",
+    "bytes": 319395,
+    "sha256": "de268036cf4ece88aedaf123645b882886b101aa861311ac06594b265716a08b",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/a2-instructions.pdf"
+  },
+  {
+    "path": "A2.zip!/A2/A2_batch.txt",
+    "bytes": 950,
+    "sha256": "38ccd63170f80df355c0f1ff31c9f5e8e6faee5e971d1008023bb0514f832d89",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/A2_batch.txt"
+  },
+  {
+    "path": "A2.zip!/A2/datasets/Convolution/Dataset/0/input0.ppm",
+    "bytes": 24616,
+    "sha256": "062555fa8894faccbaf6a0f58288361eb2812c9c44fb5f6a8c589997e4d23bc0",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/datasets/Convolution/Dataset/0/input0.ppm"
+  },
+  {
+    "path": "A2.zip!/A2/datasets/Convolution/Dataset/0/input1.raw",
+    "bytes": 235,
+    "sha256": "047ef3bc9813b6a9762ba344efd279be237d8587a97b167120153d50dff38273",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/datasets/Convolution/Dataset/0/input1.raw"
+  },
+  {
+    "path": "A2.zip!/A2/datasets/Convolution/Dataset/0/output.ppm",
+    "bytes": 24616,
+    "sha256": "e2efdf85e60ae1156a046a35057f6e3fc5869bb8ad6c3be7f1f64249be90f196",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/datasets/Convolution/Dataset/0/output.ppm"
+  },
+  {
+    "path": "A2.zip!/A2/datasets/Convolution/Dataset/1/input0.ppm",
+    "bytes": 24616,
+    "sha256": "3b686637b7c52eab07429b57fd68df30bdd914b397e1db739b5ac6bb8bbceeaf",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/datasets/Convolution/Dataset/1/input0.ppm"
+  },
+  {
+    "path": "A2.zip!/A2/datasets/Convolution/Dataset/1/input1.raw",
+    "bytes": 235,
+    "sha256": "e425ee2a0682f8982083a9aff88a98b80369fad65cdf17343999f6709e43fc32",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/datasets/Convolution/Dataset/1/input1.raw"
+  },
+  {
+    "path": "A2.zip!/A2/datasets/Convolution/Dataset/1/output.ppm",
+    "bytes": 24616,
+    "sha256": "5ffbdf93675500d883e8e0ba1506583beda69934e14d72f952655af7d1f39753",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/datasets/Convolution/Dataset/1/output.ppm"
+  },
+  {
+    "path": "A2.zip!/A2/datasets/Convolution/Dataset/2/input0.ppm",
+    "bytes": 614,
+    "sha256": "c60bee1ed981a0fbf3bdbc874ebcb4b06fd4d6323c74e444cb0968f3b5039ceb",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/datasets/Convolution/Dataset/2/input0.ppm"
+  },
+  {
+    "path": "A2.zip!/A2/datasets/Convolution/Dataset/2/input1.raw",
+    "bytes": 235,
+    "sha256": "420771b4866937e51435544a8d169243283b5e0712c312200af38798652b3eaf",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/datasets/Convolution/Dataset/2/input1.raw"
+  },
+  {
+    "path": "A2.zip!/A2/datasets/Convolution/Dataset/2/output.ppm",
+    "bytes": 614,
+    "sha256": "ec6635b65eda594368dd88fa5ece6fc176e7a03a519ea184379913f43527b96a",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/datasets/Convolution/Dataset/2/output.ppm"
+  },
+  {
+    "path": "A2.zip!/A2/datasets/Convolution/Dataset/3/input0.ppm",
+    "bytes": 87593,
+    "sha256": "6035921dfb8270350d7e3b70ed00ce43104597a474527bf66bb5f4b4e084455e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/datasets/Convolution/Dataset/3/input0.ppm"
+  },
+  {
+    "path": "A2.zip!/A2/datasets/Convolution/Dataset/3/input1.raw",
+    "bytes": 235,
+    "sha256": "eb10903c14d65431d538ddd5c6ab3d22e256acdf90f29f0c65be2574b9a867db",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/datasets/Convolution/Dataset/3/input1.raw"
+  },
+  {
+    "path": "A2.zip!/A2/datasets/Convolution/Dataset/3/output.ppm",
+    "bytes": 87593,
+    "sha256": "3d95eee7e8456eb9298828c9db9cf4783fd71952ae9ed069721d2a0cdf2c6e06",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/datasets/Convolution/Dataset/3/output.ppm"
+  },
+  {
+    "path": "A2.zip!/A2/datasets/Convolution/Dataset/4/input0.ppm",
+    "bytes": 1047,
+    "sha256": "63887b399188316e6579de722df23bfc1916dc7f576423cc70d9553fe2c33979",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/datasets/Convolution/Dataset/4/input0.ppm"
+  },
+  {
+    "path": "A2.zip!/A2/datasets/Convolution/Dataset/4/input1.raw",
+    "bytes": 235,
+    "sha256": "f998581eb5f594762a66b9c4526859e7f2c3095301a702c5374ae4bcd4486b59",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/datasets/Convolution/Dataset/4/input1.raw"
+  },
+  {
+    "path": "A2.zip!/A2/datasets/Convolution/Dataset/4/output.ppm",
+    "bytes": 1047,
+    "sha256": "d1c3fdc8c6f5c034af48d08e0e8aee82e9cf4853f67b9d33fb33f92f6931fb0f",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/datasets/Convolution/Dataset/4/output.ppm"
+  },
+  {
+    "path": "A2.zip!/A2/source/CMakeLists.txt",
+    "bytes": 5865,
+    "sha256": "1b8f7a976e596b4ad87cc527ebe4dfd1eaa688d956302fc954cbb9e76f53b7f9",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/source/CMakeLists.txt"
+  },
+  {
+    "path": "A2.zip!/A2/source/Convolution/sources.cmake",
+    "bytes": 95,
+    "sha256": "70e0ce2088e205b7fb2e910846595ca6759602c4144489dceecac4addedd1e0f",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/source/Convolution/sources.cmake"
+  },
+  {
+    "path": "A2.zip!/A2/source/Convolution/template.cu",
+    "bytes": 2775,
+    "sha256": "b1d75c55adcecbbe3e4bea133ab9116063e851a4b12806d702ad4dd9d33538cb",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW2/A2/source/Convolution/template.cu"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/.clang-format",
+    "bytes": 552,
+    "sha256": "1a719a4bbf57077f0966c4a645af9508cdb51e24a5b46671e1c81a17ad49564f",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/.clang-format"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/.travis.yml",
+    "bytes": 1521,
+    "sha256": "a75cdec333a32f5cd33e92c79a7823e668e81b0fa464a036beb40e104f97ffd3",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/.travis.yml"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/appveyor.yml",
+    "bytes": 1142,
+    "sha256": "6806af888ceebc4770b63a491b8ce5842fb65a5c308b14913528ea63fe1a5442",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/appveyor.yml"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/CMakeLists.txt",
+    "bytes": 1084,
+    "sha256": "21c5fcd826685b16d2256fa376d63416969814182d022ebe8bcd4d926970f3e2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/CMakeLists.txt"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/LICENSE.TXT",
+    "bytes": 1772,
+    "sha256": "8153f321ccbeed18f12d96cbadca4c19760e26cc7188511be7d9c444873e2dae",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/LICENSE.TXT"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/Makefile",
+    "bytes": 1426,
+    "sha256": "8e655ba5ccedc7e44ef4ce71289319a98929cfd6f8238de114ad99869ae4b013",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/Makefile"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/README.md",
+    "bytes": 433,
+    "sha256": "6c0cd70fb0d31ed237f82397999bb219055e681a4bc56de141e78bbf4a8a4fe8",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/README.md"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/sources.cmake",
+    "bytes": 574,
+    "sha256": "e9c9fa81b2c9bd2dde8c23f9304e2097d0862ae45241fa6c6066bdf5149d7135",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/sources.cmake"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/vendor/catch.hpp",
+    "bytes": 386265,
+    "sha256": "71ee62c04cbd2b1366edc5cd96c0a8460bfaefbc2d8e1a4b9aada11b70e31991",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/vendor/catch.hpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/vendor/json11.cpp",
+    "bytes": 26136,
+    "sha256": "e93657c1e62b127c7fad48cb2ab287c90013d7cb7e71992a2cedffac015bf597",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/vendor/json11.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/vendor/json11.hpp",
+    "bytes": 9627,
+    "sha256": "03e67254be01ae4d85cd51b0cb8c0188941c114d6226673607ca46776174ce1c",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/vendor/json11.hpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wb.h",
+    "bytes": 4781,
+    "sha256": "43ae33c54d0bfb48c3a8211dab705bd3757bda23e66332d94cedcff1c00b6ed0",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wb.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbArg.cpp",
+    "bytes": 2646,
+    "sha256": "295c86b42871fded15e8149ed6ce14375b8713b385f209fd2614c73d506c19a2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbArg.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbArg.h",
+    "bytes": 1146,
+    "sha256": "b042d82ceeb14c204d98b6b8566bebd20e49dfafff80bb3b9d53a0ff9f35276d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbArg.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbAssert.h",
+    "bytes": 791,
+    "sha256": "2f8a29c3e43a56bfd0a2d64a2073457cddc860c4b61625adb0efad8f14a656ca",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbAssert.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbCast.h",
+    "bytes": 484,
+    "sha256": "db3e845624500ad33009a4ebd499a9ef5babd7afb286acf18fd70714b12a849e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbCast.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbComparator.h",
+    "bytes": 4231,
+    "sha256": "706202bc693fdaca531548a7494f962104bb8c46cd5cff0befa3d499fef8e28d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbComparator.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbCUDA.cpp",
+    "bytes": 479,
+    "sha256": "8f1f04646420672eb63ccf0bc7dd3207953877e3ead9e64774a9d877bc7c4455",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbCUDA.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbCUDA.h",
+    "bytes": 1835,
+    "sha256": "32f15317475c8ec9ae10d6a0a7bb474562a0d4ac070bc31fcc5b6c9897eda1e2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbCUDA.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbDataset.cpp",
+    "bytes": 5347,
+    "sha256": "365adb96b4bffdaf1bc12c671dd8c1f934804ebe2351419103a64724b7a5d5fc",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDataset.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbDataset.h",
+    "bytes": 1037,
+    "sha256": "4eb0a929553582cb1a86a2979dbecf9670bced0b803a42749fb94eab4b546f40",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDataset.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbDataset_test.cpp",
+    "bytes": 668,
+    "sha256": "48c3061f92fe0a544f12634bc4bf299b916f30d647a95c3fa51e1a025d5152d1",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDataset_test.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbDirectory.cpp",
+    "bytes": 2075,
+    "sha256": "893a8cf93fd12ef4633dca5b88e486afb21672770c42d0fdc64ed2f1c4c838aa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDirectory.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbDirectory.h",
+    "bytes": 278,
+    "sha256": "345b4c6d3b510630779d681b848006a467951ed87bddddacf1463d45ae153410",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDirectory.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbExit.cpp",
+    "bytes": 3163,
+    "sha256": "c57e38cfe6c16421d8816cf829a01efedf5449ac3ec8499e8dc7a7f2e6219f89",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExit.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbExit.h",
+    "bytes": 103,
+    "sha256": "f53e213d8646cc7a181e2ed59cc2bb445a4bfab029ed9513be5e7bd4e6ef749a",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExit.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbExport.cpp",
+    "bytes": 12843,
+    "sha256": "6825c93dbb273336469ebc6953332ed54ef4cdb3ceea3f76137a884952d43f25",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExport.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbExport.h",
+    "bytes": 3697,
+    "sha256": "2df0063e612680540444df15a883752c43f1e76a52b5bd99c332667b144617a9",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExport.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbFile.cpp",
+    "bytes": 7480,
+    "sha256": "6b39cbbc850f33d4028feac97e3757d88c58b9b59f502a31c30a79ca061dff92",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbFile.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbFile.h",
+    "bytes": 2059,
+    "sha256": "3d6a413dcb4fd89b190ce7073f9ca606cfa1e81d8ad8573881026cc52ee96307",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbFile.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbImage.cpp",
+    "bytes": 3700,
+    "sha256": "10e1fee3c7445108966298f175ad147771f9df7d978805ab9b87c945e6e57b39",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImage.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbImage.h",
+    "bytes": 1242,
+    "sha256": "0e2a8a715d70e80f1871e75b7a8fe0aab4887b883dd3f50c77c35f91fad0048e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImage.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbImport.cpp",
+    "bytes": 17775,
+    "sha256": "1a3d8b95a5958688415e9bb6388a580bef2f320bb694004dbb9923bd5bbae6e1",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImport.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbImport.h",
+    "bytes": 3508,
+    "sha256": "8296dfc656fde50dda0eb6eaf26ed1a2358b3ade72cc8a165012d425fc25f78f",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImport.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbInit.cpp",
+    "bytes": 1773,
+    "sha256": "f57cd5b507fe121f22ecb0eddaf30b040195468102345a8dd3a5d9c253481a2e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbInit.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbInit.h",
+    "bytes": 197,
+    "sha256": "11578614f1e624598363cd481b1f567e5327203d3124640129c94ed6eec04b49",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbInit.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbLogger.cpp",
+    "bytes": 7943,
+    "sha256": "2709d2fc347381c72c1c9efb1ab66bd820ef84364ba3322c6005926664f47346",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbLogger.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbLogger.h",
+    "bytes": 2752,
+    "sha256": "ef3ad3db59f0c426d416b0bff942740dd11b62e34adc02149837268207cc5efa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbLogger.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbMalloc.h",
+    "bytes": 3412,
+    "sha256": "5859712dd16cedd4e256ba3d80c70d6659587891905a900f435c58c2b86ff967",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMalloc.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbMD5.h",
+    "bytes": 9750,
+    "sha256": "79f7769d10bc3506911c79fc47ead87708e68b832db73ebcd0ac62a64c91caaa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMD5.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbMPI.cpp",
+    "bytes": 1662,
+    "sha256": "228288fbda01934cab6ddb3dbef68beb5def1a5ed8ead8c0cf270e9d22d206ce",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMPI.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbMPI.h",
+    "bytes": 738,
+    "sha256": "675850a8de98f1a1db73ae89a06d4833ccc5e091b99501a2cbd1e49d2d889207",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMPI.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbPath.cpp",
+    "bytes": 1276,
+    "sha256": "fcbaac3a8218bdacb391e4fb370930304fe2fca1a91547223aba355d7acfcdde",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPath.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbPath.h",
+    "bytes": 1222,
+    "sha256": "19ba3e03935306763125f918da2959f4b94040dd0bac7768a14814a4332dd09c",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPath.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbPPM.cpp",
+    "bytes": 4913,
+    "sha256": "a86b127cabf38d9d2f20ed4c653df9fb100ec0eaaeac5d5b16bdde23605da80a",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPPM.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbPPM.h",
+    "bytes": 210,
+    "sha256": "93b0a16da6dcdd50b0a9b1b684bb9b1c664695bd6babd6033899e2aeff75177e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPPM.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbSolution.cpp",
+    "bytes": 9497,
+    "sha256": "6de3f2b51cea2ce1887dc66c6639d10439a78102d00feda882aa4b4022176b03",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSolution.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbSolution.h",
+    "bytes": 1482,
+    "sha256": "d27b09ce459f9fe7f392375729f6c816e7cb3656492f344737c2f2ef2c61503d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSolution.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbSparse.cpp",
+    "bytes": 2737,
+    "sha256": "b7450aa2b3a664956c6040525a55ffe1d8766c7f721a7454ab465c68ee3ab4a9",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSparse.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbSparse.h",
+    "bytes": 331,
+    "sha256": "e0fbc5d0c7ad027ac35c606bf6b9b6cf8d45a9e19a201f63fcafafce53eb8909",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSparse.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbString.h",
+    "bytes": 10289,
+    "sha256": "68688cf8537cb32a467c5738f544369864b560bb92c706deff2f842988e6dc2d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbString.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbThrust.h",
+    "bytes": 306,
+    "sha256": "447d916ca16bee5f5f17af823590cc593000561f8b35ec314ad0ef7f3111f09e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbThrust.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbTimer.cpp",
+    "bytes": 15719,
+    "sha256": "7e061356b3abbe9c4679a27ad305bf3080ab26fa641c72e27fa37e5c010160e9",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbTimer.cpp"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbTimer.h",
+    "bytes": 5470,
+    "sha256": "9ba4ba6a4922542aa893d58cac9eeb4c9159f8b6ee686c9fccd71b395d2e2555",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbTimer.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbTypes.h",
+    "bytes": 1248,
+    "sha256": "448a78af294dbba5cdc6621027ef6e44755a88905c41e90522f8984ab62097cd",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbTypes.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wbUtils.h",
+    "bytes": 195,
+    "sha256": "7bad56057fc1ae7d548c923b452a24bc534d9e19d45389a2941bdd872411673d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbUtils.h"
+  },
+  {
+    "path": "A2.zip!/A2/source/libwb/wb_test.cpp",
+    "bytes": 75,
+    "sha256": "464e5e428d5c2eae4d64f32e1380d06ec5d3fc9b1079ea32be0e894ae0140585",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wb_test.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/a4-instructions.pdf",
+    "bytes": 256158,
+    "sha256": "aa5439b2e5dca6e44e3128d31b8e111b4950b9847730d30a507fc02ee8f4cc16",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/a4-instructions.pdf"
+  },
+  {
+    "path": "A4.zip!/A4/A4_batch.txt",
+    "bytes": 1055,
+    "sha256": "d0ac2ef286dd5f2b1f7f6ba3749a02b6a5e0ef86b0daa313ef86c904fc9263c6",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/A4_batch.txt"
+  },
+  {
+    "path": "A4.zip!/A4/datasets/OpenCLVectorAdd/Dataset/0/input0.raw",
+    "bytes": 105,
+    "sha256": "af18ae7460379071075b1ebfc358fb3780266ca6836d6513bf6f9c1a33d2336d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/0/input0.raw"
+  },
+  {
+    "path": "A4.zip!/A4/datasets/OpenCLVectorAdd/Dataset/0/input1.raw",
+    "bytes": 103,
+    "sha256": "5b32bfbff6fdd10418732827307b50612dfaacc399f1447c68fafeba26eb3e11",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/0/input1.raw"
+  },
+  {
+    "path": "A4.zip!/A4/datasets/OpenCLVectorAdd/Dataset/0/output.raw",
+    "bytes": 103,
+    "sha256": "d585e9657fe7a8ee32dcc0ae64853477e5719fb0af43d18d31d0da16dc70d0fa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/0/output.raw"
+  },
+  {
+    "path": "A4.zip!/A4/datasets/OpenCLVectorAdd/Dataset/1/input0.raw",
+    "bytes": 404,
+    "sha256": "d03598306df0de16683c48a672cb1bf60fe6381022d915df0d40b1081684c7fb",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/1/input0.raw"
+  },
+  {
+    "path": "A4.zip!/A4/datasets/OpenCLVectorAdd/Dataset/1/input1.raw",
+    "bytes": 399,
+    "sha256": "acb3f06150fc30ecafdaf88f9593a9aa917fdbffe738aaa6a9443e2a02d41122",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/1/input1.raw"
+  },
+  {
+    "path": "A4.zip!/A4/datasets/OpenCLVectorAdd/Dataset/1/output.raw",
+    "bytes": 394,
+    "sha256": "acde7e0842409a693673049df5def7d9d0fabe0908cc05a47e6aef90224e88d5",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/1/output.raw"
+  },
+  {
+    "path": "A4.zip!/A4/datasets/OpenCLVectorAdd/Dataset/2/input0.raw",
+    "bytes": 705,
+    "sha256": "5b1cb74e3f6da1b10bc1fa731381df8682b602e72e1be33a1538072187cf241b",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/2/input0.raw"
+  },
+  {
+    "path": "A4.zip!/A4/datasets/OpenCLVectorAdd/Dataset/2/input1.raw",
+    "bytes": 709,
+    "sha256": "1128e7680f44c6eb30b470fb50866b020b2a2c009c61b6f438ea726426b5b8b7",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/2/input1.raw"
+  },
+  {
+    "path": "A4.zip!/A4/datasets/OpenCLVectorAdd/Dataset/2/output.raw",
+    "bytes": 693,
+    "sha256": "65b604d6878479bd7240c4086b46f585ae14b284a202fac10909e05786d59fae",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/2/output.raw"
+  },
+  {
+    "path": "A4.zip!/A4/datasets/OpenCLVectorAdd/Dataset/3/input0.raw",
+    "bytes": 62010,
+    "sha256": "9641b3bdb00326a279c2c3ce0aef3eb2e3bd72e69bf75674a104d3d485a74f06",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/3/input0.raw"
+  },
+  {
+    "path": "A4.zip!/A4/datasets/OpenCLVectorAdd/Dataset/3/input1.raw",
+    "bytes": 61998,
+    "sha256": "72fb6ca23742b6d9592b502ecafce39f013019b13b780af376f68af28c54b815",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/3/input1.raw"
+  },
+  {
+    "path": "A4.zip!/A4/datasets/OpenCLVectorAdd/Dataset/3/output.raw",
+    "bytes": 60886,
+    "sha256": "b31a5c694b60dfa1c4956a5ba4f3050bfb699b615b5a52ffa8f2b631f478cdc8",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/3/output.raw"
+  },
+  {
+    "path": "A4.zip!/A4/datasets/OpenCLVectorAdd/Dataset/4/input0.raw",
+    "bytes": 25140,
+    "sha256": "a61cf1303e667acb7c9fc5407180e0592546154be87a202abdeed7527cd46f95",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/4/input0.raw"
+  },
+  {
+    "path": "A4.zip!/A4/datasets/OpenCLVectorAdd/Dataset/4/input1.raw",
+    "bytes": 25124,
+    "sha256": "1254de544cc593dffe41b65ecda73706d83a5cdf13610de86bf53e4d27ddb166",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/4/input1.raw"
+  },
+  {
+    "path": "A4.zip!/A4/datasets/OpenCLVectorAdd/Dataset/4/output.raw",
+    "bytes": 24666,
+    "sha256": "1f8d3af508f775b7120729c74e34d05bd30ae83dabd3453e5aa2d00a76addacb",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/4/output.raw"
+  },
+  {
+    "path": "A4.zip!/A4/source/CMakeLists.txt",
+    "bytes": 5869,
+    "sha256": "c5a5061289b5d349b7b6cf03d67409412bee6c7456e1603a608df7c447516742",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/CMakeLists.txt"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/.clang-format",
+    "bytes": 552,
+    "sha256": "1a719a4bbf57077f0966c4a645af9508cdb51e24a5b46671e1c81a17ad49564f",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/.clang-format"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/.travis.yml",
+    "bytes": 1521,
+    "sha256": "a75cdec333a32f5cd33e92c79a7823e668e81b0fa464a036beb40e104f97ffd3",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/.travis.yml"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/appveyor.yml",
+    "bytes": 1142,
+    "sha256": "6806af888ceebc4770b63a491b8ce5842fb65a5c308b14913528ea63fe1a5442",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/appveyor.yml"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/CMakeLists.txt",
+    "bytes": 1084,
+    "sha256": "21c5fcd826685b16d2256fa376d63416969814182d022ebe8bcd4d926970f3e2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/CMakeLists.txt"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/LICENSE.TXT",
+    "bytes": 1772,
+    "sha256": "8153f321ccbeed18f12d96cbadca4c19760e26cc7188511be7d9c444873e2dae",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/LICENSE.TXT"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/Makefile",
+    "bytes": 1426,
+    "sha256": "8e655ba5ccedc7e44ef4ce71289319a98929cfd6f8238de114ad99869ae4b013",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/Makefile"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/README.md",
+    "bytes": 433,
+    "sha256": "6c0cd70fb0d31ed237f82397999bb219055e681a4bc56de141e78bbf4a8a4fe8",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/README.md"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/sources.cmake",
+    "bytes": 574,
+    "sha256": "e9c9fa81b2c9bd2dde8c23f9304e2097d0862ae45241fa6c6066bdf5149d7135",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/sources.cmake"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/vendor/catch.hpp",
+    "bytes": 386265,
+    "sha256": "71ee62c04cbd2b1366edc5cd96c0a8460bfaefbc2d8e1a4b9aada11b70e31991",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/vendor/catch.hpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/vendor/json11.cpp",
+    "bytes": 26136,
+    "sha256": "e93657c1e62b127c7fad48cb2ab287c90013d7cb7e71992a2cedffac015bf597",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/vendor/json11.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/vendor/json11.hpp",
+    "bytes": 9627,
+    "sha256": "03e67254be01ae4d85cd51b0cb8c0188941c114d6226673607ca46776174ce1c",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/vendor/json11.hpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wb.h",
+    "bytes": 4781,
+    "sha256": "43ae33c54d0bfb48c3a8211dab705bd3757bda23e66332d94cedcff1c00b6ed0",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wb.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbArg.cpp",
+    "bytes": 2646,
+    "sha256": "295c86b42871fded15e8149ed6ce14375b8713b385f209fd2614c73d506c19a2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbArg.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbArg.h",
+    "bytes": 1146,
+    "sha256": "b042d82ceeb14c204d98b6b8566bebd20e49dfafff80bb3b9d53a0ff9f35276d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbArg.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbAssert.h",
+    "bytes": 791,
+    "sha256": "2f8a29c3e43a56bfd0a2d64a2073457cddc860c4b61625adb0efad8f14a656ca",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbAssert.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbCast.h",
+    "bytes": 484,
+    "sha256": "db3e845624500ad33009a4ebd499a9ef5babd7afb286acf18fd70714b12a849e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbCast.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbComparator.h",
+    "bytes": 4231,
+    "sha256": "706202bc693fdaca531548a7494f962104bb8c46cd5cff0befa3d499fef8e28d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbComparator.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbCUDA.cpp",
+    "bytes": 479,
+    "sha256": "8f1f04646420672eb63ccf0bc7dd3207953877e3ead9e64774a9d877bc7c4455",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbCUDA.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbCUDA.h",
+    "bytes": 1835,
+    "sha256": "32f15317475c8ec9ae10d6a0a7bb474562a0d4ac070bc31fcc5b6c9897eda1e2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbCUDA.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbDataset.cpp",
+    "bytes": 5347,
+    "sha256": "365adb96b4bffdaf1bc12c671dd8c1f934804ebe2351419103a64724b7a5d5fc",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDataset.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbDataset.h",
+    "bytes": 1037,
+    "sha256": "4eb0a929553582cb1a86a2979dbecf9670bced0b803a42749fb94eab4b546f40",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDataset.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbDataset_test.cpp",
+    "bytes": 668,
+    "sha256": "48c3061f92fe0a544f12634bc4bf299b916f30d647a95c3fa51e1a025d5152d1",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDataset_test.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbDirectory.cpp",
+    "bytes": 2075,
+    "sha256": "893a8cf93fd12ef4633dca5b88e486afb21672770c42d0fdc64ed2f1c4c838aa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDirectory.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbDirectory.h",
+    "bytes": 278,
+    "sha256": "345b4c6d3b510630779d681b848006a467951ed87bddddacf1463d45ae153410",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDirectory.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbExit.cpp",
+    "bytes": 3163,
+    "sha256": "c57e38cfe6c16421d8816cf829a01efedf5449ac3ec8499e8dc7a7f2e6219f89",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExit.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbExit.h",
+    "bytes": 103,
+    "sha256": "f53e213d8646cc7a181e2ed59cc2bb445a4bfab029ed9513be5e7bd4e6ef749a",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExit.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbExport.cpp",
+    "bytes": 12843,
+    "sha256": "6825c93dbb273336469ebc6953332ed54ef4cdb3ceea3f76137a884952d43f25",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExport.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbExport.h",
+    "bytes": 3697,
+    "sha256": "2df0063e612680540444df15a883752c43f1e76a52b5bd99c332667b144617a9",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExport.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbFile.cpp",
+    "bytes": 7480,
+    "sha256": "6b39cbbc850f33d4028feac97e3757d88c58b9b59f502a31c30a79ca061dff92",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbFile.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbFile.h",
+    "bytes": 2059,
+    "sha256": "3d6a413dcb4fd89b190ce7073f9ca606cfa1e81d8ad8573881026cc52ee96307",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbFile.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbImage.cpp",
+    "bytes": 3700,
+    "sha256": "10e1fee3c7445108966298f175ad147771f9df7d978805ab9b87c945e6e57b39",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImage.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbImage.h",
+    "bytes": 1242,
+    "sha256": "0e2a8a715d70e80f1871e75b7a8fe0aab4887b883dd3f50c77c35f91fad0048e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImage.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbImport.cpp",
+    "bytes": 17775,
+    "sha256": "1a3d8b95a5958688415e9bb6388a580bef2f320bb694004dbb9923bd5bbae6e1",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImport.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbImport.h",
+    "bytes": 3508,
+    "sha256": "8296dfc656fde50dda0eb6eaf26ed1a2358b3ade72cc8a165012d425fc25f78f",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImport.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbInit.cpp",
+    "bytes": 1773,
+    "sha256": "f57cd5b507fe121f22ecb0eddaf30b040195468102345a8dd3a5d9c253481a2e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbInit.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbInit.h",
+    "bytes": 197,
+    "sha256": "11578614f1e624598363cd481b1f567e5327203d3124640129c94ed6eec04b49",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbInit.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbLogger.cpp",
+    "bytes": 7943,
+    "sha256": "2709d2fc347381c72c1c9efb1ab66bd820ef84364ba3322c6005926664f47346",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbLogger.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbLogger.h",
+    "bytes": 2752,
+    "sha256": "ef3ad3db59f0c426d416b0bff942740dd11b62e34adc02149837268207cc5efa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbLogger.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbMalloc.h",
+    "bytes": 3412,
+    "sha256": "5859712dd16cedd4e256ba3d80c70d6659587891905a900f435c58c2b86ff967",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMalloc.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbMD5.h",
+    "bytes": 9750,
+    "sha256": "79f7769d10bc3506911c79fc47ead87708e68b832db73ebcd0ac62a64c91caaa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMD5.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbMPI.cpp",
+    "bytes": 1662,
+    "sha256": "228288fbda01934cab6ddb3dbef68beb5def1a5ed8ead8c0cf270e9d22d206ce",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMPI.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbMPI.h",
+    "bytes": 738,
+    "sha256": "675850a8de98f1a1db73ae89a06d4833ccc5e091b99501a2cbd1e49d2d889207",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMPI.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbPath.cpp",
+    "bytes": 1276,
+    "sha256": "fcbaac3a8218bdacb391e4fb370930304fe2fca1a91547223aba355d7acfcdde",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPath.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbPath.h",
+    "bytes": 1222,
+    "sha256": "19ba3e03935306763125f918da2959f4b94040dd0bac7768a14814a4332dd09c",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPath.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbPPM.cpp",
+    "bytes": 4913,
+    "sha256": "a86b127cabf38d9d2f20ed4c653df9fb100ec0eaaeac5d5b16bdde23605da80a",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPPM.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbPPM.h",
+    "bytes": 210,
+    "sha256": "93b0a16da6dcdd50b0a9b1b684bb9b1c664695bd6babd6033899e2aeff75177e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPPM.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbSolution.cpp",
+    "bytes": 9497,
+    "sha256": "6de3f2b51cea2ce1887dc66c6639d10439a78102d00feda882aa4b4022176b03",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSolution.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbSolution.h",
+    "bytes": 1482,
+    "sha256": "d27b09ce459f9fe7f392375729f6c816e7cb3656492f344737c2f2ef2c61503d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSolution.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbSparse.cpp",
+    "bytes": 2737,
+    "sha256": "b7450aa2b3a664956c6040525a55ffe1d8766c7f721a7454ab465c68ee3ab4a9",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSparse.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbSparse.h",
+    "bytes": 331,
+    "sha256": "e0fbc5d0c7ad027ac35c606bf6b9b6cf8d45a9e19a201f63fcafafce53eb8909",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSparse.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbString.h",
+    "bytes": 10289,
+    "sha256": "68688cf8537cb32a467c5738f544369864b560bb92c706deff2f842988e6dc2d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbString.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbThrust.h",
+    "bytes": 306,
+    "sha256": "447d916ca16bee5f5f17af823590cc593000561f8b35ec314ad0ef7f3111f09e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbThrust.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbTimer.cpp",
+    "bytes": 15719,
+    "sha256": "7e061356b3abbe9c4679a27ad305bf3080ab26fa641c72e27fa37e5c010160e9",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbTimer.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbTimer.h",
+    "bytes": 5470,
+    "sha256": "9ba4ba6a4922542aa893d58cac9eeb4c9159f8b6ee686c9fccd71b395d2e2555",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbTimer.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbTypes.h",
+    "bytes": 1248,
+    "sha256": "448a78af294dbba5cdc6621027ef6e44755a88905c41e90522f8984ab62097cd",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbTypes.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wbUtils.h",
+    "bytes": 195,
+    "sha256": "7bad56057fc1ae7d548c923b452a24bc534d9e19d45389a2941bdd872411673d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbUtils.h"
+  },
+  {
+    "path": "A4.zip!/A4/source/libwb/wb_test.cpp",
+    "bytes": 75,
+    "sha256": "464e5e428d5c2eae4d64f32e1380d06ec5d3fc9b1079ea32be0e894ae0140585",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wb_test.cpp"
+  },
+  {
+    "path": "A4.zip!/A4/source/OpenCLVectorAdd/sources.cmake",
+    "bytes": 104,
+    "sha256": "ddd7789efbc608495a3e26ee701e3618ddbf63bdd7753a75d15cdf8b9ccc9325",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/OpenCLVectorAdd/sources.cmake"
+  },
+  {
+    "path": "A4.zip!/A4/source/OpenCLVectorAdd/template.cpp",
+    "bytes": 2657,
+    "sha256": "a9e0504b6b15f098f6337e4578bdabeb6a15dea948667ab85f8378cf72f8ddeb",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/OpenCLVectorAdd/template.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/a0-instructions.pdf",
+    "bytes": 210206,
+    "sha256": "9da50d92447c73ff6b22a98c5ff916010ba77aea5f0fad898ad4c3949ed42cf7",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document."
+  },
+  {
+    "path": "A0.zip!/A0/datasets/VectorAdd/Dataset/0/input0.raw",
+    "bytes": 105,
+    "sha256": "af18ae7460379071075b1ebfc358fb3780266ca6836d6513bf6f9c1a33d2336d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/0/input0.raw"
+  },
+  {
+    "path": "A0.zip!/A0/datasets/VectorAdd/Dataset/0/input1.raw",
+    "bytes": 103,
+    "sha256": "5b32bfbff6fdd10418732827307b50612dfaacc399f1447c68fafeba26eb3e11",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/0/input1.raw"
+  },
+  {
+    "path": "A0.zip!/A0/datasets/VectorAdd/Dataset/0/output.raw",
+    "bytes": 103,
+    "sha256": "d585e9657fe7a8ee32dcc0ae64853477e5719fb0af43d18d31d0da16dc70d0fa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/0/output.raw"
+  },
+  {
+    "path": "A0.zip!/A0/datasets/VectorAdd/Dataset/1/input0.raw",
+    "bytes": 404,
+    "sha256": "d03598306df0de16683c48a672cb1bf60fe6381022d915df0d40b1081684c7fb",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/1/input0.raw"
+  },
+  {
+    "path": "A0.zip!/A0/datasets/VectorAdd/Dataset/1/input1.raw",
+    "bytes": 399,
+    "sha256": "acb3f06150fc30ecafdaf88f9593a9aa917fdbffe738aaa6a9443e2a02d41122",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/1/input1.raw"
+  },
+  {
+    "path": "A0.zip!/A0/datasets/VectorAdd/Dataset/1/output.raw",
+    "bytes": 394,
+    "sha256": "acde7e0842409a693673049df5def7d9d0fabe0908cc05a47e6aef90224e88d5",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/1/output.raw"
+  },
+  {
+    "path": "A0.zip!/A0/source/CMakeLists.txt",
+    "bytes": 5899,
+    "sha256": "8e563c1c1fc217a17fb04a1c0fd67dce26d1ef48009ae92b84fb7305bce51c77",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document."
+  },
+  {
+    "path": "A0.zip!/A0/source/DeviceQuery/sources.cmake",
+    "bytes": 97,
+    "sha256": "61cf04796589fc75c867d5957be3a5c01b419de694b80cb42224fdd00ef2ab5e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document."
+  },
+  {
+    "path": "A0.zip!/A0/source/DeviceQuery/template.cu",
+    "bytes": 2135,
+    "sha256": "f04e9cff8260d5fca384e390adeeeaf5566e6dfd1bdb627db99399762e22e190",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document."
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/.clang-format",
+    "bytes": 552,
+    "sha256": "1a719a4bbf57077f0966c4a645af9508cdb51e24a5b46671e1c81a17ad49564f",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/.clang-format"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/.travis.yml",
+    "bytes": 1521,
+    "sha256": "a75cdec333a32f5cd33e92c79a7823e668e81b0fa464a036beb40e104f97ffd3",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/.travis.yml"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/appveyor.yml",
+    "bytes": 1142,
+    "sha256": "6806af888ceebc4770b63a491b8ce5842fb65a5c308b14913528ea63fe1a5442",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/appveyor.yml"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/CMakeLists.txt",
+    "bytes": 1084,
+    "sha256": "21c5fcd826685b16d2256fa376d63416969814182d022ebe8bcd4d926970f3e2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/CMakeLists.txt"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/LICENSE.TXT",
+    "bytes": 1772,
+    "sha256": "8153f321ccbeed18f12d96cbadca4c19760e26cc7188511be7d9c444873e2dae",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/LICENSE.TXT"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/Makefile",
+    "bytes": 1426,
+    "sha256": "8e655ba5ccedc7e44ef4ce71289319a98929cfd6f8238de114ad99869ae4b013",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/Makefile"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/README.md",
+    "bytes": 433,
+    "sha256": "6c0cd70fb0d31ed237f82397999bb219055e681a4bc56de141e78bbf4a8a4fe8",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/README.md"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/sources.cmake",
+    "bytes": 574,
+    "sha256": "e9c9fa81b2c9bd2dde8c23f9304e2097d0862ae45241fa6c6066bdf5149d7135",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/sources.cmake"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/vendor/catch.hpp",
+    "bytes": 386265,
+    "sha256": "71ee62c04cbd2b1366edc5cd96c0a8460bfaefbc2d8e1a4b9aada11b70e31991",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/vendor/catch.hpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/vendor/json11.cpp",
+    "bytes": 26136,
+    "sha256": "e93657c1e62b127c7fad48cb2ab287c90013d7cb7e71992a2cedffac015bf597",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/vendor/json11.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/vendor/json11.hpp",
+    "bytes": 9627,
+    "sha256": "03e67254be01ae4d85cd51b0cb8c0188941c114d6226673607ca46776174ce1c",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/vendor/json11.hpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wb.h",
+    "bytes": 4781,
+    "sha256": "43ae33c54d0bfb48c3a8211dab705bd3757bda23e66332d94cedcff1c00b6ed0",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wb.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbArg.cpp",
+    "bytes": 2646,
+    "sha256": "295c86b42871fded15e8149ed6ce14375b8713b385f209fd2614c73d506c19a2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbArg.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbArg.h",
+    "bytes": 1146,
+    "sha256": "b042d82ceeb14c204d98b6b8566bebd20e49dfafff80bb3b9d53a0ff9f35276d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbArg.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbAssert.h",
+    "bytes": 791,
+    "sha256": "2f8a29c3e43a56bfd0a2d64a2073457cddc860c4b61625adb0efad8f14a656ca",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbAssert.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbCast.h",
+    "bytes": 484,
+    "sha256": "db3e845624500ad33009a4ebd499a9ef5babd7afb286acf18fd70714b12a849e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbCast.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbComparator.h",
+    "bytes": 4231,
+    "sha256": "706202bc693fdaca531548a7494f962104bb8c46cd5cff0befa3d499fef8e28d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbComparator.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbCUDA.cpp",
+    "bytes": 479,
+    "sha256": "8f1f04646420672eb63ccf0bc7dd3207953877e3ead9e64774a9d877bc7c4455",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbCUDA.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbCUDA.h",
+    "bytes": 1835,
+    "sha256": "32f15317475c8ec9ae10d6a0a7bb474562a0d4ac070bc31fcc5b6c9897eda1e2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbCUDA.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbDataset.cpp",
+    "bytes": 5347,
+    "sha256": "365adb96b4bffdaf1bc12c671dd8c1f934804ebe2351419103a64724b7a5d5fc",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDataset.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbDataset.h",
+    "bytes": 1037,
+    "sha256": "4eb0a929553582cb1a86a2979dbecf9670bced0b803a42749fb94eab4b546f40",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDataset.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbDataset_test.cpp",
+    "bytes": 668,
+    "sha256": "48c3061f92fe0a544f12634bc4bf299b916f30d647a95c3fa51e1a025d5152d1",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDataset_test.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbDirectory.cpp",
+    "bytes": 2075,
+    "sha256": "893a8cf93fd12ef4633dca5b88e486afb21672770c42d0fdc64ed2f1c4c838aa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDirectory.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbDirectory.h",
+    "bytes": 278,
+    "sha256": "345b4c6d3b510630779d681b848006a467951ed87bddddacf1463d45ae153410",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDirectory.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbExit.cpp",
+    "bytes": 3163,
+    "sha256": "c57e38cfe6c16421d8816cf829a01efedf5449ac3ec8499e8dc7a7f2e6219f89",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExit.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbExit.h",
+    "bytes": 103,
+    "sha256": "f53e213d8646cc7a181e2ed59cc2bb445a4bfab029ed9513be5e7bd4e6ef749a",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExit.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbExport.cpp",
+    "bytes": 12843,
+    "sha256": "6825c93dbb273336469ebc6953332ed54ef4cdb3ceea3f76137a884952d43f25",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExport.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbExport.h",
+    "bytes": 3697,
+    "sha256": "2df0063e612680540444df15a883752c43f1e76a52b5bd99c332667b144617a9",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExport.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbFile.cpp",
+    "bytes": 7480,
+    "sha256": "6b39cbbc850f33d4028feac97e3757d88c58b9b59f502a31c30a79ca061dff92",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbFile.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbFile.h",
+    "bytes": 2059,
+    "sha256": "3d6a413dcb4fd89b190ce7073f9ca606cfa1e81d8ad8573881026cc52ee96307",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbFile.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbImage.cpp",
+    "bytes": 3700,
+    "sha256": "10e1fee3c7445108966298f175ad147771f9df7d978805ab9b87c945e6e57b39",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImage.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbImage.h",
+    "bytes": 1242,
+    "sha256": "0e2a8a715d70e80f1871e75b7a8fe0aab4887b883dd3f50c77c35f91fad0048e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImage.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbImport.cpp",
+    "bytes": 17775,
+    "sha256": "1a3d8b95a5958688415e9bb6388a580bef2f320bb694004dbb9923bd5bbae6e1",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImport.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbImport.h",
+    "bytes": 3508,
+    "sha256": "8296dfc656fde50dda0eb6eaf26ed1a2358b3ade72cc8a165012d425fc25f78f",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImport.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbInit.cpp",
+    "bytes": 1773,
+    "sha256": "f57cd5b507fe121f22ecb0eddaf30b040195468102345a8dd3a5d9c253481a2e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbInit.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbInit.h",
+    "bytes": 197,
+    "sha256": "11578614f1e624598363cd481b1f567e5327203d3124640129c94ed6eec04b49",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbInit.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbLogger.cpp",
+    "bytes": 7943,
+    "sha256": "2709d2fc347381c72c1c9efb1ab66bd820ef84364ba3322c6005926664f47346",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbLogger.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbLogger.h",
+    "bytes": 2752,
+    "sha256": "ef3ad3db59f0c426d416b0bff942740dd11b62e34adc02149837268207cc5efa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbLogger.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbMalloc.h",
+    "bytes": 3412,
+    "sha256": "5859712dd16cedd4e256ba3d80c70d6659587891905a900f435c58c2b86ff967",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMalloc.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbMD5.h",
+    "bytes": 9750,
+    "sha256": "79f7769d10bc3506911c79fc47ead87708e68b832db73ebcd0ac62a64c91caaa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMD5.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbMPI.cpp",
+    "bytes": 1662,
+    "sha256": "228288fbda01934cab6ddb3dbef68beb5def1a5ed8ead8c0cf270e9d22d206ce",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMPI.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbMPI.h",
+    "bytes": 738,
+    "sha256": "675850a8de98f1a1db73ae89a06d4833ccc5e091b99501a2cbd1e49d2d889207",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMPI.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbPath.cpp",
+    "bytes": 1276,
+    "sha256": "fcbaac3a8218bdacb391e4fb370930304fe2fca1a91547223aba355d7acfcdde",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPath.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbPath.h",
+    "bytes": 1222,
+    "sha256": "19ba3e03935306763125f918da2959f4b94040dd0bac7768a14814a4332dd09c",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPath.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbPPM.cpp",
+    "bytes": 4913,
+    "sha256": "a86b127cabf38d9d2f20ed4c653df9fb100ec0eaaeac5d5b16bdde23605da80a",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPPM.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbPPM.h",
+    "bytes": 210,
+    "sha256": "93b0a16da6dcdd50b0a9b1b684bb9b1c664695bd6babd6033899e2aeff75177e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPPM.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbSolution.cpp",
+    "bytes": 9497,
+    "sha256": "6de3f2b51cea2ce1887dc66c6639d10439a78102d00feda882aa4b4022176b03",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSolution.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbSolution.h",
+    "bytes": 1482,
+    "sha256": "d27b09ce459f9fe7f392375729f6c816e7cb3656492f344737c2f2ef2c61503d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSolution.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbSparse.cpp",
+    "bytes": 2737,
+    "sha256": "b7450aa2b3a664956c6040525a55ffe1d8766c7f721a7454ab465c68ee3ab4a9",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSparse.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbSparse.h",
+    "bytes": 331,
+    "sha256": "e0fbc5d0c7ad027ac35c606bf6b9b6cf8d45a9e19a201f63fcafafce53eb8909",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSparse.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbString.h",
+    "bytes": 10289,
+    "sha256": "68688cf8537cb32a467c5738f544369864b560bb92c706deff2f842988e6dc2d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbString.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbThrust.h",
+    "bytes": 306,
+    "sha256": "447d916ca16bee5f5f17af823590cc593000561f8b35ec314ad0ef7f3111f09e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbThrust.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbTimer.cpp",
+    "bytes": 15719,
+    "sha256": "7e061356b3abbe9c4679a27ad305bf3080ab26fa641c72e27fa37e5c010160e9",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbTimer.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbTimer.h",
+    "bytes": 5470,
+    "sha256": "9ba4ba6a4922542aa893d58cac9eeb4c9159f8b6ee686c9fccd71b395d2e2555",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbTimer.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbTypes.h",
+    "bytes": 1248,
+    "sha256": "448a78af294dbba5cdc6621027ef6e44755a88905c41e90522f8984ab62097cd",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbTypes.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wbUtils.h",
+    "bytes": 195,
+    "sha256": "7bad56057fc1ae7d548c923b452a24bc534d9e19d45389a2941bdd872411673d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbUtils.h"
+  },
+  {
+    "path": "A0.zip!/A0/source/libwb/wb_test.cpp",
+    "bytes": 75,
+    "sha256": "464e5e428d5c2eae4d64f32e1380d06ec5d3fc9b1079ea32be0e894ae0140585",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wb_test.cpp"
+  },
+  {
+    "path": "A0.zip!/A0/source/VectorAdd/sources.cmake",
+    "bytes": 91,
+    "sha256": "5c092d9cfa0c3bda8588a4f91130f8f9cb379b55205465863e17d5569638c3cb",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/source/VectorAdd/sources.cmake"
+  },
+  {
+    "path": "A0.zip!/A0/source/VectorAdd/template.cu",
+    "bytes": 1844,
+    "sha256": "0fd6a060ec61d45d3a6d1735711358585f9da43dfd07d7f16d730fa8ba7f5b71",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/source/VectorAdd/template.cu"
+  },
+  {
+    "path": "A3.zip!/A3/a3-instructions.pdf",
+    "bytes": 188369,
+    "sha256": "2925fcc5cdc80d02839e73ced4f4c964cb14acebcb64c44a720c72dc29013a1b",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/a3-instructions.pdf"
+  },
+  {
+    "path": "A3.zip!/A3/A3_batch.txt",
+    "bytes": 1495,
+    "sha256": "1f709ff20c1081292c56ec5fc6741494cc5abdcb8db02f5035b888d275a44cf7",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/A3_batch.txt"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/Histogram/Dataset/0/input.raw",
+    "bytes": 93,
+    "sha256": "8b4e4f99b5b3780fea7502c5ac8641b99f3c465cee9f2a7c289b496bff3ab6f2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/Histogram/Dataset/0/input.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/Histogram/Dataset/0/output.raw",
+    "bytes": 12292,
+    "sha256": "d5f78ff799279ab196c5059bd39e08a69c2aaf88446ce7c28f684b6ad2833d81",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/Histogram/Dataset/0/output.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/Histogram/Dataset/1/input.raw",
+    "bytes": 5858,
+    "sha256": "4fa20f7148041ef5175015f660b35bb6fb92983868bf3cf177ea3ddf95d3e156",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/Histogram/Dataset/1/input.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/Histogram/Dataset/1/output.raw",
+    "bytes": 12292,
+    "sha256": "910f956b3ae9f421354d25eb8743463e454adc6cd95123b0109df266fa9c7d97",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/Histogram/Dataset/1/output.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/Histogram/Dataset/2/input.raw",
+    "bytes": 2951,
+    "sha256": "3928a029dd6fc05c52777570c22751b1273a93857f3f12d33984f8070983f510",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/Histogram/Dataset/2/input.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/Histogram/Dataset/2/output.raw",
+    "bytes": 12292,
+    "sha256": "752f36d95278d877574318e2b23ed46e83079c62ffc6aedb9891abf5abc7b813",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/Histogram/Dataset/2/output.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/Histogram/Dataset/3/input.raw",
+    "bytes": 7,
+    "sha256": "4134869285ec5c5c1156cca20f2271dbc001845cdbfaa4b106f60162bd21956b",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/Histogram/Dataset/3/input.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/Histogram/Dataset/3/output.raw",
+    "bytes": 12292,
+    "sha256": "cf3ab1712e13974573e6f7e3494d5aa953443fc78ad71d365cff8d3858e7fabc",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/Histogram/Dataset/3/output.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/Histogram/Dataset/4/input.raw",
+    "bytes": 2864999,
+    "sha256": "3e58b07b78d613ff40e6d35e97860929d739dd23507bb99eef789e2be796f1f8",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/Histogram/Dataset/4/input.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/Histogram/Dataset/4/output.raw",
+    "bytes": 20401,
+    "sha256": "e3222fcb6809979587ca904f893911b881884812f4efdca011dccbbca19683fa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/Histogram/Dataset/4/output.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/ListScan/Dataset/0/input.raw",
+    "bytes": 281,
+    "sha256": "877fb58fc7d3e75b34beb494c171dbe92aec851fa656b94399c49aacb9c9c81e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/ListScan/Dataset/0/input.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/ListScan/Dataset/0/output.raw",
+    "bytes": 395,
+    "sha256": "f3e40eed98e724363b02c1b636530baa3f01b6914c726bb82ae6bf92f4669b8c",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/ListScan/Dataset/0/output.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/ListScan/Dataset/1/input.raw",
+    "bytes": 3364,
+    "sha256": "02766e8d0d929d53a426ea676f1c0ecc5230d904bd29e35cdce08d718304b08b",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/ListScan/Dataset/1/input.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/ListScan/Dataset/1/output.raw",
+    "bytes": 5949,
+    "sha256": "25058b1ec6c7c268aa9a7bc0b6e1ee832d5b303430bf6da462c273125a6ed601",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/ListScan/Dataset/1/output.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/ListScan/Dataset/2/input.raw",
+    "bytes": 29767,
+    "sha256": "898d6846d9d49ccbd161f0db8a4e7effc2740f61a852d306aaa1cdf2678df916",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/ListScan/Dataset/2/input.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/ListScan/Dataset/2/output.raw",
+    "bytes": 62012,
+    "sha256": "2dfad1db3d3e86a42ad7acb39aecb12eb7638797560eda8648049ec4e98b961d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/ListScan/Dataset/2/output.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/ListScan/Dataset/3/input.raw",
+    "bytes": 3103,
+    "sha256": "d672963c0400a26f787343a73e846da49b0c0982bdfc062c2e977b7a87890aa2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/ListScan/Dataset/3/input.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/ListScan/Dataset/3/output.raw",
+    "bytes": 5477,
+    "sha256": "0083492f5dcff517d932b8fbb881481120cdfbd552cfbe3a3d1954301a43454e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/ListScan/Dataset/3/output.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/ListScan/Dataset/4/input.raw",
+    "bytes": 12058,
+    "sha256": "b24d69c66e8a299509993df30986025e3b7f7c7d7582e63de9ec767e41dac9eb",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/ListScan/Dataset/4/input.raw"
+  },
+  {
+    "path": "A3.zip!/A3/datasets/ListScan/Dataset/4/output.raw",
+    "bytes": 23332,
+    "sha256": "abad6c0ff7834fb63f322bc8e408f4160b7ad08cd1d9729cb32fdfd1b3fdcf11",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/datasets/ListScan/Dataset/4/output.raw"
+  },
+  {
+    "path": "A3.zip!/A3/source/CMakeLists.txt",
+    "bytes": 5896,
+    "sha256": "d3f49d306b9e74ffb834815ffb841e2081321dcfd087aaed9464dcbc57d1ce90",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/source/CMakeLists.txt"
+  },
+  {
+    "path": "A3.zip!/A3/source/Histogram/sources.cmake",
+    "bytes": 91,
+    "sha256": "eebadf82590029c141acdd4ec575b2478ee0d1e7325b66b0651b51a50bd9224e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/source/Histogram/sources.cmake"
+  },
+  {
+    "path": "A3.zip!/A3/source/Histogram/template.cu",
+    "bytes": 3230,
+    "sha256": "7b203beaa435bc79bbc34597b54bc560ee1c67315345a55a886f3d690ccc1811",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/source/Histogram/template.cu"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/.clang-format",
+    "bytes": 552,
+    "sha256": "1a719a4bbf57077f0966c4a645af9508cdb51e24a5b46671e1c81a17ad49564f",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/.clang-format"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/.travis.yml",
+    "bytes": 1521,
+    "sha256": "a75cdec333a32f5cd33e92c79a7823e668e81b0fa464a036beb40e104f97ffd3",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/.travis.yml"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/appveyor.yml",
+    "bytes": 1142,
+    "sha256": "6806af888ceebc4770b63a491b8ce5842fb65a5c308b14913528ea63fe1a5442",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/appveyor.yml"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/CMakeLists.txt",
+    "bytes": 1084,
+    "sha256": "21c5fcd826685b16d2256fa376d63416969814182d022ebe8bcd4d926970f3e2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/CMakeLists.txt"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/LICENSE.TXT",
+    "bytes": 1772,
+    "sha256": "8153f321ccbeed18f12d96cbadca4c19760e26cc7188511be7d9c444873e2dae",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/LICENSE.TXT"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/Makefile",
+    "bytes": 1426,
+    "sha256": "8e655ba5ccedc7e44ef4ce71289319a98929cfd6f8238de114ad99869ae4b013",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/Makefile"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/README.md",
+    "bytes": 433,
+    "sha256": "6c0cd70fb0d31ed237f82397999bb219055e681a4bc56de141e78bbf4a8a4fe8",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/README.md"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/sources.cmake",
+    "bytes": 574,
+    "sha256": "e9c9fa81b2c9bd2dde8c23f9304e2097d0862ae45241fa6c6066bdf5149d7135",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/sources.cmake"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/vendor/catch.hpp",
+    "bytes": 386265,
+    "sha256": "71ee62c04cbd2b1366edc5cd96c0a8460bfaefbc2d8e1a4b9aada11b70e31991",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/vendor/catch.hpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/vendor/json11.cpp",
+    "bytes": 26136,
+    "sha256": "e93657c1e62b127c7fad48cb2ab287c90013d7cb7e71992a2cedffac015bf597",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/vendor/json11.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/vendor/json11.hpp",
+    "bytes": 9627,
+    "sha256": "03e67254be01ae4d85cd51b0cb8c0188941c114d6226673607ca46776174ce1c",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/vendor/json11.hpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wb.h",
+    "bytes": 4781,
+    "sha256": "43ae33c54d0bfb48c3a8211dab705bd3757bda23e66332d94cedcff1c00b6ed0",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wb.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbArg.cpp",
+    "bytes": 2646,
+    "sha256": "295c86b42871fded15e8149ed6ce14375b8713b385f209fd2614c73d506c19a2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbArg.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbArg.h",
+    "bytes": 1146,
+    "sha256": "b042d82ceeb14c204d98b6b8566bebd20e49dfafff80bb3b9d53a0ff9f35276d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbArg.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbAssert.h",
+    "bytes": 791,
+    "sha256": "2f8a29c3e43a56bfd0a2d64a2073457cddc860c4b61625adb0efad8f14a656ca",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbAssert.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbCast.h",
+    "bytes": 484,
+    "sha256": "db3e845624500ad33009a4ebd499a9ef5babd7afb286acf18fd70714b12a849e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbCast.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbComparator.h",
+    "bytes": 4231,
+    "sha256": "706202bc693fdaca531548a7494f962104bb8c46cd5cff0befa3d499fef8e28d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbComparator.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbCUDA.cpp",
+    "bytes": 479,
+    "sha256": "8f1f04646420672eb63ccf0bc7dd3207953877e3ead9e64774a9d877bc7c4455",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbCUDA.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbCUDA.h",
+    "bytes": 1835,
+    "sha256": "32f15317475c8ec9ae10d6a0a7bb474562a0d4ac070bc31fcc5b6c9897eda1e2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbCUDA.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbDataset.cpp",
+    "bytes": 5347,
+    "sha256": "365adb96b4bffdaf1bc12c671dd8c1f934804ebe2351419103a64724b7a5d5fc",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDataset.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbDataset.h",
+    "bytes": 1037,
+    "sha256": "4eb0a929553582cb1a86a2979dbecf9670bced0b803a42749fb94eab4b546f40",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDataset.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbDataset_test.cpp",
+    "bytes": 668,
+    "sha256": "48c3061f92fe0a544f12634bc4bf299b916f30d647a95c3fa51e1a025d5152d1",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDataset_test.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbDirectory.cpp",
+    "bytes": 2075,
+    "sha256": "893a8cf93fd12ef4633dca5b88e486afb21672770c42d0fdc64ed2f1c4c838aa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDirectory.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbDirectory.h",
+    "bytes": 278,
+    "sha256": "345b4c6d3b510630779d681b848006a467951ed87bddddacf1463d45ae153410",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDirectory.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbExit.cpp",
+    "bytes": 3163,
+    "sha256": "c57e38cfe6c16421d8816cf829a01efedf5449ac3ec8499e8dc7a7f2e6219f89",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExit.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbExit.h",
+    "bytes": 103,
+    "sha256": "f53e213d8646cc7a181e2ed59cc2bb445a4bfab029ed9513be5e7bd4e6ef749a",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExit.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbExport.cpp",
+    "bytes": 12843,
+    "sha256": "6825c93dbb273336469ebc6953332ed54ef4cdb3ceea3f76137a884952d43f25",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExport.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbExport.h",
+    "bytes": 3697,
+    "sha256": "2df0063e612680540444df15a883752c43f1e76a52b5bd99c332667b144617a9",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExport.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbFile.cpp",
+    "bytes": 7480,
+    "sha256": "6b39cbbc850f33d4028feac97e3757d88c58b9b59f502a31c30a79ca061dff92",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbFile.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbFile.h",
+    "bytes": 2059,
+    "sha256": "3d6a413dcb4fd89b190ce7073f9ca606cfa1e81d8ad8573881026cc52ee96307",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbFile.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbImage.cpp",
+    "bytes": 3700,
+    "sha256": "10e1fee3c7445108966298f175ad147771f9df7d978805ab9b87c945e6e57b39",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImage.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbImage.h",
+    "bytes": 1242,
+    "sha256": "0e2a8a715d70e80f1871e75b7a8fe0aab4887b883dd3f50c77c35f91fad0048e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImage.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbImport.cpp",
+    "bytes": 17775,
+    "sha256": "1a3d8b95a5958688415e9bb6388a580bef2f320bb694004dbb9923bd5bbae6e1",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImport.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbImport.h",
+    "bytes": 3508,
+    "sha256": "8296dfc656fde50dda0eb6eaf26ed1a2358b3ade72cc8a165012d425fc25f78f",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImport.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbInit.cpp",
+    "bytes": 1773,
+    "sha256": "f57cd5b507fe121f22ecb0eddaf30b040195468102345a8dd3a5d9c253481a2e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbInit.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbInit.h",
+    "bytes": 197,
+    "sha256": "11578614f1e624598363cd481b1f567e5327203d3124640129c94ed6eec04b49",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbInit.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbLogger.cpp",
+    "bytes": 7943,
+    "sha256": "2709d2fc347381c72c1c9efb1ab66bd820ef84364ba3322c6005926664f47346",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbLogger.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbLogger.h",
+    "bytes": 2752,
+    "sha256": "ef3ad3db59f0c426d416b0bff942740dd11b62e34adc02149837268207cc5efa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbLogger.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbMalloc.h",
+    "bytes": 3412,
+    "sha256": "5859712dd16cedd4e256ba3d80c70d6659587891905a900f435c58c2b86ff967",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMalloc.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbMD5.h",
+    "bytes": 9750,
+    "sha256": "79f7769d10bc3506911c79fc47ead87708e68b832db73ebcd0ac62a64c91caaa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMD5.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbMPI.cpp",
+    "bytes": 1662,
+    "sha256": "228288fbda01934cab6ddb3dbef68beb5def1a5ed8ead8c0cf270e9d22d206ce",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMPI.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbMPI.h",
+    "bytes": 738,
+    "sha256": "675850a8de98f1a1db73ae89a06d4833ccc5e091b99501a2cbd1e49d2d889207",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMPI.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbPath.cpp",
+    "bytes": 1276,
+    "sha256": "fcbaac3a8218bdacb391e4fb370930304fe2fca1a91547223aba355d7acfcdde",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPath.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbPath.h",
+    "bytes": 1222,
+    "sha256": "19ba3e03935306763125f918da2959f4b94040dd0bac7768a14814a4332dd09c",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPath.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbPPM.cpp",
+    "bytes": 4913,
+    "sha256": "a86b127cabf38d9d2f20ed4c653df9fb100ec0eaaeac5d5b16bdde23605da80a",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPPM.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbPPM.h",
+    "bytes": 210,
+    "sha256": "93b0a16da6dcdd50b0a9b1b684bb9b1c664695bd6babd6033899e2aeff75177e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPPM.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbSolution.cpp",
+    "bytes": 9497,
+    "sha256": "6de3f2b51cea2ce1887dc66c6639d10439a78102d00feda882aa4b4022176b03",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSolution.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbSolution.h",
+    "bytes": 1482,
+    "sha256": "d27b09ce459f9fe7f392375729f6c816e7cb3656492f344737c2f2ef2c61503d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSolution.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbSparse.cpp",
+    "bytes": 2737,
+    "sha256": "b7450aa2b3a664956c6040525a55ffe1d8766c7f721a7454ab465c68ee3ab4a9",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSparse.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbSparse.h",
+    "bytes": 331,
+    "sha256": "e0fbc5d0c7ad027ac35c606bf6b9b6cf8d45a9e19a201f63fcafafce53eb8909",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSparse.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbString.h",
+    "bytes": 10289,
+    "sha256": "68688cf8537cb32a467c5738f544369864b560bb92c706deff2f842988e6dc2d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbString.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbThrust.h",
+    "bytes": 306,
+    "sha256": "447d916ca16bee5f5f17af823590cc593000561f8b35ec314ad0ef7f3111f09e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbThrust.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbTimer.cpp",
+    "bytes": 15719,
+    "sha256": "7e061356b3abbe9c4679a27ad305bf3080ab26fa641c72e27fa37e5c010160e9",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbTimer.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbTimer.h",
+    "bytes": 5470,
+    "sha256": "9ba4ba6a4922542aa893d58cac9eeb4c9159f8b6ee686c9fccd71b395d2e2555",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbTimer.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbTypes.h",
+    "bytes": 1248,
+    "sha256": "448a78af294dbba5cdc6621027ef6e44755a88905c41e90522f8984ab62097cd",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbTypes.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wbUtils.h",
+    "bytes": 195,
+    "sha256": "7bad56057fc1ae7d548c923b452a24bc534d9e19d45389a2941bdd872411673d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbUtils.h"
+  },
+  {
+    "path": "A3.zip!/A3/source/libwb/wb_test.cpp",
+    "bytes": 75,
+    "sha256": "464e5e428d5c2eae4d64f32e1380d06ec5d3fc9b1079ea32be0e894ae0140585",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wb_test.cpp"
+  },
+  {
+    "path": "A3.zip!/A3/source/ListScan/sources.cmake",
+    "bytes": 89,
+    "sha256": "83c3a1ebe9bc20a3aab0fc0fe5aa3c2bef281a0fc21cadf40d3e0c207196b7b6",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/source/ListScan/sources.cmake"
+  },
+  {
+    "path": "A3.zip!/A3/source/ListScan/template.cu",
+    "bytes": 3659,
+    "sha256": "4232b1b2b82bc3a8c0dec26de25c2abe3152d9b4a1dade21d730505e72581628",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW3/A3/source/ListScan/template.cu"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/a1-instructions.pdf",
+    "bytes": 264469,
+    "sha256": "cebc16e55c47484083bef8a7860068a24c5fbe1dada774f5c0b4f7957e38d51f",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/a1-instructions.pdf"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/A1_batch.txt",
+    "bytes": 3517,
+    "sha256": "8f99c27b3b7cae547557c7f8db41fba06b4cd08ff421860e692b4950b50de145",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/A1_batch.txt"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/BasicMatrixMultiplication/Dataset/0/input0.raw",
+    "bytes": 43094,
+    "sha256": "aac171ede0fffc8da006469e69dadad0866d85608bef881b43769fb899e1ac7d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/0/input0.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/BasicMatrixMultiplication/Dataset/0/input1.raw",
+    "bytes": 43081,
+    "sha256": "e696983d3447d3c87b8d5e1a8a682d00a6a23fdb1b872bc6ee4e986e01868d4e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/0/input1.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/BasicMatrixMultiplication/Dataset/0/output.raw",
+    "bytes": 26971,
+    "sha256": "afc0e789f52273ea0e5f4e57977c6288498aa5f552826efa388892e93e25a6bb",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/0/output.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/BasicMatrixMultiplication/Dataset/1/input0.raw",
+    "bytes": 37166,
+    "sha256": "2d8a9d5924208914c046f7c9e59940c5a7816294541101a738654a1fa3e3e171",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/1/input0.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/BasicMatrixMultiplication/Dataset/1/input1.raw",
+    "bytes": 37157,
+    "sha256": "eaa54987641647d6b2b5340995c4853d68c95104bc9486fc3a00451d1d788c89",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/1/input1.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/BasicMatrixMultiplication/Dataset/1/output.raw",
+    "bytes": 42659,
+    "sha256": "76b6fdda4621b7d6b3a6de2b12b7edd53bfc65f80f569dffe045f062bf3b273d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/1/output.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/BasicMatrixMultiplication/Dataset/2/input0.raw",
+    "bytes": 41744,
+    "sha256": "65d072f139d0930849c21195c35c47cdb3e37cb9abc7000c01083d3da1f53ea8",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/2/input0.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/BasicMatrixMultiplication/Dataset/2/input1.raw",
+    "bytes": 66610,
+    "sha256": "9ead031aa7770b53a376b8f66e76a2e110e980a0652b0756d0d12347abb82581",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/2/input1.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/BasicMatrixMultiplication/Dataset/2/output.raw",
+    "bytes": 62816,
+    "sha256": "2f0c8a8edd558741afd9722fa7710328d54ef5efd9d4dba0b010a6dfa310b456",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/2/output.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/BasicMatrixMultiplication/Dataset/3/input0.raw",
+    "bytes": 17826,
+    "sha256": "55832afa0fc1d881f3231c955f125eb090666fe212558a50c22c13affb9d1da1",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/3/input0.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/BasicMatrixMultiplication/Dataset/3/input1.raw",
+    "bytes": 52390,
+    "sha256": "51f0fc7e46b148610858d01d0f0a9298e83f93548418ae4ac39f5a9a850b820b",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/3/input1.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/BasicMatrixMultiplication/Dataset/3/output.raw",
+    "bytes": 15779,
+    "sha256": "9453fed1bbd05c16f6c0b575ccda959327ec33632928a8ed3c2c8451e084bd6d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/3/output.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/BasicMatrixMultiplication/Dataset/4/input0.raw",
+    "bytes": 19232,
+    "sha256": "56ac74b24d66487e6cfeef6dcfa3668c373f68a20782cdee6cbd7037cdeb54a4",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/4/input0.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/BasicMatrixMultiplication/Dataset/4/input1.raw",
+    "bytes": 24079,
+    "sha256": "b905e2fbcb6701763cdd9749e728cabe81bdfd971d7d59da9233e5aa8d2a884b",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/4/input1.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/BasicMatrixMultiplication/Dataset/4/output.raw",
+    "bytes": 265460,
+    "sha256": "77e769e5fbd2ff346fad8746ce64644e30daf196a2ef353f80fc3aae84e29094",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/4/output.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/TiledMatrixMultiplication/Dataset/0/input0.raw",
+    "bytes": 43094,
+    "sha256": "aac171ede0fffc8da006469e69dadad0866d85608bef881b43769fb899e1ac7d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/0/input0.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/TiledMatrixMultiplication/Dataset/0/input1.raw",
+    "bytes": 43081,
+    "sha256": "e696983d3447d3c87b8d5e1a8a682d00a6a23fdb1b872bc6ee4e986e01868d4e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/0/input1.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/TiledMatrixMultiplication/Dataset/0/output.raw",
+    "bytes": 26971,
+    "sha256": "afc0e789f52273ea0e5f4e57977c6288498aa5f552826efa388892e93e25a6bb",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/0/output.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/TiledMatrixMultiplication/Dataset/1/input0.raw",
+    "bytes": 37166,
+    "sha256": "2d8a9d5924208914c046f7c9e59940c5a7816294541101a738654a1fa3e3e171",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/1/input0.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/TiledMatrixMultiplication/Dataset/1/input1.raw",
+    "bytes": 37157,
+    "sha256": "eaa54987641647d6b2b5340995c4853d68c95104bc9486fc3a00451d1d788c89",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/1/input1.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/TiledMatrixMultiplication/Dataset/1/output.raw",
+    "bytes": 42659,
+    "sha256": "76b6fdda4621b7d6b3a6de2b12b7edd53bfc65f80f569dffe045f062bf3b273d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/1/output.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/TiledMatrixMultiplication/Dataset/2/input0.raw",
+    "bytes": 41744,
+    "sha256": "65d072f139d0930849c21195c35c47cdb3e37cb9abc7000c01083d3da1f53ea8",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/2/input0.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/TiledMatrixMultiplication/Dataset/2/input1.raw",
+    "bytes": 66610,
+    "sha256": "9ead031aa7770b53a376b8f66e76a2e110e980a0652b0756d0d12347abb82581",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/2/input1.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/TiledMatrixMultiplication/Dataset/2/output.raw",
+    "bytes": 62816,
+    "sha256": "2f0c8a8edd558741afd9722fa7710328d54ef5efd9d4dba0b010a6dfa310b456",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/2/output.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/TiledMatrixMultiplication/Dataset/3/input0.raw",
+    "bytes": 17826,
+    "sha256": "55832afa0fc1d881f3231c955f125eb090666fe212558a50c22c13affb9d1da1",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/3/input0.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/TiledMatrixMultiplication/Dataset/3/input1.raw",
+    "bytes": 52390,
+    "sha256": "51f0fc7e46b148610858d01d0f0a9298e83f93548418ae4ac39f5a9a850b820b",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/3/input1.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/TiledMatrixMultiplication/Dataset/3/output.raw",
+    "bytes": 15779,
+    "sha256": "9453fed1bbd05c16f6c0b575ccda959327ec33632928a8ed3c2c8451e084bd6d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/3/output.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/TiledMatrixMultiplication/Dataset/4/input0.raw",
+    "bytes": 19232,
+    "sha256": "56ac74b24d66487e6cfeef6dcfa3668c373f68a20782cdee6cbd7037cdeb54a4",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/4/input0.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/TiledMatrixMultiplication/Dataset/4/input1.raw",
+    "bytes": 24079,
+    "sha256": "b905e2fbcb6701763cdd9749e728cabe81bdfd971d7d59da9233e5aa8d2a884b",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/4/input1.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/TiledMatrixMultiplication/Dataset/4/output.raw",
+    "bytes": 265460,
+    "sha256": "77e769e5fbd2ff346fad8746ce64644e30daf196a2ef353f80fc3aae84e29094",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/datasets/BasicMatrixMultiplication/Dataset/4/output.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/VectorAdd/Dataset/0/input0.raw",
+    "bytes": 105,
+    "sha256": "af18ae7460379071075b1ebfc358fb3780266ca6836d6513bf6f9c1a33d2336d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/0/input0.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/VectorAdd/Dataset/0/input1.raw",
+    "bytes": 103,
+    "sha256": "5b32bfbff6fdd10418732827307b50612dfaacc399f1447c68fafeba26eb3e11",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/0/input1.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/VectorAdd/Dataset/0/output.raw",
+    "bytes": 103,
+    "sha256": "d585e9657fe7a8ee32dcc0ae64853477e5719fb0af43d18d31d0da16dc70d0fa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/0/output.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/VectorAdd/Dataset/1/input0.raw",
+    "bytes": 404,
+    "sha256": "d03598306df0de16683c48a672cb1bf60fe6381022d915df0d40b1081684c7fb",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/1/input0.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/VectorAdd/Dataset/1/input1.raw",
+    "bytes": 399,
+    "sha256": "acb3f06150fc30ecafdaf88f9593a9aa917fdbffe738aaa6a9443e2a02d41122",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/1/input1.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/VectorAdd/Dataset/1/output.raw",
+    "bytes": 394,
+    "sha256": "acde7e0842409a693673049df5def7d9d0fabe0908cc05a47e6aef90224e88d5",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/1/output.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/VectorAdd/Dataset/2/input0.raw",
+    "bytes": 705,
+    "sha256": "5b1cb74e3f6da1b10bc1fa731381df8682b602e72e1be33a1538072187cf241b",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/2/input0.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/VectorAdd/Dataset/2/input1.raw",
+    "bytes": 709,
+    "sha256": "1128e7680f44c6eb30b470fb50866b020b2a2c009c61b6f438ea726426b5b8b7",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/2/input1.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/VectorAdd/Dataset/2/output.raw",
+    "bytes": 693,
+    "sha256": "65b604d6878479bd7240c4086b46f585ae14b284a202fac10909e05786d59fae",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/2/output.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/VectorAdd/Dataset/3/input0.raw",
+    "bytes": 62010,
+    "sha256": "9641b3bdb00326a279c2c3ce0aef3eb2e3bd72e69bf75674a104d3d485a74f06",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/3/input0.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/VectorAdd/Dataset/3/input1.raw",
+    "bytes": 61998,
+    "sha256": "72fb6ca23742b6d9592b502ecafce39f013019b13b780af376f68af28c54b815",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/3/input1.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/VectorAdd/Dataset/3/output.raw",
+    "bytes": 60886,
+    "sha256": "b31a5c694b60dfa1c4956a5ba4f3050bfb699b615b5a52ffa8f2b631f478cdc8",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/3/output.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/VectorAdd/Dataset/4/input0.raw",
+    "bytes": 25140,
+    "sha256": "a61cf1303e667acb7c9fc5407180e0592546154be87a202abdeed7527cd46f95",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/4/input0.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/VectorAdd/Dataset/4/input1.raw",
+    "bytes": 25124,
+    "sha256": "1254de544cc593dffe41b65ecda73706d83a5cdf13610de86bf53e4d27ddb166",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/4/input1.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/datasets/VectorAdd/Dataset/4/output.raw",
+    "bytes": 24666,
+    "sha256": "1f8d3af508f775b7120729c74e34d05bd30ae83dabd3453e5aa2d00a76addacb",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/datasets/OpenCLVectorAdd/Dataset/4/output.raw"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/BasicMatrixMultiplication/sources.cmake",
+    "bytes": 123,
+    "sha256": "d8720d563c90cec4882f2e230a5a3c113250e7c4539ebebdfbaaaa9eb928650a",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/source/BasicMatrixMultiplication/sources.cmake"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/BasicMatrixMultiplication/template.cu",
+    "bytes": 3305,
+    "sha256": "3b4f36994b53af5d32a06e004e59fd120c966ee74d2b15e309126cc87a1740ad",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/source/BasicMatrixMultiplication/template.cu"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/CMakeLists.txt",
+    "bytes": 5963,
+    "sha256": "a2a063ad7fd05d9e5542c74b0553210459d6f132196c0e99ad47281ec5bfd21e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/source/CMakeLists.txt"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/.clang-format",
+    "bytes": 552,
+    "sha256": "1a719a4bbf57077f0966c4a645af9508cdb51e24a5b46671e1c81a17ad49564f",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/.clang-format"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/.travis.yml",
+    "bytes": 1521,
+    "sha256": "a75cdec333a32f5cd33e92c79a7823e668e81b0fa464a036beb40e104f97ffd3",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/.travis.yml"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/appveyor.yml",
+    "bytes": 1142,
+    "sha256": "6806af888ceebc4770b63a491b8ce5842fb65a5c308b14913528ea63fe1a5442",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/appveyor.yml"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/CMakeLists.txt",
+    "bytes": 1084,
+    "sha256": "21c5fcd826685b16d2256fa376d63416969814182d022ebe8bcd4d926970f3e2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/CMakeLists.txt"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/LICENSE.TXT",
+    "bytes": 1772,
+    "sha256": "8153f321ccbeed18f12d96cbadca4c19760e26cc7188511be7d9c444873e2dae",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/LICENSE.TXT"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/Makefile",
+    "bytes": 1426,
+    "sha256": "8e655ba5ccedc7e44ef4ce71289319a98929cfd6f8238de114ad99869ae4b013",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/Makefile"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/README.md",
+    "bytes": 433,
+    "sha256": "6c0cd70fb0d31ed237f82397999bb219055e681a4bc56de141e78bbf4a8a4fe8",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/README.md"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/sources.cmake",
+    "bytes": 574,
+    "sha256": "e9c9fa81b2c9bd2dde8c23f9304e2097d0862ae45241fa6c6066bdf5149d7135",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/sources.cmake"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/vendor/catch.hpp",
+    "bytes": 386265,
+    "sha256": "71ee62c04cbd2b1366edc5cd96c0a8460bfaefbc2d8e1a4b9aada11b70e31991",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/vendor/catch.hpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/vendor/json11.cpp",
+    "bytes": 26136,
+    "sha256": "e93657c1e62b127c7fad48cb2ab287c90013d7cb7e71992a2cedffac015bf597",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/vendor/json11.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/vendor/json11.hpp",
+    "bytes": 9627,
+    "sha256": "03e67254be01ae4d85cd51b0cb8c0188941c114d6226673607ca46776174ce1c",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/vendor/json11.hpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wb.h",
+    "bytes": 4781,
+    "sha256": "43ae33c54d0bfb48c3a8211dab705bd3757bda23e66332d94cedcff1c00b6ed0",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wb.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbArg.cpp",
+    "bytes": 2646,
+    "sha256": "295c86b42871fded15e8149ed6ce14375b8713b385f209fd2614c73d506c19a2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbArg.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbArg.h",
+    "bytes": 1146,
+    "sha256": "b042d82ceeb14c204d98b6b8566bebd20e49dfafff80bb3b9d53a0ff9f35276d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbArg.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbAssert.h",
+    "bytes": 791,
+    "sha256": "2f8a29c3e43a56bfd0a2d64a2073457cddc860c4b61625adb0efad8f14a656ca",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbAssert.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbCast.h",
+    "bytes": 484,
+    "sha256": "db3e845624500ad33009a4ebd499a9ef5babd7afb286acf18fd70714b12a849e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbCast.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbComparator.h",
+    "bytes": 4231,
+    "sha256": "706202bc693fdaca531548a7494f962104bb8c46cd5cff0befa3d499fef8e28d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbComparator.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbCUDA.cpp",
+    "bytes": 479,
+    "sha256": "8f1f04646420672eb63ccf0bc7dd3207953877e3ead9e64774a9d877bc7c4455",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbCUDA.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbCUDA.h",
+    "bytes": 1835,
+    "sha256": "32f15317475c8ec9ae10d6a0a7bb474562a0d4ac070bc31fcc5b6c9897eda1e2",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbCUDA.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbDataset.cpp",
+    "bytes": 5347,
+    "sha256": "365adb96b4bffdaf1bc12c671dd8c1f934804ebe2351419103a64724b7a5d5fc",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDataset.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbDataset.h",
+    "bytes": 1037,
+    "sha256": "4eb0a929553582cb1a86a2979dbecf9670bced0b803a42749fb94eab4b546f40",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDataset.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbDataset_test.cpp",
+    "bytes": 668,
+    "sha256": "48c3061f92fe0a544f12634bc4bf299b916f30d647a95c3fa51e1a025d5152d1",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDataset_test.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbDirectory.cpp",
+    "bytes": 2075,
+    "sha256": "893a8cf93fd12ef4633dca5b88e486afb21672770c42d0fdc64ed2f1c4c838aa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDirectory.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbDirectory.h",
+    "bytes": 278,
+    "sha256": "345b4c6d3b510630779d681b848006a467951ed87bddddacf1463d45ae153410",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbDirectory.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbExit.cpp",
+    "bytes": 3163,
+    "sha256": "c57e38cfe6c16421d8816cf829a01efedf5449ac3ec8499e8dc7a7f2e6219f89",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExit.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbExit.h",
+    "bytes": 103,
+    "sha256": "f53e213d8646cc7a181e2ed59cc2bb445a4bfab029ed9513be5e7bd4e6ef749a",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExit.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbExport.cpp",
+    "bytes": 12843,
+    "sha256": "6825c93dbb273336469ebc6953332ed54ef4cdb3ceea3f76137a884952d43f25",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExport.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbExport.h",
+    "bytes": 3697,
+    "sha256": "2df0063e612680540444df15a883752c43f1e76a52b5bd99c332667b144617a9",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbExport.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbFile.cpp",
+    "bytes": 7480,
+    "sha256": "6b39cbbc850f33d4028feac97e3757d88c58b9b59f502a31c30a79ca061dff92",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbFile.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbFile.h",
+    "bytes": 2059,
+    "sha256": "3d6a413dcb4fd89b190ce7073f9ca606cfa1e81d8ad8573881026cc52ee96307",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbFile.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbImage.cpp",
+    "bytes": 3700,
+    "sha256": "10e1fee3c7445108966298f175ad147771f9df7d978805ab9b87c945e6e57b39",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImage.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbImage.h",
+    "bytes": 1242,
+    "sha256": "0e2a8a715d70e80f1871e75b7a8fe0aab4887b883dd3f50c77c35f91fad0048e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImage.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbImport.cpp",
+    "bytes": 17775,
+    "sha256": "1a3d8b95a5958688415e9bb6388a580bef2f320bb694004dbb9923bd5bbae6e1",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImport.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbImport.h",
+    "bytes": 3508,
+    "sha256": "8296dfc656fde50dda0eb6eaf26ed1a2358b3ade72cc8a165012d425fc25f78f",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbImport.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbInit.cpp",
+    "bytes": 1773,
+    "sha256": "f57cd5b507fe121f22ecb0eddaf30b040195468102345a8dd3a5d9c253481a2e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbInit.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbInit.h",
+    "bytes": 197,
+    "sha256": "11578614f1e624598363cd481b1f567e5327203d3124640129c94ed6eec04b49",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbInit.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbLogger.cpp",
+    "bytes": 7943,
+    "sha256": "2709d2fc347381c72c1c9efb1ab66bd820ef84364ba3322c6005926664f47346",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbLogger.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbLogger.h",
+    "bytes": 2752,
+    "sha256": "ef3ad3db59f0c426d416b0bff942740dd11b62e34adc02149837268207cc5efa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbLogger.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbMalloc.h",
+    "bytes": 3412,
+    "sha256": "5859712dd16cedd4e256ba3d80c70d6659587891905a900f435c58c2b86ff967",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMalloc.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbMD5.h",
+    "bytes": 9750,
+    "sha256": "79f7769d10bc3506911c79fc47ead87708e68b832db73ebcd0ac62a64c91caaa",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMD5.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbMPI.cpp",
+    "bytes": 1662,
+    "sha256": "228288fbda01934cab6ddb3dbef68beb5def1a5ed8ead8c0cf270e9d22d206ce",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMPI.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbMPI.h",
+    "bytes": 738,
+    "sha256": "675850a8de98f1a1db73ae89a06d4833ccc5e091b99501a2cbd1e49d2d889207",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbMPI.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbPath.cpp",
+    "bytes": 1276,
+    "sha256": "fcbaac3a8218bdacb391e4fb370930304fe2fca1a91547223aba355d7acfcdde",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPath.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbPath.h",
+    "bytes": 1222,
+    "sha256": "19ba3e03935306763125f918da2959f4b94040dd0bac7768a14814a4332dd09c",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPath.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbPPM.cpp",
+    "bytes": 4913,
+    "sha256": "a86b127cabf38d9d2f20ed4c653df9fb100ec0eaaeac5d5b16bdde23605da80a",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPPM.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbPPM.h",
+    "bytes": 210,
+    "sha256": "93b0a16da6dcdd50b0a9b1b684bb9b1c664695bd6babd6033899e2aeff75177e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbPPM.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbSolution.cpp",
+    "bytes": 9497,
+    "sha256": "6de3f2b51cea2ce1887dc66c6639d10439a78102d00feda882aa4b4022176b03",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSolution.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbSolution.h",
+    "bytes": 1482,
+    "sha256": "d27b09ce459f9fe7f392375729f6c816e7cb3656492f344737c2f2ef2c61503d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSolution.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbSparse.cpp",
+    "bytes": 2737,
+    "sha256": "b7450aa2b3a664956c6040525a55ffe1d8766c7f721a7454ab465c68ee3ab4a9",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSparse.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbSparse.h",
+    "bytes": 331,
+    "sha256": "e0fbc5d0c7ad027ac35c606bf6b9b6cf8d45a9e19a201f63fcafafce53eb8909",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbSparse.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbString.h",
+    "bytes": 10289,
+    "sha256": "68688cf8537cb32a467c5738f544369864b560bb92c706deff2f842988e6dc2d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbString.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbThrust.h",
+    "bytes": 306,
+    "sha256": "447d916ca16bee5f5f17af823590cc593000561f8b35ec314ad0ef7f3111f09e",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbThrust.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbTimer.cpp",
+    "bytes": 15719,
+    "sha256": "7e061356b3abbe9c4679a27ad305bf3080ab26fa641c72e27fa37e5c010160e9",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbTimer.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbTimer.h",
+    "bytes": 5470,
+    "sha256": "9ba4ba6a4922542aa893d58cac9eeb4c9159f8b6ee686c9fccd71b395d2e2555",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbTimer.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbTypes.h",
+    "bytes": 1248,
+    "sha256": "448a78af294dbba5cdc6621027ef6e44755a88905c41e90522f8984ab62097cd",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbTypes.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wbUtils.h",
+    "bytes": 195,
+    "sha256": "7bad56057fc1ae7d548c923b452a24bc534d9e19d45389a2941bdd872411673d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wbUtils.h"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/libwb/wb_test.cpp",
+    "bytes": 75,
+    "sha256": "464e5e428d5c2eae4d64f32e1380d06ec5d3fc9b1079ea32be0e894ae0140585",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "A4/source/libwb/wb_test.cpp"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/TiledMatrixMultiplication/sources.cmake",
+    "bytes": 123,
+    "sha256": "399bb96e2581b317d94e70328881fb14075037a39b71276ed0364f5faad8ecce",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/source/TiledMatrixMultiplication/sources.cmake"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/TiledMatrixMultiplication/template.cu",
+    "bytes": 3365,
+    "sha256": "842608b76cf1742f44cec199bdb432e6691ee8a87d76504b62a183bb5c642a8d",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/source/TiledMatrixMultiplication/template.cu"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/VectorAdd/sources.cmake",
+    "bytes": 91,
+    "sha256": "5c092d9cfa0c3bda8588a4f91130f8f9cb379b55205465863e17d5569638c3cb",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/source/VectorAdd/sources.cmake"
+  },
+  {
+    "path": "HW1/A1.zip!/A1/source/VectorAdd/template.cu",
+    "bytes": 1844,
+    "sha256": "0fd6a060ec61d45d3a6d1735711358585f9da43dfd07d7f16d730fa8ba7f5b71",
+    "summary": "Nested assignment member; scaffold, supplied support code, expected dataset or instruction document.",
+    "identical_to": "HW1/A1/source/VectorAdd/template.cu"
+  }
+]
