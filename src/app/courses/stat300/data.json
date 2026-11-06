@@ -1,0 +1,617 @@
+{
+  "grouped": [
+    {
+      "id": 0,
+      "name": "Grouped dataset A",
+      "file": "data-2_1_2023-10_23 PM.xlsx",
+      "rows": [
+        {
+          "label": "15-25",
+          "low": 15.0,
+          "high": 25.0,
+          "count": 18,
+          "midpoint": 20.0,
+          "cumulative": 18,
+          "relative": 0.049315068493150684
+        },
+        {
+          "label": "26-36",
+          "low": 26.0,
+          "high": 36.0,
+          "count": 44,
+          "midpoint": 31.0,
+          "cumulative": 62,
+          "relative": 0.12054794520547946
+        },
+        {
+          "label": "37-47",
+          "low": 37.0,
+          "high": 47.0,
+          "count": 67,
+          "midpoint": 42.0,
+          "cumulative": 129,
+          "relative": 0.18356164383561643
+        },
+        {
+          "label": "48-58",
+          "low": 48.0,
+          "high": 58.0,
+          "count": 68,
+          "midpoint": 53.0,
+          "cumulative": 197,
+          "relative": 0.1863013698630137
+        },
+        {
+          "label": "59-69",
+          "low": 59.0,
+          "high": 69.0,
+          "count": 76,
+          "midpoint": 64.0,
+          "cumulative": 273,
+          "relative": 0.20821917808219179
+        },
+        {
+          "label": "70-80",
+          "low": 70.0,
+          "high": 80.0,
+          "count": 67,
+          "midpoint": 75.0,
+          "cumulative": 340,
+          "relative": 0.18356164383561643
+        },
+        {
+          "label": "81-91",
+          "low": 81.0,
+          "high": 91.0,
+          "count": 25,
+          "midpoint": 86.0,
+          "cumulative": 365,
+          "relative": 0.0684931506849315
+        }
+      ],
+      "n": 365,
+      "estimatedMean": 55.29041095890411,
+      "width": 11.0
+    },
+    {
+      "id": 1,
+      "name": "Grouped dataset B",
+      "file": "data-2_1_2023-10_44 PM.xlsx",
+      "rows": [
+        {
+          "label": "18-28",
+          "low": 18.0,
+          "high": 28.0,
+          "count": 18,
+          "midpoint": 23.0,
+          "cumulative": 18,
+          "relative": 0.049315068493150684
+        },
+        {
+          "label": "29-39",
+          "low": 29.0,
+          "high": 39.0,
+          "count": 45,
+          "midpoint": 34.0,
+          "cumulative": 63,
+          "relative": 0.1232876712328767
+        },
+        {
+          "label": "40-50",
+          "low": 40.0,
+          "high": 50.0,
+          "count": 68,
+          "midpoint": 45.0,
+          "cumulative": 131,
+          "relative": 0.1863013698630137
+        },
+        {
+          "label": "51-61",
+          "low": 51.0,
+          "high": 61.0,
+          "count": 69,
+          "midpoint": 56.0,
+          "cumulative": 200,
+          "relative": 0.18904109589041096
+        },
+        {
+          "label": "62-72",
+          "low": 62.0,
+          "high": 72.0,
+          "count": 75,
+          "midpoint": 67.0,
+          "cumulative": 275,
+          "relative": 0.2054794520547945
+        },
+        {
+          "label": "73-83",
+          "low": 73.0,
+          "high": 83.0,
+          "count": 68,
+          "midpoint": 78.0,
+          "cumulative": 343,
+          "relative": 0.1863013698630137
+        },
+        {
+          "label": "84-94",
+          "low": 84.0,
+          "high": 94.0,
+          "count": 22,
+          "midpoint": 89.0,
+          "cumulative": 365,
+          "relative": 0.06027397260273973
+        }
+      ],
+      "n": 365,
+      "estimatedMean": 57.95890410958904,
+      "width": 11.0
+    }
+  ],
+  "regression": {
+    "file": "data-2_20_2023-9_48 PM.xlsx",
+    "rows": [
+      {
+        "id": 1,
+        "height": 77.0,
+        "weight": 188.0
+      },
+      {
+        "id": 2,
+        "height": 69.0,
+        "weight": 207.0
+      },
+      {
+        "id": 3,
+        "height": 74.0,
+        "weight": 209.0
+      },
+      {
+        "id": 4,
+        "height": 72.0,
+        "weight": 207.0
+      },
+      {
+        "id": 5,
+        "height": 78.0,
+        "weight": 166.0
+      },
+      {
+        "id": 6,
+        "height": 71.0,
+        "weight": 184.0
+      },
+      {
+        "id": 7,
+        "height": 65.0,
+        "weight": 223.0
+      },
+      {
+        "id": 8,
+        "height": 71.0,
+        "weight": 182.0
+      },
+      {
+        "id": 9,
+        "height": 68.0,
+        "weight": 196.0
+      },
+      {
+        "id": 10,
+        "height": 80.0,
+        "weight": 226.0
+      },
+      {
+        "id": 11,
+        "height": 69.0,
+        "weight": 204.0
+      },
+      {
+        "id": 12,
+        "height": 80.0,
+        "weight": 196.0
+      }
+    ],
+    "n": 12,
+    "slope": -0.7564894932014835,
+    "intercept": 254.09765142150803,
+    "r": -0.21625171683543587,
+    "rSquared": 0.046764805034273535,
+    "pValue": 0.499635415442527,
+    "xMin": 65.0,
+    "xMax": 80.0,
+    "yMin": 166.0,
+    "yMax": 226.0
+  },
+  "paired": {
+    "file": "data-5_4_2023-1_08 AM.xlsx",
+    "rows": [
+      {
+        "id": 1,
+        "before": 23.2,
+        "after": 21.7,
+        "difference": 1.5
+      },
+      {
+        "id": 2,
+        "before": 23.1,
+        "after": 22.3,
+        "difference": 0.8000000000000007
+      },
+      {
+        "id": 3,
+        "before": 22.8,
+        "after": 22,
+        "difference": 0.8000000000000007
+      },
+      {
+        "id": 4,
+        "before": 19.1,
+        "after": 18.6,
+        "difference": 0.5
+      },
+      {
+        "id": 5,
+        "before": 19.6,
+        "after": 18.6,
+        "difference": 1.0
+      },
+      {
+        "id": 6,
+        "before": 20.9,
+        "after": 19.8,
+        "difference": 1.0999999999999979
+      }
+    ],
+    "n": 6,
+    "meanDifference": 0.9499999999999998,
+    "sdDifference": 0.33911649915626313,
+    "standardError": 0.13844373104863447,
+    "t": 6.861993625888848,
+    "df": 5,
+    "twoSidedP": 0.0010045764249362714,
+    "ci95": [
+      0.5941190597086607,
+      1.305880940291339
+    ],
+    "beforeMean": 21.45,
+    "afterMean": 20.5
+  },
+  "worksheet": {
+    "file": "takehome test 1.pdf",
+    "page": 2,
+    "recordedMean": 8.7,
+    "recordedPopulationSD": 9.6,
+    "fiveNumbers": [
+      1,
+      2,
+      6,
+      10,
+      52
+    ],
+    "labels": [
+      "Minimum",
+      "Q1",
+      "Median",
+      "Q3",
+      "Maximum"
+    ],
+    "scope": "Values transcribed from the handwritten answer page. The original 50-state data is not in the ZIP, so those answers cannot be independently checked here. The drawing uses minimum/maximum whiskers, not a Tukey outlier rule."
+  },
+  "workbooks": [
+    {
+      "file": "data-2_1_2023-10_23 PM.xlsx",
+      "asset": "workbook-1.xlsx",
+      "sheet": ".",
+      "rows": 9,
+      "columns": 7,
+      "formulas": [
+        {
+          "cell": "C2",
+          "formula": "=(25+15)/2"
+        },
+        {
+          "cell": "D2",
+          "formula": "=B2"
+        },
+        {
+          "cell": "E2",
+          "formula": "=B2/$B$9"
+        },
+        {
+          "cell": "C3",
+          "formula": "=C2+11"
+        },
+        {
+          "cell": "D3",
+          "formula": "=D2+B3"
+        },
+        {
+          "cell": "E3",
+          "formula": "=B3/$B$9"
+        },
+        {
+          "cell": "G3",
+          "formula": "=26-15"
+        },
+        {
+          "cell": "C4",
+          "formula": "=C3+11"
+        },
+        {
+          "cell": "D4",
+          "formula": "=D3+B4"
+        },
+        {
+          "cell": "E4",
+          "formula": "=B4/$B$9"
+        },
+        {
+          "cell": "C5",
+          "formula": "=C4+11"
+        },
+        {
+          "cell": "D5",
+          "formula": "=D4+B5"
+        },
+        {
+          "cell": "E5",
+          "formula": "=B5/$B$9"
+        },
+        {
+          "cell": "C6",
+          "formula": "=C5+11"
+        },
+        {
+          "cell": "D6",
+          "formula": "=D5+B6"
+        },
+        {
+          "cell": "E6",
+          "formula": "=B6/$B$9"
+        },
+        {
+          "cell": "C7",
+          "formula": "=C6+11"
+        },
+        {
+          "cell": "D7",
+          "formula": "=D6+B7"
+        },
+        {
+          "cell": "E7",
+          "formula": "=B7/$B$9"
+        },
+        {
+          "cell": "C8",
+          "formula": "=C7+11"
+        },
+        {
+          "cell": "D8",
+          "formula": "=D7+B8"
+        },
+        {
+          "cell": "E8",
+          "formula": "=B8/$B$9"
+        },
+        {
+          "cell": "B9",
+          "formula": "=SUM(B2:B8)"
+        },
+        {
+          "cell": "E9",
+          "formula": "=SUM(E2:E8)"
+        }
+      ]
+    },
+    {
+      "file": "data-2_1_2023-10_44 PM.xlsx",
+      "asset": "workbook-2.xlsx",
+      "sheet": ".",
+      "rows": 12,
+      "columns": 5,
+      "formulas": [
+        {
+          "cell": "C2",
+          "formula": "=(28+18)/2"
+        },
+        {
+          "cell": "D2",
+          "formula": "=B2/$B$9"
+        },
+        {
+          "cell": "E2",
+          "formula": "=B2"
+        },
+        {
+          "cell": "C3",
+          "formula": "=C2+11"
+        },
+        {
+          "cell": "D3",
+          "formula": "=B3/$B$9"
+        },
+        {
+          "cell": "E3",
+          "formula": "=E2+B3"
+        },
+        {
+          "cell": "C4",
+          "formula": "=C3+11"
+        },
+        {
+          "cell": "D4",
+          "formula": "=B4/$B$9"
+        },
+        {
+          "cell": "E4",
+          "formula": "=E3+B4"
+        },
+        {
+          "cell": "C5",
+          "formula": "=C4+11"
+        },
+        {
+          "cell": "D5",
+          "formula": "=B5/$B$9"
+        },
+        {
+          "cell": "E5",
+          "formula": "=E4+B5"
+        },
+        {
+          "cell": "C6",
+          "formula": "=C5+11"
+        },
+        {
+          "cell": "D6",
+          "formula": "=B6/$B$9"
+        },
+        {
+          "cell": "E6",
+          "formula": "=E5+B6"
+        },
+        {
+          "cell": "C7",
+          "formula": "=C6+11"
+        },
+        {
+          "cell": "D7",
+          "formula": "=B7/$B$9"
+        },
+        {
+          "cell": "E7",
+          "formula": "=E6+B7"
+        },
+        {
+          "cell": "C8",
+          "formula": "=C7+11"
+        },
+        {
+          "cell": "D8",
+          "formula": "=B8/$B$9"
+        },
+        {
+          "cell": "E8",
+          "formula": "=E7+B8"
+        },
+        {
+          "cell": "B9",
+          "formula": "=SUM(B2:B8)"
+        },
+        {
+          "cell": "D9",
+          "formula": "=SUM(D2:D8)"
+        },
+        {
+          "cell": "B12",
+          "formula": "=29-18"
+        }
+      ]
+    },
+    {
+      "file": "data-2_20_2023-9_48 PM.xlsx",
+      "asset": "workbook-3.xlsx",
+      "sheet": ".",
+      "rows": 13,
+      "columns": 2,
+      "formulas": []
+    },
+    {
+      "file": "data-5_4_2023-1_08 AM.xlsx",
+      "asset": "workbook-4.xlsx",
+      "sheet": ".",
+      "rows": 12,
+      "columns": 6,
+      "formulas": [
+        {
+          "cell": "D2",
+          "formula": "=B2-C2"
+        },
+        {
+          "cell": "E2",
+          "formula": "=D2-0.95"
+        },
+        {
+          "cell": "F2",
+          "formula": "=E2^2"
+        },
+        {
+          "cell": "D3",
+          "formula": "=B3-C3"
+        },
+        {
+          "cell": "E3",
+          "formula": "=D3-0.95"
+        },
+        {
+          "cell": "F3",
+          "formula": "=E3^2"
+        },
+        {
+          "cell": "D4",
+          "formula": "=B4-C4"
+        },
+        {
+          "cell": "E4",
+          "formula": "=D4-0.95"
+        },
+        {
+          "cell": "F4",
+          "formula": "=E4^2"
+        },
+        {
+          "cell": "D5",
+          "formula": "=B5-C5"
+        },
+        {
+          "cell": "E5",
+          "formula": "=D5-0.95"
+        },
+        {
+          "cell": "F5",
+          "formula": "=E5^2"
+        },
+        {
+          "cell": "D6",
+          "formula": "=B6-C6"
+        },
+        {
+          "cell": "E6",
+          "formula": "=D6-0.95"
+        },
+        {
+          "cell": "F6",
+          "formula": "=E6^2"
+        },
+        {
+          "cell": "D7",
+          "formula": "=B7-C7"
+        },
+        {
+          "cell": "E7",
+          "formula": "=D7-0.95"
+        },
+        {
+          "cell": "F7",
+          "formula": "=E7^2"
+        },
+        {
+          "cell": "D8",
+          "formula": "=SUM(D2:D7)"
+        },
+        {
+          "cell": "F8",
+          "formula": "=SUM(F2:F7)"
+        },
+        {
+          "cell": "D11",
+          "formula": "=F8/5"
+        },
+        {
+          "cell": "D12",
+          "formula": "=SQRT(D11)"
+        }
+      ]
+    }
+  ]
+}

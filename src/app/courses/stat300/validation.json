@@ -1,0 +1,548 @@
+{
+  "scope": "Independent Python/NumPy/SciPy calculations from the archived inputs. Saved workbook cached values are compared with recomputed quantities; original workbooks are not edited or recalculated in Excel. Inferential/regression results are newly computed references, not archived student answers.",
+  "cachedChecks": [
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: midpoint row 2",
+      "value": 20.0,
+      "saved": 20.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: cumulative row 2",
+      "value": 18.0,
+      "saved": 18.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: relative row 2",
+      "value": 0.049315068493150684,
+      "saved": 0.049315068493150684,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: midpoint row 3",
+      "value": 31.0,
+      "saved": 31.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: cumulative row 3",
+      "value": 62.0,
+      "saved": 62.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: relative row 3",
+      "value": 0.12054794520547946,
+      "saved": 0.12054794520547946,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: midpoint row 4",
+      "value": 42.0,
+      "saved": 42.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: cumulative row 4",
+      "value": 129.0,
+      "saved": 129.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: relative row 4",
+      "value": 0.18356164383561643,
+      "saved": 0.18356164383561643,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: midpoint row 5",
+      "value": 53.0,
+      "saved": 53.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: cumulative row 5",
+      "value": 197.0,
+      "saved": 197.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: relative row 5",
+      "value": 0.1863013698630137,
+      "saved": 0.1863013698630137,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: midpoint row 6",
+      "value": 64.0,
+      "saved": 64.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: cumulative row 6",
+      "value": 273.0,
+      "saved": 273.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: relative row 6",
+      "value": 0.20821917808219179,
+      "saved": 0.20821917808219179,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: midpoint row 7",
+      "value": 75.0,
+      "saved": 75.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: cumulative row 7",
+      "value": 340.0,
+      "saved": 340.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: relative row 7",
+      "value": 0.18356164383561643,
+      "saved": 0.18356164383561643,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: midpoint row 8",
+      "value": 86.0,
+      "saved": 86.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: cumulative row 8",
+      "value": 365.0,
+      "saved": 365.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: relative row 8",
+      "value": 0.0684931506849315,
+      "saved": 0.0684931506849315,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: frequency total",
+      "value": 365.0,
+      "saved": 365.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_23 PM.xlsx: relative total",
+      "value": 1.0,
+      "saved": 1.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: midpoint row 2",
+      "value": 23.0,
+      "saved": 23.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: cumulative row 2",
+      "value": 18.0,
+      "saved": 18.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: relative row 2",
+      "value": 0.049315068493150684,
+      "saved": 0.049315068493150684,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: midpoint row 3",
+      "value": 34.0,
+      "saved": 34.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: cumulative row 3",
+      "value": 63.0,
+      "saved": 63.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: relative row 3",
+      "value": 0.1232876712328767,
+      "saved": 0.1232876712328767,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: midpoint row 4",
+      "value": 45.0,
+      "saved": 45.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: cumulative row 4",
+      "value": 131.0,
+      "saved": 131.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: relative row 4",
+      "value": 0.1863013698630137,
+      "saved": 0.1863013698630137,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: midpoint row 5",
+      "value": 56.0,
+      "saved": 56.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: cumulative row 5",
+      "value": 200.0,
+      "saved": 200.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: relative row 5",
+      "value": 0.18904109589041096,
+      "saved": 0.18904109589041096,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: midpoint row 6",
+      "value": 67.0,
+      "saved": 67.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: cumulative row 6",
+      "value": 275.0,
+      "saved": 275.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: relative row 6",
+      "value": 0.2054794520547945,
+      "saved": 0.2054794520547945,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: midpoint row 7",
+      "value": 78.0,
+      "saved": 78.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: cumulative row 7",
+      "value": 343.0,
+      "saved": 343.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: relative row 7",
+      "value": 0.1863013698630137,
+      "saved": 0.1863013698630137,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: midpoint row 8",
+      "value": 89.0,
+      "saved": 89.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: cumulative row 8",
+      "value": 365.0,
+      "saved": 365.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: relative row 8",
+      "value": 0.06027397260273973,
+      "saved": 0.06027397260273973,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: frequency total",
+      "value": 365.0,
+      "saved": 365.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "data-2_1_2023-10_44 PM.xlsx: relative total",
+      "value": 1.0,
+      "saved": 0.9999999999999999,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: difference D2",
+      "value": 1.5,
+      "saved": 1.5,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: deviation E2",
+      "value": 0.5500000000000002,
+      "saved": 0.55,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: squared deviation F2",
+      "value": 0.30250000000000016,
+      "saved": 0.30250000000000005,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: difference D3",
+      "value": 0.8000000000000007,
+      "saved": 0.8000000000000007,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: deviation E3",
+      "value": -0.14999999999999913,
+      "saved": -0.14999999999999925,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: squared deviation F3",
+      "value": 0.02249999999999974,
+      "saved": 0.022499999999999774,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: difference D4",
+      "value": 0.8000000000000007,
+      "saved": 0.8000000000000007,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: deviation E4",
+      "value": -0.14999999999999913,
+      "saved": -0.14999999999999925,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: squared deviation F4",
+      "value": 0.02249999999999974,
+      "saved": 0.022499999999999774,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: difference D5",
+      "value": 0.5,
+      "saved": 0.5,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: deviation E5",
+      "value": -0.44999999999999984,
+      "saved": -0.44999999999999996,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: squared deviation F5",
+      "value": 0.20249999999999985,
+      "saved": 0.20249999999999996,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: difference D6",
+      "value": 1.0,
+      "saved": 1.0,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: deviation E6",
+      "value": 0.050000000000000155,
+      "saved": 0.050000000000000044,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: squared deviation F6",
+      "value": 0.0025000000000000157,
+      "saved": 0.0025000000000000044,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: difference D7",
+      "value": 1.0999999999999979,
+      "saved": 1.0999999999999979,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: deviation E7",
+      "value": 0.14999999999999802,
+      "saved": 0.1499999999999979,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: squared deviation F7",
+      "value": 0.022499999999999406,
+      "saved": 0.022499999999999375,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: sum of differences D8",
+      "value": 5.699999999999999,
+      "saved": 5.699999999999999,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: squared deviation total F8",
+      "value": 0.574999999999999,
+      "saved": 0.5749999999999991,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: sample variance D11",
+      "value": 0.11499999999999981,
+      "saved": 0.11499999999999981,
+      "tolerance": 1e-10
+    },
+    {
+      "check": "Paired workbook: sample standard deviation D12",
+      "value": 0.33911649915626313,
+      "saved": 0.33911649915626313,
+      "tolerance": 1e-10
+    }
+  ],
+  "reference": {
+    "groupedEstimatedMeans": [
+      55.29041095890411,
+      57.95890410958904
+    ],
+    "paired": {
+      "file": "data-5_4_2023-1_08 AM.xlsx",
+      "rows": [
+        {
+          "id": 1,
+          "before": 23.2,
+          "after": 21.7,
+          "difference": 1.5
+        },
+        {
+          "id": 2,
+          "before": 23.1,
+          "after": 22.3,
+          "difference": 0.8000000000000007
+        },
+        {
+          "id": 3,
+          "before": 22.8,
+          "after": 22,
+          "difference": 0.8000000000000007
+        },
+        {
+          "id": 4,
+          "before": 19.1,
+          "after": 18.6,
+          "difference": 0.5
+        },
+        {
+          "id": 5,
+          "before": 19.6,
+          "after": 18.6,
+          "difference": 1.0
+        },
+        {
+          "id": 6,
+          "before": 20.9,
+          "after": 19.8,
+          "difference": 1.0999999999999979
+        }
+      ],
+      "n": 6,
+      "meanDifference": 0.9499999999999998,
+      "sdDifference": 0.33911649915626313,
+      "standardError": 0.13844373104863447,
+      "t": 6.861993625888848,
+      "df": 5,
+      "twoSidedP": 0.0010045764249362714,
+      "ci95": [
+        0.5941190597086607,
+        1.305880940291339
+      ],
+      "beforeMean": 21.45,
+      "afterMean": 20.5
+    },
+    "regression": {
+      "file": "data-2_20_2023-9_48 PM.xlsx",
+      "rows": [
+        {
+          "id": 1,
+          "height": 77.0,
+          "weight": 188.0
+        },
+        {
+          "id": 2,
+          "height": 69.0,
+          "weight": 207.0
+        },
+        {
+          "id": 3,
+          "height": 74.0,
+          "weight": 209.0
+        },
+        {
+          "id": 4,
+          "height": 72.0,
+          "weight": 207.0
+        },
+        {
+          "id": 5,
+          "height": 78.0,
+          "weight": 166.0
+        },
+        {
+          "id": 6,
+          "height": 71.0,
+          "weight": 184.0
+        },
+        {
+          "id": 7,
+          "height": 65.0,
+          "weight": 223.0
+        },
+        {
+          "id": 8,
+          "height": 71.0,
+          "weight": 182.0
+        },
+        {
+          "id": 9,
+          "height": 68.0,
+          "weight": 196.0
+        },
+        {
+          "id": 10,
+          "height": 80.0,
+          "weight": 226.0
+        },
+        {
+          "id": 11,
+          "height": 69.0,
+          "weight": 204.0
+        },
+        {
+          "id": 12,
+          "height": 80.0,
+          "weight": 196.0
+        }
+      ],
+      "n": 12,
+      "slope": -0.7564894932014835,
+      "intercept": 254.09765142150803,
+      "r": -0.21625171683543587,
+      "rSquared": 0.046764805034273535,
+      "pValue": 0.499635415442527,
+      "xMin": 65.0,
+      "xMax": 80.0,
+      "yMin": 166.0,
+      "yMax": 226.0
+    }
+  }
+}

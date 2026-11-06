@@ -1,0 +1,296 @@
+[
+  {
+    "path": "Calendar of Topics.pdf",
+    "bytes": 110398,
+    "sha256": "5f4c501e23afb7be4450ec8342916e54d9dc5bb885f79f806dafd4592b6fc467",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Confirmation _ Pearson MyLab & Mastering.pdf",
+    "bytes": 761730,
+    "sha256": "e3b6de94d7e9d7b50c51f958a33411c056e3b916df42053b4c427f5f63e9846f",
+    "role": "Account confirmation / not published",
+    "summary": "Personal account document; inventory only."
+  },
+  {
+    "path": "Final Formulas.pdf",
+    "bytes": 143291,
+    "sha256": "10dc405d6bbdce9b09e94db0dd1329f515e0f14f8e1b949e50fd58db3266cf93",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Final TueThu At Home.pdf",
+    "bytes": 252941,
+    "sha256": "949ca73e345326f3e117170892915a22530a541be836ed4cbc94a82d4c2e7fa3",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Formulas for Chs 6-7.pdf",
+    "bytes": 88707,
+    "sha256": "c53c418c85aa43a9561b4f82aa3fa8770cac4904513783be625ece50c657a487",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Hyp Test Concl Lang.pdf",
+    "bytes": 152166,
+    "sha256": "74c870aba940adc541c9735efaa06ce9945323588e5c407c9aa003843bdb99e8",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Hyp Test Crit Vals Worksheet.pdf",
+    "bytes": 179137,
+    "sha256": "74c091567c3d935e02d50313a55bf77c70512b7b042b96a9c903d94abc53061c",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Hyp Test P-Val Worksheet.pdf",
+    "bytes": 172486,
+    "sha256": "87ebd07eff96ecd3f0b4ced9d5c47ee9eba75e0a25382a9f4ab1f84b96587b0e",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Lists of numbers for finding Median, Q1, Q3.pdf",
+    "bytes": 36259,
+    "sha256": "99fc2682debddc1f2456284ed2be27ad2d3787f096ed91cd0acce19889ad2097",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Quiz 01 Solutions.pdf",
+    "bytes": 372679,
+    "sha256": "7b00296866499958fa4e1629bec46075371a160d8615412d6139d34960a01e3a",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Quiz 01.pdf",
+    "bytes": 114701,
+    "sha256": "35de699f1e4e310e4f74df35df0ab68832fe9b14b4b96a2afb1c94b02c0675fc",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Quiz 02 Solutions.pdf",
+    "bytes": 376855,
+    "sha256": "4f272122dc35883f15c66ee231b14c2f77e1165495ea6d7ea9454e2978ad48ef",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Quiz 02.pdf",
+    "bytes": 153167,
+    "sha256": "8d7efbd48a191096176238c77c83bac93ae1e55fe993b69f89d0bc80ac961dda",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Quiz 03M Solutions.pdf",
+    "bytes": 537471,
+    "sha256": "589e81ff0969e9197fc411958a7a7542ee55d3098115ef100ae0e432d9a5a51c",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Quiz 03T Solutions.pdf",
+    "bytes": 546517,
+    "sha256": "b58e2e803d9bed1fc63a0dd459ac55a059cfd0c2660be293560ffefe4f7eeb13",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Quiz 04M Solutions.pdf",
+    "bytes": 260431,
+    "sha256": "71ba9cf125261b08b17995194aba1a341a7fd2914da5e15c8575038dd91a10c2",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Quiz 04T Solutions.pdf",
+    "bytes": 268116,
+    "sha256": "ba46214b9c68c1e6196d1ed5250804e7edb19921e7787b9166e199f7f31e3583",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Quiz 06M Solutions.pdf",
+    "bytes": 315960,
+    "sha256": "8872557b393dbc6924a76f0853260edb50424c8b23ab01ad6c1cf19e240f4f6f",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Quiz 06T Solutions.pdf",
+    "bytes": 314828,
+    "sha256": "853c38b1f9adc3abce5f192d5772b459a29ee5370e0c88ad94f9777d04d67edf",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Quiz 5 MonWed Solutions.pdf",
+    "bytes": 365260,
+    "sha256": "bed8b254fab0611b15feaf97d69019ef5380e310ea497aa829db9a6928af7644",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Quiz 5 TueThu Solutions.pdf",
+    "bytes": 414244,
+    "sha256": "6c861bc551da041247ad1b46bb7ed6c84d10a713dc6f285df08e6eee93d2f439",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Stat Crunch Guide.pdf",
+    "bytes": 617464,
+    "sha256": "6dda9f32e282d580fb05be314dbfde9f08789c1e4183e6cc75d34134b2310570",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Stat Tables Packet z,t,chi2,r.pdf",
+    "bytes": 2265923,
+    "sha256": "70417a3ddead9cf82cf800799af3a197111e23ce706a62b979e9f5b5b96de39d",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Syllabus Stat Sp23.pdf",
+    "bytes": 244026,
+    "sha256": "e2ee89407d9cdd93c52bb46c3fa4bad793701fe3d18b273d70e5a3164e654556",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Test 1 Formula Sheet.pdf",
+    "bytes": 112904,
+    "sha256": "7d14a951920fb81da35354449caf5f09f9a817704ff29bfd41457a9988cd09f8",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Test 1 MonWed In Class.pdf",
+    "bytes": 216655,
+    "sha256": "c6c49b5e41af23e474c32ec3f706ecc46f52496a9cdc98b85d9bc907d20eddec",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Test 1 MonWed Solutions.pdf",
+    "bytes": 1391090,
+    "sha256": "c40281fa34f2be7572a35064f5075582bf326306b4a7986fad3b67758b5c042b",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Test 1 Practice Answers.pdf",
+    "bytes": 426681,
+    "sha256": "052dfdafa95ce5aea65b8d937f8d6753dd1b81f863f36db6425e327f2ed85e2a",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Test 1 TueThu Solutions.pdf",
+    "bytes": 1492006,
+    "sha256": "907b045e4954cde1907c65741257e51c05c757b9fa76924c7d7ba9638081bb36",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Test 2 Formula Sheet.pdf",
+    "bytes": 103024,
+    "sha256": "389bfd9a0734d410ae2e862df1acdf826effefbdaf4aa20bf28fedd2b2616670",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Test 2 MonWed Solutions.pdf",
+    "bytes": 1888094,
+    "sha256": "92e477fc5ee4907363ddfd483ad52b70c3ea15666d05937daa17651ef9ab745d",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Test 2 Practice SOLUTIONS.pdf",
+    "bytes": 2132805,
+    "sha256": "9e18a63b16bfb3842394fd606e4fcfb8fd21471d0ece67c0e4c070df83fb75be",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Test 2 TueThu Solutions.pdf",
+    "bytes": 1823728,
+    "sha256": "bef82a3b083ba26b23953ba989645fa6df6cedae0e1bcc7114c7ed4003f7a8d7",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Test 3 Formulas.pdf",
+    "bytes": 117555,
+    "sha256": "39022937a5f6f3344d7d8410ef3b25a38dda02ecde354dfca6bd933860d8de44",
+    "role": "Course handout / reference",
+    "summary": "Supporting STAT 300 material. Not inferred to be a completed student submission."
+  },
+  {
+    "path": "Test 3 MonWed Solutions.pdf",
+    "bytes": 260898,
+    "sha256": "921afbd78b2ff45b0ee851de2c7b0b76357661e8c65e29c856a447749752e981",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Test 3 Practice Solutions.pdf",
+    "bytes": 6963935,
+    "sha256": "844eafa8fec2775c78c25a617bdb3daf218f534b7d7423194cce804446cc142e",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "Test 3 TueThu Solutions.pdf",
+    "bytes": 297976,
+    "sha256": "613b0a3972153652a158e673f9f68a97c73cd8e60949eeb88522d33f15c1884b",
+    "role": "Course solutions / reference",
+    "summary": "Supplied answer/solution material supporting the course; not claimed as student-authored work."
+  },
+  {
+    "path": "data-2_1_2023-10_23 PM.xlsx",
+    "bytes": 9652,
+    "sha256": "228186e6d8ce7f1cd5f0f3387e89d6a351ec34bb245fc6fee827e321083ba1a1",
+    "role": "Spreadsheet coursework",
+    "summary": "Data and saved formulas used for the new visualizations; original workbook available unchanged."
+  },
+  {
+    "path": "data-2_1_2023-10_44 PM.xlsx",
+    "bytes": 9725,
+    "sha256": "bdbd6815294d04be94c765d9f3ef86b9e17344825c9efef0069d76f2702cf995",
+    "role": "Spreadsheet coursework",
+    "summary": "Data and saved formulas used for the new visualizations; original workbook available unchanged."
+  },
+  {
+    "path": "data-2_20_2023-9_48 PM.xlsx",
+    "bytes": 8835,
+    "sha256": "ec8adb8e9653c3105a398e43477ba8f3f39d6f35200423d4170a74744d093ac1",
+    "role": "Spreadsheet coursework",
+    "summary": "Data and saved formulas used for the new visualizations; original workbook available unchanged."
+  },
+  {
+    "path": "data-5_4_2023-1_08 AM.xlsx",
+    "bytes": 9803,
+    "sha256": "0e7292071e531ec8bbcf2729da6040e021d999edc94028d4c7d9f586ff7562f7",
+    "role": "Spreadsheet coursework",
+    "summary": "Data and saved formulas used for the new visualizations; original workbook available unchanged."
+  },
+  {
+    "path": "takehome test 1.pdf",
+    "bytes": 602209,
+    "sha256": "b639f77a1e8ea4bf5815618f5fae2656c9f0f70af38d61abd97ee05e98aa91f6",
+    "role": "Handwritten completed worksheet",
+    "summary": "Two-page scanned take-home work. The answer page is shown; the signed cover page is not published."
+  }
+]
