@@ -1,0 +1,207 @@
+{
+  "sources": [
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/@ False.pdf",
+      "bytes": 631122,
+      "sha256": "cf03f6d9672fde4d965f3989ef16ecea2ec68d1f7d1c5e10d362ef35700bc717",
+      "role": "Completed handwritten coursework",
+      "summary": "Completed sampling homework: populations, samples and sampling methods.",
+      "asset": "coursework-01.pdf",
+      "pages": 2
+    },
+    {
+      "path": "quiz 1.pdf",
+      "bytes": 2101027,
+      "sha256": "a9f8a06afeabcaadb42ef70f1483543af0c50582dbe4670751fa80f16564f68e",
+      "role": "Completed handwritten coursework",
+      "summary": "Completed Chapter 1 quiz: parameters/statistics, sampling, study design and descriptive summaries.",
+      "asset": "coursework-20.pdf",
+      "pages": 5
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Home work 4 stat 50.pdf",
+      "bytes": 1554447,
+      "sha256": "15d7895600bff9b4d96e6dae0074423aecead153c3e14f201cab056c73749a42",
+      "role": "Completed handwritten coursework",
+      "summary": "Section 2.1: enumerated sample spaces and events, including four T/F outcomes.",
+      "asset": "coursework-02.pdf",
+      "pages": 5,
+      "image": "patterns.jpg",
+      "key": "patterns"
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Homework 5 stat 50.pdf",
+      "bytes": 1738479,
+      "sha256": "5720808c181765196217675fc1380a6c0ceab7c88fd76a97c25af9bb0df67849",
+      "role": "Completed handwritten coursework",
+      "summary": "Section 2.2: counting rules, permutations and combinations.",
+      "asset": "coursework-03.pdf",
+      "pages": 5
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Hw6 stat 50.pdf",
+      "bytes": 4271903,
+      "sha256": "03135af3c3159d41f736eb0e6efefef414c72ca3821b1b8eb63eb747e31c5f41",
+      "role": "Completed handwritten coursework",
+      "summary": "Conditional probability, independence, unions and intersections.",
+      "asset": "coursework-15.pdf",
+      "pages": 12
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Scanned Documents.pdf",
+      "bytes": 359305,
+      "sha256": "eafc8d6f2dc7768eb65480a980ce902f45c7345af2793ed898506c42161a6f1a",
+      "role": "Completed handwritten coursework",
+      "summary": "One-page handwritten conditional probability calculation with three sources and a defective-item event.",
+      "asset": "coursework-19.pdf",
+      "pages": 1
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Hw7.pdf",
+      "bytes": 5659095,
+      "sha256": "da28ffe9cb58a10e753e08d876a3257829c13cda44d882913b7c14d9482da8ab",
+      "role": "Completed handwritten coursework",
+      "summary": "Discrete and continuous random variables, probability functions, expectation and variance.",
+      "asset": "coursework-16.pdf",
+      "pages": 14
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Hw8.pdf",
+      "bytes": 2066722,
+      "sha256": "be3600477bce7b78fb7aeaa6989e63b5562cf6467f2c0e9a09febd33514cc2a4",
+      "role": "Completed handwritten coursework",
+      "summary": "Transforming random variables and computing means and variances.",
+      "asset": "coursework-17.pdf",
+      "pages": 5
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Hw9.pdf",
+      "bytes": 3728742,
+      "sha256": "d820194fe280629eea98a7a660db25666671d6c2b523ed067c16c4dd75f1f8ca",
+      "role": "Completed handwritten coursework",
+      "summary": "Joint distributions, marginal probabilities, covariance, correlation and independence.",
+      "asset": "coursework-18.pdf",
+      "pages": 9
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Hw10.pdf",
+      "bytes": 2606520,
+      "sha256": "dbad07d644e9544ec4942cd58048068661bc483ec574bf42fe2da42940ce41a2",
+      "role": "Completed handwritten coursework",
+      "summary": "Section 4.2 binomial probabilities, including n=7 and p=0.3.",
+      "asset": "coursework-04.pdf",
+      "pages": 7,
+      "image": "binomial.jpg",
+      "key": "binomial"
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Hw11.pdf",
+      "bytes": 2469107,
+      "sha256": "002a2a954eb7c51c488fc25038c5ad6ef9eceda3a479c5610b01b1203b012149",
+      "role": "Completed handwritten coursework",
+      "summary": "Hypergeometric probabilities: sampling without replacement.",
+      "asset": "coursework-05.pdf",
+      "pages": 7
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Hw12 .pdf",
+      "bytes": 2473274,
+      "sha256": "1d2e28bc3d91ccff8a5ecc9351b979167039c07d8f070795cfd7cf9f2b8f5919",
+      "role": "Completed handwritten coursework",
+      "summary": "Poisson probabilities and event counts.",
+      "asset": "coursework-06.pdf",
+      "pages": 6
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Hw13.pdf",
+      "bytes": 4023022,
+      "sha256": "37d90e6550cbb07dba49805d01ab3e47ab9e724ddec81f1d53934702f8452f0f",
+      "role": "Completed handwritten coursework",
+      "summary": "Normal probabilities and standardized z calculations.",
+      "asset": "coursework-07.pdf",
+      "pages": 11
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Hw14 .pdf",
+      "bytes": 1705924,
+      "sha256": "f0b5f5348ef210fa7a69c87abff79a46b1eb0a32b446925afe26b47afccf7123",
+      "role": "Completed handwritten coursework",
+      "summary": "Exponential distributions, waiting times and distribution calculations.",
+      "asset": "coursework-08.pdf",
+      "pages": 5
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Hw15.pdf",
+      "bytes": 2728684,
+      "sha256": "1ea584e7aaaf72b9f6d48f355c393af5e8a66753e50e58f163a781e3737097fa",
+      "role": "Completed handwritten coursework",
+      "summary": "Distribution practice and normal approximations; scanned handwriting limits some transcription.",
+      "asset": "coursework-09.pdf",
+      "pages": 8
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Hw16.pdf",
+      "bytes": 2479095,
+      "sha256": "8e214854f1ddb5e629bb2905604b53e9e5d9c346c2d6d6aec29489b54fb10659",
+      "role": "Completed handwritten coursework",
+      "summary": "Section 4.11 sample means and standard errors; original example uses mean 15, SD 5, n=60.",
+      "asset": "coursework-10.pdf",
+      "pages": 6,
+      "image": "means.jpg",
+      "key": "means"
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Hw17.pdf",
+      "bytes": 3082933,
+      "sha256": "a15df3b235beb3bb95d06991cd77ede99c4fe2db1f5a32e16ed9c0c1000aaa46",
+      "role": "Completed handwritten coursework",
+      "summary": "Confidence interval calculations for means, proportions and differences; some handwriting is faint.",
+      "asset": "coursework-11.pdf",
+      "pages": 7
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Hw19.pdf",
+      "bytes": 1830978,
+      "sha256": "129a5cc092ff2f472d34172f139c98c9f3dd698b8fddbaf246837f456f9c5321",
+      "role": "Completed handwritten coursework",
+      "summary": "Section 6.1 hypothesis tests, standardized statistics and tail probabilities.",
+      "asset": "coursework-12.pdf",
+      "pages": 5
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Hw20 .pdf",
+      "bytes": 1554368,
+      "sha256": "df1b8f1d0c23bae346754b44757884a0f107b904fcb219a8d788530359b339d7",
+      "role": "Completed handwritten coursework",
+      "summary": "Section 5.1 interval interpretation and confidence interval practice; several pages are faint.",
+      "asset": "coursework-13.pdf",
+      "pages": 4
+    },
+    {
+      "path": "STAT5__Intro_Probability_Stat___SECTION__7_export/Hw22.pdf",
+      "bytes": 1260082,
+      "sha256": "13c28c5da00d0be60b8667ac25279868bcd64fe43baee755e5d656d8f22d3186",
+      "role": "Completed handwritten coursework",
+      "summary": "Section 6.9 chi-square goodness-of-fit tests; observed and expected category counts.",
+      "asset": "coursework-14.pdf",
+      "pages": 3,
+      "image": "evidence.jpg",
+      "key": "evidence"
+    }
+  ],
+  "labels": [
+    "Conforming",
+    "Downgraded",
+    "Scrap"
+  ],
+  "observed": [
+    405,
+    55,
+    40
+  ],
+  "expected": [
+    425,
+    50,
+    25
+  ]
+}

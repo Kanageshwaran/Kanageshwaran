@@ -53,6 +53,8 @@ import { Csc193a } from "./courses/csc193a/Csc193a";
 
 import { Stat300 } from "./courses/stat300/Stat300";
 
+import { Stat50 } from "./courses/stat50/Stat50";
+
 function AppShell() {
   const location = useLocation();
 
@@ -114,6 +116,8 @@ function AppShell() {
           <Route path="/course/csc193a/assignment/:assignmentSlug" element={<Csc193a />} />
           <Route path="/course/stat300" element={<Stat300 />} />
           <Route path="/course/stat300/assignment/:assignmentSlug" element={<Stat300 />} />
+          <Route path="/course/stat50" element={<Stat50 />} />
+          <Route path="/course/stat50/assignment/:assignmentSlug" element={<Stat50 />} />
           <Route path="/course/:courseId" element={<CoursePage />} />
           <Route path="/activities" element={<ActivitiesPage />} />
           <Route path="/activities/:activityId" element={<ActivityPage />} />
