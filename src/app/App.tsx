@@ -59,6 +59,8 @@ import { Math372 } from "./courses/math372/Math372";
 
 import { Math400 } from "./courses/math400/Math400";
 
+import { Math401 } from "./courses/math401/Math401";
+
 function AppShell() {
   const location = useLocation();
 
@@ -126,6 +128,8 @@ function AppShell() {
           <Route path="/course/math372/assignment/:assignmentSlug" element={<Math372 />} />
           <Route path="/course/math400" element={<Math400 />} />
           <Route path="/course/math400/assignment/:assignmentSlug" element={<Math400 />} />
+          <Route path="/course/math401" element={<Math401 />} />
+          <Route path="/course/math401/assignment/:assignmentSlug" element={<Math401 />} />
           <Route path="/course/:courseId" element={<CoursePage />} />
           <Route path="/activities" element={<ActivitiesPage />} />
           <Route path="/activities/:activityId" element={<ActivityPage />} />
