@@ -1,0 +1,320 @@
+[
+  {
+    "path": "new doc 2020-03-16 19.34.09-20200316193931.pdf",
+    "id": "hw4",
+    "title": "Homework 4 \u00b7 Systems",
+    "role": "Completed handwritten work",
+    "summary": "Systems in two variables. Elimination continued. Three-variable systems. Free variables. Classroom application.",
+    "bytes": 2832453,
+    "sha256": "48a6196972c6b50801728c1282b43169d14790b08f300f53c5f28d611b54293a",
+    "pageCount": 5,
+    "pages": [
+      {
+        "page": 1,
+        "title": "Systems in two variables",
+        "summary": "Elimination, inconsistent equations and dependent systems. Review note: problem 1 should give (50/11, \u221212/11), not the recorded (10, \u221212).",
+        "image": "hw4-1.jpg"
+      },
+      {
+        "page": 2,
+        "title": "Elimination continued",
+        "summary": "Dependent-system parameterization and the start of three-variable Gaussian elimination.",
+        "image": "hw4-2.jpg"
+      },
+      {
+        "page": 3,
+        "title": "Three-variable systems",
+        "summary": "A recorded unique solution (\u22121, \u22122, 4), followed by an inconsistent system.",
+        "image": "hw4-3.jpg"
+      },
+      {
+        "page": 4,
+        "title": "Free variables",
+        "summary": "A dependent system written as (x,y,z)=(7t+1,4t\u22121,t), alongside a no-solution conclusion from the preceding problem.",
+        "image": "hw4-4.jpg"
+      },
+      {
+        "page": 5,
+        "title": "Classroom application",
+        "summary": "A three-classroom balance model with recorded counts A=20, B=50 and C=30.",
+        "image": "hw4-5.jpg"
+      }
+    ],
+    "publication": "Student-name/ID header removed from page 1; mathematical work retained.",
+    "pdf": "hw4.pdf",
+    "publishedSha256": "32580e3073981a1781e5e1948bd6c13a05447baa44ef02606fe504feee01c54b"
+  },
+  {
+    "path": "Math homework 5[144].pdf",
+    "id": "hw5",
+    "title": "Homework 5 \u00b7 Matrices & algebra",
+    "role": "Completed handwritten work",
+    "summary": "Matrix dimensions and multiplication. Inverse by row operations. Solving using an inverse. Partial fractions. Rectangle application. Linear inequalities. Parabola from an equation.",
+    "bytes": 4694363,
+    "sha256": "7531b8638c75559aeb3cdd9e3f21e56f295f7330f2195e0621fac1cfaabf2092",
+    "pageCount": 7,
+    "pages": [
+      {
+        "page": 1,
+        "title": "Matrix dimensions and multiplication",
+        "summary": "A is 3\u00d71 and B is 3\u00d73, so AB is undefined; BA is recorded as (\u22121,8,\u22121). Begins a matrix inverse by augmentation.",
+        "image": "hw5-1.jpg"
+      },
+      {
+        "page": 2,
+        "title": "Inverse by row operations",
+        "summary": "Continuation of the augmented matrix reduction to an inverse.",
+        "image": "hw5-2.jpg"
+      },
+      {
+        "page": 3,
+        "title": "Solving using an inverse",
+        "summary": "Two systems solved using a supplied inverse; recorded answers (8,\u22121,\u22128) and (13,\u22122,\u221213). These full systems are not independently certified here.",
+        "image": "hw5-3.jpg"
+      },
+      {
+        "page": 4,
+        "title": "Partial fractions",
+        "summary": "Factoring x\u00b3+2x\u00b2\u22123x and solving for coefficients. Review note: the correct decomposition is 1/x + 1/(x\u22121) \u2212 2/(x+3).",
+        "image": "hw5-4.jpg"
+      },
+      {
+        "page": 5,
+        "title": "Rectangle application",
+        "summary": "A 20-inch diagonal and 160-square-inch area lead to side lengths \u221a320 and \u221a80 inches.",
+        "image": "hw5-5.jpg"
+      },
+      {
+        "page": 6,
+        "title": "Linear inequalities",
+        "summary": "Boundary lines and a shaded feasible region; one displayed intersection is (7/2,3/4).",
+        "image": "hw5-6.jpg"
+      },
+      {
+        "page": 7,
+        "title": "Parabola from an equation",
+        "summary": "x=7y\u00b2, with focus (1/28,0), directrix x=\u22121/28 and focal diameter 1/7.",
+        "image": "hw5-7.jpg"
+      }
+    ],
+    "publication": "Student-name/ID header removed from page 1; mathematical work retained.",
+    "pdf": "hw5.pdf",
+    "publishedSha256": "7b7a5a3c15ca0940bcb2e67f53921e79e2dc0eb68ed16472ad22617e2746084e"
+  },
+  {
+    "path": "Math homework 6[163].pdf",
+    "id": "hw6",
+    "title": "Homework 6 \u00b7 Conics & sequences",
+    "role": "Completed handwritten work",
+    "summary": "Ellipse and string construction. Hyperbola. Completing the square. Rotated conic. Recursive sequence. Arithmetic sequence.",
+    "bytes": 2074301,
+    "sha256": "778b7f90db75e18926acd50f998cc962b781ecb9c89771f56deda9ac6d7db744",
+    "pageCount": 6,
+    "pages": [
+      {
+        "page": 1,
+        "title": "Ellipse and string construction",
+        "summary": "The centerpiece: recorded semiaxes a=4 ft, b=2 ft give c=\u221a12 ft and a two-focus string length of 8 ft.",
+        "image": "hw6-1.jpg"
+      },
+      {
+        "page": 2,
+        "title": "Hyperbola",
+        "summary": "9x\u00b2\u22124y\u00b2=36: center (0,0), vertices (\u00b12,0), foci (\u00b1\u221a13,0), asymptotes y=\u00b13x/2.",
+        "image": "hw6-2.jpg"
+      },
+      {
+        "page": 3,
+        "title": "Completing the square",
+        "summary": "4x\u00b2\u22124x\u22128y+9=0 becomes (x\u22121/2)\u00b2=2(y\u22121); vertex (1/2,1), p=1/2.",
+        "image": "hw6-3.jpg"
+      },
+      {
+        "page": 4,
+        "title": "Rotated conic",
+        "summary": "13x\u00b2+6\u221a3xy+7y\u00b2=16. The recorded 30\u00b0 substitution is appropriate, but its final denominators need correction to X\u00b2+Y\u00b2/4=1.",
+        "image": "hw6-4.jpg"
+      },
+      {
+        "page": 5,
+        "title": "Recursive sequence",
+        "summary": "a\u2081=\u22128, a\u2099=a\u2099\u208b\u2081/2 gives \u22128,\u22124,\u22122,\u22121,\u22121/2.",
+        "image": "hw6-5.jpg"
+      },
+      {
+        "page": 6,
+        "title": "Arithmetic sequence",
+        "summary": "11,8,5,2,\u2026 has difference \u22123; a\u2099=11\u22123(n\u22121), a\u2085=\u22121 and a\u2081\u2080\u2080=\u2212286. The final line labels the term formula as a difference; the difference itself is \u22123.",
+        "image": "hw6-6.jpg"
+      }
+    ],
+    "publication": "Unchanged source PDF.",
+    "pdf": "hw6.pdf",
+    "publishedSha256": "778b7f90db75e18926acd50f998cc962b781ecb9c89771f56deda9ac6d7db744"
+  },
+  {
+    "path": "WebClass23.pdf",
+    "id": "class23",
+    "title": "Class 23 \u00b7 Parabolas",
+    "role": "Instructor reference",
+    "summary": "Conic sections. Parabola definitions. Focus and directrix practice. Focal diameter and reflection. Searchlight application and practice.",
+    "bytes": 232085,
+    "sha256": "2b95d302e527c98613867282cf226b5aa274f82a79f7d11255d8d937a4dca870",
+    "pageCount": 5,
+    "pages": [
+      {
+        "page": 1,
+        "title": "Conic sections",
+        "summary": "Introduction to conic sections and four basic shapes.",
+        "image": "class23-1.jpg"
+      },
+      {
+        "page": 2,
+        "title": "Parabola definitions",
+        "summary": "Quadratic and focus/directrix definitions, including the distance relation.",
+        "image": "class23-2.jpg"
+      },
+      {
+        "page": 3,
+        "title": "Focus and directrix practice",
+        "summary": "Three parabola examples for finding equations, focus and directrix.",
+        "image": "class23-3.jpg"
+      },
+      {
+        "page": 4,
+        "title": "Focal diameter and reflection",
+        "summary": "Latus rectum and the optical reflection property of a parabola.",
+        "image": "class23-4.jpg"
+      },
+      {
+        "page": 5,
+        "title": "Searchlight application and practice",
+        "summary": "A reflector model and four practice questions. Instructor material, not claimed as a completed personal project.",
+        "image": "class23-5.jpg"
+      }
+    ],
+    "publication": "Unchanged source PDF.",
+    "pdf": "class23.pdf",
+    "publishedSha256": "2b95d302e527c98613867282cf226b5aa274f82a79f7d11255d8d937a4dca870"
+  },
+  {
+    "path": "WebClass24.pdf",
+    "id": "class24",
+    "title": "Class 24 \u00b7 Ellipses",
+    "role": "Instructor reference",
+    "summary": "Ellipse definition. Ellipse examples. Ellipse shape and eccentricity. Closing slide.",
+    "bytes": 207333,
+    "sha256": "182a808b85a2fb24d0863f9e9d87b9e2490516367bac959d3789c6c7a8dc9553",
+    "pageCount": 4,
+    "pages": [
+      {
+        "page": 1,
+        "title": "Ellipse definition",
+        "summary": "Constant sum of distances to two foci; a\u00b2=b\u00b2+c\u00b2.",
+        "image": "class24-1.jpg"
+      },
+      {
+        "page": 2,
+        "title": "Ellipse examples",
+        "summary": "Finding foci, vertices and major/minor axes from standard form.",
+        "image": "class24-2.jpg"
+      },
+      {
+        "page": 3,
+        "title": "Ellipse shape and eccentricity",
+        "summary": "How c/a relates to shape, with equations from foci and eccentricity. Instructor reference, not a completed submission.",
+        "image": "class24-3.jpg"
+      },
+      {
+        "page": 4,
+        "title": "Closing slide",
+        "summary": "Closing lecture slide; no additional readable worked solution.",
+        "image": "class24-4.jpg"
+      }
+    ],
+    "publication": "Unchanged source PDF.",
+    "pdf": "class24.pdf",
+    "publishedSha256": "182a808b85a2fb24d0863f9e9d87b9e2490516367bac959d3789c6c7a8dc9553"
+  },
+  {
+    "path": "WebClass26.pdf",
+    "id": "class26",
+    "title": "Class 26 \u00b7 Rotation & polar conics",
+    "role": "Instructor reference",
+    "summary": "Why rotate axes?. Two coordinate systems. Rotation formulas. Removing a mixed term. Conic classification. Polar conics. Polar example.",
+    "bytes": 292632,
+    "sha256": "982fb11cf2c61b20431ddc4a06f79edfe5be969970987ff657deb7b7713f3c35",
+    "pageCount": 7,
+    "pages": [
+      {
+        "page": 1,
+        "title": "Why rotate axes?",
+        "summary": "A tilted parabola motivates a general quadratic with an xy term.",
+        "image": "class26-1.jpg"
+      },
+      {
+        "page": 2,
+        "title": "Two coordinate systems",
+        "summary": "Relating old and rotated coordinates using angles and a radius vector.",
+        "image": "class26-2.jpg"
+      },
+      {
+        "page": 3,
+        "title": "Rotation formulas",
+        "summary": "Forward/inverse coordinate transforms and two worked/practice examples.",
+        "image": "class26-3.jpg"
+      },
+      {
+        "page": 4,
+        "title": "Removing a mixed term",
+        "summary": "Choosing the angle using cot(2\u03c6)=(A\u2212C)/B.",
+        "image": "class26-4.jpg"
+      },
+      {
+        "page": 5,
+        "title": "Conic classification",
+        "summary": "A rotated ellipse example and classification by the discriminant B\u00b2\u22124AC.",
+        "image": "class26-5.jpg"
+      },
+      {
+        "page": 6,
+        "title": "Polar conics",
+        "summary": "Eccentricity and focus/directrix forms of ellipse, parabola and hyperbola.",
+        "image": "class26-6.jpg"
+      },
+      {
+        "page": 7,
+        "title": "Polar example",
+        "summary": "An ellipse in polar form, its axes and an optional rotation.",
+        "image": "class26-7.jpg"
+      }
+    ],
+    "publication": "Unchanged source PDF.",
+    "pdf": "class26.pdf",
+    "publishedSha256": "982fb11cf2c61b20431ddc4a06f79edfe5be969970987ff657deb7b7713f3c35"
+  },
+  {
+    "path": "Extra credit [143].pdf",
+    "id": "context",
+    "title": "Syllabus \u00b7 Course context",
+    "role": "Syllabus / reference",
+    "summary": "Course description. Learning outcomes.",
+    "bytes": 1421513,
+    "sha256": "63d18e796b5f2c9221460c48dffba26720c948a0e176276050211ce6d833942b",
+    "pageCount": 2,
+    "pages": [
+      {
+        "page": 1,
+        "title": "Course description",
+        "summary": "This filename contains the syllabus, not a completed extra-credit solution. The first page is not published because it includes an enrollment access code."
+      },
+      {
+        "page": 2,
+        "title": "Learning outcomes",
+        "summary": "Functions, transformations, equations, systems, polynomial roots, conics and sequences. This is course scope, not evidence that every topic has a completed submission in this ZIP.",
+        "image": "context-2.jpg"
+      }
+    ],
+    "publication": "Page 2 image only; course-access-code page omitted."
+  }
+]
