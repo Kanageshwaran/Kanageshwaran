@@ -1,0 +1,9 @@
+export function integrate(fn:(x:number)=>number,a:number,b:number,n?:number):number;
+export function sum(fn:(x:number)=>number,a:number,b:number):number;
+export function fraction(x:number):number;
+export function parts(x:number):number;
+export function repeat(x:number):number;
+export function retake(x:number):number;
+export function alt(n:number):number;
+export function newton(n:number):number[];
+export function model(id:string,v:number,degree?:number):{value:number,total:number};

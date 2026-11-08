@@ -1,0 +1,434 @@
+[
+  {
+    "id": "area1",
+    "chapter": 0,
+    "title": "Find the boundary",
+    "source": "math quiz 1.pdf",
+    "formula": "y = 4x − 3 − x²  |  y = x − 3",
+    "label": "Sweep to x",
+    "min": 0,
+    "max": 3,
+    "step": 0.01,
+    "value": 1.5,
+    "steps": [
+      "Solve x(3−x)=0 to locate the intersections 0 and 3.",
+      "Subtract lower from upper: 3x−x².",
+      "Integrate on [0,3]: area = 9/2."
+    ],
+    "note": "Correction: the source uses −3 to 3 and obtains −18. The enclosed region instead lies on [0,3]."
+  },
+  {
+    "id": "area2",
+    "chapter": 0,
+    "title": "Fill the space",
+    "source": "math quiz 2.pdf",
+    "formula": "y = 5 + 2x  |  y = 2 + x²",
+    "label": "Sweep to x",
+    "min": -1,
+    "max": 3,
+    "step": 0.01,
+    "value": 1,
+    "steps": [
+      "Solve x²−2x−3=0: intersections −1 and 3.",
+      "Upper minus lower is 3+2x−x².",
+      "∫₋₁³(3+2x−x²)dx = 32/3."
+    ],
+    "note": "The evaluated area extends the recorded setup."
+  },
+  {
+    "id": "area3",
+    "chapter": 0,
+    "title": "Turn the slice",
+    "source": "math Quiz 3.pdf",
+    "formula": "x = 1 − y²  |  x = 2y − 2",
+    "label": "Sweep to y",
+    "min": -3,
+    "max": 1,
+    "step": 0.01,
+    "value": -1,
+    "steps": [
+      "Solve 1−y²=2y−2: y=−3,1.",
+      "Horizontal slices have width 3−2y−y².",
+      "∫₋₃¹(3−2y−y²)dy = 32/3."
+    ],
+    "note": "A horizontal slice changes the integration variable without changing the idea of area."
+  },
+  {
+    "id": "washer",
+    "chapter": 0,
+    "title": "Rotate a region",
+    "source": "math quiz 4.pdf",
+    "formula": "y = 4 − x²  |  y = x³ + 2",
+    "label": "Cross-section at x",
+    "min": 0,
+    "max": 2,
+    "step": 0.01,
+    "value": 0.5,
+    "steps": [
+      "The curves meet at x=1 in the first quadrant.",
+      "Washer area is π(R²−r²); outer/inner radii swap at x=1.",
+      "Integrate separately on [0,1] and [1,2] to obtain 42π."
+    ],
+    "note": "The reconstruction follows the source split setup. Volume is 42π cubic units."
+  },
+  {
+    "id": "shell",
+    "chapter": 1,
+    "title": "Build with shells",
+    "source": "math quiz 6.pdf",
+    "formula": "y = 6x − x² − 8  |  axis x = 4",
+    "label": "Shell at x",
+    "min": 2,
+    "max": 4,
+    "step": 0.01,
+    "value": 3,
+    "steps": [
+      "The positive region lies between roots x=2 and x=4.",
+      "Shell radius is 4−x; height is 6x−x²−8.",
+      "2π∫₂⁴(4−x)(6x−x²−8)dx = 8π/3."
+    ],
+    "note": "The strip rotates into a shell; the schematic exaggerates thickness."
+  },
+  {
+    "id": "parts",
+    "chapter": 1,
+    "title": "Trade one integral",
+    "source": "math quiz 8.pdf",
+    "formula": "∫ x csc²(x) dx",
+    "label": "Choose x",
+    "min": 0.4,
+    "max": 2.7,
+    "step": 0.01,
+    "value": 1.2,
+    "steps": [
+      "Set u=x and dv=csc²x dx. Then du=dx and v=−cot x.",
+      "Use ∫u dv = uv−∫v du.",
+      "F=−x cot x+ln|sin x|+C; differentiate to check."
+    ],
+    "note": "The source begins the setup; the replay supplies a checked antiderivative."
+  },
+  {
+    "id": "repeat",
+    "chapter": 1,
+    "title": "Reduce the power",
+    "source": "Math quiz 9.pdf",
+    "formula": "∫ x² sin(x) dx",
+    "label": "Choose x",
+    "min": 0,
+    "max": 6,
+    "step": 0.01,
+    "value": 2,
+    "steps": [
+      "Set u=x² and dv=sin x dx.",
+      "Apply parts again to the remaining ∫2x cos x dx.",
+      "F=−x²cos x+2x sin x+2cos x+C."
+    ],
+    "note": "Differentiating the result gives x² sin x."
+  },
+  {
+    "id": "fraction",
+    "chapter": 1,
+    "title": "Split the fraction",
+    "source": "Math quiz 12",
+    "formula": "x(3−5x) / [(3x−1)(x−1)²]",
+    "label": "Choose x",
+    "min": 1.15,
+    "max": 3,
+    "step": 0.01,
+    "value": 2,
+    "steps": [
+      "Use A/(x−1)+B/(x−1)²+C/(3x−1).",
+      "Clearing denominators gives A=−2, B=−1, C=1.",
+      "F=−2ln|x−1|+1/(x−1)+(1/3)ln|3x−1|+C."
+    ],
+    "note": "Correction: recorded coefficients (−1,−1,−2) fail to reconstruct the numerator. Use (−2,−1,1); x≠1/3,1."
+  },
+  {
+    "id": "logtrig",
+    "chapter": 2,
+    "title": "Substitute, then integrate",
+    "source": "Math quiz 10.pdf",
+    "formula": "∫₀^(π/3) sin(x) ln(cos x) dx",
+    "label": "Upper angle",
+    "min": 0,
+    "max": 1.0471975511965976,
+    "step": 0.001,
+    "value": 0.7,
+    "steps": [
+      "Let u=cos x; du=−sin x dx.",
+      "An antiderivative is −cos x ln(cos x)+cos x.",
+      "The definite integral is (ln2−1)/2."
+    ],
+    "note": "Correction: the recorded final expression loses a term. This definite integral is negative."
+  },
+  {
+    "id": "trigsub",
+    "chapter": 2,
+    "title": "Unfold a radical",
+    "source": "math quiz 11.pdf",
+    "formula": "x² √(1−49x²)  |  x = sin θ / 7",
+    "label": "Angle θ",
+    "min": 0,
+    "max": 1.5,
+    "step": 0.01,
+    "value": 0.7,
+    "steps": [
+      "Choose x=sin θ/7 with −π/2≤θ≤π/2.",
+      "Then √(1−49x²)=cos θ and dx=(cos θ/7)dθ.",
+      "The transformed integrand is sin²θ cos²θ/343."
+    ],
+    "note": "Correction: the displayed secant trial does not suit √(1−49x²). Use the sine substitution on the stated real branch."
+  },
+  {
+    "id": "retake",
+    "chapter": 2,
+    "title": "Revisit the method",
+    "source": "math quiz retake c6.pdf",
+    "formula": "∫ sin(√x) dx",
+    "label": "Choose x",
+    "min": 0,
+    "max": 16,
+    "step": 0.01,
+    "value": 4,
+    "steps": [
+      "Set u=√x, giving dx=2u du.",
+      "Use parts on 2∫u sin u du.",
+      "F=−2√x cos√x+2sin√x+C, x≥0."
+    ],
+    "note": "Correction: the source final line has coefficient 1 on sin√x; it must be 2."
+  },
+  {
+    "id": "improper",
+    "chapter": 2,
+    "title": "Push the horizon",
+    "source": "math quiz 13.pdf",
+    "formula": "∫ₑ^∞ 1 / (x ln x) dx",
+    "label": "Finite horizon b",
+    "min": 3,
+    "max": 100,
+    "step": 0.1,
+    "value": 20,
+    "steps": [
+      "Replace infinity by b>e.",
+      "The finite integral equals ln(ln b).",
+      "As b→∞, ln(ln b)→∞, so the integral diverges."
+    ],
+    "note": "The finite plot illustrates the proof; a finite window alone does not prove divergence."
+  },
+  {
+    "id": "arc",
+    "chapter": 3,
+    "title": "Measure a curve",
+    "source": "math quiz 15.pdf",
+    "formula": "x = √y − 2y  |  1 ≤ y ≤ 4",
+    "label": "Trace to y",
+    "min": 1,
+    "max": 4,
+    "step": 0.01,
+    "value": 2.5,
+    "steps": [
+      "Differentiate: dx/dy=1/(2√y)−2.",
+      "Length is ∫₁⁴√[1+(dx/dy)²]dy.",
+      "Evaluate numerically to obtain approximately 5.83187."
+    ],
+    "note": "The replay adds a numerical evaluation to the source arc-length setup."
+  },
+  {
+    "id": "ellipse",
+    "chapter": 3,
+    "title": "Trace with time",
+    "source": "math quiz 17.pdf",
+    "formula": "x = 3 sin t − 1  |  y = cos t / 2",
+    "label": "Parameter t",
+    "min": 0,
+    "max": 6.283185307179586,
+    "step": 0.01,
+    "value": 1.5,
+    "steps": [
+      "The center is (−1,0); semiaxes are 3 and 1/2.",
+      "dx/dt=3cos t and dy/dt=−sin t/2.",
+      "dy/dx=−tan t/6 where cos t≠0. At t=π, the point is (−1,−1/2)."
+    ],
+    "note": "Correction: the source table gives x=0 at t=π. The correct x-coordinate is −1."
+  },
+  {
+    "id": "spiral",
+    "chapter": 3,
+    "title": "Let the curve grow",
+    "source": "math quiz 18.pdf",
+    "formula": "x = eᵗ sin t  |  y = eᵗ cos t",
+    "label": "Parameter t",
+    "min": 0,
+    "max": 6.283185307179586,
+    "step": 0.01,
+    "value": 2,
+    "steps": [
+      "Differentiate both coordinates.",
+      "Combine their squared derivatives: speed=√2 eᵗ.",
+      "Length from 0 to T is √2(eᵀ−1)."
+    ],
+    "note": "The axes rescale as the radius grows; the moving point shows the trace."
+  },
+  {
+    "id": "polar",
+    "chapter": 3,
+    "title": "Meet in polar space",
+    "source": "math quiz 19.pdf",
+    "formula": "r = 3 cos θ  |  r = 1 + cos θ",
+    "label": "Ray angle θ",
+    "min": -1.5707963267948966,
+    "max": 1.5707963267948966,
+    "step": 0.01,
+    "value": 0.6,
+    "steps": [
+      "Equate the radii: 3cos θ=1+cos θ.",
+      "The non-origin intersections have θ=±π/3 and r=3/2.",
+      "Their Cartesian coordinates are (3/4,±3√3/4)."
+    ],
+    "note": "The two non-origin intersections are highlighted on the reconstructed curves."
+  },
+  {
+    "id": "newton",
+    "chapter": 4,
+    "title": "Iterate toward √2",
+    "source": "math quiz 20.pdf",
+    "formula": "a₁ = 2  |  aₙ₊₁ = (aₙ + 2/aₙ)/2",
+    "label": "Iteration",
+    "min": 1,
+    "max": 6,
+    "step": 1,
+    "value": 3,
+    "steps": [
+      "Start a₁=2.",
+      "Average the current guess with 2 divided by the guess.",
+      "The values 2, 3/2, 17/12, 577/408, … approach √2."
+    ],
+    "note": "Correction: the finite sixth term is close to √2, not exactly 1 as recorded."
+  },
+  {
+    "id": "geometric",
+    "chapter": 4,
+    "title": "Test before adding",
+    "source": "math quiz 21.pdf",
+    "formula": "Σ (7/4)ⁿ  |  n starts at 3",
+    "label": "Terms shown",
+    "min": 1,
+    "max": 14,
+    "step": 1,
+    "value": 5,
+    "steps": [
+      "The ratio is 7/4, which exceeds 1.",
+      "Terms grow and do not tend to zero.",
+      "The series diverges; a geometric sum to infinity needs |r|<1."
+    ],
+    "note": "Correction: the source treats 7/4 as less than 1 and concludes convergence."
+  },
+  {
+    "id": "pseries",
+    "chapter": 4,
+    "title": "Slow decay, infinite total",
+    "source": "math quiz 22.pdf",
+    "formula": "Σ n / ⁵√(n⁸)",
+    "label": "Terms shown",
+    "min": 2,
+    "max": 80,
+    "step": 1,
+    "value": 20,
+    "steps": [
+      "Simplify n/n^(8/5)=n^(−3/5).",
+      "This is a p-series with p=3/5≤1.",
+      "It diverges, despite terms tending to zero."
+    ],
+    "note": "The recorded divergence conclusion is correct; the exponent is 3/5, not the recorded 2/5."
+  },
+  {
+    "id": "logseries",
+    "chapter": 4,
+    "title": "Bound what remains",
+    "source": "math quiz 23.pdf",
+    "formula": "Σ 1 / [n(ln n)²]  |  n starts at 2",
+    "label": "Cutoff N",
+    "min": 2,
+    "max": 100,
+    "step": 1,
+    "value": 20,
+    "steps": [
+      "The terms come from a positive continuous decreasing function on [2,∞).",
+      "The corresponding improper integral is 1/ln2, so the series converges.",
+      "The omitted tail satisfies R_N≤1/ln N."
+    ],
+    "note": "The displayed bound is for the omitted tail, not the full sum."
+  },
+  {
+    "id": "alternating",
+    "chapter": 5,
+    "title": "Watch cancellation",
+    "source": "math quiz 24.pdf",
+    "formula": "Σ (−1)ⁿ⁺¹ n² / √(n⁵−n+5)",
+    "label": "Terms shown",
+    "min": 2,
+    "max": 80,
+    "step": 1,
+    "value": 20,
+    "steps": [
+      "The positive term magnitudes approach zero.",
+      "They decrease for n≥2, so the alternating-series test applies.",
+      "Their ratio to 1/√n approaches 1: absolute divergence gives conditional convergence."
+    ],
+    "note": "For N≥2, the truncation error is at most the next term magnitude."
+  },
+  {
+    "id": "power",
+    "chapter": 5,
+    "title": "Build a function from pieces",
+    "source": "math quiz 25.pdf",
+    "formula": "1/(1−x³) = Σ x³ⁿ",
+    "label": "Choose x",
+    "min": -0.9,
+    "max": 0.9,
+    "step": 0.01,
+    "value": 0.6,
+    "steps": [
+      "Begin with 1/(1−u)=Σuⁿ for |u|<1.",
+      "Set u=x³ to obtain 1+x³+x⁶+… .",
+      "Convergence requires −1<x<1; both endpoints diverge."
+    ],
+    "note": "The partial polynomial is a new interactive reconstruction of the source expansion."
+  },
+  {
+    "id": "centroid",
+    "chapter": 5,
+    "title": "Balance a region",
+    "source": "math c15.pdf",
+    "formula": "y = eˣ  |  y = e⁻ˣ  |  0 ≤ x ≤ ln2",
+    "label": "Sweep to x",
+    "min": 0,
+    "max": 0.6931471805599453,
+    "step": 0.001,
+    "value": 0.4,
+    "steps": [
+      "Area A=∫₀^ln2(eˣ−e⁻ˣ)dx=1/2.",
+      "x̄=(1/A)∫x(eˣ−e⁻ˣ)dx=5ln2−3.",
+      "ȳ=(1/(2A))∫(e²ˣ−e⁻²ˣ)dx=9/8."
+    ],
+    "note": "The source area and centroid agree with recomputation."
+  },
+  {
+    "id": "cardioid",
+    "chapter": 5,
+    "title": "Return to a complete curve",
+    "source": "math final exam home.pdf",
+    "formula": "r = 1 − cos θ",
+    "label": "Angle θ",
+    "min": 0,
+    "max": 6.283185307179586,
+    "step": 0.01,
+    "value": 4,
+    "steps": [
+      "Use x=r cos θ and y=r sin θ.",
+      "One complete trace uses θ from 0 to 2π.",
+      "Enclosed area=(1/2)∫₀²π(1−cos θ)²dθ=3π/2."
+    ],
+    "note": "A closing reconstruction of the polar work on take-home final page 5."
+  }
+]
