@@ -1,0 +1,350 @@
+{
+  "scope": "Independent exact-Fraction checks for selected archived inputs and newly labeled connections, not certification of every archived answer.",
+  "points": [
+    {
+      "x": -3.0,
+      "value": -76.0,
+      "derivative": 63.0
+    },
+    {
+      "x": -2.75,
+      "value": -61.171875,
+      "derivative": 55.6875
+    },
+    {
+      "x": -2.5,
+      "value": -48.125,
+      "derivative": 48.75
+    },
+    {
+      "x": -2.25,
+      "value": -36.765625,
+      "derivative": 42.1875
+    },
+    {
+      "x": -2.0,
+      "value": -27.0,
+      "derivative": 36.0
+    },
+    {
+      "x": -1.75,
+      "value": -18.734375,
+      "derivative": 30.1875
+    },
+    {
+      "x": -1.5,
+      "value": -11.875,
+      "derivative": 24.75
+    },
+    {
+      "x": -1.25,
+      "value": -6.328125,
+      "derivative": 19.6875
+    },
+    {
+      "x": -1.0,
+      "value": -2.0,
+      "derivative": 15.0
+    },
+    {
+      "x": -0.75,
+      "value": 1.203125,
+      "derivative": 10.6875
+    },
+    {
+      "x": -0.5,
+      "value": 3.375,
+      "derivative": 6.75
+    },
+    {
+      "x": -0.25,
+      "value": 4.609375,
+      "derivative": 3.1875
+    },
+    {
+      "x": 0.0,
+      "value": 5.0,
+      "derivative": 0.0
+    },
+    {
+      "x": 0.25,
+      "value": 4.640625,
+      "derivative": -2.8125
+    },
+    {
+      "x": 0.5,
+      "value": 3.625,
+      "derivative": -5.25
+    },
+    {
+      "x": 0.75,
+      "value": 2.046875,
+      "derivative": -7.3125
+    },
+    {
+      "x": 1.0,
+      "value": 0.0,
+      "derivative": -9.0
+    },
+    {
+      "x": 1.25,
+      "value": -2.421875,
+      "derivative": -10.3125
+    },
+    {
+      "x": 1.5,
+      "value": -5.125,
+      "derivative": -11.25
+    },
+    {
+      "x": 1.75,
+      "value": -8.015625,
+      "derivative": -11.8125
+    },
+    {
+      "x": 2.0,
+      "value": -11.0,
+      "derivative": -12.0
+    },
+    {
+      "x": 2.25,
+      "value": -13.984375,
+      "derivative": -11.8125
+    },
+    {
+      "x": 2.5,
+      "value": -16.875,
+      "derivative": -11.25
+    },
+    {
+      "x": 2.75,
+      "value": -19.578125,
+      "derivative": -10.3125
+    },
+    {
+      "x": 3.0,
+      "value": -22.0,
+      "derivative": -9.0
+    },
+    {
+      "x": 3.25,
+      "value": -24.046875,
+      "derivative": -7.3125
+    },
+    {
+      "x": 3.5,
+      "value": -25.625,
+      "derivative": -5.25
+    },
+    {
+      "x": 3.75,
+      "value": -26.640625,
+      "derivative": -2.8125
+    },
+    {
+      "x": 4.0,
+      "value": -27.0,
+      "derivative": 0.0
+    },
+    {
+      "x": 4.25,
+      "value": -26.609375,
+      "derivative": 3.1875
+    },
+    {
+      "x": 4.5,
+      "value": -25.375,
+      "derivative": 6.75
+    },
+    {
+      "x": 4.75,
+      "value": -23.203125,
+      "derivative": 10.6875
+    },
+    {
+      "x": 5.0,
+      "value": -20.0,
+      "derivative": 15.0
+    }
+  ],
+  "secants": [
+    {
+      "h": -1.0,
+      "slope": -5.0
+    },
+    {
+      "h": -0.1,
+      "slope": -8.69
+    },
+    {
+      "h": -0.01,
+      "slope": -8.9699
+    },
+    {
+      "h": -0.001,
+      "slope": -8.996999
+    },
+    {
+      "h": 1.0,
+      "slope": -11.0
+    },
+    {
+      "h": 0.1,
+      "slope": -9.29
+    },
+    {
+      "h": 0.01,
+      "slope": -9.0299
+    },
+    {
+      "h": 0.001,
+      "slope": -9.002999
+    }
+  ],
+  "riemann": [
+    {
+      "n": 2,
+      "method": "left",
+      "sum": 5.0,
+      "fraction": "5"
+    },
+    {
+      "n": 2,
+      "method": "midpoint",
+      "sum": -1.5,
+      "fraction": "-3/2"
+    },
+    {
+      "n": 2,
+      "method": "right",
+      "sum": -11.0,
+      "fraction": "-11"
+    },
+    {
+      "n": 4,
+      "method": "left",
+      "sum": 1.75,
+      "fraction": "7/4"
+    },
+    {
+      "n": 4,
+      "method": "midpoint",
+      "sum": -1.875,
+      "fraction": "-15/8"
+    },
+    {
+      "n": 4,
+      "method": "right",
+      "sum": -6.25,
+      "fraction": "-25/4"
+    },
+    {
+      "n": 8,
+      "method": "left",
+      "sum": -0.0625,
+      "fraction": "-1/16"
+    },
+    {
+      "n": 8,
+      "method": "midpoint",
+      "sum": -1.96875,
+      "fraction": "-63/32"
+    },
+    {
+      "n": 8,
+      "method": "right",
+      "sum": -4.0625,
+      "fraction": "-65/16"
+    },
+    {
+      "n": 16,
+      "method": "left",
+      "sum": -1.015625,
+      "fraction": "-65/64"
+    },
+    {
+      "n": 16,
+      "method": "midpoint",
+      "sum": -1.9921875,
+      "fraction": "-255/128"
+    },
+    {
+      "n": 16,
+      "method": "right",
+      "sum": -3.015625,
+      "fraction": "-193/64"
+    },
+    {
+      "n": 32,
+      "method": "left",
+      "sum": -1.50390625,
+      "fraction": "-385/256"
+    },
+    {
+      "n": 32,
+      "method": "midpoint",
+      "sum": -1.998046875,
+      "fraction": "-1023/512"
+    },
+    {
+      "n": 32,
+      "method": "right",
+      "sum": -2.50390625,
+      "fraction": "-641/256"
+    },
+    {
+      "n": 64,
+      "method": "left",
+      "sum": -1.7509765625,
+      "fraction": "-1793/1024"
+    },
+    {
+      "n": 64,
+      "method": "midpoint",
+      "sum": -1.99951171875,
+      "fraction": "-4095/2048"
+    },
+    {
+      "n": 64,
+      "method": "right",
+      "sum": -2.2509765625,
+      "fraction": "-2305/1024"
+    }
+  ],
+  "accumulation": {
+    "positive": 3.25,
+    "negativeMagnitude": 5.25,
+    "net": -2.0,
+    "total": 8.5
+  },
+  "holeLimit": "2/5",
+  "signedLine": {
+    "positive": 2,
+    "negativeMagnitude": 0.5,
+    "net": 1.5,
+    "total": 2.5
+  },
+  "rectangle": {
+    "width": 1.4426950408889634,
+    "height": 0.36787944117144233,
+    "area": 0.530737845423043
+  },
+  "candidateValues": [
+    {
+      "x": -3,
+      "y": -76
+    },
+    {
+      "x": 0,
+      "y": 5
+    },
+    {
+      "x": 4,
+      "y": -27
+    },
+    {
+      "x": 5,
+      "y": -20
+    }
+  ]
+}
