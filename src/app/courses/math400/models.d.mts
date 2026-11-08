@@ -1,0 +1,9 @@
+export function cubic(x:number):number;
+export function derivative(x:number):number;
+export function secondDerivative(x:number):number;
+export function primitive(x:number):number;
+export function secant(h:number,a?:number):number|null;
+export function candidates():{x:number,y:number,kind:string}[];
+export function riemann(n:number,method?:string):{rectangles:{left:number,width:number,sample:number,height:number}[],sum:number,exact:number};
+export function holeValue(x:number,filled?:boolean):number|null;
+export function rectangle(x:number):{width:number,height:number,area:number,optimalX:number,optimalHeight:number,optimalArea:number};
